@@ -218,3 +218,4 @@ local.properties
 .worksheet
 
 .*.pyc
+.idea/
