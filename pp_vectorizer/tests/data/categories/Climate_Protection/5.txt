@@ -1,0 +1,596 @@
+Finance Initiative
+Innovative financing for sustainability
+CEObriefing
+A document of the UNEP FI Climate Change Working Group  January 2005
+Finance for
+Carbon Solutions
+The Clean Development Mechanism:
+The Financial Sector Perspective
+CCWG Statement
+The Kyoto Protocols Clean Development Mechanism (CDM) is a unique
+instrument in international climate policy. It supports the implementation
+of sustainable and environmentally friendly technologies in developing
+countries, and helps industrialised countries meet their emission reduction
+obligations in a cost-effective way. The potential market size for Certified
+Emission Reductions (CERs) from CDM projects is remarkable: according
+to the European Union, an estimated annual 430 million tons of CO2 must
+be reduced worldwide in order to meet the Kyoto Protocols emission
+reduction targets. It is hoped that a significant share of this volume will
+come from CDM projects. This will require, however, significant financial
+resources. The financial sector is often asked to play an important role in
+this respect, and, in particular, to provide project financing and/or
+insurance for CDM projects.
+Purpose
+This study is the fourth in a series of reports by
+the Climate Change Working Group (CCWG)
+of the UNEP Finance Initiative. The first was a
+scene-setting paper on the risk of climate
+change in 2002. The second paper (2003)
+In practical terms, the efficiency of the CDM depends largely on its design.
+Although the potential market for CERs exists, the current appetite for
+private banks and insurers to become engaged in projects is rather low.
+At present, the activities in the CDM market are dominated by multilateral
+institutions (e.g. World Bank) and national governments, which have to
+meet different risk/return requirements compared to private players.
+Clearly, the low level of private engagement is due to the specific risk
+structure of CDM projects, various institutional barriers, and the
+complexity when implementing a CDM project.
+confirmed the sectors support for emissions
+trading as a key financial tool. The third paper
+presented the business case for financing
+renewable energy and made policy
+recommendations for further action
+on the issue.
+This fourth paper focuses on the Clean
+Development Mechanism and pinpoints
+barriers to implementation and financing of
+ Neg-Micon
+CDM projects as seen from the financial sector
+perspective. Recommendations on how these
+barriers can be overcome are provided.
+How can these barriers be overcome?
+UNEP FIs CCWG recommends thorough consideration of four key issues:
+ Simplify, standardise and streamline the CDM process: in order
+to attract more financial institutions, a faster, more efficient and more
+user-friendly project registration process must be in place;
+ Provide prompt and clear guidance on the CDM regulations
+beyond 2012: without a clear long-term framework for the CDM, it
+will be difficult to attract financial institutions to CDM projects;
+ Foster the development of institutional CDM capacities in both
+host and investor countries;
+ Rethink the interpretation of additionality: the current
+methodology used for additionality assessment often deters private
+financial institutions from engaging in the CDM.
+Climate change: Financial instruments and markets
+Human induced climate change poses major risks not only to our environment and human health,
+but also to our economic systems. According to Munich Reinsurance, the frequency and cost of
+global natural disasters is increasing - to more than $60 billion in 2003, a quarter of which was
+insured. These challenges have to be dealt with. On the one hand, financial institutions have
+developed various risk transfer mechanisms that mitigate the financial risks of climate change for
+their clients and themselves, such as weather derivatives and catastrophe bonds (see box 1).
+On the other hand, there are numerous markets addressing policy regulations on a variety of
+environmental and climate change issues including acid rain from sulfur dioxide (SO2) emissions
+or ozone pollution from nitrogen oxide (NOx) in the US. Also new markets are developing
+involving green power products such as Renewable Energy Certificates (RECs), which foster the
+development of renewable energies in a cost-efficient way. More importantly, the global market for
+greenhouse gas emissions under the Kyoto Protocol offers significant opportunities for financial
+institutions. The Kyoto Protocol is breaking new ground with the incorporation of three innovative
+market mechanisms  International Emissions Trading, and the two project-based mechanisms
+Joint Implementation and the Clean Development Mechanism (CDM).
+Box 1: Examples of financial instruments to mitigate climate change costs
+The Gold
+Standard (GS)
+The GS is a high quality
+standard for CDM and
+JI projects. It has been
+developed by the
+World Wide Fund for
+Nature (WWF) in
+consultation with a
+range of
+environmental,
+business and
+governmental
+organisations. The GS
+is intended to ensure
+an even higher level of
+environmental, social
+and economic benefits
+for the host country
+than required by the
+CDM Executive Board.
+The Gold Standard is
+now being managed
+by BASE, a UNEP
+Collaborating Centre
+and partner in UNEP's
+Sustainable Energy
+Finance Initiative.
+Weather derivatives
+Catastrophe bonds
+For weather-dependent business, weather can
+negatively impact revenues or increase
+inventory costs. This is especially important in
+times of a constantly warming climate and an
+increasing number of extreme weather events.
+The use of weather derivatives can help to
+reduce the impact that adverse weather may
+have on a company's bottom line. A classic
+weather derivative would be a protection
+against warm winters for a power company.
+These are designed to transfer exposures taken
+on by insurance/reinsurance companies to
+capital market investors. They usually pay
+investors above average yields, unless the
+reference catastrophe occurs  in which case
+investors lose their coupon and/or principal.
+Catastrophe bonds are used to diversify large
+portfolios of different assets.
+The case for the Clean Development Mechanism
+The CDM was established by Article 12 of the Kyoto Protocol. Under the CDM, an industrialised
+country invests in projects in a developing country and obtains credits for achieved emission
+reductions called Certified Emission Reductions (CERs). The CDM is intended to provide specific
+benefits for developing countries, including transfer of clean technology, foreign direct investment,
+localised environmental improvement and an income stream from the sale of tradable CERs. It is
+also intended to attract private sector involvement through investments in CDM projects from
+industrialised countries aimed at generating CERs. Through this, the CDM assists industrialised
+countries in achieving cost-effective compliance with their quantified emission limitations and
+reduction commitments under Kyoto Protocols Article 3.
+After protracted political negotiations on the actual design of the mechanism, the CDM is finally up
+and running. The 2001 Marrakesh Accords are the most important legal foundation of the CDM
+regulations. Since the decision on linking the EU Emissions Trading Scheme with the Kyoto
+Protocols project-based mechanisms in 2004, the CDM is widely recognized as a potentially costeffective tool to comply with the Kyoto Protocols emission reduction obligations. Consequently, at
+the CDM Executive Board  the formal governance body to oversee the implementation and
+administration of the CDM  the pipeline of projects waiting for formal approval under the CDM is
+continually growing.
+The benefits of CDM projects will depend not only on the overall level of investment, but also on
+the nature of the projects, their economic, social and environmental benefits and the extent to
+which they generate spill-overs and learning in developing countries. Against this background,
+even a market for premium (Gold Standard) CERs is about to develop.
+Getting the CDM into gear will require financial resources. The financial sector can play an important role in this respect, and, in particular, provide project financing, lending and insurance for
+CDM projects. However, the current involvement of private financial institutions in CDM projects is
+rather low. There are various reasons for this, which are addressed in the following paragraphs.
+UNEP FI  Finance for Carbon Solutions
+CDM: The fundamentals
+Registering a project under the CDM is a long and complex process, requiring a number of
+additional steps compared to conventional projects (see box 2). A range of new organisations,
+both at the international and the national levels, has to be involved (e.g. Designated National
+Authorities and Designated Operational Entities), and a project design document must be
+developed including a baseline methodology and a monitoring plan. For a CDM project financer
+or insurer it is important to note that the transaction costs for the additional CDM procedures are
+often between $50,000 to 250,000 depending on the project type and size. Based on recent
+experience, it takes approximately 1 to 3 years to get from the project idea stage to the actual
+registration of the project. In addition, the future of the CDM is unclear, as there is no decision yet
+on CDM regulations beyond the first Kyoto Protocol commitment period from 2008-2012.
+To ensure the environmental integrity of the CDM, the concept of additionality was developed.
+Additionality was defined under the Marrakesh Accords as the following:
+A CDM project activity is additional if anthropogenic emissions of Greenhouse Gases by
+sources are reduced below those that would have occurred in the absence of the registered
+CDM Project activity. (CDM Modalities of Marrakesh Accords)
+As part of a projects additionality assessment, the project developer must pass either the investment analysis or the so-called barrier analysis. Here, the project developer must give evidence that
+without the CDM the project was not the most plausible economic option or that specific project
+implementation barriers can be overcome through registration as a CDM project. Despite this
+challenge, an increasing number of players  especially multilateral institutions and national
+governments  are getting involved in the CDM helping the CDM market to mature.
+Box 2: Comparison of conventional and CDM project cycles
+Conventional project cycle
+CDM project cycle: Additional steps
+compared to conventional projects
+1. Feasibility assessments, e.g.
+ project design
+ environmental, technical, financial feasibility
+ identify partners
+Assessment of
+ possible CER delivery
+ how to monitor emissions
+ CER market value
+ whether the project qualifies as CDM
+ project methodology
+2. Project structuring phase, e.g.
+ government permits
+ environmental permits
+ arranging finance
+3. Implementation phase, e.g.
+ construct or upgrade plant
+ install monitoring facilities
+4. Operational phase, e.g.
+ deliver services
+ monitoring and verification and/or
+certification of emission reductions
+drafting of project design document (PDD)
+validation of baseline & monitoring plan
+approval of host country
+Carbon Reduction Purchase Agreement
+registration of the project at the EB
+implementation
+of the CDM
+requires strong
+incentives to
+change
+investment
+patterns and
+stimulate
+technological
+innovation and
+maximise real
+GHG emission
+reductions.
+Dr. Klaus Tpfer
+Executive Director,
+UNEP
+CER market and project types
+CERs obtained during the period from the year 2000 up to the beginning of the Kyoto Protocols
+first commitment period (2008-2012) can be used to achieve compliance in this period. This is why
+a rapidly growing volume of certificates has already been traded. According to the World Bank,
+almost 61 million tons of project-based carbon certificates for compliance purposes changed hands
+in the first half of 2004. For the whole of 2003, the figure was 78 million tons, meaning that the
+traded volumes are likely to double in 2004 for the second successive year. Two projects involving
+the destruction of Hydrofluorocarbon23 (HFC23)  a very potent greenhouse gas  account for
+31% of the entire volume (see box 3).
+On the supply side, projects from Asia dominate the market (51%), followed by Latin America
+(27%), while Africa represents just 5% of the project volume. The demand side of the CER market is
+currently highly concentrated, with Japan, the World Bank and the Dutch government accounting
+for approximately 90% of purchases. An increasing number of public players are developing
+carbon funds in order to fulfil their reduction requirements under the Kyoto Protocol, e.g.
+Germany, Spain, Austria and Italy. According to Resources for the Future, more than 1,000 projects
+with an average size of 400,000 tons CO2 equivalents reduction annually need to be approved by
+the CDM Executive Board in order to meet the expected demand. It seems difficult to imagine that
+UNEP FI  Finance for Carbon Solutions
+Box 3: Technology types of emission reduction projects in 2003/2004
+LULUCF =
+Land Use,
+Land Use Change
+and Forestry
+Source:
+World Bank 2004
+the Board could approve that many projects by 2010  the future demand for CERs could be much
+higher than supply.
+The current CER price range is between  3 and 10 per ton, depending on which stage of the CDM
+project cycle the certificates have been sold at. As with any commercial financial transaction, the
+higher the risk involved in purchasing CERs, the lower the CER price. Moreover, the ratification of
+the Kyoto Protocol by the Russian Parliament in October 2004 and the EU Linking Directive that
+allows CERs to be used within the EU Emissions Trading market will become important CER price
+drivers in the future.
+Box 4: Volume of project-based certificates 2003-2004:
+Buyers vs. Sellers
+BUYERS
+SELLERS
+Source:
+World Bank 2004
+CDM benefits and risks: a financial sector perspective
+The CDM has the potential to generate many benefits for project developers and the environment.
+For the project developer and the investor, the sale of CERs can secure an additional income
+stream for the project. Furthermore, the development of an Emission Reduction Purchase
+Agreement (ERPA) leads to additional scrutiny and risk assessment of the project. Although these
+UNEP FI  Finance for Carbon Solutions
+Box 5: CDM Project Risks
+Type of risk
+Description
+Conventional
+project
+risks
+Risks that are common to all projects in developing and
+industrialised countries, e.g.:
+ exceeding costs: e.g. the employed technology needs costly
+repairs or the construction of the project is delayed
+ market risks: e.g. relevant fuel prices increase and the project is no longer
+economically efficient
+ counterparty credit risk: e.g. risk that the technology provider becomes
+insolvent
+ underperformance: e.g. non-achievement of design standard efficiency
+ currency risk: e.g. high inflation levels
+ force majeur: an event beyond the control of the involved parties, e.g.
+earthquake, terrorism attack
+Host country
+political
+risks
+From a financial sector perspective, projects in developing countries are usually
+regarded with a higher level of risk than projects in the industrialised world because
+of the often less developed legal and political infrastructure, e.g.:
+ risk of confiscation, expropriation and nationalisation of the CDM projects
+ (civil) war risk: e.g. risk of riot, strike and civil commotion within the CDM host
+country
+ contract repudiation/frustration: risk that a contract is rendered invalid e.g.
+by a parliament introducing new legislation
+ credit risk: in particular risk of host country insolvency
+ further administrative barriers: e.g. host country requires various
+administrative procedures that delay the project
+process
+risks
+Risks that are specific to the generation and sale of CERs, e.g.:
+ CDM Executive Board non-approval: e.g. no registration of the project
+by the Executive Board or an already approved methodology is withdrawn
+by the Executive Board
+ CDM risk: there is no CDM beyond 2012
+ monitoring/verification risk: e.g. inaccurate monitoring by the Designated
+Operational Entity
+ public consultation risk: non-acceptance of the project by NGOs or local
+communities
+ institutional barriers: e.g. the host countrys Designated National Authority is
+not fully established and not working cooperatively with the investor
+ CER legal ownership: unclear about who is the legal owner of the CERs
+Source: 3C Ltd.
+advantages are relatively obvious and the CDM market is now more dynamic than ever, there are
+still numerous risks and barriers to be considered by financial institutions before engaging in a
+CDM project. Analysing these risks and barriers is even more important considering that the CDM
+is a very new and complex mechanism and that CDM projects naturally include investments in
+developing countries, where further external parameters could jeopardize the economic success of
+the project. For a financial institution, getting engaged in any type of project is always a question of
+how to identify, allocate and assign the project risks. The main risk categories of a CDM project can
+be categorised as conventional project risks common to all projects, host country political risks
+and additional specific CDM process risks (see box 5).
+Generally, financial institutions and investors are used to dealing with the first two risk categories.
+However, the fact that political risks are well known to financial institutions does not automatically
+mean that such risks can easily be dealt with. Among developing countries, circumstances vary
+hugely. Often a developing countrys political and legal infrastructure is less transparent than in an
+industrialised country with the result of political instability or a lower creditworthiness, for
+example. Financial institutions have to set up restrictions for loans in countries where political and
+economic risks are higher. Therefore, lenders usually set limits on loan volumes and often
+restrictions are imposed on longer-term transactions.
+In principle, host country political risks can be dealt with through the acquisition of insurance from
+reinsurance companies, development banks or export credit agencies. Insurance premiums must
+be directly related to the risks involved. Regarding conventional project risks, a promising way to
+mitigate the risk of a shortfall of credits, for example, would be to impose strong penalties for nondelivery of the CERs or to buy non-delivery insurance. It is important to thoroughly draft the
+Emission Reduction Purchase Agreement in order to mitigate the risks. CDM process risks are new
+to financial institutions and can be complex. They require a detailed understanding of the political
+and legal framework of the CDM, and, for European players, also of the EU Emissions Trading
+regime and its link to the CDM. There are only a few CDM experts available in the financial sector
+UNEP FI  Finance for Carbon Solutions
+at present, hampered further by a limited history of how to mitigate CDM process risks and which
+strategies to employ successfully.
+Further barriers to project implementation and financing
+Besides the risk categories outlined above there are other institutional CDM specific risks that pose
+barriers to CDM project implementation and financing.
+Firstly, the CDM process is rather long and often perceived to be inefficient. The CDM registration
+process is bureaucratic with numerous layers of outside intervention, protracted decision making,
+review, and options to appeal. There is no doubt about the need for strong and environmentally
+credible rules to govern the CDM process, but the complexity of the current process serves to
+obstruct the development of beneficial CDM projects for developing and industrialised countries.
+Secondly, the heavy and steadily increasing workload of the CDM Executive Board is obviously
+problematic. The relatively few resources of the Board to review and approve CDM projects and
+the currently limited number of accredited Designated Operational Entities to validate the projects
+for registration and verify/certify the emission reductions are limiting factors for further CDM
+project development. These contribute to the long time horizons to develop a CDM project.
+Thirdly, there is a lack of institutional capacity both in host and buyer countries. Although more
+than sixty Designated National Authorities exist, in many cases the resources available to these
+Authorities are not sufficient to provide a user-friendly CDM infrastructure. For example, it is often
+difficult to obtain the important host country approval for the project or there may be a lack of
+clarity regarding the host countrys sustainability criteria which leads to additional delay.
+Fourthly, the projects additionality is often a problematic issue. Clearly, additionality is central to
+the environmental integrity of the CDM and there has been intense debate about how additionality
+(according to Article 12 of the Kyoto Protocol) should be tested. However, a project developer
+who seeks to ensure financing for a project faces a dilemma: within its investment analysis, the
+CDM Executive Boards decision on Tools for Demonstration of Additionality asks for
+determination that without the registration as a CDM project, the project activity is not the most
+economically or financially attractive. This often deters private financial institutions from engaging
+in the CDM. For an investor, it is important that the project is financially robust in itself, so that the
+CDM is not the only factor fuelling the project. Few commercial projects are undertaken for one
+specific reason. Given the CDM risks, it is unlikely that a financial sector institution will undertake
+a project for CDM reasons alone.
+As an alternative to the investment analysis, the Executive Board proposes a barrier analysis to
+prove a CDM projects additionality. However, the Board must provide more transparency and
+clarity on the type of evidence that can be accepted to pass the barrier analysis. Otherwise, the risk
+of failure at the project approval stage will be very difficult to calculate for the involved project
+Box 6: Financial solutions for CDM projects in practice
+Case study: Carbon Delivery Guarantee
+Various research has been conducted by the financial sector to develop insurance and non-insurance
+risk management instruments for the greenhouse gas market as a whole and CDM projects in particular.
+There is obvious demand from project developers, investors and buyers of CERs for risk mitigating tools
+for CDM projects. UNEP FI signatory Garant, Global Sustainable Development Project (GSDP) and Swiss
+Re Greenhouse Gas Risk Solutions are trying to meet this demand with the launch of the first carbon
+delivery guarantee insurance in late 2004. A carbon delivery guarantee is an insurance product where the
+re/insurer acts as guarantor for future CER delivery, and financial compensation is paid in case CERs are
+not delivered according to agreed terms and conditions. The carbon delivery guarantee is shaped to
+meet the CER buyers demand for risk mitigation.
+One of the first carbon delivery guarantees will be applied to CERs generated by a reduction project in
+South America, which utilizes an innovative proprietary filter technology. In total, the project consists of
+1,000,000 tons CERs. The seller will deliver CERs annually from 2005 to 2007 and the carbon delivery
+guarantee is based on a purchase price of $5 per CER. The insurance covers carbon delivery guarantee
+designed as contract frustration*, political risk insurance (incl. host industry insolvency, seller insolvency,
+political and country risk) and business interruption.
+*Contract frustration insurance protects against losses arising from the host government's breach or
+repudiation of a contract with the investor. If, after a specified period of time, the investor has not received
+payment or if the dispute resolution mechanism fails to function because of actions taken by the host
+government, the insurer will pay compensation.
+UNEP FI  Finance for Carbon Solutions
+participants. To ensure the success of the CDM, additionality should be interpreted in such a way
+as to ensure both environmental and economic efficiency of the CDM (see recommendations).
+Such an interpretation does not jeopardize the environmental integrity of the CDM. On the
+contrary, it increases the environmental integrity as it will stimulate global greenhouse gas
+emission reduction activities. Additionality tests should focus on whether an emission reduction
+activity has real, measurable and long-term benefits related to the mitigation of climate change
+and not on whether the potential profits from the CDM are the driving factor behind the
+emission reductions.
+Recommendations:
+How can the CDM process be improved?
+In order to improve the CDMs economic efficiency without abandoning its environmental
+integrity, UNEP FIs Climate Change Working Group makes the following recommendations:
+Simplify, standardize and streamline the CDM process: In order to attract financial
+institutions, a faster and more user-friendly process must be in place. The private players that
+are supposed to utilize the CDM require further process standardisation, e.g. more Designated
+Operational Entities need to be accredited and more methodologies must be approved
+promptly in order to attract more CDM players, particularly from the financial sector.
+Provide prompt and clear guidance on the CDM regulations beyond 2012: With no
+second commitment period in place, the window for CDM project development is closing
+rapidly. The interest for CERs generated beyond 2012 is very limited and prices are low.
+Without a clear long-term framework for the CDM, it will be difficult to attract the involvement
+of financial institutions.
+Foster the development of institutional CDM capacities in host and investor
+countries: In many cases the necessary national CDM institutions are either underdeveloped
+or non-existent. A faster and more efficient CDM process requires clear procedures to be
+followed by the project participants in both host and investor countries. The parties to the
+Kyoto Protocol should foster the development of national CDM capacities in order to enhance
+the investment climate for the CDM.
+Rethink the interpretation of additionality: The concept of suboptimal efficiency seems
+counter-intuitive and is often perceived as an obstacle by the finance sector. One possible way
+out of this dilemma  while maintaining core elements like monitoring and verification  would
+be to take on a sector-wide approach rather than a project-based approach. A promising option
+for consideration by the Parties to the UNFCCC is to establish carbon efficiency standards for
+developing countries in their most carbon-intensive sectors. Any project that would perform
+better than that standard should be considered a CDM project, contributing to the reduction of
+carbon emissions in that particular sector.
+It is now plain that
+the emission of
+GHGs is causing
+global warming at a
+rate that is simply
+unsustainable in the
+long-term. And by
+long-term I do not
+mean centuries
+ahead. I mean
+within the lifetime
+of my children,
+and possibly within
+my own.
+Tony Blair
+UK Prime Minister
+Conclusion
+The CDM has the potential to become a powerful tool in reducing global greenhouse gas
+emissions. This potential will only materialize if the economic efficiency of the CDM increases
+substantially. The CDM is still in the early development stage with various teething troubles that
+pose barriers to its wider breakthrough among the business and finance communities. The CDM is
+currently a mechanism with high transaction costs and relatively low overall efficiency. The
+specific CDM risks in combination with the institutional barriers to CDM project implementation
+and financing are deterring many financial institutions from getting involved in CDM projects.
+The key challenges for the UNFCCC Secretariat in the near future are to streamline and standardise
+the approval process and to register successful CDM projects. The CDM Executive Board might
+need additional resources to meet these requirements if the volume of project throughput increases.
+The CDM was designed to engage the private sector in climate change adaptation and mitigation in
+the developing world. In order for this to happen, the CDM process must become clearer, more
+efficient and financially attractive. A significant and positive step in this direction is the
+implementation of the recommendations presented in this briefing. If these issues are not
+addressed, and major improvements not made, then the success of the CDM may be compromised,
+and, potentially, the entire Kyoto process may suffer.
+UNEP FI  Finance for Carbon Solutions
+UNEP FI
+The United Nations Environment Programme Finance Initiative (UNEP FI) is a unique global
+partnership between UNEP, financial institutions, insurance and re-insurance companies and fund
+managers. Based in Geneva, Switzerland, UNEP FI has over 200 member institutions worldwide.
+UNEP is headquartered in Nairobi, Kenya. UNEP has eight divisions through which it carries out its
+activities, including the Division of Technology Industry and Economics (DTIE) based in Paris,
+France. The Economics and Trade Branch (ETB), based in Geneva, Switzerland, is a branch of
+DTIE. The Finance Initiative is a unit of the ETB. www.unepfi.org
+SEFI
+The Sustainable Energy Finance Initiative (SEFI) is a partnership between UNEP FI, UNEP Energy,
+and the Basel Agency for Sustainable Energy (BASE). SEFIs mission is to promote, facilitate, and
+support increased investment in energy efficiency and renewable energy. www.sefi.unep.org
+UNEP FI
+Climate Change
+Working Group
+members
+Jennifer Boal
+Risk Manager
+Abbey
+Milton Keynes, England
++44 1908 348 419
+Jennifer.Boal@abbey.com
+Dirk P. Kohler
+Managing Director
+GSDP Global Sustainable Development Project
+Lisle sur Tarn, France
+Tel +33 5 63 33 22 24
+gsdp@gsdp.fr
+The designations
+employed and the
+presentations of
+the material in this
+publication do not imply
+the expression of any
+opinion whatsoever on
+the part of the United
+Nations Environment
+Programme (UNEP),
+the United Nations
+Environment
+Programme Finance
+Initiative (UNEP FI),
+or any of its member
+organisations,
+concerning the legal
+status of any country,
+territory, city or area of
+its authorities, or concerning the delimitation
+of its frontiers or boundaries. Moreover, the
+views expressed do not
+necessarily represent
+the decisions or the
+stated policy of UNEP,
+UNEP FI or any of the
+contributing member
+organisations of UNEP
+FI. The citing of trade
+names or commercial
+processes does not
+constitute
+endorsement.
+Design and production:
+Rebus, Paris
+Printed in France
+Thomas Loster
+Head, Weather/Climate Risks Research
+Munich Reinsurance Company
+Munich, Germany
+Tel. +49 89/3891 5287
+tloster@munichre.com
+Helen M. Sahi
+Senior Vice President
+Environmental Services Department
+Bank of America
+Hartford, CT USA
+Tel +1 860 952 6300
+helen.m.sahi@bankofamerica.com
+Dr. Armin Sandhvel
+Head Corporate Sustainability
+Chief Risk Officer's Office
+Dresdner Bank AG
+Frankfurt, Germany
+Tel. +49 (0) 69 263 55193
+armin.sandhoevel@dresdner-bank.com
+Simone Schrer
+Sustainability Analyst
+SAM Research Inc
+Zrich, Switzerland
+Tel +41 1 397 1010
+simone.schaerer@sam-group.com
+Mark Way
+Group Sustainability Management
+Swiss Re
+Zurich, Switzerland
+Tel +41 43 285 3640
+mark_way@swissre.com
+Vinay Mistry
+Risk and Exposure Analyst
+Group Reinsurance
+Aviva plc
++44 20 7662 7516
+vinay.mistry@aviva.com
+Study Editor and Advisor
+Dr. Sascha Lafeld
+Managing Director
+3C climate change consulting GmbH
+60386 Frankfurt, Germany
+Tel +49 69 420 88 98 11
+sascha.lafeld@3c-company.com
+Advisors
+Dr. Andrew Dlugolecki
+Principal, Andlug Consulting
+Perth, Scotland
+Tel +44 1738 626 351
+andlug@btopenworld.com
+Kirsty Hamilton
+Policy Consultant
+London, UK
+Tel +44 7986 355 561
+kirsty_hamilton@hotmail.com
+UNEP
+Paul Clements-Hunt
+Head, UNEP Finance Initiative
+Geneva, Switzerland
+Tel +41 22 917 8116
+pch@unep.ch
+Lisa Petrovic
+Consultant, UNEP Finance Initiative
+Geneva, Switzerland
+Tel +41 22 917 8686
+lisa.petrovic@unep.ch

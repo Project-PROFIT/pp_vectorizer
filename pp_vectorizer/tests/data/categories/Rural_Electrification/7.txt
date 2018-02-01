@@ -1,0 +1,57 @@
+National Programme for Energy Development of States and Municipalities
+(PRODEEM)
+|Country       |Brazil                                            |
+|Effectivefrom|1996                                              |
+|Description   |The National Programme for Energy Development of  |
+|              |States and Municipalities was set up to develop   |
+|              |20,000 MW of renewable energy capacity. The       |
+|              |Programme involved providing electrical power to  |
+|              |schools, health centres, community centres, and   |
+|              |water pump systems.                               |
+|              |                                                  |
+|              |In 2000, PRODEEM served almost 104,000 people in  |
+|              |219 municipalities. The Inter-American Development|
+|              |Bank (IDB) proposed to finance a project for      |
+|              |providing electric power to rural residences. The |
+|              |PRODEEM Plan of Action was jointly prepared by the|
+|              |MME and the IDB implemented with a                |
+|              |non-reimbursable fund of US$ 9 million.           |
+|              |                                                  |
+|              |From 1996-2000, PRODEEM provided 3 MW power in PV |
+|              |panels to 3050 villages benefiting 604 000 people,|
+|              |for a total investment of 21 million reals ($),   |
+|              |financed from the national treasury funds. In     |
+|              |2000, another 1050 systems were installed that    |
+|              |were supposed to benefit an additional 104 000    |
+|              |people. The total budget was 60 million reals ($) |
+|              |for 2001, when 1086 systems were installed, and   |
+|              |another 3000 community systems were tendered      |
+|              |through international bidding, with a winning bid |
+|              |of 37 million reals for equipment and             |
+|              |installation, along with operation and maintenance|
+|              |for three years.                                  |
+|              |                                                  |
+|              |PRODEEM is a centralised project, which uses a    |
+|              |top-down approach to identify sites and install   |
+|              |equipments. One of the difficulties faced by the  |
+|              |project is identification of suitable locations   |
+|              |for equipments that have been purchased in bulk.  |
+|              |Under this programme, the central government      |
+|              |procured PV panels that were then allocated free  |
+|              |of charge to municipalities upon demand. Rather   |
+|              |than electrifying individual households, the      |
+|              |programme focuses on schools, health facilities,  |
+|              |and other community installations.                |
+|              |                                                  |
+|              |In 2003, the MME (Secretariat for Energy          |
+|              |Development) undertook an exercise in analysing   |
+|              |the programme and discussing the means to expand  |
+|              |it, according to the recent law for Universal     |
+|              |Access to Energy. More recently, PRODEEM and ANEEL|
+|              |have started to sponsor mini-grid pilot projects  |
+|              |(with hydro and biomass generation), to test      |
+|              |different service provision models.               |
+|Policy type   |Rural electrification                            |
+|Renewableener|All technologies simultaneously                  |
+|gy            |                                                  |
+|Contact       |Ministry of Mines and Energy (MME)               |

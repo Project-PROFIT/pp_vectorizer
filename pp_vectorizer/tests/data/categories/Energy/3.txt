@@ -1,0 +1,1176 @@
+External Costs
+ST U DY
+Research results on socio-environmental
+damages due to electricity and transport
+EUR 20198
+Interested in European research?
+RTD info is our quarterly magazine keeping you in touch with main developments (results, programmes, events, etc).
+It is available in English, French and German. A free sample copy or free subscription can be obtained from:
+European Commission
+Directorate-General for Research
+Information and Communication Unit
+B-1049 Brussels
+Fax: (32-2) 29-58220
+E-Mail: research@cec.eu.int
+Internet: http://europa.eu.int/comm/research/rtdinfo_en.html
+EUROPEAN COMMISSION
+Directorate-General for Research
+Directorate J-Energy
+Contact: Domenico Rossetti di Valdalbero
+European Commission
+B-1049 Brussels
+Tel: (32-2) 29-62811
+Fax: (32-2) 29-94991
+E-mail: domenico.rossetti-di-valdalbero@cec.eu.int
+EUROPEAN COMMISSION
+External Costs
+Research results on socio-environmental damages
+due to electricity and transport
+2003
+Directorate-General for Research
+EUR 20198
+Europe Direct is a service to help you find answers
+to your questions about the European Union
+New freephone number:
+00 800 6 7 8 9 10 11
+LEGAL NOTICE:
+Neither the European Commission nor any person acting on behalf of the Commission is responsible for the use which might be made of the
+following information.
+The views expressed in this publication are the sole responsibility of the author and do not necessarily reflect the views of the European
+Commission.
+A great deal of additional information on the European Union is available on the Internet. It can be accessed through the Europa server
+(http://europa.eu.int).
+Cataloguing data can be found at the end of this publication.
+Luxembourg: Office for Official Publications of the European Communities, 2003
+ISBN 92-894-3353-1
+ European Communities, 2003
+Reproduction is authorised provided the source is acknowledged.
+Printed in Belgium
+PRINTED ON WHITE CHLORINE-FREE PAPER
+Foreword
+European socio-economic research plays
+a key role in providing policy-makers with
+a substantiated scientific background. In
+the field of energy, transport and environment, a scientific and rigorous analysis can
+help to assess a renewable electricity target, an energy tax, a quantified objective to reduce greenhouse gases emissions, a state aid exception for clean
+energies or a standard for energy efficiency.
+The determination of the external costs caused by energy
+production and consumption, i.e. the monetary quantification of its socio-environmental damage, goes in the
+same direction. Indeed, external costs have to be quantified before they can be taken into account and internalised.This is precisely the goal of the ExternE (External
+costs of Energy) European Research Network active
+from the beginning of the Nineties. These multidisciplinary teams of researchers adopted a common methodology, conducted case studies throughout Europe and succeeded in presenting robust and validated conclusions.
+Within this coherent framework, the
+ExternE results allowed different fuels
+and technologies for electricity and transport sectors to be compared. Policy
+actions could therefore be taken to tax
+the most damaging fuels and technologies
+(like oil and coal) or to encourage those with lower
+socio-environmental cost (such as renewables or
+nuclear). The internalisation of external costs will also
+give an impetus to the emergence of clean technologies
+and new sectors of activity for research-intensive and
+high added value enterprises.
+European citizens want to live in a more sustainable
+world.The consideration of external costs is one way of
+re-balancing social and environmental dimensions with
+purely economic ones.The assessment of externalities
+answers a social demand and European research should
+help to lay down the basis for improved energy and transport policies.
+Philippe Busquin
+Member of the European Commission
+Responsible for Research
+Foreword
+Socio-economic research
+in the field of energy
+Decision-making in energy and environment calls increasingly for a better evaluation of the possible impacts of any
+envisaged policy and measure such as a renewable electricity target, an energy tax, a quantified objective to
+reduce greenhouse gases emissions, a voluntary agreement between public authorities and industries, a state
+aid exception for clean energies, a standard for energy
+efficiency or an internalisation of external costs.
+Together with technological research which includes
+hundreds of projects aiming at promoting new and clean
+energy and environment technologies, improving quality
+of life, boosting growth, competitiveness and employment,
+socio-economic research in the Energy programme
+helps to provide the scientific basis for energy and environment-related policy formulation. In particular by:
+Socio-economic
+activities
+ The elaboration of scenarios for energy supply and
+demand technologies and their interaction, and the
+analysis of cost effectiveness (based on full life cycle
+costs) and efficiency of all energy sources
+ The socio-economic aspects related to energy within
+the perspective of sustainable development (the impact
+on society, the economy and employment)
+The majority of energy socio-economic projects make
+links between energy and environment and address the
+issues of natural resources, economic growth and social
+needs. Both market competition and environmental
+constraints, top-down and bottom-up approaches are
+considered.
+Three crucial issues have largely been dealt within the
+5th RTD Framework Programme with the aim of providing a substantiated scientific background and evaluation
+tools for energy and environment policies formulation:
+ The Energy-Economy-Environment models, which
+explore different scenarios and give quantified information on potential future actions: the consequences of a
+given CO2 target, the cost-effectiveness of such a
+technology, etc.
+ The climate change issue and particularly, beyond the
+purely scientific problems, the socio-economic impacts
+of the policies and measures taken: what are the
+cheapest options to achieve Kyoto, what are the effects
+of greenhouse gas emission trading, etc.
+ The external cost evaluation or the measurement of
+socio-environmental damages provoked by energy
+production and consumption: what damages should be
+included, what methodology should be used, which
+comparisons could be made among technologies, etc.
+Energy socio-economic activities in the 6th RTD
+Framework Programme (2002-2006) will give
+researchers the possibility of improving the assessment
+of external costs (emerging technologies, adaptation of
+the methodology, case studies in the Accession
+Countries, new developments in traditional technologies)
+and externalities in the broad sense (also including
+questions on job creation and security of energy supply).
+Pablo Fernndez Ruiz
+Director
+Research actions for energy
+Definition of External Costs
+The scope of the ExternE Project has been to value the
+external costs, i.e. the major impacts coming from the
+production and consumption of energy-related activities
+such as fuel cycles. An external cost, also known as an
+externality, arises when the social or economic activities
+of one group of persons have an impact on another group
+and when that impact is not fully accounted, or compensated for, by the first group. Thus, a power station that
+generates emissions of SO2, causing damage to building
+materials or human health, imposes an external cost.This
+is because the impact on the owners of the buildings or
+on those who suffer damage to their health is not taken
+into account by the generator of the electricity when
+deciding on the activities causing the damage. In this
+example, the environmental costs are external because,
+although they are real costs to these members of
+society, the owner of the power station is not taking
+them into account when making decisions.
+There are several ways of taking account of the cost to
+the environment and health, i.e. for internalising external
+costs. One possibility would be via eco-taxes, i.e. by taxing damaging fuels and technologies according to the
+external costs caused. For example, if the external cost
+of producing electricity from coal were to be factored
+into electricity bills, 2-7 eurocents per kWh would have
+to be added to the current price of electricity in the
+majority of EU Member States. Another solution would
+be to encourage or subsidise cleaner technologies thus
+avoiding socio-environmental costs. The recent
+Community guidelines on state aid for environmental
+protection explicitly foresee that EU member states may
+grant operating aid, calculated on the basis of the external
+costs avoided, to new plants producing renewable
+energy. Besides that, in many other widely accepted
+evaluation methods such as green accounting, life-cycle
+analysis and technology comparison, the quantitative
+results of external costs are an important contribution to
+the overall results.
+Another application is the use of external-cost estimates
+in cost-benefit-analysis. In such an analysis the costs to
+establish measures to reduce a certain environmental
+burden are compared with the benefits, i.e. the damage
+avoided due to this reduction.The value of this can then
+be calculated with the methods described here.
+Definition
+Damages assessed
+Seven major types of damages have been considered.The
+main categories are human health (fatal and non-fatal
+effects), effects on crops and materials. Moreover,
+damages caused by global warming provoked by greenhouse gases have been assessed on a global level within
+ExternE; however the range of uncertainty is much higher
+for global warming impacts than for other damages.
+avoidance costs to reach agreed environmental aims are
+calculated as an alternative second best approach. The
+costs for ecosystems are based on the political aim of
+reducing the area in the EU where critical loads are
+exceeded by 50%. For global warming, a shadow price
+(i.e. like a virtual taxation) for reaching the Kyoto reduction targets is used.
+In addition to the damage cost estimates, for impacts on
+ecosystems and global warming, where damage cost estimates show large uncertainty ranges, marginal and total
+The following table gives an overview of the health and
+environmental effects currently included in the analysis
+(current research aims at constantly enlarging this list).
+Damages
+Credit Audiovisual Library European Commission
+External costs of energy and transport:
+Impact pathways of health and environmental effects included in the analysis
+Impact Category
+Pollutant / Burden
+Effects
+Human Health
+ mortality
+PM10 a, SO2
+NOx, O3
+Reduction in life expectancy
+Benzene,
+Benzo-[a]-pyrene
+1,3-butadiene
+Diesel particles
+Cancers
+Noise
+Accident risk
+Human Health
+ morbidity
+Loss of amenity, impact on health
+Fatality risk from traffic and workplace accidents
+PM10, O3, SO2
+Respiratory hospital admissions
+PM10, O3
+Restricted activity days
+PM10, CO
+Congestive heart failure
+Benzene,
+Benzo-[a]-pyrene
+1,3-butadiene
+Diesel particles
+Cancer risk (non-fatal)
+PM10
+Cerebro-vascular hospital admissions
+Cases of chronic bronchitis
+Cases of chronic cough in children
+Cough in asthmatics
+Lower respiratory symptoms
+Asthma attacks
+Symptom days
+Noise
+Myocardial infarction
+Angina pectoris
+Hypertension
+Sleep disturbance
+Accident risk
+Risk of injuries from traffic and workplace accidents
+Acid deposition
+Ageing of galvanised steel, limestone, mortar, sand-stone, paint, rendering,
+and zinc for utilitarian buildings
+Combustion particles
+Soiling of buildings
+NOx, SO2
+Yield change for wheat, barley, rye, oats, potato, sugar beet
+Yield change for wheat, barley, rye, oats, potato, rice, tobacco, sunflower seed
+Acid deposition
+Increased need for liming
+Global Warming
+CO2, CH4, N2O,
+N, S
+World-wide effects on mortality, morbidity, coastal impacts, agriculture, energy
+demand, and economic impacts due to temperature change and sea level rise
+Amenity losses
+Noise
+Amenity losses due to noise exposure
+Ecosystems
+Acid deposition,
+nitrogen deposition
+Acidity and eutrophication (avoidance costs for reducing areas where critical
+loads are exceeded)
+Building Material
+Crops
+a particles with an aerodynamic diameter < 10 m, including secondary particles (sulphate and nitrate aerosols)
+Damages
+ExternE methodology
+The impact pathway approach - and coming along with
+this approach, the EcoSense model, an integrated software tool for environmental impact pathway assessment
+- was developed within the ExternE project series and
+represents its core. Impact pathway assessment is a
+bottom-up-approach in which environmental benefits and
+costs are estimated by following the pathway from source
+emissions via quality changes of air, soil and water to
+physical impacts, before being expressed in monetary
+benefits and costs. The use of such a detailed bottom-up
+methodology  in contrast to earlier top-down
+approaches  is necessary, as external costs are highly
+site-dependent (cf. local effects of pollutants) and as
+marginal (and not average) costs have to be calculated.
+An illustration of the main steps of the impact pathway
+methodology applied to the consequences of pollutant
+emissions is shown in the following diagram.
+Methodology
+Two emission scenarios are needed for each calculation,
+one reference scenario and one case scenario.The background concentration of pollutants in the reference scenario is a significant factor for pollutants with non-linear
+chemistry or non-linear dose-response functions. The
+estimated difference in the simulated air quality situation
+between the case and the reference situation is combined
+with exposure response functions to derive differences in
+physical impacts on public health, crops and building
+material. It is important to note, that not only local damages have to be considered  air pollutants are transformed and transported and cause considerable damage
+hundreds of kilometres away form the source. So local
+and European wide modelling is required.
+Regarding dispersion, with NewExt, not only atmospheric
+pollution is analysed, but also pollution in water and soil.
+Human exposure to heavy metals and some important
+organic substances (e.g. dioxins), which accumulate in
+water and soil compartments and lead to a significant
+exposure via the food chain, is represented in further
+models.
+As a next step within the pathway approach, exposureresponse models are used to derive physical impacts on
+the basis of these receptor data and concentration levels
+of air pollutants. The exposure-response models have
+been compiled and critically reviewed in ExternE by
+expert groups.
+In the last step of the pathway approach, the physical
+impacts are evaluated in monetary terms. According to
+welfare theory, damages represent welfare losses for individuals. For some of the impacts (crops and materials),
+market prices can be used to evaluate the damages.
+However, for non-market goods (especially damages to
+human health), evaluation is only possible on the basis of
+the willingness-to-pay or willingness-to-accept approach
+that is based on individual preferences.The monetary values recommended in ExternE by the economic expert
+group have been derived on the basis of informal metaanalysis (in the case of mortality values) and most recent
+robust estimates.
+In some cases where uncertainty is still large, avoidance
+costs can be calculated, e.g. for ecosystem damages
+resulting from acidification or for global warming damages. To complete the external costs accounting framework for environmental themes (acidification and
+eutrophication) that have not yet been properly
+addressed but are the main driving force for current environmental policy, a complementary approach for the valuation of such impacts based on the standard-price
+approach is developed and improved. This procedure
+deviates from the pure welfare economic paradigm followed in ExternE, but it allows to estimate damage figures
+for ecological impacts complementary to the existing
+data on impacts from the same pollutants on public
+health, materials and crops (based on damage function
+approach and welfare based valuation studies). The integration of this methodology and data into the existing
+external costs framework is an important extension as it
+also covers impact categories that could otherwise not
+be addressed properly in ExternE. This will again improve
+the quality and acceptance of the accounting framework.
+To perform the calculations, a software package called
+EcoSense is used. EcoSense provides harmonised air
+quality and impact assessment models together with a
+database containing the relevant input data for the whole
+of Europe.
+In general, dependent on the question to be answered,
+the analysis is not only made for the operation of the
+technology to be assessed as such, but also including
+other stages of the life cycle (e.g. construction, dismantling, transport of materials and fuels, fuel life cycle).
+Source
+(specification of site and technology)
+ emission
+(e.g. kg/yr of particulates)
+Dispersion
+(e.g. atmospheric dispersion model)
+ increase in concentration at
+receptor sites
+(e.g. g/m3 of particulates
+in all affected regions)
+Dose-response function
+(or concentration-response function)
+ impact
+(e.g. cases of asthma due to ambient
+concentration of particulates)
+Monetary valuation
+ cost
+(e.g. cost of asthma)
+Methodology
+Applications
+The ExternE methodology has been applied for a large
+number of European and national studies to give advice
+for environmental, energy and transport policies.
+One of the first objectives of the ExternE programme
+was to make a comparative evaluation of different
+technologies and fuel cycles for electricity generation.
+A decade of research has resulted in detailed set of data
+for impacts from a wide range of fuels, technologies and
+locations. They include:
+ Fossil fuels: coal and oil technologies with varying
+degrees of flue gas cleaning, natural gas, centralised
+systems and CHP, orimulsion
+ Nuclear: PWR, open and closed systems for fuel
+provision
+ Renewable: onshore and offshore wind, hydro, a wide
+range of biomass fuels (waste wood, short rotice,
+crops) and technologies
+Applications
+The application on transport externalities (road, rail, aircraft and navigation) focused on the specific requirements
+of emission and dispersion modelling and the extension
+and update of dose-response functions. In addition to air
+pollution impacts, those from noise and accidents have
+been analysed. Besides the estimation of marginal costs
+of transport, aggregated costs can be calculated, e.g. those
+which refer to the entire transport sector of European
+countries. Moreover, several policy case studies and scenarios have been examined in different countries of the
+European Union, e.g. the use of alternative fuels in city
+buses or the introduction of electric or CNG-fuelled
+vehicles.
+Besides the different phases of the ExternE project itself,
+the methodology developed within this project has been
+used to support a large number of policy decisions and
+legislative proposals, e.g. of Directorate-General for
+Environment, such as to perform economic evaluations
+of the:
+ Draft directive on non-hazardous waste incineration
+ Large combustion plant directive
+ EU strategy to combat acidification
+ Costs and benefits of the UN-ECE Multi-pollutant,
+Multi-effect protocol and of proposals under this protocol (e.g. NOx and VOC control)
+ Costs and benefits for the emission ceilings directive
+ Air quality limits for PAHs
+ Diversion of PVC from incineration to landfill and
+recycling
+ Benefits of compliance with the EU environmental
+acquis: quantification of the benefits of air quality
+improvements
+ Costs and benefits of acidification and ground level
+ozone
+ Regulatory appraisal of the SO2, NO2 and PM10 air
+quality objectives for UK Department of the
+Environment,Transport and the Regions
+ Air quality guidelines on CO and benzene
+ Environmental costs of lorries (a study to incorporate
+environmental costs in vehicle excise duty rates in UK)
+ Second NOx Protocol (for the UNECE Task Force on
+economic aspects of abatement strategies)
+Moreover, EcoSense has been adapted to other territories in the world, especially for China, Russia, Brazil and
+Mexico.
+For the transport sector, this methodology developed in
+ExternE is applied in a broader context within the
+European projects UNITE and RECORDIT.
+Fair and efficient pricing of transport infrastructure use is
+a fundamental aspect of developing a sustainable transport policy that takes account of the full social costs and
+benefits of transport. The project UNITE (Unification of
+accounts and marginal costs for transport efficiency) supply policymakers with the framework and state-of-the-art
+cost estimates to progress this policy. This framework
+integrates pilot transport accounts for all modes and
+marginal costs, consistent with public finance economics
+and the role of transport charging in the European
+economy.
+In RECORDIT (Real cost reduction of door-to-door
+intermodal transport) a comprehensive methodology is
+designed and validated for the calculation of real (internal
+and external) costs of intermodal freight transport and
+for the understanding of cost formation mechanisms. For
+selected corridors external costs from direct emissions
+as well as lifecycle emissions are calculated.
+A project called ECOSIT applies the same methodology
+to the evaluation of several innovative industrial
+technologies outside the energy and transport sector.
+The GARP II project and the GREENSENSE project
+incorporate the methodology into the systems of national
+accounting.
+Applications
+Comparison of damage costs per kWh for
+coal, gas, nuclear and wind electricity
+A comparative evaluation of fossil, nuclear and renewable
+fuel cycles reveals a wide range of impacts from a wide
+range of power generation technologies. Data illustrate
+that the external costs of electricity generation differ
+greatly, depending on fuel choice, technology and location.A short overview of some results is shown in order
+to give an idea of the range of results, the underlying
+parameters that influence the impacts and the assumptions to take into account for their interpretation.
+Although the data have been generated with a common
+methodology, it may be misleading to simply compare the
+final results because:
+ Results are by nature location and technology specific,
+therefore no simple generalisations are possible
+ Only subtotals are available, as not all impacts have
+been assessed completely
+ Assumptions and parameters included in the analysis
+may be specific for the fuel cycle, technology or location
+ Assumptions and parameters have changed over time,
+reflecting the state of the art at that time
+The comparison of results can be described as follows:
+ExternE methodology has been applied to a wide range
+of fuels, different technologies and locations. The overall
+result is somewhat summarised in the picture, though
+generalisation is not what ExternE is aiming at (in contrast, the site and technology-specificity is one of the
+most innovating aspects of ExternE). In general, wind
+technologies are very environmental friendly with
+respect to emissions
+of "classical" pollutants (SO2, NOX,
+dust particles) and
+with respect to
+HIGH
+greenhouse
+emissions.
+Wind
+Biomass
+gets a favourable
+technologies
+rating for both
+Air pollution impacts (PM10 ) and other impacts
+Damage costs
+electricity
+Nuclear
+impact categories. Not every location is equally suited for
+wind generation, and hence the variability in external
+costs due to noise or other amenity impacts. Nuclear
+power in general generates low external costs, although
+the very low probability of accidents with very high consequences and the fuel cycle impacts are included. It is
+also a technology with very low greenhouse gas emissions.There are dozens of different biomass technologies,
+and depending on the care given on gas cleaning technologies, the biomass options can range from low to high
+external costs. They generate very low greenhouse gas
+emissions in their life cycle. Photovoltaics is a very clean
+technology at the use stage, but has considerable life
+cycle impacts.
+Gas-fired technologies are quite clean, with respect to
+classical pollutants, but their impact on climate change
+depends strongly on the efficiency of the technology.
+Newer combined-cycle technologies can also be categorised as generating average to low greenhouse gas
+impacts. Coal technologies carry the burden of their very
+high CO2 emissions, even for new, more efficient technologies, and in addition cause quite high impacts due to
+the primary-secondary aerosols. Old coal-fired power
+plants are also very high emitters of classical pollutants,
+making them overall the worst available technology. For
+nuclear, results are presented for a discount rate of 0%.
+Results for an (alternative) discount rate of 3% are even
+lower.
+For wind energy (one of the more promising renewable
+technologies to be implemented in some European countries) it should be
+emphasised
+that
+impacts
+from
+upstream processes
+and amenity impacts
+become important,
+Existing coal
+technologies
+since no pollutants
+no gas cleaning
+are emitted during
+electricity producNatural gas
+technologies
+New coal
+technologies
+Wind
+Greenhouse gas impacts
+HIGH
+External cost figures for electricity production in the EU for existing technologies1
+(in  cent per kWh*)
+Country
+Coal & lignite Peat
+4-15
+7-10
+8-11
+Nuclear
+Biomass
+Hydro
+Wind
+0.05
+3-5**
+0-0.8
+0.25
+0.03
+0-0.7
+0.25
+0-0.25
+0.15
+sub-total of quantifiable externalities (such as global warming, public health, occupational health, material damage)
+biomass co-fired with lignites
+tion by wind turbines. These impacts and costs are calculated using emission databases for steel and concrete
+production - materials used to build a wind turbine and
+tower. Impacts from noise are quite low. Impacts from
+visual intrusion are difficult to value. Both impacts can be
+minimised through planning and consultation. Impacts on
+birds and animals are negligible when quantified. Human
+accidents during construction, or due to collisions on sea,
+are also very small, but can become relatively important
+when emissions from the production of materials
+decrease further.
+this table, in addition to the damage cost estimates, avoidance costs are given for impacts on ecosystems (acidification and eutrophication) and global warming, where
+damage cost estimates show large uncertainty ranges.
+The costs for ecosystems are based on the political aim
+(as stated in European Commission 1997) of reducing the
+area in the EU where critical loads are exceeded by 50%.
+For global warming a shadow price for reaching the
+Kyoto reduction targets is used. Besides global warming,
+health impacts is the most important damage category;
+here especially the reduction of life expectancy due to
+long term exposure with primary and secondary particles
+causes the highest damage.
+Damage costs
+electricity
+An important feature of the ExternE results is that they
+are site-specific. This is expressed in the following table.
+Note that not all fuel cycles are typically applied in all
+European countries that took part in the National
+Implementation phases of ExternE, so sevQuantified marginal external costs of electricity production in Germany2
+eral cells are left empty. The spectrum of
+(in  cent per kWh)
+results for each fuel cycle technology conCoal
+Lignite
+Nuclear
+Wind
+Hydro
+sists both of technological differences and
+Damage costs
+of the different location structure of the
+Noise
+0.005
+receptors affected in the local and regional
+Health
+0.73
+0.99
+0.34
+0.17
+0.45
+0.072
+0.051
+surroundings of the plant.
+Material
+0.015
+0.020
+0.007
+0.002
+0.012
+0.002
+0.001
+The following table points out - exemplified
+for different selected types of power plants
+in Germany - the different damage categories that contribute to external costs. In
+Crops
+0.0008
+0.0007
+0.0002
+Total
+0.75
+1.01
+0.35
+0.17
+0.46
+0.08
+0.05
+Ecosystems
+0.20
+0.78
+0.04
+0.05
+0.04
+0.04
+0.03
+Global Warming
+1.60
+2.00
+0.73
+0.03
+0.33
+0.04
+0.03
+Avoidance costs
+Global warming is valued with a range of damage cost estimates
+from  18-46 per ton of CO2
+Median estimates; current technologies; CO2 emissions are valued
+with avoidance costs of  19 per ton of CO2
+Comparison of damage costs between
+transport modes
+This section presents a comparison of costs for road and
+rail transport 1. For this purpose, costs due to vehicle use,
+vehicle production, fuel production and infrastructure use
+are included. The costs are related to the load of a vehicle to facilitate comparison between modes. Of course
+the load factors used are very important for the results.
+Air pollution costs due to urban passenger transport 2
+Brussels car (petrol)
+mate has an important influence on the population exposure, as illustrated by the peak values for Athens.
+Petrol cars cause lower costs per passenger kilometre
+compared to diesel cars, as they emit much less fine particles, leading to lower health impacts. On a passenger
+kilometre basis urban buses perform better than diesel
+cars due to their higher number of occupants. But for
+instance in London, petrol cars cause less specific costs
+than urban busses.
+Brussels car (diesel)
+Brussels urban bus (diesel)
+Vehicle use
+Vehicle production
+Fuel production
+Infrastructure
+Helsinki car (petrol)
+Helsinki car (diesel)
+Helsinki urban bus (diesel)
+Athens car (petrol)
+Athens car (diesel)
+Amsterdam car (petrol)
+Amsterdam car (diesel)
+London car (petrol)
+London car (diesel)
+London urban bus (diesel)
+ per 100 pkm
+Damage costs
+transport
+The following figures refer to marginal costs, except the
+last one, which presents total costs. All marginal costs
+presented refer to specific locations, illustrating the range
+of costs in different countries locations. They are not to
+be interpreted as typical values for the respective countries.
+The next figure shows costs due to transport in extraurban areas. Due to a lower number of people affected
+close to the road or rail track, the impact of tail pipe
+emissions is reduced, leading to a lower total per passenger kilometre. As a consequence, emissions from the upand downstream processes (vehicle and fuel production
+and infrastructure provision) gain in relative importance.
+Vehicles of the public transport, i.e. coaches and trains,
+cause lower costs per passenger kilometre due to the
+higher number of occupants.Trains with electric traction
+have no direct emissions; for them, the dominating
+process is the electricity production. They cause by far
+the smallest costs; the second best vehicle category is the
+coach due to its high capacity use.
+The range of transport externalities assessed has been
+extended to impacts due to noise, accidents and congestion. A methodology consistent with the approach for
+The first figure illustrates the damage costs due to road
+airborne pollutants has been developed.The following figpassenger vehicles in urban areas, which comply with the
+ure compares the costs of goods transport between
+EUROII emission standard. It is obvious that the costs
+modes exemplarily. Costs are expressed per TEU (Twenty
+due to vehicle use dominate the cost and vary considerfeet equivalent unit) kilometre for a heavy goods vehicle
+ably between cities. This is mainly caused by different
+on a motorway in Germany, a containership from
+numbers of perRotterdam to
+sons affected by
+Felixstowe,
+Air pollution costs due to extra-urban passenger transport 2
+airborne pollubarge on the
+BE car (diesel)
+tants in the
+river Rhine from
+BE car (petrol)
+BE coach (diesel)
+vicinity of the
+Basle to the
+DE car (petrol)
+road. Besides the
+Dutch border,
+DE car (diesel)
+DE coach (diesel)
+population denand for an elecDE Intercity train (diesel)
+sity the local clitric goods train
+DE Intercity train (electric)
+Vehicle use
+Vehicle production
+Fuel production
+Infrastructure
+DE local train (electric)
+GR car (diesel)
+GR car (petrol)
+UK car (petrol)
+UK car (diesel)
+UK coach (diesel)
+UK Pacer train (diesel)
+ per 100 pkm
+External costs due to goods transport 3
+12,0
+Noise
+Congestion
+Global warming
+10,0
+Up- and downstream
+Air pollution
+ per 100 TEU-km
+Accidents
+The method can also be used to
+generate aggregated values that
+reflect the damage caused by different transport modes or techniques in a larger area, e.g. a whole
+country. In the following figure,
+Goods Train
+damage costs due to air pollutants,
+global warming, accident risks, and
+noise caused by all transport modes in Germany have
+been estimated. Quantifiable total costs for the year 1998
+amount to ca. 33 billion for the transport sector. This
+corresponds to 1.7% of that years gross domestic product.
+Road transport takes the lions share; rail, aircraft and
+inland waterway transport cause much lower costs. In
+the road transport sector external accident costs are the
+most important category, followed by air pollution, noise,
+and global warming. Rail transport shows a good environmental performance except for noise costs, which
+dominate the result for rail transport.
+Heavy goods vehicle
+Containership
+Barge
+in Germany. The highest cost per TEU-km is caused by
+the heavy goods vehicle, mainly due to accident and air
+pollution costs. The high air pollution costs for the containership are mainly due to the high NOx emissions.
+Accident risk and noise impacts are very low for the containtership as well as for the barge. So air pollution and
+global warming are the dominating cost categories. The
+goods train considered causes comparably low costs due
+to airborne pollutants (which are included in the category up- and downstream). The total costs split almost
+equally between the cost categories accidents,up- and
+downstream, global warming and noise. Please note
+that the costs reflect the specific technologies actually
+used for the transport task described. Other technologies may cause higher or lower costs.
+Quantifiable externalities due to transport in Germany
+35000
+Accidents *
+30000
+Noise *
+25000
+ million
+Air pollution
+20000
+15000
+10000
+Results for airborne pollutants see:
+Friedrich, R. and Bickel, P. (Eds.):
+Environmental External Costs of Transport.
+Springer, Berlin/Heidelberg, 2001
+Road vehicles comply with EUROII
+standard; pkm = passenger kilometre,
+BE = Belgium, DE = Germany, GR = Greece,
+UK = United Kingdom
+Locations see text; TEU = Twenty feet
+equivalent unit
+5000
+Road
+Rail
+Aircraft
+Inland
+Waterway
+* accidents and noise only available for road and rail; airborne emissions include direct emissions and
+emission due to fuel and electricity production; air pollution aircraft: emissions at cruising height not included
+Damage costs
+transport
+Uncertainties and Reliability
+The methodology is sometimes criticised by pointing at
+the  large  uncertainties involved. But before discussing
+these, one has to distinguish these uncertainties from
+deviations of current results compared to earlier results
+as well as from ExternE itself and from other publications.
+Firstly there has been a substantial methodological development in the last ten years, e.g. from a top-down to a
+site-dependent bottom-up approach or with regard to
+the monetary valuation of health effects.Therefore, comparisons should include an analysis of whether the chosen methods are appropriate and state of the art, and
+whether the studies are complete. Secondly, new knowledge, e.g. about health impacts, of course changes the
+results. For example, the emerging knowledge that fine
+particles can cause chronic diseases resulting in a reduction of life expectancy changed the results considerably.
+An assessment always reflects current knowledge.That an
+assessment changes with new knowledge  and also may
+change due to a change in peoples preferences  is natural and not a methodological problem.
+Uncertainties
+Reliability
+Individual sources of uncertainty then have to be identified and quantified. It is appropriate to group them into
+different categories, even though there may be some
+overlap:
+ Data uncertainty, e.g. slope of a dose-response function, cost of a day of restricted activity, and deposition
+velocity of a pollutant
+ Model uncertainty, e.g. assumptions about causal links
+between a pollutant and a health impact, assumptions
+about form of a dose-response function (e.g. with or
+without threshold), and choice of models for atmospheric dispersion and chemistry
+ Uncertainty about policy and ethical choices, e.g.
+discount rate for intergenerational costs, and value of
+statistical life
+ Uncertainty about the future, e.g. the potential for
+reducing crop losses by the development of more
+resistant species
+ Idiosyncrasies of the analyst, e.g. interpretation of
+ambiguous or incomplete information
+The first two categories (data and model uncertainties)
+are of a scientific nature and can be analysed by using statistical methods. Results show a geometric standard deviation of ca. 2 to 4 which means that the true value could
+be 2 to 4 times smaller or larger than the median estimate. The largest uncertainties lie in the exposureresponse function for health impacts and the value of a
+life year lost  current research is directed towards
+reducing these uncertainties which reflect our limited
+knowledge.
+Furthermore, certain basic assumptions have to be made,
+e.g. such as the discount rate, the valuation of damage in
+different parts of the world, the treatment of risks with
+large impacts or the treatment of gaps in data or scientific knowledge. Here, a sensitivity analysis should be and
+is carried out demonstrating the impact of different
+choices on the results. Decisions then would sometimes
+necessitate a choice of the decision-maker about the
+assumption to be used for the decision. This would still
+lead to a decision process that is transparent and, if the
+same assumptions were used throughout different decisions, these would be consistent with each other. If
+uncertainties are too large, as currently still is the case
+for global warming impacts, shadow values could be used
+as a second best option. Shadow values are inferred from
+reduction targets or constraints for emissions and estimate the opportunity costs of environmentally harmful
+activities assuming that a specified reduction target is
+socially desired.
+Despite these uncertainties, the use of the methods
+described here is seen to be useful, as
+ The knowledge of a possible range of the external costs
+is obviously a better aid for policy decisions than the
+alternative  having no quantitative information at all
+ The relative importance of different impact pathways is
+identified (e.g. has benzene in street canyons a higher
+impact on human health as fine particles?)
+ The important parameters or key drivers, that cause
+high external costs, are identified
+ The decision making process will become more transparent and comprehensible; a rational discussion of the
+underlying assumptions and political aims is facilitated
+ Areas for priority research will be identified
+It is however remarkable that despite these uncertainties
+certain conclusions or choices are robust, i.e. do not
+change over the whole range of possible external costs
+values. Furthermore, it can be shown that the ranking of
+e.g. electricity production technologies with respect to
+external costs does not change if assumptions are varied.
+Thus, the effect of the uncertainty of externalities
+depends on the application. The key question is: what is
+the increase in total life cycle cost to society if one makes
+the wrong choice? A detailed analysis of this question in
+a specific situation involves the probability distribution of
+the total social cost for each of the options under consideration, to estimate the expectation value of the social
+cost or the probability of making the wrong choice.
+It should also be noted that gaps can be closed and
+uncertainties reduced by performing further research,
+e.g. further contingent valuation studies and epidemiological studies.
+Uncertainties
+Reliability
+Frequently Asked Questions
+Can I use the numbers that I have found in ExternE
+reports for further calculations?
+Yes you can, provided you make a clear reference to the
+source and you are aware of the assumptions made and
+the uncertainties involved. It is also recommended to
+check with the author or somebody from the ExternE
+network whether these are the best and latest data. It has
+to be noted that there are a lot of other studies that use
+and build further on the ExternE data (see also the
+National Implementation Report).
+the most important changes relate to the quantification
+of public health impacts from pollutants and the quantification of global warming impacts.
+Although for some case studies numbers have been
+upgraded, this is not a general rule, and there is no systematic upgrade of the numbers of older reports. A first
+short-cut attempt can be made by using new numbers
+per ton of emissions for the specific sector and country,
+and emission factors.
+Why are ranges of numbers often displayed?
+Is external cost information only understandable
+for economists?
+Questions
+No, external costs are based on a multi-disciplinary
+approach involving a lot of different scientific disciplines
+to quantify impacts from emissions and burdens from
+energy use. These impacts are weighted using monetary
+values - based on the willingness to pay concept - to
+reflect the importance of these impacts for society. This
+information can also be completed with other indicators
+and used in e.g. a multi-criteria analysis.
+Why are the ExternE numbers different from some
+other scientific sources?
+Some numbers may be based on avoidance costs, which
+is a very different methodology. Most other studies use
+a top-down approach analysis, which does not fully reflect
+the marginal cost approach referring to an additional
+plant or produced unit of electricity at a specific site.
+Other studies are also based on a kind of impact pathway
+approach, but may have used other models, assumptions
+or inputs.Thus a detailed comparison would be required.
+Can I compare numbers of the most recent studies
+with those from older reports?
+One has to be prudent in comparing the numbers,
+because in some areas scientific understanding is changing fast and significantly, and this scientific development is
+reflected into the ExternE numbers. As a rule of thumb,
+There are two main reasons: to reflect variability in
+nature, technology, etc. and to reflect uncertainty in our
+knowledge. However, the ranges do not reflect changes
+of the results over time due to growing scientific understanding.
+Can the numbers be used for policy preparation,
+even if you only give subtotals and uncertainties
+are large?
+Yes - although not as figures that have the same quality of
+accuracy as data gathered from the official national
+accounts. However, external cost data gained from
+ExternE are useful for a quantitative comparison of magnitude with each other as well as with other data
+expressed in monetary values, e.g. gross or net domestic
+products (which is done in Green Accounting). Such a
+comparison represents a trade-off ratio between marketed and non-marketed goods that is based on a consistent
+(and widely accepted in economic theory) approach of
+individual preferences and willingness-to-pay.
+Numbers have indeed already been used in several policy
+areas, such as economic evaluations of the draft directive
+on non-hazardous waste incineration, the Large
+Combustion Plant Directive, the EU strategy to combat
+acidification, the National Air Quality Strategy, the
+Emission Ceilings Directive, proposals under the UNECE
+multi-pollutant, multi-effect protocol and many more
+policies, green accounting research projects,
+and air quality objectives.
+Future Research Topics
+Extending and Improving the Methodology
+Epidemiology
+The dose-response functions of ExternE must be updated to take into account the enormous amount of
+research on air pollution epidemiology in recent years.
+The assumptions of ExternE about the health effects of
+the different types of primary and secondary particulate
+matter should be re-examined.
+Atmospheric dispersion
+The ExternE models for atmospheric dispersion and
+chemistry could be improved.
+Sound propagation
+The models for sound propagation could be validated and
+improved.
+Monetary valuation
+Security of energy supply
+The growth of energy demand in recent years, coupled
+with the current political situation, raises the spectre of
+new energy shortages.The security of supply implications
+of different energy technologies should be examined.
+Other positive externalities like jobs creation could
+also be studied.
+Data on traffic accident risks
+Costs due to accident risks make a considerable share of
+the total cost of transport externalities. But available
+empirical evidence is still comparably poor for some key
+factors such as the marginal risk caused by an additional
+vehicle kilometre. These key factors should be further
+examined to reduce uncertainties in the estimates.
+New Applications
+New contingent valuation studies are needed to improve
+the monetary valuation of the dominant contribution to
+the external costs (loss of life expectancy and chronic
+bronchitis). For several potentially significant impacts
+ExternE has not yet been able to calculate reliable damage costs, in particular for acidification and eutrophication, other ecosystem impacts, damage to cultural values,
+reduced visibility, and impacts of transmission lines.
+The difficulties lie not only in the monetary valuation. For
+ecosystems, the estimation of physical impacts is problematic because the slope of the dose-response functions
+is needed, whereas so far only thresholds are known. In
+reality, there are usually no sharp thresholds but a gradual increase of damage with burden.To circumvent these
+difficulties one can try valuation by experts who would
+be asked to compare these impacts with the health damage costs that have been quantified.
+New energy technologies
+Validation of the methodology by experts
+Further economic, especially industrial activities
+Experts of the various disciplines involved in an impact
+pathway analysis could be asked by means of questionnaires to assess the validity of the various assumptions
+and calculations in their respective field of expertise.
+Several other industrial processes outside of the energy
+sector cause significant external effects as well, and the
+potential of new and innovative technologies replacing
+conventional processes is not only able to reduce factor
+Energy technologies are evolving, and their externalities
+should be reassessed periodically. Of particular interest
+would be a life cycle externalities analysis of fuel cells,
+including the impacts of hydrogen production. A new life
+cycle externalities analysis is also appropriate for renewables, because the technologies have been improving and
+their use is expected to increase.
+New technologies in the transport sector
+Vehicle propulsion technologies are evolving, internal
+combustion engines are being improved and new systems
+such as fuel cells and hybrid systems are approaching
+market maturity. For this reason the externalities should
+be reassessed. In addition, new transport technologies,
+e.g. airship-based logistics services, are being developed
+which should be assessed.
+F u t u r e
+Research
+inputs and thus internal costs, but also external costs. In
+addition to the singular pilot case studies examined in the
+ECOSIT project that show the principal application of the
+ExternE results to further industrial processes, there is a
+growing need for these companies to have at hand a standardised decision-supporting instrument of its own for all
+strategic product and process decisions affecting health
+and environment. Such an instrument is helpful to meet
+environmental regulations and obligations, but becomes
+even more inevitable as companies of nearly all branches,
+e.g. car producers, nowadays are increasingly confronted
+with a strong awareness of their customers and shareholders regarding political correctness and environmental friendliness of the company and their products.
+Transfer of results to policy
+F u t u r e
+Research
+External costs can be internalised in a variety of ways, in
+particular environmental regulations (e.g. limit values for
+emission of pollutants), taxation or tradable permits.
+To help policy makers to use the results of ExternE,
+the implications for the economy should be studied,
+including distributional effects and taking into account the
+uncertainties.
+Dissemination
+Internet tool
+The EcoSense software can be made available on the
+Internet to enable others to carry out their own analysis
+of externalities.
+Stakeholder involvement
+Stakeholders (utility industries, policy makers, environmental organisations, consumer groups, etc) will be asked
+to react to the results of ExternE. Stakeholder involvement will be solicited by workshops and, more efficiently,
+by electronic communication (Internet site and e-mail).
+More information
+Research team contacts
+Web Pages
+carrying out the NewExt project
+ University of Stuttgart
+Institute of Energy Economics and
+Rational Use of Energy - IER
+Hessbrhlstrasse 49 a
+70565 Stuttgart, Germany
+Prof. Dr. Rainer Friedrich (Co-ordinator)
+Email: rf@ier.uni-stuttgart.de
+ Centre dnergtique - Ecole Nationale Suprieure
+des Mines - ARMINES, Paris, France
+http://www.externe.info/
+http://externe.jrc.es/ (past phases of ExternE)
+http://www.ier.uni-stuttgart.de/newext/ (current phase:
+NewExt)
+http://www.isis-it.com/doc/progetto.asp?id=46 (ECOSIT
+project)
+http://www.its.leeds.ac.uk/projects/unite/index.html
+(UNITE project)
+http://www.recordit.org (RECORDIT project)
+ Department of Economics and International
+Development, University of Bath, Bath, UK
+Publications
+ Vlaamse Instelling voor Technologisch
+Onderzoek NV - VITO, Mol, Belgium
+ExternE volumes available on e-mail request:
+domenico.rossetti-di-valdalbero@cec.eu.int
+ Universit de Paris 1 Pantheon-Sorbonne, France
+ Paul Scherrer Institut,Villigen, Switzerland
+ Volume 1: Summary
+ Volume 2: Methodology
+Moreover, there is a large network of European and
+world-wide institutions that apply the methodology of
+ExternE for national and international policy support.
+ Volume 3: Coal and Lignite
+ Volume 4: Oil and Gas
+ Volume 5: Nuclear
+ Volume 6: Wind and Hydro
+European Commission contacts
+Directorate-General for Research
+Domenico Rossetti di Valdalbero
+Rue Montoyer 75 7/1
+1049 Brussels, Belgium
+Tel: (32-2) 29-62811
+Fax: (32-2) 29-94991
+E-mail: domenico.rossetti-di-valdalbero@cec.eu.int
+Directorate-General for Energy and Transport
+Catharina Sikow-Magny
+Rue Demot 24 8/48
+1049 Brussels, Belgium
+Tel: (32-2) 29-62125
+Fax: (32-2) 29-55843
+E-mail: catharina.sikow@cec.eu.int
+ Volume 7: Methodology 1998 update
+ Volume 8: Global Warming Damages
+ Volume 9: Fuel Cycles for Emerging and
+End-Use Technologies,Transport and Waste
+ Volume 10: National Implementation
+Info
+Contents
+Foreword . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+Socio-economic research in the field of energy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+Definition of External Costs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
+Damages assessed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .6
+ExternE methodology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .8
+Applications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10
+Comparison of damage costs per kWh for coal, gas, nuclear and wind electricity . . . . . . . . . . . . . . . . . . . . . .12
+Comparison of damage costs between transport modes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .14
+Uncertainties and Reliability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .16
+Frequently Asked Questions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .18
+Future Research Topics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+Extending and Improving the Methodology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+Contents
+New Applications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+Dissemination . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .20
+More information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .21
+European Commission
+EUR 20198  External Costs
+Research results on socio-environmental damages due to electricity and transport
+Luxembourg: Office for Official Publications of the European Communities
+2003  24 pp.  21.0 x 29.7 cm
+ISBN 92-894-3353-1
+15
+implementation of sustainable development. In Europe, especially from the Gteborg Council, a strategy has been
+launched and the internalisation of external costs is becoming one common sustainable point.
+The ten years ExternE (External costs of Energy) socio-economic energy research project (10 millions of Community
+funding through the RTD Framework Programmes) has certainly played an important role in the assessment of the
+health and environmental effects coming from the production and use of energy.
+ExternE has not only been useful in terms of European awareness about the possibility to quantify - and therefore to
+internalise - external costs, but particularly to provide a coherent and complete accounting framework for European
+Union external costs for electricity and, partially, for transport sectors.
+The multidisciplinary team of researchers has furnished a common scientifically agreed methodology and made enough
+case studies to launch a concrete debate on the internalisation of external costs in Europe.
+ISBN 92-894-3353-1
+KI-NA-20-198-EN-C
+From the Earth Summit (Rio, 1992) to the Johannesburg conference (2002), a large step has been taken towards the

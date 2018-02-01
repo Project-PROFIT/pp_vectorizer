@@ -1,0 +1,246 @@
+|Best Practices                                                |
+|Financing                                                     |
+|The cases of Chile, America, Kenya, and Kiribati demonstrate  |
+|the importance of access to low-cost credit with flexible     |
+|options for rural households. There are numerous ways in which|
+|this can occur- through the government, local creditors,      |
+|foreign lenders, or through international organizations such  |
+|as the World Bank. One design that has been effective in the  |
+|rural setting is establishing a local member supported bank   |
+|that makes small loans. The case of Kenya exemplifies how hire|
+|and purchase agencies that naturally emerged as a result of   |
+|the PV market allowed households that had been previously     |
+|excluded entry into the market. Even though many households   |
+|are willing to spend a significant portion of their income on |
+|electricity, the high capital costs eliminate the possibility |
+|of electrification for many households. Credit can act as the |
+|bridge over the financial gap that hinders the lowest income  |
+|sector.                                                       |
+|Grassroots initiatives                                        |
+|The definitive buzzword but nonetheless true- planning from   |
+|the grassroots level is essential for sustainability.         |
+|Outsiders cannot know what will work best for a community. In |
+|the case of Kiribati, too much emphasis was placed on the     |
+|dissemination of photovoltaic systems- how people would react |
+|to them seemed to be a secondary concern. Even with what      |
+|seemed to be a flawless plan, photovoltaic systems sales      |
+|floundered because the people didn't accept them. This problem|
+|was resolved when sales posts turned their focus from pushing |
+|sales to maintenance, leading to higher levels of customer    |
+|satisfaction. Planning from the bottom up will more accurately|
+|reflect peoples needs. It also encourages consumer            |
+|participation, which is crucial for sustainability. When a    |
+|community plays an active role in an electrification project, |
+|the objective will remain in touch with what the people need  |
+|and the best way to incorporate it into their lives. As       |
+|demonstrated with the case of rural Mali, generators are only |
+|provided to villages that form an organization to finance and |
+|manage the endeavor, ensuring ownership and accountability.   |
+|The ultimate assessment of any rural electrification project  |
+|must be: how did this affect the peoples' lives? Grassroots   |
+|initiatives makes certain that this answer is as positive as  |
+|possible.                                                     |
+|Appropriate Technology                                        |
+|Energy can come from numerous possible energy sources- grid   |
+|extension, electric generators, and various forms of renewable|
+|energy. If economics weren't an issue, the ideal solution     |
+|would be to connect all the 2 billion without access to an    |
+|electric grid using renewable energy resources to generate the|
+|additional power needed, thereby at least partially leveling  |
+|out the playing field for the underprivileged. Of course,     |
+|economics is the issue, so choosing the appropriate technology|
+|for electrification requires being "technologically neutral"  |
+|and choosing the least cost option.                           |
+|Grid Extension                                                |
+|In the cases where grid extension is a viable option for a    |
+|village, it is usually the best method due to additional      |
+|benefits it provides in the community for those who can't     |
+|afford electricity such as public lighting and refrigeration. |
+|However, grid extension can be costly for far distances. When |
+|distance or other circumstances make an off-grid technology   |
+|comparatively less expensive, options include electric        |
+|generators or renewable resources.                            |
+|Generators                                                    |
+|Generators are the traditional alternative to a grid extension|
+|for populations in need of an off-grid energy source. They can|
+|provide energy for lighting, cooking, water pumps, as well as |
+|grinding machines, a virtual lifesaver for some women, as the |
+|case of the Multi-Functional Platform machines in Mali        |
+|demonstrates. Although more efficient than traditional forms  |
+|of energy such as burning wood or charcoal, generators        |
+|constantly require gas to run, which can be costly and present|
+|problems. In some cases, this cost is enough to make a diesel |
+|generator an unsustainable energy source. For Terese in       |
+|Ethiouar, although her village had a diesel machine, it was   |
+|not used due to the high operation costs of fuel. However,    |
+|under the right circumstances and the appropriate             |
+|dissemination and implementation programs such as the         |
+|multifunctional platform project in rural Mali, diesel        |
+|generators can have field success and are considered to be a  |
+|viable option for decentralized electricity.                  |
+|Renewable Energies                                            |
+|Renewable energies such as hydropower, solar, wind, and       |
+|biomass offer the benefit of decentralization that generators |
+|offer without the high operational costs, dependence on gas,  |
+|and pollution. Successful projects have most notably involved |
+|wind turbines, which generate electricity from wind, and      |
+|particularly photovoltaic systems, which generate electricity |
+|from sunlight. As the case studies of Kenya and Kiribati      |
+|demonstrate, photovoltaic systems have become a viable source |
+|of off grid electricity.                                      |
+|The problem that has kept photovoltaic systems (as well as    |
+|other renewable energies) in a niche market is it's high      |
+|capital cost: a home photovoltaic system costs around US$. The|
+|problem is exacerbated by the shortage of affordable credit   |
+|available to the rural population. Projects involving PV      |
+|technology must almost always receive funding from            |
+|international organizations, NGOs, or foreign governments.    |
+|However, experts predict that vast improvements in efficiency |
+|and cost will occur once the technology undergoes the         |
+|"learning curve", the exponential decrease of cost associated |
+|with any new technology, due to the "learning-by-doing"       |
+|phenomena and economies of scale11.                           |
+|An exciting future funding possibility  CDM                  |
+|A promising possibility for additional investment in renewable|
+|energy for rural electrification could result from the        |
+|ratification of the Kyoto Protocol, an international treaty   |
+|for reducing CO2 emissions. Under the treaty, the "annex"     |
+|(rich) countries would be required to reduce their CO2        |
+|emissions by varying quantities. A of the treaty allows for   |
+|these countries to partially fulfill their abatement          |
+|requirements by supporting carbon abating initiatives in      |
+|"non-annex" (poor) countries, called the Clean Development    |
+|Mechanism (CDM).                                              |
+|This would greatly increase funding for renewable energy      |
+|projects for those without access to the electricity grid. In |
+|turn, economists argue that such an influx of funds would     |
+|lower the cost for the rural population, which in turn would  |
+|increase demand, leading to increased production levels,      |
+|further reducing the cost. Unfortunately, the refusal of the  |
+|Bush Administration to sign the Kyoto Protocol has prevented  |
+|its ratification. To date, environmentalists, experts, and    |
+|activists are still fighting for its passage.                 |
+|                                                              |
+|Social benefits of renewable energy resources such as not     |
+|degrading the environment constitute a positive externality-  |
+|they are not reflected in the market cost. Government policy  |
+|should therefore try to correct this market failure with laws |
+|that encourage investment in renewable technologies to develop|
+|these markets. (For further reading on corrective policy for  |
+|renewable energies, see policy options).                      |
+|Appropriate Policy                                            |
+|Financing is the trickiest barrier to rural electrification   |
+|for the obvious reason that it is an expensive endeavor that  |
+|it's intended consumers cannot afford the cost of the         |
+|infrastructure and the service. Governments of developing     |
+|countries have traditionally responded to this problem by     |
+|funding electrification through public utility and subsidizing|
+|service, however these policies have historically led to      |
+|massive problems with corruption, inefficiency and lack of    |
+|accountability. These subsidies often disproportionately      |
+|benefit the wealthiest households and undermine any incentive |
+|to improve services or extend the grid. The challenge facing  |
+|sound policy is to devise a program that helps finance        |
+|electrification but allows for market mechanisms to ensure    |
+|efficiency and better allocate resources. Chile's policy is   |
+|exemplary in that it granted one-time subsidies (on a         |
+|competitive basis) and created market mechanisms whenever     |
+|appropriate. The outstanding results of the program confirm   |
+|the importance of good policy that corrects market failures   |
+|yet doesn't oversubsidize electricity.                        |
+|The Role of the International Community                       |
+|Rural electrification requires multilateral support. Starting |
+|from the rural sector, there must be a desire for electricity |
+|and a community willing to support a project. The government's|
+|job is to implement apropos policy, guiding the process and   |
+|addressing any market failures. The participation of the      |
+|international community is vital as lenders, introducers of   |
+|technology, foreign aid, and perhaps most importantly, as a   |
+|forum for knowledge sharing. The UNDP website for Energy and  |
+|Environment states:                                           |
+|"The UNDP helps countries strengthen their capacity to address|
+|these challenges at global, national and community levels,    |
+|seeking out and sharing best practices, providing innovative  |
+|policy advice and linking partners through pilot projects that|
+|help poor people build sustainable livelihoods."12            |
+|We must be cautious in not overstepping our boundaries from   |
+|providing aid to imposing on a countries political autonomy.  |
+|Unfortunately, once there are profits to be made, the         |
+|objectives of international aid can shift from apolitical     |
+|benevolence to a business opportunity. The actions of these   |
+|agencies reflect the ideology and the interests not of the    |
+|poor countries they are supposedly helping but the rich       |
+|countries who decide the agenda.                              |
+|For example, The United States (as well as other overly       |
+|developed countries) has zealously pushed the idea of         |
+|"privatization" and "market liberalization" as the answer to  |
+|economic growth, which in terms of rural electrification,     |
+|equates to the privatization of traditionally public          |
+|utilities. This notion, refered to as the "Washington         |
+|Consensus" is experienced in the most detrimental form when   |
+|these ideas are turned into stipulations for receiving aid    |
+|from the IMF and World Bank in the form of "Structural        |
+|Adjustment Programs" (SAPs). The ideology behind these ideas  |
+|is economically deterministic - complete faith in the market  |
+|as the answer to development. It's supporters argue that      |
+|publicly owned utilities only lead to inefficiencies and a    |
+|misallocation of resources, and without competition, these    |
+|industries lack incentive to decrease costs. In theory, these |
+|statements are true, only it fails to address what happens    |
+|when privatization and market liberalization occur before     |
+|proper social programs and regulations are put into effect.   |
+|Often times "privatization" does not mean competition and     |
+|increased efficiency, it means foreign investors with no      |
+|concern for social issues buying electric companies, thereby  |
+|inheriting an effective monopoly. Corrupt government officials|
+|would be rewarded heavily by the foreign company into         |
+|undervaluing electric companies to be sold below their value. |
+|With a monopoly, foreign firms with no regard for the social  |
+|implications of their actions could then hike up prices. What |
+|was once poor service would become cutthroat.                 |
+|This sequence of events is not uncommon. In the Dominican     |
+|Republic, for example, World Bank funded the construction of a|
+|power plant, half of which Enron then acquired in 1995. Four  |
+|years later, as the Dominican Republic privatized their energy|
+|sector, Enron claimed a higher percentage of Dominican        |
+|Republic's electricity industry. Power rates then skyrocketed,|
+|followed by rolling blackouts. After citizens also discovered |
+|that Enron and other foreign companies had purchased their    |
+|public electric company almost $1 billion less than its real  |
+|value, rioting ensued killing eight people. Riots due to      |
+|Enron's practices as a buyer of a previously state owned      |
+|electric company have also occurred in Panama, Columbia,      |
+|Guatamala, Bolivia, India, and numerous other developing      |
+|countries13. In fact, this scenario has happened so frequently|
+|in developing countries that it's argued that electrification |
+|projects funded by development agencies help large,           |
+|multinational corporations secure business deals and expand to|
+|new markets as opposed to helping developing countries.       |
+|Research from the Institute of Policy Studies shows that nine |
+|out of ten World Bank energy projects benefit corporations    |
+|from a G-7 country (US, Canada, Japan, Germany, France,       |
+|Britain, and Italy 14.                                        |
+|The support of the international community is crucial for the |
+|knowledge, financing, technology it can provide, as well as   |
+|building capacity. However, empirical evidence suggests that  |
+|local initiatives are more likely to reflect the desires of   |
+|that specific population. In contrast, international          |
+|development projects can often fall into the hands of people  |
+|who care less about society's welfare and more about the      |
+|bottom line. As members of the international community, it is |
+|our responsibility to hold these agencies accountable for     |
+|their actions by speaking out against injustice and fighting  |
+|for those who, due to poverty, can't be heard.                |
+|[pic]                                                         |
+|<<back || index || next>>                                     |
+Tell your friends about this page!
+[pic]Bookmark this page  Add this to your Favorites [pic]
+If you speak another language fluently and you liked this page, make a
+contribution by translating it! [pic]
+          For additional translations check out FreeTranslation.com
+  (Voor vertaling van Engels tot Nederlands) (For oversettelse fra Engelsk
+                                 til Norsk)
+[pic]
+GENI  PO Box 81565, San Diego, CA, USA 92138  Phone: (619) 595-0139
+Fax: (619) 595-0403   Email: info@geni.org   http://www.geni.org  
+Updated: 2004/06/09

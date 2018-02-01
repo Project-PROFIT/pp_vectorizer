@@ -1,0 +1,503 @@
+Finance Initiative
+January 2004
+Innovative financing for sustainability
+CEObriefing
+A document of the UNEP FI Climate Change Working Group
+Emissions
+Trading
+Climate Change
+Working Group
+Statement
+missions trading is an economically efficient, market-based
+instrument that encourages the transition to a more sustainable
+economy. We see domestic and regional trading as a positive
+first step. International trading schemes, such as the Kyoto Protocol
+flexible mechanisms and the European trading regime, offer the
+opportunity to capitalise on widely varying emission abatement costs.
+The flexible mechanisms are an effective way to reduce emissions at a
+lower cost, recognising that their efficiency depends largely on their
+design. The financial sector will play an important role in the operation
+of this international market and from the perspective of the financial
+services sector, we recommend thorough consideration of the following
+issues when implementing the emissions trading market.
+Purpose
+In the first of a series of business-relevant
+opinion papers by the UNEP FI Climate
+Change Working Group, we explore the
+Scope and size The successful development of an emissions
+trading market depends on the liquidity of the market. An international
+emissions trading regime requires not only a broad range of sectors but
+also sufficient volume to ensure an adequate diversity of contracts.
+issue of emissions trading from a financial
+sector perspective. The first CEO Briefing1 on
+climate change and the financial services
+industry offered strong support for market-
+Market access Traders and financial intermediaries increase
+market liquidity and reduce volatility and are therefore a necessary
+component in an emissions trading scheme.
+based solutions to climate change including
+emissions trading. This paper follows up on
+some of the key recommendations 
+outlining the current political developments,
+explaining the manner in which companies
+Market compatibility Transferability of certificates across
+regional and national markets, and between flexible mechanisms for
+example, is an important condition for market liquidity and cost efficient
+emissions reduction.
+are affected, discussing the risks and
+ Neg-Micon
+opportunities emissions trading presents,
+and delving into the role of financial services
+providers in diminishing the respective risks
+and creating new opportunities.
+Emission reduction targets Within such an international
+trading scheme, absolute emission reduction targets, as called for by the
+Kyoto Protocol, are an important prerequisite for credible, efficient and
+effective emissions trading.
+1. Emissions Trading  Political
+and market framework
+Emissions Trading under the UNFCCC and Kyoto Protocol
+The United Nations Framework Convention on Climate Change (UNFCCC) is one of the most
+universally supported international environmental agreements to date. Entering into force in March
+1994, the convention has been joined by 188 states and the European Community (EC) thus far.
+Since 1995, the Parties to the Convention have met annually at the Conference of the Parties, known
+as the COP, to monitor progress and discuss issues related to the implementation of the Convention.
+Climate
+change risks
+are an
+important
+challenge
+for the
+international
+financial
+markets 
+Emissions
+Trading is an
+efficient way
+to manage
+these risks.
+Otto
+Steinmetz
+Chief Risk Officer
+Dresdner Bank
+During COP 3 in 1997, a substantial extension to the Convention was adopted in Kyoto, Japan 
+the Kyoto Protocol  outlining legally binding greenhouse gas (GHG) reduction commitments.
+The agreement commits developed countries to reduce their GHG emissions by an average of 5%
+below 1990 levels by the years 2008 to 2012. The Kyoto Protocol will enter into force ninety days
+after a minimum of 55 parties (accounting for at least 55% of the total carbon dioxide (CO2 )
+emissions for 1990) deposit their instruments of ratification, acceptance, approval or accession.
+The protocol is breaking new ground with the incorporation of three innovative market
+mechanisms  International Emissions Trading (IET), Joint Implementation (JI) and the Clean
+Development Mechanism (CDM). The three mechanisms are designed to improve the costeffectiveness of climate change mitigation by enabling parties to cut emissions more cheaply
+abroad than at home. This is important given that the net effect of mitigation on the atmosphere is
+the same regardless of where on the planet the action is taken.
+As of November 2003, 119 parties had joined the Kyoto Protocol. Russias outstanding but
+anticipated ratification would lift the total percentage of CO2 emissions over the 55% threshold,
+bringing the protocol into force.
+In preparation for the trading scheme under the Kyoto Protocol, a number of emissions trading
+initiatives have already emerged, some on a global and others on a regional scale:
+The Chicago Climate Exchange (CCX), a voluntary CO2 trading market in the US, started
+trading in December 2003.
+In July 2003, the European Community (EC) adopted a Directive on establishing a scheme for
+mandatory GHG emissions allowance trading within the Community from 2005.
+A pilot scheme, the Prototype Carbon Fund (PCF), was initiated in 2001 by the World Bank
+with the aim of achieving emission reductions within the framework of JI and the CDM. Two
+new funds, the BioCarbon Fund (BCF) and the Community Development Carbon Fund (CDCF)
+are also being launched in 2003.
+Under International Emissions Trading, industrial countries can trade part of their emissions
+budget, known as Assigned Amount Units (AAUs), which will be allocated to the Kyoto Protocol
+signatory states. A party with high marginal costs of reduction can acquire emission reductions
+from another party with lower costs of reduction. This helps both the buyer and the seller reduce
+their emissions at minimal cost. Legislators implement emission reductions by decreasing the
+number of certificates available in the market. This provides incentives for companies to invest in
+emission abatement technologies. In principle, this trading regime applies to nation states,
+although the participation of companies is not entirely excluded.
+Joint Implementation and the Clean Development Mechanism are project-based mechanisms,
+as emission certificates are generated via concrete emission reduction projects. Under JI, an
+industrialised country invests in emission reduction projects in another industrialised or
+transformation country and receives credits for achieved emission reductions - the Emission
+Reduction Units (ERUs). Under the CDM, an industrialised country invests in projects in a
+developing country and obtains credits for achieved emission reductions called Certified
+Emission Reduction Units (CERs). ERUs and CERs can be used as equivalents to AAUs towards
+compliance with the reduction target of the Kyoto Protocol. Useful link: http://unfccc.int
+UNEP FI  Emissions Trading
+The Netherlands initiated two national tender programmes in 2001 to purchase CO2 certificates
+from JI and CDM projects (ERUPT/CERUPT).
+Since 2001, Denmark and the UK have both initiated domestic trading schemes.
+A domestic emissions trading scheme for sulphur dioxide, the Acid Rain Program, was
+established in 1990 in the US.
+New national tender programmes to purchase CO2 are being launched, or being considered by
+other governments in Europe (e.g. Austria, Denmark, Finland, Sweden etc.).
+Canada and Japan are considering putting in place domestic emissions trading schemes.
+From 2008, international emissions trading should be possible under the Kyoto Protocol.
+Against this background, the international market for GHG emission certificates is still highly
+fragmented, but will become more homogenous when the Kyoto Protocol enters into force. Of all
+the current initiatives, the ECs proposed scheme, due to start in 2005, is the most ambitious and
+will create the worlds largest CO2 market.
+Traded Volumes 1996-2003 Source: PointCarbon
+Volume CO2e (Mt)
+North
+America
+Other
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+Other
+Denmark
+Auction
+Market
+CERUPT
+ERUPT
+Emissions Trading in the European Community
+Commencing 1 January 2005, large energy-using sites in selected industries in the EC and their
+accession countries will have to limit their emissions of GHGs (most notably CO2) to allocated
+levels. The first commitment period will be between 2005 and 2007 and the second period will run
+from 2008 to 2012. Emissions trading will create an economically efficient and ecologically
+effective way of fulfilling the EC countries reduction targets established by the Kyoto Protocol.
+The principles underlying the EC emissions trading system are simple:
+Companies within targeted sectors will be allocated permits and at the end of each year must
+hold sufficient allowances  the so called EU allowances (EUAs)  to cover their permits.
+Companies reducing emissions in affected plants to below the annually allocated emissions
+budget can sell their excess EUAs to companies requiring additional certificates.
+Companies emitting GHGs without permission are subject to sanctions. During the first
+commitment period, the EU member states will apply an excess emissions penalty of  40 for
+each tonne of CO2 emitted by that installation for which the operator has not surrendered
+allowances. From 2008 onwards, the penalty will be  100 per tonne. Payment of the excess
+emissions penalty will not however, release the operator from the obligation to surrender those
+allowances representing excess emissions in relation to the following calendar year.
+UNEP FI  Emissions Trading
+According to the European Commission, some 1,200 million tonnes of CO2 will be included in the
+system throughout Europe, corresponding to approximately 46% of the Communitys 2010 CO2
+emissions.
+Who is affected and what are the risks?
+Those sectors and installations affected by the Directive are highlighted in the table below. Some
+12,000 European installations will have clearly defined limits for their CO2 emissions.
+Sectors covered by the scheme
+Energy sector
+Metals sector
+combustion*
+excluding waste
+combustion
+mineral oil
+refineries
+coke ovens
+* (over 20MW
+thermal, aggregated
+for all on-site
+activities)
+ores
+pig iron and steel
+(over 2.5t per hour)
+Minerals sector
+Others
+cement
+(over 500t per day)
+lime
+(over 50t per day)
+pulp
+paper
+(over 20t per day)
+glass
+(over 20t per day)
+ceramics
+(over 75t per day)
+As early as March 2004, the member states governments must present national allocation plans
+which will determine the participating companies initial emission budgets.
+Carbon risk management for companies
+Against this background, all companies participating in the scheme should realise that CO2 risk
+management will emerge as an important factor in their decision-making. The most important risk
+categories for individual companies resulting from emission reduction targets are:
+cash flow risks, such as increased expenditure on measures aimed at reducing CO2 or the
+purchase of emission allowances;
+market perception risks which may influence market capitalisation; and
+capital cost risks, such as more stringent credit conditions as a result of altered credit risk
+ratings. The drawing up of emission inventories and measures taken to increase energy
+efficiency will, in future, play important roles in the financial rating process.
+To understand their potential carbon risks, companies should have in place a robust and accurate
+GHG inventory which details past, current, and projected future emissions. They should
+understand the marginal abatement cost options available from different GHG mitigation strategies
+and they should understand the tools that are available to achieve compliance within different
+GHG regulatory regimes.
+Financial services providers can assist companies in managing these effects, and in particular,
+reducing the transaction costs of trading by offering new products and services.
+UNEP FI  Emissions Trading
+2.Risk management tools from
+the banking perspective
+Offering new products and services to reduce the risk of emissions trading for corporate customers
+is a new business challenge for banks. Furthermore, banks usually hold stakes in the companies
+affected by trading. Consequently, the risks and opportunities for those companies are also risks
+and opportunities for the banks. The complexity of emissions trading requires a wide range of
+products and services that effectively hedge against risks emerging from the Kyoto Protocol
+and the European trading scheme.
+Most importantly, various types of derivatives can be used, such as:
+forwards: the purchase of emission allowances to be supplied in the future at a fixed price 
+currently the most common type of market-traded allowance;
+options: a guarantee of the right to purchase or sell allowances at a fixed price within a defined
+period of time; and
+swaps: the exchange of payment obligations so that different allowance currencies can be
+exchanged.
+The market for EUAs, traded on a forward basis, has already started to emerge in 2003. Current
+market estimates indicate a steep rise in traded EUA volumes in future years.
+The EU Allowances Market  Estimations concerning volume
+Source: PointCarbon
+1000
+Volume CO2e (Mt)
+2005
+2006
+2007
+Besides derivatives trading, banks can offer the service of EUA portfolio management while taking
+over the responsibility of their clients EUA accounts. The most striking advantage of such a service
+is that it is not necessary to set up internal expertise in the affected companies, thus resulting in
+lower transaction costs.
+Emissions trading also offers potential business in the field of project finance  providing project
+developers with the chance to generate additional income sources by investing in energy-efficient
+technology. This applies to JI and CDM projects, where the inclusion of emission credits in the
+analysis of a projects credit quality could become imperative. In principle, the securitisation of
+these cash flows could either help to reduce the financing needs of a project developer or reduce
+the re-financing costs by embedding them into interest rate derivatives. Accordingly, emission
+certificates could help plant developers with new financing mechanisms, thereby leading to more
+sophisticated structures as the market expands. However, the practical experiences have shown
+that there are still many political and technical obstacles to overcome.
+UNEP FI  Emissions Trading
+3.Risk management tools from
+the insurance perspective
+The response of the insurance and reinsurance industries to the challenge of providing their clients
+with solutions to enable compliance with emissions trading requirements has been gathering pace
+over the last few years. A number of the solutions provided are adaptations of classic risk transfer
+solutions whilst others break new ground, in some cases blending insurance and financial
+products.
+Directors and Officers
+The financial
+sector has a key
+role to play in
+delivering market
+solutions to
+climate change.
+2002 Study
+UNEP FI Climate
+Change Working Group
+Directors & Officers (D&O) insurance products offer cover to senior executives for their
+professional liability as company leaders. As soon as there is a legal obligation to reduce GHG
+emissions, new liabilities are likely to be faced by companies and their top executives. Whilst fines
+or penalties resulting from a breach of law would not be covered under a D&O policy,
+inappropriate or inadequate management of climate risks, resulting in a failure to protect a
+companys interests, could potentially lead to proceedings being taken against senior decisionmakers. A possible cause for action could arise if shareholder value was perceived as being
+damaged due to such a failure of management.
+Professional Indemnity
+As part of the process of creating emission certificates, a pivotal contribution will be made by those
+who verify that certificates meet the required standards. Those conducting validation, verification
+and certification work, such as auditing organisations, will carry additional responsibilities. These
+roles will require professional indemnity policies to cover the new areas of practice.
+Project Finance
+The focus of many emission reduction activities will most likely be project-based. Therefore,
+project finance, whether offered by the banking, insurance or reinsurance industries, offers new
+opportunities when applied to projects aimed at reducing emissions (and clean energy in general).
+By reducing the risks associated with emission reduction schemes through such tools as carbon
+delivery guarantees, contingent guarantees and traditional insurance products (e.g. fire,
+engineering and construction coverage for the projects themselves), a number of benefits should
+logically follow, including increased project investment ratings, reduced financing costs and
+improved return on equity.
+Delivery Guarantee
+Delivery guarantees are products offered by the insurance industry where the re/insurer acts as
+guarantor and financial compensation is paid if a product is not delivered according to agreed
+terms and conditions. This system can be used as a facilitator leading up to, and in the early years
+of, an emissions trading scheme. It is likely that instead of a monetary amount, the re/insurer of a
+project failing to deliver CERs would pay compensation in the form of CERs.
+An example of this could be as follows: to ensure future compliance with its emissions ceiling, a
+buyer has the option to buy CERs in advance directly from a seller. After locating a seller, the buyer
+agrees to purchase a specified number of CERs. In the early stages of any new market system,
+there is a higher degree of uncertainty, especially if the production time (order to delivery) is
+extended over several years. It is therefore likely that, due to a potential risk of non-delivery, the
+seller is required to reserve a larger quantity of CERs for the buyer than the buyer requires.
+This gives the buyer a buffer to increase the probability that the quantity of CERs it requires will
+indeed be delivered.
+Alternatively, the re/insurer with contacts to CER sellers agrees to purchase a large quantity of
+credits from various sellers. Having done this, the re/insurer would then guarantee delivery to
+various buyers. This reduces the risk of failure of delivery and removes the need for the buyer to
+locate suitable sellers. Through this process, both buyer and seller benefit as the risk associated
+with the transaction is reduced and the important element of confidence is added to the system.
+In addition to delivery guarantees, the risk of non-delivery can also be covered by other risk
+management tools such as extension of trade and investment insurance.
+UNEP FI  Emissions Trading
+Furthermore, it is likely that additional risk transfer and finance solutions will be required in the
+future. For example, the area of business interruption has not yet been widely discussed. A seller
+of CERs may wish to protect itself from a financial loss following its inability to deliver the CERs
+because of an unforeseen event such as a fire. Equally, the buyer of CERs may require a
+contingency business interruption cover to protect itself should it suffer a financial loss due to the
+supplier being unable to provide the CERs. Although the concept remains the same as
+conventional business interruption insurance, the best approach to this product, in relation to the
+requirements of emissions trading, needs to be discussed within the industry and its clients.
+4.Beyond compliance  GHG
+neutral products and services
+The emergence of carbon markets is leading to new opportunities for financial institutions beyond
+that of emissions trading. Looking at current trends, there is evidence that consumer choice is
+being affected by companies attitudes towards the issue of climate change. Offering GHG neutral
+products and services is a way to capitalise on these trends.
+One way to offer GHG neutral products is for a company, community or individual to offset
+emissions in order to help achieve an overall GHG neutral situation. For example, goods, raw
+materials and services could be delivered to a company carbon neutral. A similar approach can be
+taken with the provision of services. For example, a growing number of conferences and other
+events are being promoted as GHG neutral. On a private individual level, consumers may be
+offered the choice of buying their day to day goods in a verfied carbon neutral format, thus
+offering new product opportunities for producers.
+So what is the basic idea of GHG neutral products and services? Prior to delivery, a supplier would
+offset the GHGs attributable to its products through the payment of a fee or contribution.
+The financial institution, acting as an independent asset manager, would take these contributions
+and use its experience in risk management and project finance to invest in GHG-offsetting and
+mitigation projects. Examples of projects could include those focusing on renewable energy or
+energy efficiency. The products would then be delivered to consumers and other businesses as off
+the shelf GHG neutral products. This would also assist downstream businesses by reducing or
+eliminating the amount of active offsetting they would need to conduct themselves.
+There is evidence of the willingness of consumers to pay an additional fee for products which are
+GHG neutral.
+How to offer GHG neutral products
+Consumer choice
+Standard
+Product A
+Additional contribution
+Standard
+Product B
+GHG Neutral
+Product
+1. The study Climate
+Change and the
+Independent fund manager
+Financial Services
+Industry was
+Emission offset fund
+commissioned by the
+United Nations
+Environment
+Programme Finance
+Projects to offset
+consumer emissions
+Initiative (UNEP FI) in
+2002. The CEO
+Briefing is a summary
+of the complete study.
+UNEP FI  Emissions Trading
+Verification
+of offset
+UNEP FI
+The United Nations Environment Programme Finance Initiative (UNEP FI) is a unique global
+partnership between UNEP, financial institutions, insurance and re-insurance companies and fund
+managers. Based in Geneva, Switzerland, UNEP FI has over 260 member institutions worldwide.
+UNEP is headquartered in Nairobi, Kenya. UNEP has eight divisions through which it carries out its
+activities, including the Division of Technology Industry and Economics (DTIE) based in Paris,
+France. The Economics and Trade Branch (ETB), based in Geneva, Switzerland, is a branch of
+DTIE. The Finance Initiative is a unit of the ETB.
+http://unepfi.net/cc
+UNEP FI Climate Change Working Group members
+Project team
+Olivia Lister
+Environmental Risk Manager
+Abbey
+Milton Keynes, UK
+Tel +44 1908 348 419
+olivia.lister@abbeynational.co.uk
+Sascha Lafeld
+Corporate Sustainability Unit
+Dresdner Bank AG
+Frankfurt, Germany
+Tel +49 69/2635 8612
+sascha.lafeld@dresdner-bank.com
+The designations
+employed and the
+presentations of
+the material in this
+publication do not imply
+the expression of any
+opinion whatsoever on
+the part of the United
+Nations Environment
+Programme (UNEP),
+the United Nations
+Environment
+Programme Finance
+Initiative (UNEP FI),
+or any of its member
+organisations,
+concerning the legal
+status of any country,
+territory, city or area of
+its authorities, or concerning the delimitation
+of its frontiers or boundaries. Moreover, the
+views expressed do not
+necessarily represent
+the decisions or the
+stated policy of UNEP,
+UNEP FI or any of the
+contributing member
+organisations of UNEP
+FI. The citing of trade
+names or commercial
+processes does not
+constitute
+endorsement.
+Design and production:
+Rebus, Paris
+Printed in France
+Thomas Loster
+Head, Weather/Climate Risks Research
+Munich Reinsurance Company
+Munich, Germany
+Tel +49 89/3891 5287
+tloster@munichre.com
+Mark Way
+Group Sustainability Management
+Swiss Re
+Zurich, Switzerland
+Tel +41 43 285 3640
+mark_way@swissre.com
+Review panel
+Iris Gold
+Vice President
+Citigroup
+New York, USA
+Tel +1 212 816 6677
+iris.gold@citigroup.com
+Dirk P. Kohler
+Managing Director
+GSDP Global Sustainable Development Project
+Marseilles, France
+Tel +33 4 96 11 68 21
+gsdp@gsdp.fr
+Colin Le Duc
+SAM Sustainable Asset Management
+Zurich, Switzerland
+Tel +41 1 397 1010
+colin@sam-group.com
+Paul Clements-Hunt
+Head
+UNEP Finance Initiative
+Geneva, Switzerland
+Tel +41 22 917 8116
+pch@unep.ch
+Advisors
+Andrew Dlugolecki
+Andlug Consulting
+Perth, Scotland
+Tel +44 1738 626 351
+andlug@hotmail.com
+Julian Salt
+Climate Solutions Consultancy
+Canterbury, UK
+Tel +44 1227 379 880
+jesalt@tiscali.co.uk
+Kirsty Hamilton
+Policy Consultant
+London, UK
+Tel +44 7986 355 561
+kirsty_hamilton@hotmail.com
+Editor
+Scott Flemming
+Consultant
+UNEP Finance Initiative
+Geneva, Switzerland
+Tel +41 22 917 8686
+scott.flemming@unep.ch

@@ -1,0 +1,754 @@
+EEA COMMENTS INCORPORATED
+VERSION-3 (13.04.04)
+                 ENERGY FUEL SUBSIDIES IN THE EUROPEAN UNION
+                                                                Prepared by:
+                                                    AEA Technology  for  the
+                                                 European Environment Agency
+                                        on the occasion of the International
+                                           conference for renewable energies
+                                                                 (June 2004)
+    Table of Contents
+1.  Summary and Conclusions  3
+2.  Introduction 4
+3.  Energy Subsidies - Overview   5
+4.  Estimating EU Subsidies  8
+5.  A Historical Perspective 11
+6.  Addressing Market Failures    12
+7.  References   15
+Tables and Figures
+Table 1.    2001 Estimated Direct and Indirect Subsidies in the EU  9
+Table 2.    Support policies for renewable technologies in the EU   10
+Table 3.    Public Energy R&D expenditure by technology  EU 15     12
+Table 4.    USA.  Nuclear vs. Renewable Industry Development  12
+Figures
+Figure 1.   Falling Costs of Renewable Technologies      11
+      1.  Summary and Conclusions
+There is no agreed definition of energy subsidies between EU member
+states or reporting organisations. The term may include direct, indirect
+or implicit mechanisms, as well as the failure to correct market
+imperfections, such as not allocating external cost or recognising energy
+security costs. This results in a wide range of economic estimates and
+confused policy argument. Similarly, beyond the annual report of direct
+state aid for the coal industry, there is no harmonised reporting
+mechanism.  Several attempts have been made over recent years to provide
+a full audit of EU energy support by the European Parliament (Oosterhuis
+2001) and the European Commission (2003a). Both are snapshots based upon
+best available data, rather than structured ongoing reviews and have not
+been updated since.
+This paper has synthesized data from across a range of sources to
+estimate the size of support to energy sources. Total direct and indirect
+subsidies are estimated in the order of Euro 25 billion per year. Despite
+the significant air pollutant and carbon dioxide emissions emanating from
+the burning of fossil fuels, the amount of fossil fuel subsidies remains
+high, particularly in the area of coal[1]. Support for renewables, which
+is generally considered environmentally beneficial, is increasing
+steadily through the introduction of regulatory support mechanisms. On a
+per unit basis renewables attract higher support than other fuel types.
+There is an emerging debate over whether this level of funding can be
+justified.
+To reach more definite conclusions over the appropriateness of the
+amounts of subsidies on the different fuels requires developing a clear
+picture on the scale and scope of support for different fuel types across
+the EU. The lack of consistent subsidy data and assumptions is an
+obstacle to this. A harmonised reporting framework on the basis of an
+agreed definition of what constitute an energy subsidy is needed for
+Europe.
+Making a direct comparison between current support for renewable
+technologies and that for more established industries is however
+misleading.  Renewable energy is a much less mature industry, requiring
+significant technological and market support.  It should be expected that
+subsidy requirements for the industry will fall as costs decline and the
+technologies mature.  In historical terms, renewable energy subsidies in
+the EU are relatively low in comparison to other forms of energy during
+periods of fuel transition and technology development.  In addition, the
+fossil fuel and nuclear industries continue to benefit from the
+technological and industrial infrastructure built up during previous
+decades, and enjoy a high level of state ownership across the member
+states.
+Renewable energy support must also be understood in the current market
+context. Energy market liberalisation and privatisation have led to lower
+energy prices, greater energy price volatility and increased commercial
+risk for new capacity investment. This has created concerns about energy
+security in the event of limited private investment in new capacity.
+The projected retirement of a substantial number of fossil fuel plants in
+the EU will create great opportunities for replacement by cleaner
+technologies. Unlike government the private sector carries little or no
+obligation to address long-term energy security or environmental issues.
+It is the responsibility of government to ensure that the market responds
+to these.
+With current levels of support the EU renewable energy indicative targets
+by 2010 will not be met.
+Renewable technologies offer the benefits of both increased energy
+security and reduced environmental impacts.  The policy rationale for
+their economic support will be strengthened as their contribution to
+reducing price volatility and lowering overall emissions is better
+understood and quantified.  In the light of this, governments are prudent
+to value these benefits and to set long-term price signals for industry
+development.
+      2.  Introduction
+This paper has been prepared by AEA Technology for the European
+Environment Agency on the occasion of the International Renewables
+Conference (June 2004).
+It sets out a brief overview of energy subsidy rationale, definition and
+reporting, before providing an overview of subsidy activity per energy
+fuel in the European Union. It goes on to call for a more integrated
+approach to recognising the economics of environmental and security
+benefits presented by the increased role of renewables in national energy
+portfolios. The paper does not examine energy conservation subsidies and
+includes only EU-15 estimates of energy fuel subsidies due to lack of
+data.
+Economic and policy context
+Energy subsidy reform and the environment. The 6th Environmental Action
+Programme of the European Union encourages reforms of subsidies with
+considerable negative effects on the environment and that are
+incompatible with sustainable development and stresses the need to
+undertake as soon as possible an inventory and review of subsidies that
+counteract an efficient and sustainable use of energy with a view to
+gradually phasing them out (European Parliament and Council 2002).
+In general, subsidies supporting fossil fuels  particularly coal and
+oil  represent greater threats to the environment than those that aid
+renewable energy sources. Those that support nuclear power contribute to
+unique environmental and safety issues, related mostly to the risk of
+high-level environmental damage, rather than ongoing degradation.
+Subsidies to renewable energy are generally considered, on balance,
+environmentally beneficial, although the full range of environmental
+effects of renewable energy (including those beyond the energy sector)
+also needs to be taken into account. (OECD 2004).
+Renewable energy targets. EU countries have committed to 2010 renewable
+energy targets[2] and discussions on more ambitious 2020 targets (up to
+20% of renewable energy) have begun, driven to a large extent by energy
+security and environmental concerns (including the Kyoto Protocol).
+Renewable energy is forecast to be a significant component in meeting new
+demand (IEA 2003). However these targets are unlikely to be met with
+current policies and measures.
+Liberalisation and new capacity. In Western Europe since the 1990s the
+energy sector (in particular the electricity sector) has undergone
+significant liberalisation and privatisation, resulting in declining and
+more volatile (fluctuating) electricity prices. Existing fossil fuel and
+nuclear generators, established with public money and benefiting from
+depreciated assets have lower marginal costs than new renewable
+technologies and are better able to manage the downward price pressures.
+Volatile energy prices have created barriers to private investment in new
+capacity, resulting in falling reserve margins compared to those present
+in the 1990s as the replacement of old capacity lags behind retirement.
+Carbon dioxide emissions. Annual power sector emissions are expected to
+rise by a third in EU-15 by 2030 as a result of forecasted increase in
+energy demand during the same period (IEA 2003). A substantial number of
+fossil fuel plants in Europe are projected to retire. However, the
+required increased capacity investments might give rise to pressure to
+defer decommissioning decisions. If fossil fuel plants remain in
+operation longer than currently assumed in the projections C02 emissions
+will be much higher.
+      3.  Energy Subsidies - Overview
+Traditionally, energy sector support has been justified on the basis of
+growth, as high or volatile energy prices can dampen other areas of
+economic activity. State intervention in energy markets can normally be
+described as having one of the following three aims:
+Security of Supply: Since the oil crisis of the 1970s, governments have
+used subsidies to ensure adequate domestic supply. Subsidies have been
+provided specifically for indigenous fuel sectors in order to minimise
+import dependency. Energy subsidies play an important role in a wider geo-
+political context, and foreign policy objectives may influence funding
+for the domestic energy sectors.
+Environmental Improvement: Energy subsidies can also be used to reduce
+pollution (SO2, Nox, particulates or greenhouse gas emissions, and to
+fulfil responsibilities under related international protocols and
+treaties. These activities reflect government action to address market
+imperfections in the pricing of external environmental costs in the price
+of energy.
+Economic Benefits: Energy subsidies may be used to support and stimulate
+the wider economy through lower energy input prices. They can also
+provide opportunities for supply and export in the energy technology
+markets. Energy subsidies may be deployed as part of an investment in
+regional employment and social cohesion, and in managing periods of
+economic transition.
+Subsidy reform is resisted for a range of reasons, commonly known as
+lock-in mechanisms.  Those in receipt of economic support may use their
+economic and political influence to maintain a given subsidy regime (rent
+seeking). On an international stage, individual governments find it
+difficult to pursue subsidy reform or elimination for fear of losing
+competitiveness if other nations do not pursue a similar agenda.
+Arguments may also be made that the removal of subsidies will not result
+in the desired positive effects (e.g. abolition of domestic coal
+subsidies may lead to a switch to cheaper imported coal, rather than
+renewable sources), or that subsidised industries return more to the
+state in tax than they receive.
+Defining Energy Subsidies
+There is no internationally agreed definition of energy sector subsidies.
+Within the EU, only the Producer Subsidy Equivalent is reported for the
+coal industry on an annual basis, but this mechanism only reflects direct
+budgetary transfers, and does not include other areas of indirect
+support.
+The OECD (2003) defines subsidies as follows:
+any measure that keeps prices for consumers below market levels, or for
+producers above market levels or that reduces costs for consumers and
+producers
+Narrow definitions that refer to a direct cash payment to an energy
+producer or consumer ignore a range of other indirect support mechanisms,
+including tax measures, trade restrictions and regulatory frameworks
+(purchase obligations and price controls) that provide effective economic
+assistance. Table 1 provides an overview of the various types of support.
+   Table1. Types of Energy Subsidy
+|Government Intervention |Example                                 |
+|Direct Financial        |Grants to Producers                     |
+|Transfers               |Grants to Consumers                     |
+|                        |Low-interest or preferential loans to   |
+|                        |producers.                              |
+|Preferential Tax        |Rebates or exemption on royalties,      |
+|Treatments              |duties, producer levies and tariffs     |
+|                        |Tax credit                              |
+|                        |Accelerated depreciation allowances on  |
+|                        |energy supply equipment                 |
+|Trade Restrictions      |Quota, technical restrictions and trade |
+|                        |embargoes                               |
+|Energy-related services |Direct investment in energy             |
+|provided by Government  |infrastructure                          |
+|at less than full cost  |Public research and development         |
+|Regulation of the energy|Demand Guarantees and mandated          |
+|sector                  |deployment rates                        |
+|                        |Price controls                          |
+|                        |Market-access restrictions              |
+|Failure to impose       |Environmental externality costs         |
+|external costs          |Energy security risks and price         |
+|                        |volatility costs                        |
+                                  Source: Table adapted from IEA/UNDP (2002)
+The last item in the table is the most complex and controversial, as it
+refers to a lack of government intervention (i.e. a failure to ensure
+that all costs and benefits are reflected in prices). The failure to
+impose external costs is not a subsidy in the traditional sense, but
+nonetheless, these external costs remain a transfer from the private to
+the public domain. External costs vary considerably between energy
+sources, and were these to be accurately reflected in price, certain
+sectors would benefit at the expense of others. The difficulty comes in
+quantifying these external costs with a level of certainty that the
+energy sector can agree upon, and these have therefore not been included
+in our total estimate.
+Direct subsidies are those that are paid directly to industrial producers
+or consumers and appear on national balance sheet as government
+expenditure. They may include grants to producers, often to support
+commercialisation of technology or industry restructuring, and to
+consumers. Direct subsidies also include low interest or reduced-rate
+loans, administered by government or directly by banks with state
+interest rate subsidy.  Such loans are not suitable for commercially high-
+risk technologies, as projects must generate cash flow for debt
+repayment. In these circumstances, grants are more appropriate.
+Indirect Subsidies are those not paid directly to producers or consumers
+of energy. They may be explicit (involving a cash payment, such as
+research and development (R&D) grants for research institutions), or
+implicit (where the benefit must be calculated on the basis of
+differential treatment between competing fuels, or between the energy
+sector and other areas of the economy.
+Taxation policy is a key mechanism of indirect energy market support.
+While generating government revenue, its application also contributes to
+stimulating the supply of and demand for specific fuels. Taxation may be
+used to internalise environmental externality costs (such as the
+imposition of carbon dioxide taxes), creating an indirect benefit for
+carbon neutral fuel sources, or to convert policy objectives related to
+energy security and diversity into market signals (IEA 2003b)
+A fuel may be exempted from certain taxes, or enjoy lower rates of value
+added tax (VAT) and excise duty in relation to other fuels or to the
+wider economy. Tax exemptions and incentives allowing both industry and
+consumers to offset costs can be provided for investments in the energy
+sector and for the installation of energy related materials and
+equipment. Accelerated tax depreciation may also be permitted, allowing
+energy related equipment to be amortised (the costs written off) more
+quickly than normal accounting standards would allow. Taxation
+instruments are less administratively costly and complex than direct
+subsidies, and do not require initial allocation of funds.
+It may be argued that taxation differentials and other environmentally
+oriented policy instruments that seek to internalise external costs
+should not be regarded as subsidies, but rather as market corrections and
+the proper work of government. What is more complex is assessing how well
+governments have linked environmental taxation to actual environmental
+costs and outcomes. There is little evidence that instruments such as
+carbon taxation are accurately linked to the level of emissions of
+individual plants. For example, there is little differentiation at
+national level between older and newer plants.
+Calculating the benefits from taxation exemptions is rather complicated.
+Tax rebates are usually on per volume basis, and therefore to obtain the
+total exemptions or rebates on fuels, detailed volume data of consumption
+or production is required. These indirect subsidies are implied, that is
+their size is calculated on the basis of differential treatment against a
+norm or baseline.  Judgement must also be made on the source of
+comparison to calculate the implied subsidy. If all fuels are taxed
+equally, then the subsidy is effectively zero. However, if a tax is
+levied on one or more fuels, then the fuel that is exempt is effectively
+subsidised. A further complication arises in that consumption of all
+fuels may be taxed at a lower rate than the rest of the economy, as it is
+the case with lower than standard VAT on electricity in many countries.
+It remains an area of contention whether this should be considered an
+energy subsidy, but has been included for the purposes of this
+estimation.
+Emission Trading Schemes are increasingly used as an alternative or
+complement to environmental taxation, particularly for greenhouse gas
+emissions. Total emissions are capped and then permits are either
+allocated or auctioned. These permits can be bought and sold, allowing
+member states to achieve emissions reductions at least cost, ensuring
+that plant operators with the lowest marginal cost of emission abatement
+act first. Current proposed and operational schemes include the UK,
+Denmark, Norway and Netherlands, with the effective introduction of an
+overarching European Emissions Trading Scheme planned for 2005.
+Regulatory Support Mechanisms make up the other most significant area of
+indirect support for the energy sector. These mechanisms most commonly
+take the form of price guarantees and demand quotas for specific energy
+sources, and are introduced to support environmental or energy security
+policy objectives. Some of these mechanisms, such as feed in tariffs or
+competitive tenders can be described as supply push mechanisms, in that
+they stimulate production. Others, such as purchase obligations are
+demand pull mechanisms in that they create an artificial demand to
+which the market responds.
+      4.  Estimating EU Subsidies
+Various attempts have been made to quantify the type and amount of aid
+provided to energy industries. A study by Larsen and Shah as quoted in
+the UNEP (2003) report put world fossil fuel direct subsidies at $230
+billion per year. There is no comprehensive official record of historic
+and ongoing energy subsidies in the European Union. Collation and
+presentation of information on energy sector support is fragmented and is
+managed by multiple actors: energy agencies, member state governments,
+the International Energy Agency (IEA), the European Commission. Only for
+the narrowly defined direct state aid to the coal sector, (the Producer
+Subsidy Equivalent) have member states agreed a format and annual
+reporting mechanism through the IEA.
+A number of studies have attempted to throw light on support for EU
+energy sector over recent years. The most recent and comprehensive
+reports were prepared by Oosterhuis (2001) and the European Commission
+(2003a). Both are snapshots based on best available information and are
+not ongoing monitoring projects. Other reports such as Eurelectric (2004)
+have focussed on specific industry support mechanisms such as renewables.
+This paper used a synthesis of available studies and reports to estimate
+the type and size of energy subsidies across the EU. Taken together, they
+provide at best an incomplete overview of energy sector support of the
+period 1995-2001, indicating a total (direct and indirect) subsidy to the
+energy sector of about Euro 125 billion for the period, with the heaviest
+recipients in Germany, France, Spain, and the UK. Oosterhuis (2001)
+estimates annual direct and indirect support to be in excess of Euro 27
+billion. There is a lack of continuous and accurate over time data, and
+that which exists lacks specific detail, often presented as a total sum
+for multiple years with no further breakdown.
+Within the scope of this paper, more detailed work has been undertaken on
+a single year, 2001, which is the most recent for which reliable and
+comprehensive subsidy data is available. Table 2 provides an estimated
+summary of the total support provided to the various fuel sectors in 2001
+at EU level. These figures should be regarded as illustrative, rather
+than comprehensive due to the lack of consistent data and assumptions
+made.
+   Table 2. 2001 Estimated Direct and Indirect Subsidies in the EU [3]
+|bln Euro  |Solid Fuel|Oil and   |Nuclear   |Renewables|Total     |
+|          |          |Gas       |          |          |          |
+|2001      |6.4       |0.1       |0.9       |0.5       |7.9       |
+|Direct    |          |          |          |          |          |
+|2001      |6.5       |5.0       |1.2       |4.9       |17.6      |
+|Indirect  |          |          |          |          |          |
+|Total     |12.9      |5.2       |2.1       |5.4       |25.5      |
+               Includes allocation of electricity subsidies to primary fuels
+In absolute terms, solid fuels received the biggest share of direct and
+indirect subsidies in 2001. As a result of the relatively young age of
+the industry and their limited consumption, the renewables industry
+received significantly higher support on a per energy unit basis than
+other fuel sources across the majority of member states.
+Support for solid fuels is split evenly between direct and indirect
+support, while other sectors receive the bulk of subsidies from indirect
+means, primarily taxation exemptions and regulatory price support and
+purchase obligation mechanisms.
+- Solid Fuels: Direct and indirect support to the coal industry is the
+single most important funding regime in the EU. State financing to coal
+mines was commonplace throughout the last century, and exists today in a
+more rationalised form to help competition with cheap foreign imports.
+Direct aid is transparent and has been reported since the ECSC Treaty
+formalised state aid to the coal and steel sectors. Direct subsidies
+continue to be paid to the coal industries in Germany, Spain, France, and
+the UK, whereas subsidies in other countries, such as Belgium, have more
+or less ceased. Germany and Spain are still committed to sustaining as
+output as much as is practicable, and therefore use subsidies to reduce
+producer costs, or deflating the end-user price. The UK and France
+instead are using industry subsidies to support industrial restructuring.
+- Oil and Gas: During the period 1995-2001, the vast majority of indirect
+subsidies were accounted for by gas tax exemptions, primarily in the
+Netherlands. Gas tax differentials were removed in the Netherlands in
+2001. According to the European Commission (2003a), there is little aid
+to investment in the oil sector. The industry across Europe is largely
+privatised and receives no direct aid for oil production, transport or
+storage. Overall, Italy, Germany, Denmark and the Netherlands have the
+highest level of support in the oil and gas sector.
+- Nuclear: The major nuclear generating powers, France, the UK and
+Germany, were responsible for the majority of support. These subsidy
+figures do not reflect the lack of full liability cover for the nuclear
+industry in case of a critical nuclear accident or fuel incident. Both
+commercial and state liabilities are limited under international treaty
+although in practice, this risk would be too large to be commercially
+insurable. Subsidy support for the nuclear industry tends to be in the
+form of continued investment in Research and Development.
+- Renewables: Renewable energy support is now well established across the
+European Union.  Every member state provides a combination of price
+support through feed in tariffs, obligations or competitive tender,
+together with a range of capital subsidies and fiscal mechanisms (see
+table 3). As a result, indirect support far outweighs direct support. In
+2001, absolute levels of support were greatest in Italy and Germany with
+over Euro 1 billion in subsidy support.
+   Table 3. Support policies for renewable technologies in the EU
+|Country   |Capital   |Feed In   |Certificat|Competitiv|Fiscal    |
+|          |Subsidies |Tariffs   |es/       |e Tender  |Mechanisms|
+|          |          |          |Obligation|          |          |
+|          |          |          |s         |          |          |
+|Austria   |X         |X         |H         |          |X         |
+|Belgium   |X         |X         |X         |          |X         |
+|Denmark   |H         |X         |          |          |X         |
+|Finland   |X         |          |          |          |X         |
+|France    |X         |X         |          |X         |X         |
+|Germany   |X         |X         |          |          |X         |
+|Greece    |X         |X         |          |          |X         |
+|Ireland   |X         |          |          |X         |X         |
+|Italy     |X         |H         |X         |          |X         |
+|Luxembourg|X         |X         |          |          |          |
+|Netherland|X         |X         |X         |          |X         |
+|s         |          |          |          |          |          |
+|Portugal  |X         |X         |          |          |X         |
+|Spain     |X         |X         |          |          |X         |
+|Sweden    |X         |          |X         |          |X         |
+|UK        |X         |          |X         |H         |X         |
+X: Mechanism currently present
+H. Historical policy, now changed
+Source: Adapted from Stenzel, Foxon and Gross (2003)
+Over time, total energy subsidies are declining.  While it is difficult
+to make accurate over time comparisons, what is clear is that support for
+renewables increased significantly over the recent years. Support for
+fossil fuel has shown a gradual decline, with a significant reduction in
+oil and gas support following the ending of preferential gas tax
+treatment in the Netherlands. Nuclear subsidies are also in gentle
+decline.
+State Ownership and Transparency
+It is difficult to quantify the economic benefits a firm receives from
+state ownership and some concern has been expressed over the lack of
+transparency regarding their internal financing and accounting practices
+and there have been a number of cases concerning illegal state aid.
+Across the EU, there are currently 12 national fossil fuel companies and
+several large nuclear generators and providers with significant market
+share in which national governments retain a majority or significant
+minority share ownership. These are former state monopolies that have
+played a major role in infrastructure development, production and
+distribution over a number of decades. By comparison, there are no state
+owned companies whose primary activity is the development and production
+of renewable energy.
+      5.  A Historical Perspective
+During their respective inception and development phases the oil, natural
+gas and nuclear industries received far greater levels of support
+compared to renewables.
+The fossil fuel and nuclear industries continue to benefit from state
+assisted infrastructure and technology developed over a period of
+decades. Oosterhuis (2001) highlights the cases of the Netherlands and
+Denmark, where significant historical investment in the natural gas
+network through fiscal measures and tariffs has created a gas
+infrastructure that continues to develop benefits to consumers long after
+the support measures have been withdrawn. Energy consumers continue to
+benefit from prices lower than might be expected if similar capacity had
+been funded on purely commercial terms.
+Economies of Scale
+An assessment of the nature of subsidies to the various fuel types must
+be understood in the context of industry maturity. Nuclear and fossil
+fuel technologies have now well established industries whereas the
+majority of renewable energy technologies remain in their infancy. The
+capital costs of renewable energy are expected to fall substantially,
+making electricity production from renewables increasingly competitive
+although this will be heavily influenced by regional factors.
+Improvements in wind turbine technology and greater efficiencies in
+biomass conversion are expected (IEA 2003). Currently, several of the
+technologies are approaching commercial maturity, including onshore wind,
+small-scale hydropower, biomass and solar thermal. Others such as PV are
+further from market competitiveness. It is clear that all will benefit
+from increased production volume and technological investment (European
+Commission, 2004).
+   1. Falling Costs of Renewable Technologies
+[pic]
+                                               Source: Shell Renewables 2002
+A Historical Comparison
+There is little subsidy data available on Pre-1974 budgets in Europe. As
+a result, it is difficult to make a comparison between the levels of
+support to the different energy fuels. It is however undisputable that
+the more mature fuel infrastructure has benefited significantly by
+support received under state ownership in the form of research and
+development (R&D), capital investment and operation costs.
+Renewable energy has an increasing share of total R&D funding (Table 4).
+However, renewable technologies have consistently received much less
+support than nuclear fission and fusion. This is not easy to comprehend
+for an industry still in growth phase.
+   Table 4. Public Energy R&D expenditure by technology  EU 15[4]
+|                    |EU Total (M Euro)                 |
+|                    |1990               |2001          |
+|Nuclear Fission and |1438               |1117          |
+|Fusion              |                   |              |
+|Fossil Fuels        |221                |309           |
+|Production          |                   |              |
+|Renewable Energy    |238                |387           |
+|Sources             |                   |              |
+Source: IEA R&D Database, Eurostat, Oosterhuis (2001)
+Research undertaken in the United States[5] provides a useful indicator
+of the respective levels of total subsidy support for nuclear power and
+wind at similar stages of technology development. Goldberg (2000)
+estimates that the nuclear industry received about thirty times more
+support per kWh output than wind power in the first 15 years of industry
+development (Table 5).
+   Table 5. Nuclear vs. Renewable Industry Development, USA
+|15 Year Industry|Gross       |Effective   |Total       |1999        |
+|Development     |Electricity |subsidy     |Subsidy over|Generation  |
+|Period          |Production  |($/KWh)     |15 year     |(bn KWh)    |
+|                |(bn KWh)    |            |period      |            |
+|                |            |            |(billion    |            |
+|                |            |            |USD)        |            |
+|Nuclear         |2.6         |15.30       |39.4        |727.9       |
+|(1947-1961)     |            |            |            |            |
+|Wind (1975-1989)|1.9         |0.46        |0.9         |3.5         |
+Source:  Goldberg (2000)
+The study indicates that the support for industrial and technological
+development for nuclear when compared to other renewable sources over a
+period of 15-25 years created a competitive advantage for nuclear in
+terms of economies of scale.
+      6.  Addressing Market Failures
+The areas of subsidy previously highlighted are examples of government
+intervention, both explicit and implicit, in energy markets in order to
+achieve pre-determined economic, social, environmental or political
+outcomes. Another aspect of the states relationship with the energy
+market must also be raised, the failure to intervene in the case of
+market failure. This study examines two such specific areas.
+Environmental Externality Costs
+Fuel cycle externalities are the costs imposed on society and the
+environment that are not accounted for by the producers and consumers of
+energy, i.e. that are not included in the market price. They include
+damage to the human health, the natural and built environment, and
+include such elements as effects of air pollution, occupational disease
+and accidents. They also include the external costs of climate change.
+In theory, if the costs of energy sector external impacts are known, they
+should be allocated to the fuel activity concerned. This way producers,
+consumers and decision makers could get accurate price signals and reach
+optimal decisions about how to use the resources. In practice the
+measurement of environmental impacts and associated costs is a complex
+and evolving science and neither markets nor governments effectively
+price these costs. Before this can happen, sound methodologies must be
+developed to define and measure actual impacts and to aggregate from
+individual measurements to sector and geography based models. EU
+governments have recognised this and have invested in modelling, in
+particular through the European Commission on going ExternE project.
+Table 6 shows the aggregated ranges of external costs associated with the
+electricity production fuel cycle in the EU as calculated with data from
+ExternE.
+6. External costs of electricity production in the EU (bln Euro/Year) [6]
+|                    |Low Range Estimate    |High Range Estimate   |
+|Solid Fuels         |27.7                  |49.9                  |
+|Oil and Gas         |13.3                  |22.9                  |
+|Nuclear Energy      |3.3                   |3.3                   |
+|Renewables          |1.8                   |2.3                   |
+|Total               |46.3                  |78.6                  |
+Source: European Commission (2003), Eurostat (2000 data)
+ExternE research has demonstrated so far that renewable energy sources
+have significantly lower environmental impact per KWh than fossil fuel
+sources and similar impacts to nuclear power[7], without the same risk of
+accident.
+It should be noted that environmental costs are in fact indirectly
+imposed through the setting of air quality, air emission and GHG emission
+targets that are based partly on cost-benefit-analyses and partly on
+political calculations. Emissions trading schemes have the aim of making
+these reductions more cost effective, although allocation processes have
+been difficult in many EU states. In addition as mentioned in section 3
+environmental taxation policies also aim to partly internalise external
+costs.
+Valuing Energy Security  Applying Portfolio Theory
+Managing the risk associated with energy supply is an increasingly
+important policy driver.  Security of energy supply covers a wide range
+of issues from ensuring adequate fuel supply, generation technology and
+distribution infrastructure, to developing diversity and self-sufficiency
+of energy resources. In economic terms, risk is best measured by price
+volatility.  Governments have traditionally made planning decisions for
+new capacity based upon the lowest cost option between different fuel
+types.  This has tended to support more established fuel sectors rather
+than renewable technologies, which have higher costs but which may have
+other benefits in terms of diversifying supply and reducing import
+dependence.  With investment decisions transferred to the private sector
+and downward pressure on electricity prices, the demand for lowest cost
+options has become even greater.
+This creates problems for energy planners, who have recognised that
+current market designs do not guarantee an adequate level of security of
+supply. (IEA 2003).  Over-reliance on fossil fuels can increase fuel
+price volatility - the likelihood that energy prices will fluctuate more
+widely and more often  and expose economies to significant macroeconomic
+costs.[8]
+A number of studies have been completed or are underway to examine the
+use of portfolio theory in reducing risk and potential costs. They have
+all demonstrated that by adding renewables to current fossil fuel
+dominated energy portfolios, price risk can be effectively hedged.[9]
+Awerbuch and Berger (2003) have compared year 2000 and projected 2010 EU
+electricity generation mix and concluded that risk can be reduced by
+adjusting the conventional mix and including larger shares of wind or
+similar renewable technologies and that any expansion in natural gas
+should be accompanied by an increased deployment of renewables.
+The presence of each primary fuel in an energy portfolio with minimized
+risk has a real economic value, but this is currently disconnected from
+mainstream discussion on subsidy mechanisms. Further work needs to be
+done to quantify the economic benefits of risk and cost management to
+ascertain the extent to which the potential benefits of renewables are
+reflected by current levels of support. What is clear is that the role of
+renewable technologies in diversifying energy price risk is not yet fully
+recognised by the market.
+      7.  References
+Awerbuch, S and Berger, M (2003) Applying Portfolio Theory to EU
+Electricity Planning and Policy Making.  IEA/EET Working Paper
+De Moor (2001), Towards a Grand Deal on Subsidies and Climate Change.
+http://arch.rivm.nl/ieweb/ieweb/Reports/subsidiesclimchange.pdf
+Eurelectric (2004) A Quantitative Assessment of Direct Support Schemes
+for Renewables. 1st Edition January 2004
+European Commission (2003), Inventory of public aid granted to different
+energy sources, Staff Working paper SEC(2002)1275
+European Commission (2004), External Costs. Research results on socio-
+economic damages due to electricity and transport, Brussels.
+European Commission (2003) State Aid Scorecard.  Spring 2003 Update
+COM(2003) 225 final
+http://europa.eu.int/comm/competition/state_aid/scoreboard/2003/en.pdf
+European Commission (2003) External Costs on electricity and transport
+European Parliament and Council (2001), Directive 2001/77/EC 27 Sept
+2001. On the promotion of electricity produced from renewable energy
+sources in the internal electricity market
+European Parliament and Council (2002), Decision No 2002//EC laying down
+the sixth Community environment action programme
+IEA/UNEP (2002), Reforming Energy Subsidies
+IEA (2002) , World Energy Outlook 2002, IEA, Paris
+IEA (2003a), World Energy Investment Outlook IEA Paris
+IEA (2003b) World Energy Prices and Taxes
+Irish Government, Department of Communications, Marine and Natural
+Resources (2003). Options for Future Renewable Energy policy, Targets and
+Programmes. Dublin
+Irrek, W. (2002) EP Workshop on Energy Subsidies.  Methodological issues
+and general considerations. Wuppertal Institute, Germany
+Mountford, H. (2000). Experiences with Reforming Energy Subsidies.  UN
+OECD
+http://www.env.cebin.cz/akce/pruhonice_e/mountford.html
+OECD EPOC (2004) Ministerial meeting: draft issues paper.  On phasing out
+environmental harmful subsidies 5-6 February 2004. TO BE PUBLISHED, NOT
+TO BE QUOTED.
+Oosterhuis, F. (2001) Energy Subsidies in the European Union. Final
+Report. European Parliament, July 2001.
+Stenzel, T., Foxon, T, Gross, R. (2003) Review of renewable energy
+development in Europe and the US.  A report for the DTI Renewables
+Innovation Review October 2003, ICCEPT, London
+-----------------------
+[1] There has been reduction in market price support to coal production
+ over the past years in a number of member states and this has led to
+ reductions in coal production in these countries. These reductions may
+ lead to domestic coal being replaced in the short term, at least in part
+ by imported coal, in which case the environmental benefits may be rather
+ small (Mountford, 2000). However in the medium and longer terms, as the
+ markets react to the ensuing higher coal prices, there would probably be
+ increased use of gas and renewables (OECD, 2004).
+[2] The targets indicate a 12% share of gross inland energy consumption
+ by 2010 and a 22% share of electricity produced from renewable energy
+ sources by 2010 (European Parliament and Council 2001)
+[3] The methodology used to calculate these figures follows the work of
+Oosterhuis (2001) and includes a broad range of direct and indirect
+energy support mechanisms, including implied subsidies arising from
+taxation differentials and the effects of regulatory price support.
+Subsidies for electricity have been allocated to primary energy sources
+using the share of thermal inputs into electricity production.  Figures
+given are broad estimates.  These data have been compiled from a range of
+primary (IEA R&D and Renewables Database (2004), EU State Aid scorecard
+(2004), IEA Energy taxes and prices (2003)) and secondary sources,
+including Eurelectric (2004), European Commission (2003), Oosterhuis
+(2001).
+[4] A high proportion of generation capacity in the United States since
+ 1945 has typically been in private ownership rather than state
+ controlled. This has resulted in a greater level of transparency in
+ financial transfers and support than has been the case for EU member
+ states.
+[5] Figures based upon average high/low estimates of external cost data
+ per KWh from External Costs European Commission report (2003) and 2000
+ Gross Electricity Production Data (Eurostat). These figures are
+ estimates only, and are present with the caveats outlined by the ExternE
+ team including extrapolation of data to an EU wide perspective. They are
+ intended to provide an indicative range and should be treated with
+ caution.  There has been some criticism of the methodology used in the
+ ExternE study. In particular, there remain uncertainties in the monetary
+ valuation of mortality effects, and from the omission of some impacts on
+ ecosystems due to acidification, eutrofication and global warming. In
+ addition, the study does not take into account contamination of water
+ and soil, and the impact of long-term accumulation effects.
+[6] Nuclear externalities exclude high level wastes impacts, nuclear
+ proliferation and impacts of terrorism which have been considered too
+ difficult to value. In the same way, the risk of nuclear power accidents
+ has not been fully priced. Oosterhuis (2001) reports that there have
+ been various estimates of the economic cost of a large-scale nuclear
+ accident, ranging from Euro 83 billion to 5469 billion. Liability for
+ nuclear accidents is currently limited by the Paris (1960) and Vienna
+ (1963) Conventions and the Joint Protocol (1988). The liabilities can be
+ as little as Euro 6.5 million for a single nuclear operator to Euro 390
+ million for national public liability. The risks associated with the
+ use of nuclear energy () are socialised, because the producers are not
+ fully liable for the damage (see Irrek 2002).
+[7] A number of studies have modelled the link between increases in oil
+ price and reduction in economic activity as expressed in terms of GDP.
+ They have estimated that a 10% rise in the oil price might cut GDP
+ growth by 1.5% for a period of 3-6 months following the price increase.
+ Extrapolating this to the EU 15, would result in GDP reductions of
+ between Euro 35 and 70 billion. These calculations reflect a rise in
+ price, rather than the effects of volatility itself and more work is
+ required in this area.
+[8] Portfolio modellers seek to identify the mix of assets that generate
+ the most economically efficient outcome for a given level of risk by
+ incorporating the concept of Beta  a measure of the variance of the
+ portfolio and thus the risk associated with it: they maximise the
+ expected return for any given level of risk, while minimising risk for
+ every given level of expected return (Awerbuch and Berger 2003)
+-----------------------
+Aid to the coal sector
+Direct aid to the EU coal industry is authorised under a Council
+Regulation that replaced the expired ECSC treaty in July 2002. This
+allows for the continued support of domestic coal mining in the four coal
+producing member states. In 2001, under the ECSC treaty, the amount of
+aid granted was approximately Euro 6.3 billion. Member states also
+provide indirect support to promote the use of solid fuels in electricity
+generation, and are allowed under Directive 96/92/EC to give priority to
+electricity produced using indigenous sources up to a 15% limit.
+Tax Incentives for Exploration and Production of Oil and Gas
+Producer countries such as the UK, the Netherlands, and Denmark, support
+to exploration and production through the use of the taxation system.
+     In the UK, taxation levied on new gas fields developed since 1993
+      has been lowered, creating an incentive for investment, especially
+      for smaller gas fields or fields where exploration is difficult.
+     Denmark has abolished the payment of royalties on gas and oil
+      production.
+     Tax exemptions have been provided to less profitable Dutch gas
+      fields
+     Ireland has implemented a pre-exploration preferential tax scheme
+      for oil
+ Direct infrastructure subsidies to the Gas Industry in the EU
+ Direct aid to the gas industry through infrastructure development
+remains permitted by the EU to
+  Promote the economic development of a region where the standard of
+   living is low and create jobs;
+  Extend the gas network to guarantee security of supply and to extend
+   the use of an energy source whose combustion generates lower emissions
+   than burning coal or oil;
+  Be in line with EU policy, in particular with regard to developing
+   trans-European energy networks.
+National aid occurs mostly in Spain, Greece, Ireland, and Denmark.
+Direct subsidies are also provided to the gas industry by the European
+Union.  Between, 1996-2000 these included structural funds of (2 billion,
+and (3billion in loans from the European Investment Bank.
+An overview of regulatory support mechanisms for renewable energies
+Fixed Feed in Tariffs have been widely deployed throughout Europe to
+support renewable technologies, most notably in Germany, Denmark and
+Spain. Governments set a tariff price at which the countrys supply
+companies must purchase all renewable energy delivered to the
+distribution grid. Price premiums are passed on to consumers in the form
+of higher electricity prices.
+Competitive Tender invites producers to bid to provide specific amounts
+and types of renewable energy from the market at cap or below cap prices.
+Contracts are then signed with the lowest cost bid to deliver output over
+a number of years. Consumers pay the premium on wholesale price through a
+levy.
+Purchase Obligations set targets for consumption of electricity (usually
+percentage based) that should be sourced from a certain fuel source. This
+mechanism has been deployed for renewables and combined heat and power in
+several member states. Energy distribution companies must prove the
+origin of purchase, pay a penalty or produce the required amount
+themselves, creating an artificial demand and price premium for renewable
+generation. If the overall system target cannot be met, prices rise until
+new market entrants and investors are attracted. Tradeable certificates
+often accompany such schemes. The cost of this subsidy is borne by
+consumers.
+Adapted from Irish Government (2003) p.31-36

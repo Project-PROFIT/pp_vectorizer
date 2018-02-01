@@ -1,0 +1,53 @@
+Programa Nacional de Electrificao Rural (National Rural Electrification
+Programme)
+|Country       |Brazil                                            |
+|Effectivefrom|1999                                              |
+|Description   |In rural areas, the "Luz no Campo" national rural |
+|              |electrification programme set as its goal for its |
+|              |first stage (to 2002) to provide electrical power |
+|              |to one million rural homes, which would benefit   |
+|              |approximately five million people. This translates|
+|              |into a demand for resources worth 2.7 million     |
+|              |reales. In 2000, contracts with over 40           |
+|              |concessionaires were signed.                      |
+|              |                                                  |
+|              |Meaning Light in the Countryside' the project was |
+|              |launched in December 1999, by the federal         |
+|              |government address to the stagnation in rural     |
+|              |electrification after the restructuring of the    |
+|              |power sector. Aimed at connecting nearly a million|
+|              |rural households in the three-year period from    |
+|              |1999-2002, Luz no Campo is the single largest     |
+|              |rural electrification programme implemented in    |
+|              |Brazil. Initial estimates forecasted an investment|
+|              |of around 1 billion dollars, that is nearly 1000  |
+|              |dollars per new consumer.                         |
+|              |                                                  |
+|              |As of September 2002, 480000 connections had been |
+|              |made, and another 125000 were in process. A total |
+|              |of 823000 new customers have signed contracts. So |
+|              |far, no off-grid connections have been made under |
+|              |the programme, even though this option was        |
+|              |considered. This can partly be attributed to the  |
+|              |relatively low cost of grid connections, averaging|
+|              |970 dollars per connection.                       |
+|              |                                                  |
+|              |Rural consumers are typically expected to pay the |
+|              |full costs of the connection, albeit spread over a|
+|              |number of years. Luz-no-Campo lends 75% of the    |
+|              |investment to concessionaires on easy terms a 6% |
+|              |rate of interest, two-year grace period, and a    |
+|              |five to ten year repayment period. Concessionaires|
+|              |finance rural consumers on similar terms, but in  |
+|              |some cases the State governments provide partial  |
+|              |subsidies, assuming the consumer's contribution.  |
+|              |                                                  |
+|              |The blank in the programme is the lack of         |
+|              |incentive to make low-cost grid connections or    |
+|              |take on off-grid projects, except for a couple of |
+|              |specific cases in Minas Gerais, Bahia, and        |
+|              |Amazonas.                                         |
+|Policy type   |Rural electrification                            |
+|Renewableener|All technologies simultaneously                  |
+|gy            |                                                  |
+|Contact       |Ministry of Mines and Energy (MME)               |

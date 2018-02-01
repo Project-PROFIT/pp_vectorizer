@@ -1,0 +1,3051 @@
+international energy agency
+agence internationale de lenergie
+EMISSIONS TRADING AND
+ITS POSSIBLE IMPACTS ON
+INVESTMENT DECISIONS
+IN THE POWER SECTOR
+IEA INFORMATION PAPER
+Julia Reinaud
+International Energy Agency
+Paris
+ACKNOWLEDGEMENTS
+I would especially like to thank William Blyth for his contribution in the writing of my paper. I thank
+Maria Argiri, Douglas Cooke, Ralph Dickel, Peter Fraser, Nicolas Lefvre, Jonathan Pershing (WRI),
+Cdric Philibert and No van Hulst (IEA) for the information, comments and ideas they have
+provided throughout my research. Richard Baron (Iddri), Dean Travers (Electrabel), John Scowcroft
+(Eurelectric), Gilles Reinaud (Commodities and Environment Consulting Services), Jean-Marie
+Chevalier (Professor in Industrial Organisation at Paris Dauphine, Cambridge Energy Research
+Associates), Per Lekander (McKinsey), Richard Schimpf (E.ON), Abyd Karmali (ICF Consulting)
+Evelyne Bertel (NEA, OECD), Fernando Barrera (NERA) and Assaad Saab (EDF) also provided very
+useful suggestions and advice.
+The ideas expressed in this paper are those of the author and do not necessarily represent views of the
+IEA or its member countries.
+Questions and comments should be sent to:
+Ms. Julia Reinaud
+Administrator, Energy and Environment Division
+International Energy Agency
+9, rue de la Fdration
+75015 Paris, FRANCE
+Tel:
+(33 1) 40 57 67 25
+Fax: (33 1) 40 57 67 39
+E-mail: Julia.Reinaud@iea.org
+TABLE OF CONTENTS
+EXECUTIVE SUMMARY
+DEFINITIONS AND GLOSSARY
+INTRODUCTION
+IMPLICATIONS OF CARBON EMISSION COSTS ON MARKET PRICES AND GENERATION COSTS
+IMPLICATION OF CARBON ALLOWANCES ON GENERATION COSTS
+PRICE IMPLICATIONS
+THE LONGER TERM IMPACT ON INVESTMENT DECISIONS
+CHANGES IN GENERATION MIX: DIRECTIONS AND TRENDS IN INVESTMENT
+ECONOMICS OF MOTHBALLING / RETIRING
+REFURBISHMENT OF OLD COAL PLANTS AND SWITCHING OF FUEL
+SECOND ORDER EFFECTS OF EMISSION TRADING ON THE GAS MARKET
+LINKAGES WITH RENEWABLE ENERGY OBLIGATIONS AND TRADE MARKETS
+CONCLUSION AND POLICY IMPLICATIONS
+REFERENCES
+APPENDICES
+APPENDIX 1:
+EUROPEAN POWER GENERATION AND RELATED EMISSIONS
+APPENDIX 2:
+LONG-RUN MARGINAL COST ASSUMPTIONS FOR A NUCLEAR POWER PLANT
+APPENDIX 3:
+LONG-RUN MARGINAL COST ASSUMPTIONS FOR WIND ON-SHORE AND OFF-SHORE
+PLANTS
+APPENDIX 4:
+LONG-RUN MARGINAL COST ASSUMPTIONS FOR BIOMASS PLANTS
+APPENDIX 5:
+THE EU BURDEN SHARING AGREEMENT
+LIST OF TABLES
+Table 1:
+Assumptions for CCGT Power Plants
+Table 2:
+Assumptions for Coal-Fired Power Plants
+Table 3:
+CO2 Assumptions for CCGT
+Table 4:
+CO2 Assumptions for Coal Plant
+Table 5:
+A Survey of Studies on Power Generation under a Cap-and-Trade Regime
+Table 6:
+Long-run marginal cost assumptions of a new CCGT plant
+Table 7:
+Long-run marginal cost assumptions of a new coal plant
+Table 8:
+CO2 emissions assumptions of a new CCGT plant
+Table 9:
+CO2 emissions assumptions of a new coal plant
+Table 10:
+Mothballing coal without a carbon emission value
+Table 11:
+Mothballing economics with a carbon emission price @ 20/t CO2
+Table 12:
+Investments costs for coal and biomass co-combustion
+Table 13:
+CO2 emission price levels and impact on generation costs
+Table 14:
+Share of Power Sector in total CO2 emissions
+Table 15:
+Fossil fuels share in EU countries generation mix and emission intensity
+LIST OF FIGURES
+Figure 1:
+European merit order and impact of a 20/t CO2 carbon price
+Figure 2:
+Average European gas import price 1998-2001
+Figure 3:
+Short-run marginal costs sensibility to gas price variations
+Figure 4:
+Steam Coal Price variations January 2000 to August 2003 (ARA Index)
+Figure 5:
+Short-run marginal costs sensitivity to coal price variations
+Figure 6:
+Short-run marginal costs sensibility to efficiency rate
+Figure 7:
+Merit order in a tight power market
+Figure 8:
+Merit order in an oversupplied power market: the introduction of a carbon emission
+price does not lead to a change in the merit order
+Figure 9:
+Merit order in an oversupplied power market: a carbon emission price leads to a
+change in the merit order
+Figure 10:
+Merit order in a competitive oversupplied market: the introduction of an average
+emission cost
+Figure 11:
+Full costs of power technologies and a 20/t CO2 carbon price
+Figure 12:
+Comparison between coal and CCGT plants competitiveness
+Figure 13:
+New merit order with the introduction of a renewable energy obligation
+Figure 14:
+The interacting markets between green certificates and emission allowances
+Figure 15:
+Breakdown of renewables long-run marginal costs
+EXECUTIVE SUMMARY
+According to the World Energy Outlook (WEO) 2002 Reference scenario which takes into account
+government policies and measures on climate change and energy security that had been adopted by
+mid-2002, CO2 emissions will increase by 1.8 per cent per year from 2000 to 2030. From 12,369 Mt
+of CO2 equivalent in 2000, emissions will reach 16,397 Mt in 2030 for OECD countries  an average
+increase of 0.9 per cent per year. The power generation sector will contribute to almost half the
+increase in global emissions between 2000 and 2030 and will remain the single biggest CO2-emitting
+sector in 2030. In OECD countries, its share will rise from 38 per cent in 2000 (4,725 Mt of CO2) to
+40 per cent in 2030 (6,524 Mt of CO2).
+Today, power generation emits 65 per cent of industrial emissions of carbon dioxide (CO2) in OECD
+countries and is likely to become instrumental in countries strategies to reduce greenhouse gas
+emissions. The European Union has decided to introduce a CO2 emission trading scheme, with a pilot
+phase to run between 2005-2007, and a second phase running from 2008-2012 to coincide with the
+first Kyoto Protocol commitment period. The scheme will cover CO2 emissions from all combustion
+plant with a rated thermal input of >20MW capacity (including the power sector), as well as from the
+metals, minerals and paper/pulp industries.
+The introduction of emission allowances will alter operating costs in the power generation sector, and
+is expected to have an influence on the operation of existing generating capacity as well as the
+composition of future investment. While emissions trading and GHG emissions limits therefore pose
+a new form of regulatory challenge, these effects should be seen in the context of electricity markets
+that are currently characterised by rapid regulatory changes and new market arrangements that have
+already altered the power generation sector significantly over the past decade.
+The purpose of this study is to explore how investment decisions in the power generation sector may
+be modified with the introduction of CO2 emission allowances. To do so, it considers, through a
+simplified quantitative analysis, power plant costs, operation and investment changes in the electricity
+generation over both short-run and long-run timescales. The model results should not be considered
+as projections but rather as a tool to explore the potential impacts of a greenhouse emission trading
+scheme on investments. The effects of a CO2 price are based on the power plants assumptions on an
+aggregate level and do not include plant specificities. In reality, details in plant economics will
+deviate. This will, therefore, smooth out the results found in this paper. The magnitude of the
+variables considered in this paper is subject to a high degree of uncertainty. Therefore, the quantitative
+conclusions should be taken as an indication of the scale of potential effects.
+The first chapter concentrates on the short term impact of a carbon emission cap and price effects, and
+the way power plants operating costs may change. The results show that there can be a switch in
+competitiveness between combined cycle gas turbine (CCGT) and coal plant due to the introduction
+of a CO2 price if it reaches a certain level. This is because coal plants emit more than twice the
+amount of CO2 than CCGT plants to produce one kWh. The level at which these switches start to take
+In the plant assumptions, capital costs, plant efficiencies and Operating and Maintenance costs were provided by
+the World Energy Outlook data.
+place is estimated to be around 19 per tonne of CO2, however, changes are likely to occur at lower
+levels as well as higher levels, depending on plant specificities.
+The impact on wholesale power prices is an important factor, affecting not only the competitiveness
+of EU electricity users, but also having implications for investment levels and competitiveness in the
+power sector itself. The extent to which carbon intensive power plants pass through their CO2 costs to
+wholesale markets will depend both on the price-setting behaviour within the electricity market, and
+also to some extent on the allocation methods that are currently being developed by EU member
+states.
+The second chapter focuses on the longer-term impacts of emissions trading on investment decisions.
+The analysis focuses on the effects on competitiveness for a range of generating technologies at
+different CO2 prices. CCGT plants are used as the reference since this technology offers lower
+economic risks and investments than other technologies.
+The main conclusions of the report are presented below.
+Implications for Plant Operation
+The carbon emission allowance will increase the variable costs for fossil-fuelled power
+plants and thus its short-run marginal costs since an emission allowance will be needed for
+each unit of CO2 produced. Coal-fired generation will be more strongly affected than gas-fired
+generation because of the higher (approximately double) carbon emission per unit of output.
+The CO2 emission price which makes CCGT and coal plants equal in terms of short-run
+marginal costs (the breakeven price) is estimated around 19 per tonne of CO2. Below this
+price, coal plants appear to be more competitive. Above this price, CCGT plants seem more
+competitive2.
+Starting from a price of around 19 per tonne of CO2, there appears to be a significant change
+in the electricity market merit order due to a reverse in the competitiveness based on short-run
+marginal cost of coal and combined cycle gas turbine plants.
+The sensitivity of this breakeven3 price to changes in the underlying assumptions is high. For
+example, a 53 per cent increase compared to the baseline gas price taken in the model leads to
+a 120 per cent increase in the CO2 breakeven price (rising from 19 to 34 per tonne of CO2).
+Likewise, the sensitivity of the breakeven price to assumptions about plant efficiencies is even
+higher. If the CCGT plants efficiency increases from 49 per cent to 62 per cent, the rate
+forecasted for plants built in 2030, the breakeven price falls by 71 per cent.
+It is important to note that this result is based on power plants assumptions on an aggregate level and do not
+include plant specificities. Therefore, in reality, this breakeven point should be considered as a proxy.
+The breakeven price discussed is the CO2 price which makes CCGT and coal plants equal in terms of short-run
+marginal cost.
+Effects on Power Prices
+There is no uniform agreement on the impact of a CO2 emission price on wholesale and retail
+electricity prices. A simple economic assessment, based on either auctioned or freely allocated
+allowances in a market with power prices set by perfect competition (or without significant
+oligopoly), would suggest that carbon prices would be simply passed straight through to
+wholesale prices, since CO2 prices will have a real value as an opportunity cost that is treated
+directly as part of the short-run marginal costs of production. The price impact would be
+determined by the CO2 price and the marginal technology. Noting that the marginal
+technology varies according to the hours and months in the year, we could consider that the
+variation in electricity demand over a year follows a Normal distribution. In this case,
+wholesale electricity prices in Europe would increase by 21 per cent if the CO2 price were 20
+per tonne. This, of course, would have a substantial impact on the competitive position of EU
+energy-intensive industries that compete in world markets.
+However, in practice the way generation costs get passed through to electricity prices will be
+complicated by factors such as regulatory pricing mechanisms, competitive pressure, price
+elasticity of the demand, and market concentration. In addition, the allocation method can
+have an important effect on the price feed-through. If the allocation for the second period
+depends on emissions during the first period (so-called up-dating), this creates an incentive
+to maintain higher emissions in order to gain additional allowances in the second period4.
+Since internal use of the allowance to cover emissions would result in higher future
+allocations, the internal value of an allowance would be higher than the market CO2 price.
+This would imply that companies would not necessarily pass on the full opportunity costs
+directly, and prices might not rise to the extent expected.
+Which ever method is used, the initial allocation implies a transfer of wealth within the
+economy, and the value of this transfer of wealth depends on these price effects. This wealth
+transfer could also have implications for taxation policy, since the distribution of this CO2 cost
+should be taken into account when setting any additional CO2 taxes.
+Impacts on Power Sector Investment
+If CO2 costs were fully passed through to prices, opportunity costs would be fully recovered,
+and investment signals for both incumbents and new entrants5 to the market would be
+undistorted. That is to say, the introduction of a carbon price would not raise any additional
+barriers to overall investment for either capacity expansion or new plant. There would
+however, be a tendency towards investment in lower emitting technologies. Full price feedthrough is also efficient from an environmental compliance point of view, since the price rise
+would be expected to have some influence on reducing demand, and emissions.
+However, as noted above, in practice full recovery of opportunity costs may be unlikely to
+happen. In this case, it could be necessary to make arrangements to compensate new entrants
+to the market, for example through setting aside a portion of free allowances for them in the
+Nevertheless, such updating could be counter-productive, since it in practice will incentivize a player to pollute as
+much as possible (as long as there is a positive slope in the CO2-price forward slope).
+New entrants are new plants built either by incumbents, either by new generators.
+initial allocation. The allocation of free allowances is one way to cover additional investment
+risks. The uncertainty concerning the CO2 price and future allocation of allowances, would
+drive the investment risk premium and thus make the investment more expensive; and this
+would not be reflected in the electricity price. The level of free allowances to new plants,
+given that it is an investment incentive, must, however, be very carefully considered. This
+would reduce barriers to entry but could complicate the investment signals for incumbents. If
+it were too high, it would create a boom-and-bust behaviour in the industry.
+If allocation in the second period is based on emissions in the first period, this could reduce
+the incentive to make investments in emissions reductions during the first period
+(discouraging so-called early-action). Long-term investment decisions will be exposed to
+revisions of the national plans. It is not known whether companies would be able to hold the
+benefits of investments in emissions reductions investments for several trading periods,
+leading to a risk of stranded assets. This uncertainty could delay fuel switching since
+companies could want to wait until this uncertainty is resolved. This also includes uncertainty
+about the future international climate negotiations.
+Prices need to stay in a certain range in order not to have too disruptive an effect on
+investment. They must allow a smooth transition to newer and more efficient plants (see
+mothballing discussion)
+The CO2 price will probably in practice only introduce minor modifications to the choice of
+plant technologies to build. In many countries, CCGT is already the technology with the
+lowest long-run marginal costs, and since this is a relatively low carbon intensity technology,
+investment decisions will continue to be in favour of CCGT plants for companies generation
+mix when a CO2 constraint is introduced. If CCGT is compared with non emitting
+technologies, the CO2 price has to be in the range of 30 to 200 per tonne of CO2 for
+renewable technologies to become competitive6. For most renewable technologies therefore,
+other policies need to be enacted to increase renewables market share (e.g. The European
+Directive 2001/77/EC on the promotion of electricity from renewable energy sources in the
+European Union's internal electricity market).
+Carbon emission prices would need to reach approximately 26 per tonne of CO2 for nuclear
+power to be as competitive as CCGT (including decommissioning costs). Carbon prices could
+therefore contribute to the economic case for retaining nuclear compared to the carbon price
+necessary to make wind and biomass technologies as competitive as CCGT plants. This
+breakeven price will be sensitive to specific plant costs. For example, the full investment costs
+of nuclear power plants in Finland and in France are as low as 22 per MWh compared to the
+38.8 per MWh found based on our assumptions. If the investment costs reached the lowest
+range, nuclear plants would have no need for a CO2 premium.
+At the margins, a carbon constraint will tend to encourage substitution from the use of coal
+towards a more intensive use of natural gas as a fuel for electricity generation. Using
+illustrative plant operation costs, the report indicates that if allowance prices exceed 23 per
+tonne of CO2, it seems more economic for a company to replace its existing coal-fired
+Some renewables are, however, already competitive at the lower end of the scale.
+capacity with a modern CCGT plant rather than continue running them7. If the CO2 price
+ranges between 19 and 23 then companies will need to arbitrage between building a new
+CCGT plant or run their existing coal plants. Companies with a range of generating
+technologies, particularly low carbon intensity technologies, will be in an advantageous
+position to make a strategic response to uncertain carbon prices.
+What level of emission reductions would drive such CO2 prices in those ranges is not possible
+to assess from the model described in this paper. However, the Boston Consulting Group
+assumes that if the European power sector would have to reduce 25 per cent of the total
+targeted CO2 reduction (Europes burden under business-as-usual scenario), CO2 prices8
+would reach 25 per tonne of CO2. If power generators were to shoulder 50 per cent of the
+total reduction, a carbon price would reach 35.
+One option for reducing carbon emissions from coal plants is to replace coal by biomass in
+existing boilers. In the IPCC methodology, biomass fuels are not included in the CO2
+emissions. This is because for CO2 emissions, biomass consumption for fuel is assumed to
+equal its regrowth. For each kWh produced by biomass fuel, direct co-combustion reduces the
+CO2 emissions in the coal plant by 918g/kWh. Specific additional investment costs reach 6
+per tCO2 for 10 per cent co-combustion from biomass energy. However, the potential for cocombustion is not unlimited. The potential replacement depends on many factors: technical
+limitations as well as limitations imposed by the authorities, and financial and legal
+provisions. Companies can also decide to upgrade their existing coal plant, with estimated
+emissions reductions of about 2 per cent available below the 23 per tonne of CO2 threshold.
+Second Order Impacts
+The presence of a CO2 price will probably accelerate the tendency for gas to become the
+preferred fuel in power generation. However, gas production in OECD Europe and North
+America is not expected to grow as strongly as gas demand in these regions. With growing
+reliance of gas imports, the access to such supply in the long term at attractive conditions is
+also crucial. However, increased demand would imply increased prices. Most of the potential
+future gas supply is projected to come from sources located in technically challenging and
+politically risky environments. The development of new gas supplies and the infrastructure to
+deliver the commodity to the market will therefore require substantial investments. If the
+necessary investments in infrastructure and supply development were undertaken in order to
+secure gas imports, the gas consumers would face the prospect of having to pay significantly
+higher gas prices9. This could be another upward pressure on wholesale electricity prices.
+Another reason why gas prices might increase is related to the way the gas prices are fixed in
+long term contracts. Coal and lignite emit twice the amount of CO2 than gas, which gives
+additional value to gas. Therefore, because of the new carbon emission constraint, gas
+suppliers might be inclined to claim the value attributed to the difference in CO2 emissions
+between gas and coal. Gas suppliers might include at least part of this additional CO2 emission
+value in their gas contracts, thereby increasing their gas prices.
+To calculate this price, closure costs of plants have been ignored.
+The BCG assumes that to reach such a reduction in emissions, a minimum CO2 price of 25 per tonne of CO2
+would be required. The price could be imposed by issuing a limited number of carbon-emission tradable permits.
+Market power on the emission allowances trading market will be limited for several reasons.
+First, no generators will hold a significant market share that will allow them to manipulate
+prices. If, however, generators agree to act as one entity, then this could block the entry on the
+power market. Nevertheless, if they act as a monopoly, they are faced to other sectors since
+several other sectors will participate in the emissions trading market. The market is expected
+to be sufficiently liquid to prevent actors from manipulating the carbon emission price.
+There is a definite link between the development of renewable sources and greenhouse gas
+emission reductions. Increased use of renewable power production displaces thermal power
+production, which automatically leads to a decrease in the total amount of emissions. Policies
+to require a desired percentage of renewable energy will therefore reduce the total emissions
+that need to be reduced through other (probably more economic) means.
+Conversely, if price support mechanisms for renewables are sensitive to market prices (e.g.,
+by using Tradable Renewable Energy Certificates TRECs), the rise in wholesale prices will
+reduce the gap between the long-run marginal cost (LRMC) of new renewables and the
+electricity price. The additional cost of renewables will therefore fall.
+The LRMC of renewables could be divided, not only into a spot market price of electricity,
+but further into a value of the achieved CO2 reduction by the renewable investment
+undertaken and a residual cost associated with achieving the targets for the development of
+renewables. To the extent that CO2 costs are internalized into the wholesale electricity price,
+the value of a TREC will then represent the additional costs for producing renewables,
+excluding the carbon improvement.
+Introducing an emissions trading scheme is not expected to adversely impact on overall investments,
+although it could change the technology choice for new plants. However, the uncertainty surrounding
+the trading market currently seems to cause definite hesitance to invest in the market. As described
+above, these unknowns delay investments. In the power sector, plants which are currently built will be
+expected to still be operating in 20-30 years. It will not be possible to remove regulatory uncertainties
+over these timescales, but a trading market should help to transfer the regulatory risk to a market price
+of carbon which should be easier to manage through options, futures, etc. Emission trading provides
+additional flexibility to power companies compared to other regulatory measures such as emission
+standards. Nevertheless, in the early stages of the carbon market, these risks will be relatively high,
+and could affect investments. Whereas it is clear that the risk will be lower once the market has settled
+down, the remaining risk should not be underestimated. The fact that there will be ongoing new
+allocations and targets mean that investors will only have a short (3-4 years for the first and second
+commitment periods) foresight into ETS (which will be the potentially most important value driver)
+when they commit themselves to a 20-30 year investment.
+The Boston Consulting Group (2003).
+DEFINITIONS AND GLOSSARY
+Allocation
+Greenhouse gas emission objective for the years 2008 to 2012 (also
+called assigned amount), expressed in million tonnes of CO2
+equivalent.
+Allowances (AAUs)
+Also called assigned amount units. Permission to emit one tonne of
+CO2 equivalent. The initial sum of a Partys allowances is its assigned
+amount, or allocation.
+Assigned amount
+Emission objectives defined by the Kyoto Protocol for the
+commitment period 2008-2012 for each Party of the Protocols Annex
+B. The assigned amount defines the total number of allowances (or
+assigned amount units) held by a Party to cover its emissions by 20082012. In the simulation, the term is also used for electricity generators
+emission objectives.
+Baseload, shoulder and
+peak-load generation
+Modes of operation of power stations. Baseload plant is plant that is
+operates at a constant high output for a sustained period of time, i.e. at
+a high load factor. It therefore tends to operate throughout the day and
+throughout the year. Shoulder and peak-load generation operates at a
+range of lower load factors, for example being used to meet daily
+shoulders and peaks in demand, and seasonal shoulders and peaks.
+Proposition to buy a quantity of allowances at a specified price.
+CCGT
+Combined cycle gas turbine. A type of generating plant in which
+exhaust gases, typically from the combustion of natural gas, are used
+to drive a turbine directly and then routed through a boiler to produce
+steam to drive a second turbine.
+Certified Emission
+Reductions (CER)
+CERs are certified emission reductions. Tradable emission reductions
+generated by CDM projects undertaken in developing countries, to be
+certified in order to be transferable.
+Clean Development
+Mechanism (CDM)
+CDM or Clean Development Mechanism is one of the three flexibility
+mechanisms in the Kyoto Protocol. It is similar to JI except that the
+host country does not have a commitment and hence does not have
+allowances to transfer.
+First Commitment period
+Period of five calendar years (2008-2012), for which GHG emission
+objectives are set under the Kyoto Protocol.
+Emission trading
+Mechanism of the Kyoto Protocol that allows a Party to transfer
+allowances that it does not need to comply with its Kyoto Protocol
+objective to another Party that may have difficulties doing so.
+Emission trading is defined by Article 17 of the Protocol and the COP7 Marrakech Accords.
+Emission Reduction Units ERUs are emission reduction units. Tradable emission reductions
+(ERU)
+generated by joint implementation projects. Joint Implementation
+Projects are one of the three flexibility mechanisms in the Kyoto
+Protocol
+Greenhouse gas (GHG)
+Gases covered by the Kyoto Protocol under the United Nations
+Framework Convention on Climate Change
+Framework Convention on Climate Change.
+Herfindahl Hirschman Index. A measure of industry concentration
+calculated as the sum of the squares of the percentage market shares of
+all suppliers in a given market.
+Joint Implementation (JI)
+JI is a project-based mechanism of the Kyoto Protocol carried out
+between two Annex I countries. One country can carry out a project to
+reduce the emissions of a host country, the reductions can then be
+quantified and an appropriate amount of credits transferred form the
+host country to the sponsor in the form of an Emission Reduction Unit
+(ERU).
+Load Factor
+The electricity produced by a generating set expressed as a percentage
+of the electricity which it could have produced if it had operated at its
+full net output capacity over a fixed period, usually one year. A
+generator operating at full capacity for half of the time is said to have a
+50 per cent load factor.
+Long-run Marginal Cost
+The long-run marginal cost represents the full cost of the last power
+plant to enter the market (includes construction and operating costs).
+Market Power
+A companys use of its position in a market to raise prices above
+competitive levels.
+Merit Order
+Ranking of generators from those with the lowest average variable cost
+to those with the highest.
+Mothballing
+The temporary closure of a power station.
+Renewable energy source.
+Short-run Marginal Cost
+The short-run marginal cost is the change in total cost resulting from a
+one-unit increase (or decrease) in the output of an existing production
+facility.
+Spot Market
+A market for the immediate delivery of a commodity. Short term
+electricity markets are sometimes (incorrectly) denominated spot
+electricity markets even if delivery does not take place immediately.
+Tradable Amount
+The tradable amount is the quantity of allowances that a Party has on
+top of its reserve, i.e. equal to the Partys adjusted assigned amount
+minus its reserve. The Party is free to transfer this quantity without
+restriction, provided that it holds enough allowances to cover its 20082012 emissions to comply with its Kyoto objective.
+TREC
+Tradable renewable energy certificate. Generic term used in this study
+to define the tradable certificate corresponding to a renewable energy
+obligation, or the underlying system.
+VOLL
+Value of lost load. A measure of the price that customers are deemed
+to be willing to pay to avoid a loss of supply.
+INTRODUCTION
+Burning fossil fuels such as coal, oil and gas provides about three-quarters of the worlds energy .
+However, through fuel combustion, the primary man-made or anthropogenic greenhouse gas,
+carbon dioxide (CO2), is emitted . Greenhouse gases are now widely recognised as being responsible
+for contributing to climate change. Climate change caused by human activities threatens to affect the
+climate, health, habitat and economy of virtually all countries. It is one of the most difficult
+environmental challenges the world faces today.
+Under the United Nations Framework Convention on Climate Change (UNFCCC), more than 180
+countries have recognised the need to stabilise the concentration of greenhouse gases (GHG) in the
+atmosphere. Climate stabilisation will require tremendous changes in the way energy is produced and
+consumed. The efforts of policy-makers are now focused on minimising the economic and social
+costs of changing the production and consumption patterns. Emission trading at an international level
+was introduced in the Kyoto Protocol for that purpose . In 1997, the Kyoto Protocol set legallybinding GHG reduction targets for a number of industrialised countries. While implementation of the
+Kyoto Protocol still requires efforts from both national administrations and the international
+community, several countries and regions have decided to implement emission trading schemes. This
+is the case for the European Union (EU) which will start implementing an industry CO2 emission
+trading scheme by 2005, and will introduce a cap-and-trade constraint for the first Kyoto Protocol
+commitment period (2008-2012).
+Power generation represents the bulk of industrial emissions of CO2 in OECD countries . According
+to the WEO Reference scenario, it will contribute almost half the increase in global emissions
+between 2000 and 2030 and will remain the single biggest CO2-emitting sector in 203014. It is
+therefore likely to become instrumental in countries strategies to reduce greenhouse gas emissions.
+This study attempts to shed light on the consequences for the power generating sector of the
+introduction of a carbon emission allowance. The purpose of the paper is to get a better understanding
+of possible impacts a CO2 price will have on the economics of this sector and investment decisions
+taken by the players in the power generation sector. It outlines some of the main concerns and
+decisions that will appear when electricity generating companies are legally bound to a carbon
+constraint.
+The paper analyses the impact of a carbon emission allowance on the power generators and looks at
+its effects in terms of plants competitiveness, and companies investment decisions.
+Chapter 1 explains at what CO2 price non carbon intensive technologies will become more competitive
+than carbon intensive technologies. It also analyses changes in competitiveness between certain fossil
+fuel plants.
+Chapter 2 assesses to what degree the introduction of a carbon emission price will modify companies
+investment decisions. Table 14 summarises these investment choices in a table.
+IEA, (2002): Beyond Kyoto: Energy Dynamics and Climate Stabilisation, IEA/OECD, Paris.
+In this study, the focus will exclusively be on the emissions of the greenhouse gas carbon dioxide.
+IEA, (2001): International Emissions Trading From Concept to Reality, IEA/OECD, Paris.
+65 per cent includes auto-producers of power and heat.
+IEA (2002): World Energy Outlook 2002, IEA,/OECD, Paris.
+Resulting from the technology choices discussed above, Chapter 2 also considers second order effects
+of a carbon emission constraint. It analyses whether this could have implications on the economics of
+other energy sectors, in particular the gas sector. It also examines whether market power could be
+exercised on the emission trading market. Finally, it considers the possible links between emission
+trading schemes and renewable energy obligations, focusing primarily on the tradable renewable
+energy certificate systems.
+Whilst many of the conclusions from this paper will be applicable to emissions trading in any country,
+many of the examples raised in this paper relate to the EU emission trading scheme. This is used as an
+illustration for several reasons. The first reason is that the European Union has moved a step forward
+in creating a greenhouse gas emissions trading scheme (ETS). Several uncertainties related to rules
+governing the future ETS have recently been clarified. Secondly, the regional EU ETS gives a
+reasonable illustration of how a future international emission trading market for the private sector
+might function. Lastly, Europe as a whole has a relatively balanced generating mix although each
+member state has a specific fuel mix on the margin. Therefore, after highlighting the possible impacts
+on the market as a whole and stressing which technology is the most likely to be chosen after the
+introduction of a carbon emission cost, it is possible to look more in-depth to country specifics.
+Details regarding the European Emissions Trading Scheme
+On the 2 of July 2003, the European Parliament gave its second-reading approval to the European
+Union's carbon dioxide emissions trading scheme. With this, legislative processes advancing the rules
+for carbon emissions trading are becoming clearer. The EU negotiators used economic theory at two
+levels. First, the EU adopted a bubble approach at Kyoto allowing Member States to agree on how
+the overall EU target of  8 per cent in the first commitment period would be allocated by country.
+This burden-sharing (see Appendix 5) agreement was designed to reflect equivalence of effort from
+Member States actions to reduce GHG emissions. Eight Member States have targets which imply a
+reduction in emissions from base year levels (Luxemburg, Austria, Belgium, Netherlands, Denmark,
+Italy, UK and Germany), five countries are allowed increased emissions (Spain, Greece, Portugal,
+Ireland and Sweden) and two countries have stabilisation targets (Finland and France). Second, the
+European Commission placed emissions trading at the centre of the European approach to
+implementing the Kyoto Protocol.
+The European Commissions Emissions Trading Scheme (ETS) proposal covers two trading periods
+(2005-2007 and 2008-2012), the latter being the first commitment period of the Kyoto Protocol.
+Allowances will be allocated to approximately 18,000 facilities throughout the EU, such as refineries,
+power stations (units above 20 MW), paper, pulp, metal and mineral plants. These facilities currently
+have a combined emission of 1,680 million tonnes of CO2 per year, amounting to more than 45 per
+cent of all energy-related CO2 emissions in the EU. If all Accession Countries states join, it would
+increase the volume by 35 per cent, although it should be noted that some of the new members might
+apply for a transition period, and thus not take part from the beginning.
+Each facility would be allocated tradable emissions allowances by its national government, with one
+allowance equal to one metric tonne of carbon dioxide emissions. At the end of each compliance year,
+each facility would have to hold allowances equal to or greater than the volume of its emissions, or
+face a financial penalty of 40 per additional tonne of CO2 in 2005-2007, and 100 per tonne from
+2008. Throughout the year, facilities emitting fewer emissions than its target would be able to sell
+allowances, while facilities emitting more would have to buy in order to make compliance.
+Analysis of the Allocation Modes
+Most of the available allowances must be allocated to existing emitters without charge. Member
+countries of the EU can choose between different criteria for the distribution: historical emissions or
+external benchmarks. In the proposal, updating is not explicitly considered, however, the allocation
+plans are for three years at first and five years after that. Therefore, there may not be grandfathering
+during both periods. Certain elements of updating could be introduced in the allocation of the second
+periods quotas (i.e., if a sector has emission levels that are much lower than anticipated, that may be
+reflected in its future allocation, with a lower quantity of allowances. Similarly, a sector with much
+higher emissions could argue that its allocation needs to be increased).
+The use of auctioning is restricted. During the initial period, Member States can auction up to 5 per
+cent of the allowances. In the second period, the level of auctioning may reach 10 per cent. The
+European Commission has guaranteed the implementation of a harmonised EU auctioning of
+allowances "after 2012". In one of the differences between the Council and Parliament, the Parliament
+recommended a mandatory auctioning of 15 per cent of all allowances
+New Entrants
+According to the EU Directive, Member States have two options keeping in consideration that
+national emission quotas have to be respected. In the first case, Member States may choose to let new
+entrants buy allowances on the market. Operators of new installations will make investment decisions
+with certainty of the need for them to take their climate change impact into account. If a Member
+State chooses to let new entrants buy allowances on the market, there is no need to reduce the total
+allocated quantities as set in the preceding step to provide for new entrants. In the second option,
+Member States could choose to build a reserve of allowances for new entrants. Up to the amount of
+allowances in the reserve, new entrants would be given a free allocation.
+Links with the Kyoto Mechanisms
+The future links between the EU ETS and other emission trading markets are uncertain. It is not clear
+whether the EU will open its emissions trading market to other countries. For the moment, what is
+clear is that the EU ETS will be open to other countries through the two other flexible mechanisms,
+Clean Development Mechanisms and Joint Implementation. However, in the case of the EU ETS,
+there may be some limit to the use of CDM and JI credits. A review will be triggered once the
+number of credits converted for use in the EU emissions trading scheme reaches 6 per cent of the total
+quantity of allowances allocated by the Member States for the 2008-2012 period. The outcome of
+such a discussion may, for example, be a quantitative limit of 8 per cent for the remainder of the
+Kyoto Period, according to the proposal.
+IMPLICATIONS OF CARBON EMISSION COSTS ON MARKET PRICES AND
+GENERATION COSTS
+The short-run marginal cost represents a floor for electricity prices in liberalised markets. On a daily
+or weekly basis, companies will not produce electricity if the market price does not cover their
+variable costs of generation. The introduction of a carbon emission allowance ought to be included
+in the companies variable costs and thus in its short-term marginal costs (i.e. along with Operating
+and Maintenance costs, fuel costs, etc.) since an emission allowance will be needed for each unit of
+CO2 produced. The purpose of this chapter is to evaluate the magnitude of this carbon cost (as a
+percentage of the total cost) following different scenarios for the carbon price and several sensitivity
+cases on fuel prices and on plant efficiencies.
+Implication of carbon allowances on generation costs
+Short-run marginal costs play a key role in cost-based power auctions because they help determine the
+competitive price on the market. Many power markets rely on a central day-ahead auction in which
+generators submit individual bids of quantity and price and the system operator uses these to
+determine the price of the market based on the consumers demand. To find the market supply curve,
+individual plants supply curves are summed horizontally. To determine the merit order of the
+market, a ranking of generators with those with the lowest average variable costs to those with the
+highest was built using IEA data.
+In power markets with surplus capacity, too much capacity is chasing too little demand. Electricity
+spot prices are determined by the marginal supplier who meets the demand. In such markets, merit
+order settles the daily market price. Therefore, if the short-run marginal plants costs increase, spot
+market prices will follow this trend. To what degree the increase in costs will be reflected in the
+market price depends on several factors including market structure and competitive pressure from
+extra available generation capacity.
+Figure A and Figure B illustrate the merit order of power generation on a market. By including an
+extra cost such as a carbon cost, not only has the market price increased, but there has been a change
+in the order of the plants competitiveness. In Figure B, plant 2 offers a better bid than plant 1,
+whereas in Figure A, without the extra cost, plant 1 is more competitive.
+In the short-run section, renewable technologies other than wind technology shall not be considered.
+In the short run indicates that adjustments in the capital stock (the collection of power plants) are being ignored.
+Adjustments in the output of existing plants are being considered. In the short-run marginal cost, only variable costs are
+included (e.g. fuel costs, variable Operating and Maintenance costs, etc.). In the long run indicates that adjustments in the
+capital stock are not only being considered but are assumed to have come to completion. The long-run marginal cost
+includes fixed costs, investment costs and operating costs. The marginal costs, defined in the MIT Dictionary of Modern
+Economics (1992), are the extra cost of producing an extra unit of output.
+The short-run marginal cost is the change in total cost resulting from a one-unit increase (or decrease) in the output
+of an existing production facility.
+Figure B
+Merit Order including a Carbon Cost
+Costs
+Costs
+Figure A
+Merit Order
+Installed Capacity
+Installed Capacity
+On a daily basis, as the marginal plant adds its cost of emissions into its bids, the resulting price rise is
+greater than the additional costs faced by most of the infra-marginal power stations. Because hydro
+and nuclear barely emit CO2 and thus avoid any carbon constraint, they will benefit from the expected
+higher market prices. Less carbon intensive facilities will receive profits whatever the choice of
+allocation. Operating margins at existing generation plants could therefore, in the short run, increase
+drastically. To what extent asset values of carbon intensive facilities vary will depend on the
+percentage of allowances that will be auctioned to the companies.
+Short-run marginal costs were calculated based on IEA data by adding fuel price, consumption and
+variable Operating and Maintenance costs for each type of plant. (See below for details on the CCGT
+and coal plant assumptions and Appendices 2, 3 and 4 for a full description of the assumptions on
+other technologies.)
+For the construction of our merit order, the case of the EU is taken as an illustration, considering the
+total installed capacity of the EU15. The purpose of this Chapter is to look at the potential magnitude
+of the effects, so details of the market operation have been ignored . Additional carbon emission
+allowance priced at 20 per tonne of CO2 on this merit order has been included in order to investigate
+the effects on the merit order.
+Figure 1 represents a hypothetical merit order based on the total European installed capacity, and
+facilities operating costs. The question is whether the merit order is preserved after the introduction
+of a carbon emission allowance cost or whether certain power technologies become more competitive
+than others.
+Concerns about interconnection or transmission costs and constraints have been ignored in order to consider the
+EU power market as a single competitive market.
+Figure 1
+European Merit Order and Impact of a 20/t CO2 Carbon Price
+Short run
+marginal cost
+/MWh 140
+Short run marginal cost /MWh
+Diesel
+Fired
+Wind
+Hydro
+Nuclear
+Coal
+CCGT
+Boiler
+Turbine
+Installed capacity Europe (GW)
+Short run marginal cost without carbon constraint
+Short run marginal cost with carbon at 20/tCO2
+Source: IEA Data
+According to the power plant assumptions detailed in Appendices 2 and 3, in terms of short-run
+marginal cost, conventional hydro, wind and nuclear plants are the most competitive on the market.
+This is the reason why these technologies mostly run as baseload. Coal plants with a fuel price at
+1.50 per GJ and Combined-Cycled Gas Turbines (CCGT) with a gas price at 3.5 per GJ are the next
+facilities in the merit order. Their relative competitiveness is sensitive to fuel price as we will see
+further on. Gas prices have to decline to approximately 2.23/GJ before the two facilities have the
+same short-run marginal cost. At gas prices lower than this, CCGT technologies are more competitive.
+A variation in the carbon emission price has a similar effect on the plants competitiveness as a
+change in fuel prices. There can be a change in merit order when a carbon emission price is included
+as an additional variable cost because gas has lower CO2 emission per unit of power produced than
+coal. At a CO2 price of 20 per tonne, the competitiveness order for coal and CCGT power plants
+reverses. This section will, therefore, exclusively focus on a comparison between the two
+technologies.
+The following tables indicate the hypothesis taken for coal and CCGT power plants (see Appendices 2
+and 3 for the operating costs of the other technologies).
+For our scenario (Table 1), the thermal efficiency of an existing CCGT plant was set at 49 per cent.
+This is lower than the efficiency of a new CCGT which reaches up to 55 per cent GCV . However, in
+several European countries, the CCGT plants have been running for several years (e.g. the UK
+average was 46.8 per cent in 2002). The gas price was estimated at 3.5 per GJ. A sensitivity analysis
+will be discussed further on, using the maximum (4.59 per GJ) and minimum (1.89 per GJ) gas
+prices over the 1998-2001 period. The avoidable cost for an existing European CCGT power plant
+amounts to 27.21 per MWh. The largest component of the SRMC is fuel costs which represent
+approximately 94 per cent of the operating costs. The remaining 6 per cent is variable maintenance
+costs of the plant.
+Table 1
+Assumptions for CCGT Power Plants
+Fuel Costs
+/MWh
+25.7
+Variable O&M Costs
+/MWh
+/MWh
+27.21
+Fuel Price at plant
+Thermal efficiency
+SRMC
+For the coal scenario (Table 2), a similar methodology was used. The coal price was set by the quoted
+August 2003 index price at the Amsterdam Rotterdam Antwerp ports , at 40.2$/Mt, or approximately
+1.50/GJ. With a 37 per cent thermal efficiency, representative of many European existing coal plants,
+the fuel costs amount to 14.5/MWh, 81 per cent of the total SRMC. The remaining costs are variable
+maintenance costs, over 50 per cent higher than those spent in a CCGT power plant. Nevertheless, in
+our assumptions, the SRMC of a coal plant is 17.87/MWh cheaper than a gas plant. Therefore, for
+most European markets, coal-fired plants are commonly used to provide part of the baseload, and also
+serve as flexible capacity to follow the load curve. Coal-fired power plants exert a dominant influence
+over electricity prices by providing incremental generation.
+Table 2
+Assumptions for Coal-Fired Power Plants
+Fuel Price
+1.50
+Fuel Costs
+/MWh
+14.54
+Variable O&M Costs
+/MWh
+3.33
+/MWh
+17.87
+Thermal efficiency
+SRMC
+CCGT plants emit approximately half the amount of CO2 per MWh produced than coal plants.
+According to the IPCC Guidelines for National Greenhouse Gas Inventories, the carbon emission
+factor for dry natural gas is 15.3tC/TJ (this factor is based on NCV rather than GCV) or
+55,080tC/MWh. In our CCGT base case, the amount of CO2 emitted is 0.412t CO2/MWh, at a 49 per
+cent efficiency rate (See Table 3). If the CO2 price equals 20/t CO2, the plant costs rise by
+8.2/MWh. This leads to a 32 per cent increase in the plants operating costs.
+GCV: Gross Calorific Value
+Amsterdam-Rotterdam-Antwerp. Abbreviation commonly used in shipping to designate discharge or loading at
+one of these three ports. The ARA index price gives a good approximation of the European coal import prices for countries
+which do not produce coal domestically. Source: Datastream.
+NCV: Net Calorific Value.
+t CO2/MWh = Carbon emission rate tC/TJ * conversion TJ/GWh * conversion rate C/ CO2 / efficiency rate
+0.412 t CO2/MWh = (15.3tC/TJ*(3.6)*(44/12)/49%)/1000
+Table 3
+CO2 Assumptions for CCGT
+Cost of CO2
+allowance
+CO2 cost
+Thermal efficiency
+Carbon
+t/MWh
+0.412
+CO2 cost
+/MWh
+8.243
+In comparison, the coal used as an input for electricity plants (Average Coal in the IPCC guidelines)
+emits 25.8tC/TJ. Considering that in the coal base case the plant runs at a 37 per cent efficiency rate,
+the carbon dioxide emission is around 0.918t CO2/MWh produced. At a 20/t CO2 price, the effect on
+the SRMC is immense: the SRMC increases by 95 per cent if we assume that the CO2 costs are fully
+reflected in the plants operating costs (Table 4).
+Table 4
+CO2 Assumptions for Coal Plant
+Cost of CO2
+allowance
+CO2 cost
+Thermal efficiency
+Carbon
+t/MWh
+0.918
+CO2 cost
+/MWh
+18.4
+At a CO2 price of 20 per tonne, CCGT facilities have lower short-run marginal costs (see detailed
+calculations of the carbon emission costs above), and become more competitive than coal power
+plants. Therefore, a CO2 carbon price of 20 per tonne of implies a change in the EU merit order .
+CCGT plants will thus appear before the coal plants in the bid order but both still operate, except if
+the CO2 constraint is tough. As illustrated on the Figure 4, the CO2 price which equalises the
+competitiveness of both technologies is approximately 18.5 per tonne of CO2.
+This breakeven price of carbon is clearly sensitive to a number of these assumptions:
+Gas prices. Gas prices are extremely volatile. According to the World Energy Outlook 2002,
+in 2010, the average gas price of European imports is projected to decrease to $2.8 per MBtu
+(or 3.1 per GJ). This price is nevertheless expected to increase to $3.3 per MBtu in 2020.
+Therefore, as a CCGT would operate for approximately 25 years, the fuel costs would vary
+considerably which could in turn influence the plants competitiveness;
+Efficiency rate. Some analysis suggest that the CCGT starting operation around 2010 could
+reach an average efficiency rate of 57 per cent, which would bring down the costs for running
+However, it should be noted that in Europe, in the short run, there is not enough gas installed today to displace all
+the coal plants.
+such a plant as well as lower the carbon dioxide emissions. Similarly, a coal plant starting
+operation in 2010 could expect an efficiency of 46 per cent;
+Other costs driven by other environmental policies. In Europe, the Large Combustion
+Plant Directive might also affect the plants operating costs. Investment decisions made on
+implementing fluidised gas desulphurisation at coal plants could have impacts on the plants
+emissions;
+Capital costs;
+Operating and Maintenance costs.
+Figure 3 represents a simplified sensitivity analysis based on varying fuel prices. This was conducted
+to determine the implications of the variations in gas prices (both short term volatility and long term
+trends) on the short-run marginal cost and on the carbon emission price which equalises the
+competitiveness of coal and gas plants.
+The scenarios for the range of gas prices are based on the average European gas import price from
+January 1998 to January 2002 (See Figure 2).
+Jan-02
+Oct-01
+Jul-01
+Apr-01
+Jan-01
+Jul-00
+Oct-00
+Apr-00
+Jan-00
+Oct.99
+Jul-99
+Apr-99
+Jan-99
+Jul-98
+Oct.98
+Apr-98
+Jan-98
+$/MBTu
+Figure 2
+Average European Gas Import Price 1998-2002
+Source: IEA Data
+Figure 3 shows the changes in CCGT plants operating costs in relation to varying gas prices . The
+issue here is to understand whether coal-fired or CCGT plants are more competitive at different fuel
+prices, and at what CO2 price are these technologies equivalent in terms of competitive bids. The
+breakeven CO2 price equals 18.5 per tonne of CO2 under the assumptions that the gas price is at 3.5
+per GJ, and the coal price is estimated at 1.50 per GJ.
+A similar sensitivity analysis could be made for varying coal prices.
+Figure 3
+Short-run Marginal Costs Sensitivity to Gas Price Variations
+70.0
+SRMC Base case Coal
+60.0
+34 /tCO2
+50.0
+SRMC High Fuel Costs CCGT
+@ 4.59/GJ
+Cost /MWh
+SRMC Base case CCGT
+@ 3.3 /GJ
+40.0
+18.5 /tCO2
+SRMC Low Fuel Costs CCGT
+@ 1.89/GJ
+30.0
+20.0
+10.0
+CO2 price /tCO2
+SRMC Base case CCGT
+SRMC Base case Coal
+SRMC High Fuel Costs Case CCGT
+SRMC Low Fuel Costs Case CCGT
+This breakeven price of carbon is very sensitive to the fuel prices. If gas prices rise to 4.59 per GJ,
+the maximum European gas import price over 1998-2001 period (see Figure 3), the carbon price
+would have to rise to 34 per tonne of CO2 to equalise the competitiveness of coal and gas. A 40 per
+cent change in gas prices leads to an 84 per cent change in the breakeven price. The relative
+competitiveness of coal and gas is twice as sensitive to gas price differentials as it is to CO2 price.
+Given the sensitivity of the breakeven price to gas assumptions, the switch in competitiveness
+between the two technologies could occur in a range of different CO2 price, depending on plant
+specifics (location, fuel price, efficiency, etc.).
+If, however, the gas price falls under 2.23 per GJ, CCGT plants will always be more competitive
+than coal plants at a 1.50 per GJ coal price, regardless of any carbon emission price. In this case, the
+price of coal as a fuel for power generation will naturally decline in order to allow a better
+competitiveness of this type of fuel. A response from coal producers would then be likely to occur in
+order to maintain their market shares. However, if emission reductions are necessary, coal will lose
+market share. This is because if coal prices drop, then CO2 prices will rise for an equivalent quantity
+of reductions from the sector.
+The scenarios for the range of coal prices are based on the ARA index variations between January
+2000 and August 2003. During this period, the coal price varied between 0.95 per GJ to 1.54 per GJ
+(See Figure 4).
+The range of CO2 breakeven prices could be from zero (if the gas price makes the CCGT plant more
+competitive than the coal plant) to an upper end (34 per tonne of CO2).
+Figure 4
+Steam Coal Price Variations January 2000 to August 2003 (ARA Index)
+Steam Coal Price ARA Index
+$/GJ
+Jul-03
+Apr-03
+Jan-03
+Jul-02
+Oct-02
+Apr-02
+Jan-02
+Jul-01
+Oct-01
+Apr-01
+Jan-01
+Oct-00
+Jul-00
+Apr-00
+Jan-00
+Source: Datastream
+Figure 5
+Short-run Marginal Costs Sensitivity to Coal Price Variations
+70.0
+SRMC Coal high fuel costs @
+1.66/GJ
+60.0
+SRMC Base case Coal @
+1.50/GJ
+SRMC Coal low fuel costs @
+0.95/GJ
+50.0
+Costs /MWh
+SRMC Base case CCGT @
+3.5/GJ
+29/tCO2
+40.0
+18.5/tCO2
+17.7/tCO2
+30.0
+20.0
+10.0
+CO2 emission price /tCO2
+SRMC Coal low fuel costs
+SRMC Coal high fuel costs
+SRMC Base case CCGT
+SRMC Base case Coal
+This breakeven price of carbon is also sensitive to the coal prices, but to a lesser extent than to gas
+price variations. If coal prices rise to 1.66 per GJ, the maximum price forecasted in 2010, the
+breakeven CO2 price decreases to 17.7 per tonne of CO2. If, however, the coal price falls to 0.95 per
+GJ, the carbon price would have to rise to 29 per tonne of CO2 to equalise the competitiveness of
+coal and gas (See Figure 5). A 28 per cent decrease in coal prices leads to a 57 per cent increase in the
+breakeven point. In this case, the relative competitiveness of coal and gas is less than twice as
+sensitive to coal price differentials as it is to CO2 price.
+Similarly, a sensitivity analysis on the CCGT plants efficiency was carried out in order to highlight
+the effects on the CO2 price which makes the two technologies equivalent in terms of competitiveness.
+The efficiency rate in the CCGT base case equals 49 per cent.
+Figure 6
+Short-run Marginal Costs Sensitivity to Efficiency Rate
+70.0
+60.0
+SRMC Base case Coal 37%
+SRMC CCGT Low efficiency
+rate 45%
+50.0
+Costs /MWh
+24.5/tCO2
+SRMC Base case CCGT 49%
+40.0
+18.5 /tCO2
+SRMC CCGT High efficiency
+rate 62%
+30.0
+6.5 /tCO2
+20.0
+10.0
+CO2 Price /tCO2
+SRMC Base case Coal
+SRMC High efficiency rate
+SRMC Low efficiency rate
+SRMC Base case CCGT
+As illustrated on Figure 6, at a low efficiency rate of 45 per cent for existing plants, there is a 9 per
+cent increase in the CCGTs fuel costs and an 8 per cent increase in the SRMC. Henceforth, the CO2
+price which equalises the competitiveness of coal and CCGT plants rises by 32 per cent to 24.5 per
+tonne of CO2. If the CCGT plants efficiency rate reaches 62 per cent, the maximum rate forecasted
+for plants built in 2030, the fuel costs decline by 22 per cent and the SRMC by 20 per cent. The
+breakeven CO2 price falls by 65 per cent to 6.5 per tonne of CO2.
+Overall, the CO2 emission price sensibility to elements included in the power plants variable costs is
+very significant. Variations in gas prices and improvements in CCGT efficiency will lead to a
+situation where gas and coal plants are occasionally reversed in the merit order due to additions of
+carbon prices within the expected range.
+Price Implications
+The way generation costs get passed through to final end-use prices is complex, and there is not
+uniform agreement on the way prices reflect market fundamentals. In this context, the impact of
+carbon on end-users prices is even more uncertain than the impact on generation costs. However, this
+section will put bounds on the likely range, focussing primarily on the impact on average prices and
+on price volatility. This section is based on a microeconomic analysis of the generation sector, and
+considers the market structure as static. Assumptions regarding whether the different power
+technologies are owned by a single or several companies have been simplified, considering that each
+power plant operates as if it is owned by a different company.
+In theory, the value of carbon emission allowances should be reflected in the plants generating costs.
+This is because the production of electricity always coincides with the opportunity to sell the
+allowances on the emission allowance market. Therefore, this opportunity cost exists whether the
+allowances were grandfathered (allocated freely) or auctioned (paid by companies). However, the
+decision to pass on the full opportunity cost of allowances or only part of it depends on several
+factors. The most important elements are the level of available generating capacity on the market, the
+fuel mix in the power markets and the demand curve, and the allocation method.
+Market concentration (coming from either actual asset ownership or production contracts coming
+from contractual arrangements with third parties) is a critical issue since a company in a dominant
+position would theoretically have no constraint on passing its carbon emission costs onto its wholesale
+prices . Companies in a competitive market would, however, suffer from competitive pressure arising
+from different sources.
+Of primary importance is the available generating capacity on the market. A range of price effects will
+be derived depending on the level of available capacity and the carbon intensity of this capacity. If the
+demand reaches such a level that the market is tight in terms of available capacity, competitive
+pressure from extra available capacity will be low. In this case, companies which emit CO2 will be
+encouraged to fully feed their carbon costs through their prices. It has been observed that the CO2
+penalty of the Danish cap-and-trade regime has been fully passed on to the market. As illustrated on
+Figure 7, the wholesale price will rise from P0 to P1 with the introduction of a carbon emission price
+if market allows passing-on. P1 represents the operating costs of the gas boiler technology including
+the entire carbon emission cost. Therefore, in the case of tight available capacity, prices are expected
+to rise by the additional carbon cost of the marginal producer. Power producers could incorporate the
+full cost of carbon emission prices and thus make additional profits by raising their prices at that level.
+Figure 7
+Merit Order in a Tight Power Market
+Costs
+/MWh
+With CO2 price
+Without CO2
+price
+Coal
+Boiler
+CCGT
+Available capacity ( MW)
+However, if the market is oversupplied and extra capacity is available, two distinct situations can
+occur.
+In the first case (Figure 8), the demand curve is such that competition on the market is between two
+producers with significant differences in terms of short-run marginal costs, regardless of any CO2
+price (e.g. nuclear and coal). In this case, the carbon cost does not change the power plants rank in
+the merit order. Generator N has extra available capacity which he does not use , and the demand
+curve is located at point where all the supply could be met by running a part of his extra unused
+capacity, or could be met by both power producers. The question here is whether the carbon costs will
+be included in generator Cs price or whether C will absorb his carbon costs. If generator C passes on
+his carbon costs, the market price will reach P1. The latter takes the risk of losing part of its market
+share since N could be encouraged to produce more power in order to gain additional profits. To what
+Nevertheless, the exercise of market power could be limited by the price elasticity of demand.
+This could be the case if the profitability level is low. Such reserve capacity could be brought into use under more
+favourable market conditions.
+level would N increase his production? Generator N would increase his supply to reach a quantity just
+under the electricity demand. Generator C would thus remain the marginal producer on the market,
+setting therefore the electricity market price. If this were to happen, there is no reason why generator
+C would not pass his carbon costs onto the market.
+Figure 8
+Merit Order in an Oversupplied Power Market: the Introduction of a Carbon Emission Price
+does not lead to a Change in the Merit Order
+Costs
+/MWh
+With CO2 price
+Without CO2
+price
+Available capacity (MW)
+In the second case (Figure 9), the marginal players on the merit order are carbon intensive
+technologies. With the introduction of a carbon emission price, there is a switch of the power
+producers position on the merit order (e.g. coal and gas since the technologies have different carbon
+intensities) and there is a reversal in the merit order if the CO2 price reaches 20 per tonne. A Bertrand
+type of competition will lead the market price, meaning that each generator will react to his
+competitors decision. The question put forward here is how the carbon emission costs are considered.
+If allowances are grandfathered , are they accounted for as a real cost (in the same way as for other
+operating costs), which implies that not passing them on to prices lead to company losses? Or are
+they freely allocated allowances viewed as soft costs, meaning that they could be absorbed by the
+company without any real financial losses ?
+Figure 9
+Merit Order in an Oversupplied Power Market: a Carbon Emission Price
+Leads to a Change in the Merit Order
+Costs
+/MWh
+With CO2 price
+Coal
+CCGT
+Without CO2
+price
+Available capacity (MW)
+The way generators perceive their carbon costs is crucial in this type of market structure:
+The Bertrand model describes a duopoly market structure. Players select price strategies sequentially. In each
+period, a firm selects the action that is its best response to the action chosen by the competing firm in the previous period.
+In the case of grandfathering, the distribution of allowances is free of charge and is based on the past emissions
+levels. The base period or historical emissions principle starts from emissions in a chosen period, either one reference year or
+the average over several years.
+This implies that in this example no allowances are auctioned. The value attributed to the allowances is only in
+terms of the opportunity cost.
+On a strictly marginal cost accounting basis, the full carbon costs would be expected to be
+passed on to the price, since (assuming that each generator is allocated less than their
+Business-as-Usual emissions levels) each MWh foregone on the electricity market will reduce
+the number of permits they need to buy at the end of the year;
+If allowances are therefore considered as real costs, it is unlikely that generators will produce
+electricity if the market price does not cover their short-run marginal cost (including the
+carbon emission cost in this case);
+If, however, the freely allocated grandfathered allowances only have an accountability value
+because of their opportunity cost, several situations might occur:
+The most extreme case occurs when both suppliers are in intense competition. In order
+to maintain their share of the wholesale market, generators must keep their prices the
+lowest possible. In this case, grandfathered allowances might be considered as soft
+costs. The only CO2 emission costs generators will pass on to their prices are the ones
+resulting from the purchase of extra allowances which were not grandfathered. The
+latter situation happens when generators emit more than their annual cap. If they wish
+to remain competitive, generators ought to increase their prices to the level which
+compensates only for the average carbon emission cost (total carbon emission costs
+paid in the year / total amount of GWh produced in the year). This increase does not
+therefore account for the opportunity costs of the grandfathered allowances.
+The competitiveness of both players depends on the quantity of extra allowances
+bought on the trading market. Generator C might decide to produce up to the level
+where his costs, including the average costs of purchased allowances over the year, are
+under that of generator Gs. C would therefore remain before generator G on the merit
+order (See Figure 10). Overall, because of the competitive pressure, wholesale power
+prices will be lower than if generators included the opportunity cost of grandfathered
+allowances as well as their average carbon emission costs.
+Figure 10
+Merit Order in a Competitive Oversupplied Market:
+The Introduction of an Average Emission Cost
+With opportunity costs of
+CO2 + cost paid for
+additional allowances
+Costs
+/MWh
+With average cost
+paid for allowances
+Without CO2
+price
+Available capacity (MWh)
+If the market structure does not indicate full competition as in the first case, then
+competitive pressure among the players will be low. Although it is impossible to
+predict companies decisions and the way they perceive the carbon costs, it is likely
+that wholesale electricity prices will increase more than in a highly competitive market,
+since generators may feed through most of their carbon costs, absorbing them only to a
+limited extent.
+The treatment of new entrants is another element which will influence the decision to
+pass the carbon emission costs onto electricity prices. If entry must be paid, the
+emission costs of new entrants would be expected to be passed on to the prices since
+each MWh produced requires purchasing one allowance . Incumbents should also be
+encouraged to pass on their full carbon emission costs since new entrants will need to
+amortise their plants by offering higher prices. Paid entry would also do away with the
+need to strictly define what a new entrant is. If, however, reserve allowances are set
+aside for new entrants and are allocated free of charge, a similar uncertainty as
+described above would arise. The decision to fully feed the emission costs onto market
+prices would once again depend on the amount of available generating capacity on the
+market.
+There are also other exceptions to price feed through of carbon emission costs:
+In the case where prices are regulated, the allocated allowances would not necessarily be
+reflected in prices. Countries still in the process of liberalising their power markets have laws
+which regulate the prices offered to non-eligible customers. In the US Acid Rain Programme,
+for example, which created a sulphur dioxide allowances trading programme, under regulated
+prices, grandfathered allowances were valued at zero and had no direct effect on prices
+(Burtraw, 2002). The only emission costs which were allowed to be passed on to the market
+prices were costs resulting from real emission reduction efforts. A regulatory treatment of
+allocated allowances under grandfathering that excluded their opportunity costs would have
+two effects according to Harrison and Radov (2002). Prices would not increase, and thus
+consumers would not bear additional costs and producers would not obtain additional gains.
+Secondly, the lack of price effects would increase the overall costs of meeting the cap because
+one of the methods of reducing CO2 emissions (reductions in customer demand for the
+product due to price increases) would not be available. Thirdly, in a semi-liberalized market,
+any price increase could be offset by the existing regulation. The key example is Spain, where
+any increase in wholesale prices will be offset in lower stranded cost compensation to
+generators until the expiration of stranded costs32;
+In the case of international competition, companies could suffer from competitive
+distortions since competitors include companies which are not subject to any emission
+constraint. This could limit the carbon emission cost feed through. This argument applies less
+strongly to the power sector than for other sectors in the EU ETS since international
+competition is limited by interconnection constraints;
+Note that carbon emission markets should be sufficiently liquid to exert any entry barrier or price manipulation.
+This assumes that stranded costs are larger than the revenue upside which almost is certainly the case.
+Competitive pressure from border markets also plays a key role. The competitive
+pressure from neighbouring countries will depend on the interconnection capacity of a country
+with its surrounding markets. If for example, coal plants feed their carbon emission costs
+through the market price, in terms of short-run marginal costs, nuclear plants will be far more
+competitive. If there is additional unused nuclear capacity in a border country, suppliers may
+decide to import nuclear, nuclear companies gaining additional foreign market shares. In
+general, however, since all EU countries are covered by the directive, and imports and exports
+from outside EU are negligible, this effect for the EU as a whole is likely to be small. In other
+words, the EU market is a captive market, and this overall would encourage price feedthrough. This might not be the same for other regions considering emissions trading, nor is it
+true for other sectors covered by the EU scheme that are open to international competition;
+Updating allocation based on output  including between trading periods. The updating
+approach bases future allocations on a plants current and future activities (i.e. power
+generation). If the updating formula is based on production, for example, a plant would
+clearly have an incentive to increase its output in 2008 to receive more allowances in 201033.
+The power company would, therefore, be inclined to not fully pass its emission costs on to its
+prices in order maintain its market share. The electricity price would not, in this case, reflect
+the opportunity cost of allowances to cover the emissions from producing the power.
+Updating based on emission, a more likely option under the EU ETS, could lead to similar
+incentives to maintain emissions and restrict power price increases although behavior is
+complicated by the presence of a CO2 cap;
+Market power. Companies which benefit from an important market share in the power
+generation sector could be willing to limit their emission cost feed through in order to make
+entry in the market more difficult;
+Customer switching. The degree at which customers switch supplier following a price
+increase influence companies decision to feed-through the carbon emission cost. This point
+can be related to the competition issue raised earlier. Choice potentially provides further
+competitive discipline to the producers along the value chain.
+Table 5 shows the potential effects that carbon emission pricing could have on electricity prices in the
+wholesale markets and retail markets. The question is whether electricity companies under a CO2 cap
+will be able to pass the cost on to the wholesale market or will need to reduce their profit margin. In
+either case, this will have important consequences on the power sector in terms of fuel mix, as well as
+capacity to raise financing for new capital investment.
+Nevertheless, such updating could be counter-productive, since it in practice will incentivize a player to pollute as
+much as possible (as long as there is a positive slope in the CO2-price forward slope).
+Table 5
+A Survey of Studies on Power Generation under a Cap-and-Trade Regime
+CO2 PRICE
+EFFECTS ON
+(PER TONNE OF CO2)
+ELECTRICITY PRICE
+REMARKS
+McKinsey
+ 25 (modelling result, + 30 per cent
+average wholesale
+no time limit)
++ 15 per cent average
+end-use
+ICF Consulting
+ 5 in 2005-2007
+ 10 in 2008-2012
++ 19 per cent
+(wholesale base-load
+price)
+EU-mainland. Includes
+feedback effect of
+higher price of natural
+EU-wide. Impacts on
+assets value in power
+sector
+(assumptions)
+Source: [IEA/SLT(2003)24]
+The McKinsey model suggests that the average wholesale electricity spot price of continental Europe
+would rise about 30 per cent above the level that would prevail without a carbon emission price at 25
+per tonne of CO2. The model then forecasts a second-order effect as thermal power generation fuel
+shifts from coal to gas. The gas use annual growth rate would rise to 3.8 per cent, from 2.7 per cent,
+requiring the development of new and less accessible gas fields, therefore pushing up the price of gas
+by perhaps 15 per cent. All else being equal, the forecasted increase would in turn raise the operating
+costs of gas plants. Henceforth, as compared with their business-as-usual scenario, McKinsey
+estimates that the wholesale prices of electricity would rise by a further 10 per cent, producing a total
+increase of about 40 per cent by 2008. An increase of this order would in turn increase by 15 per cent
+the price for end-users, since the wholesale price constitutes about 40 per cent of the domestic retail
+price.
+Using its proprietary Integrated Power Model for Europe which includes power plant data, CO2, NOx,
+and SO2 emissions data, and transmission constraint data for more than 30 countries in the EU, EEA,
+and Accession Countries, ICF Consulting estimates an average EU-wide demand-weighted wholesale
+power price of 19 percent under its base case scenario. The study reveals that some countries such as
+the UK and Germany may see much more significant increases. ICF Consulting's study includes
+several sensitivities for different allocation scenarios as well as different market-clearing prices for
+EU Allowances to assess the range of full impacts on power plant asset values. ICF Consulting's
+analysis in the base case also reveals that the power sector's internal abatement cost curve reaches
+approximately 17 /tonne in the 2008-2012 period.
+The McKinsey report includes Austria, Belgium, Germany, Finland, France, Luxemburg, Netherlands, Norway,
+Sweden, and Switzerland.
+Impact of CO2 Trading on a Country Basis
+An EU survey by the Dresdner Bank forecasts electricity wholesale power price increases on a
+country level. In their 2006 low carbon emission cost scenario at 7.5 per tonne of CO2, the increase
+in wholesale prices will range between 3 per cent for Spain and 22 per cent for Germany. The reason
+why Spanish prices may not fully reflect the higher opportunity costs resulting from CO2 trading is
+because prices are still likely to be significantly influenced by regulated tariffs for the next few years.
+By contrast, German power prices are below new entrant levels. The effect of CO2 trading could then
+be to see substantially higher prices, reflecting the full effect on the merit order. In their high 2006
+scenario at a 20 per tonne of CO2, the growth ranges between 7 per cent and 57 per cent for the same
+countries.
+Source: Dresdner Kleinwort Wasserstein
+According to the merit order described in Chapter 1 Section 1, the effect of a carbon emission price at
+20 per tonne of CO2 is a 21 per cent increase in Europes wholesale power prices. To calculate this
+electricity price increase, we assumed that the variation in electricity demand over a year follows a
+Normal distribution . Considering this merit order and a demand level at 255 GW, the weighted
+average carbon cost on the market is 10 per MWh. This weighted carbon emission cost is evaluated
+under the hypothesis that generators fully pass on their carbon costs to their wholesale prices. Overall,
+this represents a total price increase amounts to 21 per cent .
+While some plants could see dramatic increases in asset value based on increases in electricity
+production and wholesale prices, others should now be considering retirement. The exact outcomes,
+however, depend critically on the allocation rules set. The results clearly demonstrate that this will be
+a sea change for players in the European power sector.
+Dresdner Kleinwort Wasserstein (2003): Emission Trading Carbon Derby, Pan-European Utility Research, UK.
+A 20 per cent standard deviation from the average European electricity consumption is hypothesised. For this
+exercise, the EU consumption in 2000 (2237 TWh) was used. Moreover, the average European industrial electricity price in
+the same year reached 47.12 per MWh according to IEA data (Energy Prices and Taxes Quarterly Statistics First Quarter
+2003).
+Note that if the carbon emission price is at 25 per tonne of CO2, wholesale electricity prices increase by 27 per
+cent using the same methodology as described above.
+THE LONGER TERM IMPACT ON INVESTMENT DECISIONS
+To encourage new capacity addition, expected wholesale prices have to cover the future long-run
+marginal costs of generation. These costs include operating and capital costs required for new
+capacity. It is only if the future market prices are expected to reach the long-run marginal cost of
+plants that incumbents or new entrants decide on building new power plants . In liberalised markets,
+electricity prices should theoretically be capped by the long-run marginal cost. If on-going electricity
+prices remain above this level, new plants will be built which will push the prices back down.
+The long-run marginal cost of generation depends on the technology. Nuclear plants have very low
+operating costs, but high capital costs. Moreover, the lead time is approximately ten or more years,
+much longer than the construction of thermal plants for example. By contrast, CCGT plants have a
+low unit investment cost and a short construction time with coal lying somewhere between the two.
+Both of these facts reduce the economic risk of new projects, which is especially important for smaller
+new entrants even though CCGT has relatively high fuel costs. Therefore, in the long term, natural gas
+fired CCGTs are projected to have an important share in terms of capacity additions as this
+technology offers several financial and operational advantages.
+This chapter looks at investment decisions including construction of new plants, the switching of fuels
+in an existing plant, and the costs for refurbishing old plants. How carbon is factored in to these
+decisions as an additional risk will then be investigated, to see whether carbon markets make
+investment more or less risky, whether it affects the choice of plant, and how it might affect reserve
+margins.
+Resulting from the technology choices discussed above, this chapter also considers second order
+effects of a carbon emission constraint. It analyses whether this could have implications on the
+economics of other energy sectors, in particular the gas sector. It also examines whether market power
+could be exercised on the emission trading market. Finally, it considers the possible links between
+emission trading schemes and other trading markets, focusing primarily on the tradable renewable
+energy certificate systems.
+Changes in generation mix: directions and trends in investment
+The purpose of this first section is to assess the impact of a CO2 constraint on long-run marginal costs
+of different power technologies. Will some technologies become less competitive than others with the
+introduction of a carbon emission allowance? Will the introduction of a carbon emission cost
+influence investment decisions in new facilities? At what carbon emission price will it be more
+competitive to build or replace coal plants by CCGTs?
+In calculating our long-run marginal generation costs, the model built in the first section was
+completed in order to include plants capital and financial costs. Table 6 gives a summary of the
+technical, economic and financial parameters assumed in our CCGT assumptions. The calculations in
+this model do not reflect all the details of an actual power plant project . The simplifications do not,
+It is important to note that the forecasted future market prices are based on current market prices.
+Therefore, the prices which actually encourage plant construction are current market prices that are above the
+long term marginal costs.
+For additional information on investments required across all energy sectors, see World Energy
+Investment Outlook, IEA, which will be published in November 2003.
+for example, take into the cash flow during construction, the Return on Equity required, or a
+repayment schedule of project debt.
+At baseload, the plant has an average net capacity of 600MW. The total plant development costs are
+estimated at 300 million, capital cost assessed at $500/kW. In our base case scenario, the economic
+plant life is set at 25 years. Fuel costs are lower than in the short-run marginal modelled assumptions.
+According to the 2002 World Energy Outlook, in 2010, natural gas European imports will be
+$2.8/MBtu, or approximately $2.95/GJ. Fuel costs for a future CCGT plant will thus reach
+19.6/MWh, under the hypothesis that the thermal efficiency rate of a new CCGT plant will increase
+to 55 per cent. The pre-tax return of the plant is fixed at 8 per cent, in line with several data for
+project-financed power plants in Europe. Total generation costs of a new CCGT amount to
+29.60/MWh. Fuel costs represent the largest portion, with 66 per cent of total generation costs.
+Table 6
+Long-Run Marginal Cost Assumptions of a New CCGT Plant
+Plant Capacity
+Capital Costs
+Economic Plant Life
+Plant availability
+Fuel Price
+Fuel Costs
+Cost of Capital
+Variable O&M Costs
+Fixed O&M Costs
+/MWh
+/MWh
+/MWh
+/MWh
+3.00
+19.6
+5.75
+1.50
+2.33
+Thermal efficiency
+Pretax return
+Depreciation
+Long-run marginal cost for a
+CCGT plant
+/MWh
+8.06
+2.85
+/MWh
+29.18
+Likewise, the coal assumptions in Table 7 were completed in order to evaluate the costs of building a
+new coal steam-fired plant. At baseload, the plants capacity is 750MW, representative of the new
+coal plants being build across Europe. The thermal efficiency of the new plant is 40 per cent, higher
+than that of existing coal plants. The fuel price is more expensive, estimated at 1.66/GJ. Overall, the
+total generation costs reach 34.4/MWh. This cost is higher than costs for new CCGT plants, and the
+competitive differential increases when a CO2 constraint is introduced.
+Conversion rate assumption is 1$ = 1
+Table 7
+Long-run Marginal Cost Assumptions of a New Coal Plant
+Plant Capacity
+Capital Costs
+Economic Plant Life
+Plant availability
+Fuel Price
+Fuel Costs
+Cost of Capital
+Variable O&M Costs
+Fixed O&M Costs
+/MWh
+/MWh
+/MWh
+/MWh
+1.66
+14.93
+12.65
+3.33
+3.50
+Thermal efficiency
+Pretax return
+Depreciation
+Long-run marginal cost for
+a coal plant
+/MWh
+8.06
+5.23
+/MWh
+34.41
+The combustion of natural gas in modern gas turbines leads to very low emissions. As underlined
+above, modern plants have a very high fuel efficiency of about 55 per cent. This allows the plant to
+benefit from a smaller carbon emission rate. At a 20/t CO2 price, the plants carbon cost is 7,3MWh,
+at an emission rate of 0.367t per MWh produced. The long-run marginal cost including the carbon
+cost reaches 36.95/MWh (See Table 8).
+Table 8
+CO2 Emissions Assumptions of a New CCGT plant
+Carbon emitted
+t/MWh
+0.367
+CO2 cost
+/MWh
+7.344
+CO2 cost
+Long-run
+marginal cost
+/MWh 29.60
+With Carbon
+/MWh
+36.95
+The effect of a carbon constraint is emphasized for a new steam boiler coal fired plant. At a 40 per
+cent fuel efficiency rate, the carbon emitted is approximately 0.85 tonne per MWh. At a 20/t CO2
+carbon price, the plants CO2 costs reach 17/MWh (Table 9), more than doubling the costs of
+generation.
+Table 9
+CO2 Emissions Assumptions of a New Coal Plant
+Carbon emitted
+t/MWh
+0.85
+CO2cost
+/MWh
+17.028
+Long-run
+marginal cost
+/MWh
+34.41
+With carbon
+/MWh
+51.43
+CO2 cost
+Figure 11 summarises the long-run marginal costs of different power plants which could be built and
+includes the additional costs of a 20/t CO2 price (See Appendices 3 and 4 for details on the
+renewable energy assumptions).
+Figure 11
+Full Costs of Power Technologies and a 20/t CO2 Carbon Price
+Long run marginal cost (/MWh)
+Source: IEA Data
+Long-run marginal costs for Nuclear do not include decommissioning costs
+Biomass high OPEX
+Biomass low OPEX
+Wind off-shore high availability
+Wind off-shore low availability
+Wind on-shore high availability
+Wind on-shore low availability
+CCGT
+Coal
+Nuclear
+For off-shore wind generation to be competitive with gas combined cycle technologies, the price of
+emissions allowances would have to approach 80 a tonne of CO2 in a high load factor scenario for
+wind around 40 per cent. However, with a low load factor around 30 per cent, the allowances would
+have to increase to 116 a tonne of CO2. Likewise, for on-shore wind generation to be competitive
+with CCGT plants, emission allowances would have to range between 107 a tonne of CO2 and 30 a
+tonne, the load factor for onshore varying from 17 to 35 per cent. On-shore wind plants could become
+competitive with CCGT and coal plants if the load factor was higher than 35 per cent. However, the
+load factor varies one year to another.
+For biomass from energy crops to become competitive with CCGT technologies, the price of the
+carbon would have to range from 140 to 245 a tonne of CO2, depending on the amount of operating
+costs.
+The introduction of a carbon price could stimulate investment in wind generation only to a limited
+extent. Moreover, it would be necessary to guarantee that renewables such as wind and solar energy
+could generate a reliable source of energy. This is the reason why separate green certificate schemes
+are being discussed as a policy option to develop renewables. According to McKinsey, while such
+technologies will be essential to keep emissions in compliance with the targets as energy use rises,
+they will not contribute too greatly to the Kyoto compliance targets up to 2012.
+CCGT plants are likely to be the option for new capacity additions in the future EU environmental
+context where gas is available. Their advantages in terms of emissions, efficiency, and costs compared
+to coal facilities make it likely that companies will favour building gas plants against coal plants.
+However, if CCGT plants account for the majority of the generation capacity built, this will increase
+dependence on gas imports, as discussed further on in the section on Second order effects.
+Furthermore, the introduction of carbon costs increases CCGTs long-run marginal cost advantage. If
+the price of carbon emission is relatively high, the impact of the carbon emission constraint may be so
+significant that companies will also need to arbitrate between keeping their coal plants in operation
+and building more efficient CCGT plants.
+Comparing short-run marginal costs with long-run marginal costs shows at which level it is more
+profitable to continue operating an existing coal-fired plant rather than build a new gas-fired one.
+Figure 12 shows which technology is more competitive in relation to a varying carbon emission price
+using a coal price at 1.50 per GJ and a gas price at 3.5 per GJ. The question here is whether it is
+more profitable for a company to run its existing plants or whether it should invest in a modern power
+plant with a different fuel. Moreover, under a specific carbon price, which technology is more
+competitive?
+Figure 12
+Comparison between Coal and CCGT Plants Competitiveness
+90.0
+80.0
+LRMC Base Case Coal 40%
+efficiency
+Costs /MWh
+70.0
+60.0
+SRMC Base Case Coal 37%
+efficiency
+50.0
+LRMC Base Case CCGT 55%
+efficiency
+23.2 /tCO2
+18.5 /tCO2
+40.0
+SRMC Base Case CCGT
+49% efficiency
+30.0
+New CCGT entry is cheaper
+20.0
+Arbitrage
+production
+CCGT/Coal
+Coal
+10.0
+CO2 price /tCO2
+SRMC Base case CCGT
+LRMC Base case CCGT
+SRMC Base case Coal
+LRMC Base Case Coal
+Source: IEA Data
+Without any carbon emission price and under normal circumstances, operating costs of an existing
+coal plant are lower than full costs of a new CCGT plant. However, in the decision making process,
+if a carbon emission price is introduced, depending on its level, it will be a decisive element in terms
+of running an existing plant or building a new one. If the carbon emission prices range between:
+0 and 18.5 per tonne of CO2, operating costs of existing coal facilities are lower than that of
+existing CCGT plants. Coal plants are the preferred technology. The coal plants will be
+dispatched before CCGTs on the merit order if we consider the fuel prices used in Chapter 1
+Section 1. The plants competitiveness nevertheless depends on the prices of coal and gas;
+18.5 and 23.2 per tonne of CO2, CCGT plants are more competitive than coal plants.
+Nevertheless, coal plants will continue to operate. Whether these plants will operate as
+baseload facilities or shoulder capacity will depend on the demand curve;
+Above 23.2 per tonne of CO2, it is more profitable for companies to shut down their coal
+plants and to build modern CCGT plants. Many high-emissions plants such as old coal-fired
+ones which remain in operation may be required only for regular peaks in demand;
+These results do not take into account the possibilities of existing coal plants to be refurbished
+or repowered in order to increase their efficiency and thus reduce their CO2 emissions per
+kWh.
+or long-run marginal cost
+McKinsey estimates using its model described in Chapter 1 Section 2 that from 2005 to 2012, about a
+third of these plants will switch to that role, which might therefore require investments to change their
+operating patterns, while a third will remain at base-load capacity and a third will be shut down in
+favour of gas. Thanks to better gas turbine technologies and to the assumption that there will be a long
+term availability of cheap gas supplies in Europe, one effect of CO2 emission regulation would be that
+gas will take over coals role as the backbone of non-nuclear electricity supply much more quickly.
+It is too early to know whether the new ICGT clean coal technology could modify this environment.
+What level of emission reductions would drive such CO2 prices in those ranges is not possible to
+assess from the model described in this paper. However, the Boston Consulting Group assumes that if
+the European power sector would have to reduce 25 per cent of the total targeted CO2 reduction
+(Europes burden under business-as-usual scenario), CO2 prices would reach 25 per tonne of CO2. If
+power generators were to shoulder 50 per cent of the total reduction, a carbon price would reach 35.
+Economics of mothballing/retiring
+The short-run marginal cost represents a floor for electricity prices in liberalised markets. Over a
+monthly or yearly period, utilities will not produce power if they cannot at least cover the variable
+cost of generation. Inability to cover operating costs is an economic signal that most inefficient
+capacity on the system should be closed. The only exception to this rule would be circumstances
+under which closure costs are prohibitive, for nuclear capacity for example.
+Mothballing is the temporary closure of a power plant to the state from which it may be
+recommissioned. This decision to temporarily shut down a power plant rather than leaving it in
+operation lies in the fact that in some cases, it is a more economical option. The decision to mothball
+may occur even when generation prices are slightly above the short-run marginal cost. To mothball a
+power plant allows for significant reductions in station-level fixed costs.
+Table 10 illustrates this point. The choice is whether to mothball capacity or to keep the coal plant
+running at a market price marginally above the plants short-run marginal cost of 18.26 per MWh
+(see Chapter 1 Section 1 for details on the coal plant assumptions). The logic here is that, while
+operating above the short-run marginal cost allows the company to make a significant contribution to
+station-level fixed costs, mothballing allows for a significant reduction in station-level fixed costs.
+Savings in fixed costs are assumed to be around 50 per cent of the total fixed operating cost. In this
+example, operating or mothballing offer equal economic rewards at a price premium per MWh of
+1.75 per MWh. If the market price falls below this threshold of 20 per MWh, mothballing would be
+more economic for the company.
+Nevertheless, it is important to note that mothballing is a complex and expensive procedure.
+Generators often need to have authorisation from the electricity regulator, an administrative process
+which can last up to six months. Mothballing is also an expensive and risky procedure because of the
+difficulties that lie in restarting the plants  particularly where the original labour has been lost.
+Moreover, the mothballing period must be long enough to allow the generator to have sufficient
+information on whether to recommission the plant or close it definitively.
+The BCG assumes that to reach such a reduction in emissions, a minimum CO2 price of 25 per tonne of CO2
+would be required. The price could be imposed by issuing a limited number of carbon-emission tradable permits.
+Table 10
+Mothballing Coal without a Carbon Emission Value
+OPERATE
+MOTHBALL
+20.01
+18.26
+0.00
+0.00
+1.75
+0.00
+5,256,000
+Total Revenue (mn)
+Total Variable Costs (mn)
+Total Cash contribution (mn)
+105,149,174
+95,949,174
+9,200,000
+Fixed Operating and Maintenance
+Cost (mn)
+-18,400,000
+-9,200,000
+Total Loss (mn)
+-9,200,000
+-9,200,000
+Capacity (MW)
+Net Capacity Factor (%)
+Revenue per Unit (/MWh)
+Variable Cost per Unit (/MWh)
+Net cash Contribution per Unit
+(/MWh)
+Electricity Generated (MWh mn)
+Source: IEA Data
+The electricity price level at which power companies are profitable will change once a carbon cost is
+introduced. The decision to mothball an existing coal plant may be accelerated if a CO2 price of 20
+per tonne is incorporated in the power generation cost. This is because at a CO2 price of 20 per tonne
+of CO2, if companies consider their opportunity cost as real costs, the electricity price has to reach
+37.03 per MWh for the power generation to have the same price premium as before (See Table 11).
+The electricity price that insures the same price premium could be lower if power companies only
+considered the average cost paid for the allowance as part of their operating costs. If the market price
+is below the levels which assure a set price premium, it is more economic for the company to shut
+down its plant. An increase in the market price to reach this level will depend on the carbon cost feedthrough.
+Table 11
+Mothballing Economics with a Carbon Emission Price @ 20/t CO2
+OPERATE
+Capacity (MW)
+Net Capacity Factor (%)
+MOTHBALL
+Revenue per Unit (/MWh)
+Variable Cost per Unit * (/MWh)
+Contribution per Unit (/MWh)
+37.03
+35.28
+1.75
+0.00
+0.00
+0.00
+Electricity Generated (MWh mn)
+5,256,000
+Total Revenue (mn)
+Total Variable Costs (mn)
+Total Contribution (mn)
+194,648,342
+185,448,342
+9,200,000
+Fixed Operating and Maintenance Cost
+(mn)
+-18,400,000
+-9,200,000
+Total Loss (mn)
+-9,200,000
+-9,200,000
+* Includes a carbon emission price at 20 per tonne of CO2
+Source: IEA Data
+Overall, a carbon emission constraint could have a positive as well as a negative effect on the market
+structure. The advantage of introducing a carbon emission constraint is that inefficient coal-fired
+plants will be encouraged to leave the market because they are the plants which emit the highest
+amount of CO2. However, if the decommissioning of plants is accelerated, the markets reserve
+margin may be affected if the amount of lost capacity is not compensated by the construction of new
+capacity, despite an increase in wholesale prices due to the uncertainties described before.
+Additionally, capacity held in mothballing acts as a clear deterrent to potential new entrants coming
+onto the system and curtailing the speed of price recovery. A potential new entrant is faced with the
+threat that, as prices rise, capacity will come out of cold reserve. Since the plant in cold reserve is
+existing capacity, it does not, unlike the potential entrant, have to cover its capital costs if the plant
+has been fully depreciated and as a result, can survive in a lower price environment than the new
+entrant.
+In practice, mothballing rates may not be as high as expected. Despite the introduction of an ETS,
+high emission plants may be able to survive at a low utilization rate and thus decrease their
+emissions . The reason is that there are a number of low price hours in which high emitting plants are
+This will contribute positively on the countries energy security policy.
+competitive. In particular, this is the case if updating is based on historic emissions. It is also the case
+for lignite plants. Their very high exit costs help to keep them online. This creates a somewhat
+strange effect that lignite survives better than coal despite higher emissions.
+Refurbishment of old coal plants and switching of fuel
+In the near term, while energy supply and conversion remains dominated by fossil fuels, switching
+from coal to oil or gas within existing plants can play an important role in emission reductions. At
+similar conversion levels, when energy efficiencies are unchanged, a shift from coal to oil implies a
+reduction in carbon emissions of 17 per cent, from oil to gas 23.5 per cent, and from coal to gas 43 per
+cent per unit of primary energy . Therefore, one effect of CO2 emission caps could be an increase in
+consumption of gas relative to coal.
+However, a number of specific barriers exist for promoting a switch to lower-carbon emission fossil
+fuels. The first is the availability and distribution costs of natural gas: transporting natural gas is more
+expensive than transporting oil. Concerns may also arise for energy security and fuel costs 
+especially in countries which have large coal reserves such as Germany and Poland. Therefore, future
+availability and costs of gas may in the near term limit switching.
+According to the Interlaboratory Working Group (Int, 2000) the economics are in most cases
+unfavorable with the current price levels of coal and natural gas. The additional investments are not
+justified by the extra cost for natural gas compared to cheap coal, and furthermore the sunk costs in
+the coal-fired power plant can make the switch very uneconomical. The switching of coal plants to
+gas plants would also imply investments in gas pipeline infrastructure to supply the fuel switched
+power plant. However, such a switch could take place if a high carbon emission price is introduced.
+Our figures suggest this would be around 23 per tonne of CO2.
+Another solution which reduces carbon emission from coal plants is the replacement of coal by
+biomass in existing boilers or co-combustion. In the IPCC methodology, biomass fuels are not
+included in the CO2 emissions. This is because for CO2 emissions, biomass consumption for fuel is
+assumed to equal its regrowth. For each kWh produced by biomass fuel, direct co-combustion
+reduces the CO2 emissions in the coal plant by 918g/kWh. Specific additional investment costs for 10
+per cent co-combustion from biomass energy are estimated around 40 per kW according to a survey
+by Ree et al (2001). Overall, total costs reach 6.2 per t CO2 (see Table 12 in which additional
+operating costs are excluded), using the coal plant assumptions in Chapter 1 Section 1.
+IEA, (2002): Beyond Kyoto: Energy Dynamics and Climate Stabilisation, OECD/IEA, Paris.
+Int (2000): Scenario for a Clean Energy Future. Oak Ridge, TN: Oak Ridge National Laboratory and Berkeley,
+CA: Lawrence Berkeley National Laboratory, USA.
+Table 12
+Investments Costs for Coal and Biomass Co-combustion
+Without cofiring
+With cofiring 10%
+Total
+Emissions
+t CO2
+Amount
+saved
+t CO2
+Amount
+saved
+t CO22/
+Cost
+4,824,064
+4,341,657
+482,406
+/t CO2
+6.22
+Source: Ree et al (2001), IEA
+As illustrated in Table 12, the costs for coal - biomass co-combustion are low compared to the costs
+borne by coal generators who have not made these investments and face a high price of CO2
+emissions. Co-firing biomass with clean coal is a developing technology, which might be deployed in
+new build plants, especially within the life span of the renewable energy obligations . However, the
+co-combustion is not unlimited. The potential replacement depends on many factors: technical
+limitations as well as limitations imposed by the authorities, and financial and legal provisions. The
+main technical constraint that limits the co-combustion capacity of biomass/waste in conventional
+coal fired power plants is the quality (for instance lower heating value) of the biomass, if the load of
+the plant remains the same. Other technical aspects considered when maximising biomass input in
+existing coal-fired plants are the operating flexibility and the maximum load. All of these aspects are
+important in a liberalised electricity market. The limits imposed by the authorities are also
+determining. In the UK, for example, co-firing for renewable energy certificates must end by 2011.
+In order to reduce the existing coal plants CO2 emissions, a further solution is to invest in their
+refurbishment. Reductions of greenhouse gas emissions can be achieved in several ways including
+improvements in boilers and turbines. A Mott MacDonald survey lists the major areas where coal
+stations have been looking to increase efficiency. Refurbishment costs range from 8/t CO2 to 400
+per tonne of t CO2.
+In the UK, by April 2003, eight coal power stations were involved in co-firing, burning biomass energy
+(woodchips, agricultural waste, palm nuts, etc.) mixed with coal. Interest in co-firing was sparked by the launch of the UK
+governments Renewable Obligation scheme which created a guarantee for green power. Companies earn green certificates
+for the power they generate from the biomass. In April, those were trading around 48 pounds a MWh, more than twice the
+price of wholesale electricity.
+GHG Emission Reduction / A Study of Options in the Generation and Transmission of Electricity in the UK: public
+version August 2001
+Between 18.5 and 23 per tonne of CO2, CCGT plants are more competitive than coal plants (see
+results found in Chapter 2 Section 1). If carbon emission prices are expected to remain in that range
+for an extended period, companies may decide to improve their coal plants efficiency. According to
+the Mott MacDonald data, if carbon prices are under 23.2, power plant owners can invest in
+upgrading only existing equipments (new boiler stop valves, modified cylinder seals, etc.) The total
+CO2 emissions saved if the coal power plant described in Chapter 1 Section 1 undertakes these
+investments reach approximately 102 591 tonnes of CO2. This allows the plant to save around 2.13
+per cent of its total CO2 emission per year using the same coal assumptions. Nevertheless, coal plant
+might not reach competitiveness with CCGT technology since the difference in terms of annual
+emissions between coal and CCGT plants is approximately 3 199 316 tonnes of CO2 .
+Investment in Coal-Fired Power Generation, the Case of RWE
+RWE Rheinbraun has completed an extensive programme of retrofits, enabling them to increase the
+average efficiency of its German lignite-fired power plants by 1.3 per cent and reduce the carbon
+dioxide emissions by around 2 million tonnes a year. When its lignite-fired power plant with
+optimised plant engineering goes on line at Niederaussem in 2002, they will cut the carbon dioxide
+emissions by another 2.5 million tonnes per annum. The power plant will achieve an efficiency of at
+least 43 per cent.
+Sources: Annual Report (2000), IEA/NEA Joint Workshop Power Generation Investments in Liberalised
+Electricity Market
+Table 13 summarises the impact of a CO2 price on investments and generation costs in the power
+sector. The effects of a CO2 price are, however, based on the power plants assumptions on an
+aggregate level and do not include plant specificities. In reality, details in plant economics will
+deviate. This will, therefore, smooth out the results. In reality, it is important to note that emission
+reductions will start to occur below the 18.5 per tonne of CO2 threshold.
+The value of the increased output and the CO2 effect of the increased output are included in the calculation of net
+cost.
+Table 13
+CO2 Emission Price Levels and Impact on Generation Costs
+CO2 EMISSION PRICE /
+tCO2
+0 - 18.5
+18.5
+18.5 - 23.2
+23.2
+IMPACT ON THE
+GENERATION SECTOR
+Scale up of the merit order
+but no significant impact on
+competitiveness ranking of
+power generation
+technologies except at the
+margins, and if gas prices
+fall relative to coal prices.
+CCGT and coal plants are
+equal in terms of short-run
+marginal costs including
+carbon emission costs.
+Arbitrage between running
+coal and CCGT power
+plants. Reordering of coal
+and CCGT plants on the
+merit order.
+CO2 price at which it is more
+profitable for companies to
+shut down their fully
+amortized coal plants and
+build modern CCGT plants.
+The new CCGT plant
+efficiency reaches 55 per
+cent and future gas prices
+are estimated at 3 per GJ.
+On-shore wind plants could
+become competitive with
+new CCGT and new coal
+plants if the load factor was
+higher than 35 per cent.
+High load (40 per cent) offshore wind technologies are
+as competitive as gas
+combined cycle
+technologies.
+FUEL SWITCHING
+INVESTMENT
+DECISIONS
+REMARKS
+Gas prices at 3.5
+per GJ. CCGT plant
+at 49 per cent
+efficiency. Coal
+prices at 1.5 per
+GJ. Coal plant at 37
+per cent efficiency
+Investment in
+upgrading coal
+plants existing
+equipments. The
+CO2 emissions
+saved total 2.13 per
+cent of its total CO2
+emission per year.
+Replacement of
+coal by biomass in
+existing boilers.
+Specific additional
+investment costs for
+10 per cent cocombustion from
+biomass energy 6.2
+per t CO2
+Closure of most
+inefficient fully
+amortized coal
+plants. Investment
+in modern CCGT
+plants.
+On-shore wind
+technologies at a 35
+per cent load factor,
+as competitive as
+new CCGT plants
+in terms of long-run
+marginal cost,
+could be built.
+Off-shore wind
+technologies with a
+high availability
+could be built.
+Renewable
+technologies such
+as biomass and low
+capacity wind
+technologies are
+competitive.
+107  180
+Depends on the
+extent to which the
+carbon emission
+costs are integrated
+in market prices
+This analysis does
+not include
+decommissioning
+costs of the coal
+power plant
+Note than penalty in
+the EU scheme is
+posted at 40 per
+tonne of CO2 in the
+first period and 100
+in the second.
+However, those
+prices do not
+represent ceilings
+since companies not
+in compliance
+would have to pay
+the penalty and still
+purchase sufficient
+allowances.
+2.4
+Second order effects of emissions trading on the gas market
+As described above, combined-cycle gas turbines (CCGT) are the technology of choice for power
+companies constrained by emission caps. Their advantages in terms of CO2 emissions, flexibility and
+their investment costs compared to other fossil fuel technologies make them likely to become the
+backbone of new capacity. This investment choice means that gas will increasingly become the
+preferred fuel in power generation. However, gas production in OECD, Europe and North America is
+not expected to grow as strongly as gas demand in these regions. Countries such as the EU countries
+will become more import dependent as a consequence of the introduction of emissions trading. In
+OECD Europe, import dependency is expected to rise from 36 per cent in 2000 to 67 per cent in 2030
+and prices are likely to rise accordingly.
+Short-term security of supply is not a problem in OECD Europe thanks to the spare capacity in
+transportation and supply, and the numerous tools developed by gas operators to cope with possible
+supply disruptions such as gas storage facilities . Nevertheless, with growing reliance of gas imports,
+the access to such supply in the long term at attractive conditions is also crucial. However, most of the
+potential future gas is projected to come from sources located in technically challenging and
+politically risky environments. The development of new gas supplies and the infrastructure to deliver
+the commodity to the market will therefore require substantial investments. Similarly, imported
+Liquefied Natural Gas (LNG) projects from African and Middle Eastern countries will also be costly
+in comparison to existing supplies.
+Raising the capital for new investments in gas pipelines and LNG-regasification infrastructure will,
+however, be challenging since several regulatory uncertainties in the sector remain. Gas players will
+be unlikely to commit the needed investments without secure long-term contracts which include the
+capital costs. But because of the opening of the electricity market to competition, power generators
+are unlikely to agree to the tight terms that gas infrastructure players need in order to sign the
+contracts. This is because wholesale electricity prices have become more volatile. Likewise, the gas
+market is also opening to market competition, which will increase risks and uncertainty, thereby
+making it potentially more difficult to sign long term contracts. Other uncertainties include the
+stringency of emission allowances and the consequent demand for new gas-fired plants. Those
+uncertainties are perceived as an additional risk by investors . Overall, for the capital to be raised,
+prices of gas will have to rise to provide investors with sufficiently attractive returns .
+If, however, the necessary investments in infrastructure and supply development were undertaken in
+order to secure gas imports, the gas consumers could face the prospect of having to pay significantly
+higher gas prices. Prices would likely rise because of the higher costs for gas delivery than the old
+sources. Therefore, to make these new gas sources profitable, gas prices are likely to rise which will
+in turn increase wholesale electricity prices adding to the increase following carbon emission costs.
+According to WEO projections, the share of gas in European electricity generation is forecasted to increase
+significantly, from 16 per cent to 41 per cent in 2030.
+IEA/SLT(2003)21, Background Note on Security of Gas Supply.
+The Boston Consulting Group (2003)
+The Boston Consulting Group (2003): Keeping the Lights On: Navigating Choices in European Power
+Generation, BCG Report, May.
+Another reason why gas prices might increase is related to the way the gas prices are fixed in long
+term contracts. In continental Europe, gas is mostly supplied under long term contracts, which set a
+base price and a formula for adjusting that price at regular intervals. The base price has traditionally
+been negotiated on the basis of the market value of the gas against competing fuels, taking into
+account the cost of transportation from the delivery point to the point of final consumption. Thus the
+price paid by gas companies or power producers is related to the level of competition with other fuels.
+With the introduction of a carbon emission cost, gas-fired technologies ought to be the technology of
+choice which gives additional value to gas. Therefore, because of the new carbon emission constraint,
+gas suppliers might be inclined to claim some of the value attributed to the difference in CO2
+emissions between gas and coal. Gas suppliers might include this additional CO2 emission value in
+their gas contracts, thereby increasing their gas prices.
+Overall, gas operating prices are likely to increase because the introduction of a carbon emission price
+will lead to new investments in gas-fired technologies. McKinsey estimates that the price of gas will
+increase by 15 per cent. As compared with the business-as-usual case, the wholesale price of
+electricity would rise by a further 10 per cent, producing a total increase of about 40 per cent (see
+Chapter 1 Section 2 for details on McKinseys assumptions).
+Market Power in the Emission Trading Markets
+Two types of market power are usually defined in relation to emissions trading (Burniaux, 1999) :
+capacity to influence the transaction price of traded permits (cost minimising or profit
+maximising manipulation);
+exclusionary manipulation, by which the producer of a commodity hoards tradable permits
+to prevent the entrance of competitors on the market of that commodity.
+An essential component of market power in the emissions trading market is the quantity of allowances
+that any participant may acquire or transfer. If allowances are grandfathered to the existing electricity
+producers, the concentration of allowances on a few large producers can create a significant risk for
+the first type of market power. A dominating source (or a coalition of sources) may attempt to
+manipulate the price as a monopolist (seller) or monopsonist (buyer). This market power depends on
+the firms size relative to the market in which it is operating. If a dominating source offers too few
+allowances, this can increase the prices artificially and therefore, the company can benefit from
+monopoly power by withholding allowances. If the dominating source buys too few allowances, this
+can cause the prices to fall to a lower level than normal. The company thus exerts monopsony power.
+In both cases, the dominant source may achieve a net gain at the expense of a cost-effective
+outcome .
+Burniaux, J.M. (1999): How important is market power in achieving Kyoto? An assessment based on the GREEN
+model. OECD paper. Economics Directorate, OECD, Paris.
+Svendsen, G.T., Versterdal, M. (2003): How to design greenhouse gas trading in the EU?, Energy Policy 31
+1531-1539
+Under exclusionary manipulation, a firm that holds a significant share of total tradable allowances
+decides to hoard them in order to exclude other firms from its product market. This second risk
+illustrates the case where a dominant electricity source uses the allowance market to increase barriers
+to entry for outsiders. The incentive to exclude competitors in the product market may cause a
+monopolistic behaviour as a source (or a pool of sources) may refuse to sell allowances to new
+entrants and thereby create a barrier to entry, i.e. a cost of production. Such a predatory source may
+in this way increase its opportunity for manipulating the price in the product market (Tietenberg,
+1985, p.138) . According to Svendsen and Vesterdal, this behaviour must be considered here as the
+two emitting sources are direct competitors in the same product market (electricity), emitting the same
+pollutant (CO2) in the same regulated area (the European Union for example).
+If we take the example of EDF, the largest European electricity producer, it is also one of the smallest
+CO2 emitters. A PricewaterhouseCoopers survey based on the EU15 finds that the five largest CO2
+58 59
+emitters
+have a cumulated CO2 emissions share of 60 per cent of the total European CO2 market.
+EDF is not, however, among the top five emitters. The dominant CO2 emitters could exert market
+manipulation to some degree, but EDF could not, as a small emitter, influence the entry into the
+electricity market by refusing to sell CO2 allowances to a potential competitor. Therefore, the second
+risk concerning strategic interaction will less likely occur than the first risk.
+The second type of market power may also not be a significant problem with the international
+greenhouse gas emissions trading, at least in the following instances. The market players in the future
+Kyoto scheme, as well as in the EU scheme, will cover a broad range of different economic activities.
+A new entrant in a given sector, which must cover its emissions by CO2 allowances, would then have
+access to tradable permits from entities outside its own sector. These entities would have limited
+interest in hoarding their tradable permits, as they do not compete on the same market as the new
+entrant. Exclusionary manipulation seems therefore difficult if many sectors and firms are allowed to
+trade nationally and internationally.
+Utility generators and autogenerators account for 64 per cent of the total CO2 emissions from the
+different sectors covered by the European greenhouse gas market Directive , according to a Dresdner
+Kleinwort Wasserstein survey . The first category of price manipulation from the dominant electricity
+companies on the global EU emission trading market might, therefore, occur if they agree to act
+collectively as one entity. However, the probability that the largest emitters agree to form a cartel and
+behave as a single dominant player against the rest of the market players is low. Market power on the
+trading market will thus be limited in the EU and will be even more limited in the international market
+since no players will have a dominant share in terms of CO2 emissions. The trading market should
+thus be liquid enough to avoid market power.
+Tietenberg, T.H. (1985): Emissions Trading: An Exercise in Reforming Pollution Policy, Resources for the Future,
+Washingtone, DC.
+PWC (2002): Climate Change and the Power Industry, October.
+They are different from the five largest electricity producers since Electrabel and EDF are respectively number 7
+and 8 in terms of European power generators CO2 emissions.
+The largest emitters are RWE (126 Mt CO2), ENEL (99 Mt CO2), E.ON (76 Mt CO2), Endesa (73Mt CO2), and
+Vattenfall (71 Mt CO2).
+Oil refineries and extraction represent 8 per cent, Iron and steel 13 per cent, building materials 13 per cent, and the
+paper and pulp industry represents 2 per cent of the total.
+Dresdner Kleinwort Wasserstein (2003): Emission Trading Carbon Derby, Pan-European Utility Research, UK.
+2.5
+Linkages with renewable energy obligations and trade markets
+Renewable Energy Sources (RES) are undergoing important developments at all levels in the
+European Union. The European Union has adopted in October 2001 a directive on the promotion of
+electricity produced from renewable energy sources (RES) in the internal electricity market. The aim
+of this directive is to promote an increase in the contribution of renewable energy sources in the
+energy supply. The directive seeks to increase the consumption of energy from renewables to 12 per
+cent, and electricity to 22.1 per cent, by 2010. This overall target has been broken down and allocated
+among member states. The directive does not include mandatory targets but imposes obligations on
+member states to adopt national indicative targets consistent with the European Unions overall
+objective. This obligation will have an important impact on countries generation mix as well as on
+emissions trading.
+There is a definite link between the development of renewable sources and greenhouse gas emission
+reductions. Increased use of renewable power production results in lower thermal production, which
+leads to a decrease in the total amount of emissions (Jensen et al., 2003). Figure 13 illustrates the
+displacement of certain fossil fuel technologies on the short-run merit order with the introduction of a
+renewable energy production (or consumption) quota, which since it is obligatory, effectively comes
+at the front of the merit order.
+Figure 13
+New Merit Order with the Introduction of a Renewable Energy Obligation
+Capacity
+displaced after
+quota
+Capacity
+dispatched
+before quota
+Costs
+/MWh
+CCGT
+Quota
+Coal
+Nuclear
+Extra
+Hydro
+Extra
+Wind
+Wind
+Hydro
+Available capacity (GWh)
+On the short run, renewable energy technologies such as onshore and offshore wind and small
+hydroelectric turbines are the most competitive on the merit order of the electricity market. If
+companies decide to build these technologies as an option to meet their renewable energy target,
+certain fossil fuel technologies will be displaced on the spot market assuming that the demand is
+stable. The green quota will therefore help lower emissions and consequently function indirectly as an
+emission quota, although the amount of emissions displaced is uncertain.
+Links between Tradable Renewable Energy Certificates and Emission Allowances
+In the long term, renewable energy will be an important part of the solution to developing a
+sustainable energy system. However, as we have seen in Chapter 2 Section 1, renewables cannot
+currently compete on power grids with other fossil fuel technologies unless a high CO2 emission price
+is introduced (ranging from 100 to 200). This has led to the development of separate promotion
+schemes for renewables. One of the schemes that are being discussed internationally is a market for
+renewable energy certificates.
+Within the past few years, targets for the deployment of renewables have been set in several countries
+and green certificate markets have attracted extensive interest in Europe and elsewhere. These
+markets have appeared in a number of countries, including Denmark, Italy, Belgium (Flanders)
+England and Australia (Morthorst, 2001). The principle of tradable renewable energy certificate
+(TREC) schemes is similar to tradable emission allowances. Power companies are mandated to
+produce or hold a certain share of total output from renewable energy (RE) sources and must redeem
+certificates to the regulator testifying that they have done so. Certificates are issued for each unit (1
+MWh in most TGC schemes) of electricity form RE has been exported to the grid. These certificates
+are financial assets and are tradable.
+The idea of a tradable renewable energy certificate (TREC) approach is to use market forces to
+determine the necessary additional payments to investors in renewable plants. Thus, the payment to
+renewables consists of two parts: one from the sale of the electricity produced to the spot market and
+the other from the sale of the green certificates. As a result of this, the price obtainable by the
+producer of the renewable electricity is the sum of the market-based settling prices for physical power
+and green certificates.
+TREC systems, at a domestic level, and possibly at an international level will operate alongside the
+broader greenhouse gas emission trading system introduced under the Kyoto Protocol. The questions
+raised in this section are could the two markets interact and is there a need for a linkage of the market
+for renewable certificates with that for carbon certificates.
+Could the Two Markets Interact?
+Over the long run, as we have seen in Chapter 2 Section 1, renewable energy technologies are more
+expensive than certain fossil fuel plants. However, the long-run marginal cost (LRMC) of renewables
+can be subdivided into two parts: one part will be covered through the sale of electricity; the residual
+part has to be covered by the price of a green certificate (see above).
+When tradable allowance schemes are implemented along with tradable renewable certificates, for a
+domestic development of renewables, three markets interact. Figure 14 illustrates how the different
+markets relate to each other.
+Figure 14
+The Interacting Markets between Green Certificates and Emission Allowances
+Certificate market
+CO2 emission allowances
+RE generators
+Power
+Power market
+Consumers
+TRECs
+CO2 reductions
+Thermal generators
+Allowance market
+On the power market, three players interact. RE generators and fossil fuel producers supply
+the market with electricity and at the other end consumers purchase on the physical power
+market.
+On the allowance market, thermal generators can purchase or sell CO2 emission allowances.
+They have the obligation to hold a number of emission allowances corresponding to the level
+of emissions resulting from following their production.
+On the certificate market, RE generators sell the green certificates (TRECs) based on the
+amount of power they produce. The buyers depend on who holds the renewable obligation 
+this could either be generators or electricity suppliers. The certificates, however, also hold the
+value of CO2 reductions achieved by RE investment.
+The tradable green certificates could theoretically carry a certain value corresponding to the CO2
+reduction since producing renewable energy decreases total emissions. Converting renewable energy
+(RE) certificates into GHG emission allowances could be done if a conversion factor were accepted
+by the governments in countries where the schemes were to be linked (Baron and Serret, 2002). A
+TREC represents proof that renewable energy has been used to generate an amount of power (e.g. 1
+MWh) .
+The emission allowance market and the certificate markets could, therefore, interact. Hence, if there is
+a value to every CO2 reduction which can be sold on the permit market, the value of green certificates
+could be subdivided into the value of CO2 reduction and the residual which represents the TREC
+(Morthorst, 2001). Figure 15 illustrates this breakdown.
+However, one of the limits to the linkage between the green certificate market and the CO2 emission market is the
+evaluation of the amount of emissions avoided. Finding which plants are being displaced by the RE is not impossible to
+determine, but would be cumbersome, as it would require doing so every time a TREC is issued. A TREC issued at the peak
+of the electricity load curve would therefore not carry the same avoided carbon as the TREC issued off-peak (Baron and
+Serret, 2002).
+Figure 15
+Breakdown of Renewables Long-Run Marginal Costs
+Additional costs related
+to achieving the targets
+for renewable
+development
+without
+emission
+trading
+Tradable green
+certificate
+Value of CO2
+reduction
+Spot market
+prices without
+CO2 emission
+costs
+Additional costs related
+to achieving the targets
+for renewable
+development
+with ET
+LRMC of renewable
+energy technology
+Tradable green
+certificate
+Value of CO2 reduction
+which can be sold on the
+market
+Spot market prices without
+CO2 emission costs
+LRMC of renewable
+energy technology
+Source: Morthorst (2001)
+Revenue A is the price of electricity at the spot market. The value of CO2 reduction achieved will be
+equivalent to the cost of an alternative domestic emission reduction (B) (i.e. the price on the relevant
+emissions trading market). Finally, the residual should correspond to the additional costs associated
+with the development of renewables (C). The total revenue is equivalent to the total price of
+renewables being split into the price of the TREC (B + C) and the spot price of electricity (A).
+Should the governments consider splitting the TREC into its component parts, so as to allow trading
+of the CO2 savings (B) to occur on the emissions trading market? Would this separation between CO2
+emission reductions from renewable energy investment and the RE obligation lead to a more effective
+CO2 emissions allowance market? How would the two markets be linked? We consider these
+questions in the next section.
+Should Renewable Energy Certificates be traded for GHG Emission Allowances?
+To the extent that CO2 costs are internalized into the wholesale electricity price, the value of a TREC
+will then represent the additional costs for producing renewables, excluding the carbon
+improvement. Assuming that carbon costs are reflected in the wholesale electricity price, a
+renewable (or nuclear or hydro) producer who sells at the market price will receive a premium for its
+electricity that covers the carbon abatement resulting from the marginal production of non-carbon
+electricity. In this case, the TREC would just represent A, so there is no CO2 component left to link.
+CONCLUSIONS AND POLICY IMPLICATIONS
+If future climate change policies limit the emissions of greenhouse gases at the global level, then the
+energy systems will experience major changes. One would expect on the one hand important
+consequences for energy consumption and, on the other hand, significant shifts in the primary and
+final energy mix , towards a use of lower carbon intensive sources and technologies. Nevertheless,
+the intensity of these shifts will depend on the costs associated with carbon emissions.
+The impact of tradable emission allowances on the power sector is expected to change investment
+trends, as a consequence of altered operating costs. If the CO2 price is above 25 per tonne of CO2 ,
+the expected outcomes include new gas-fired technologies (CGGT) replacing fully amortized coal
+plants, retirement of most inefficient carbon intensive power plants, development of the least costly
+renewable energy plants, co-firing investments in fossil fuel plants and possibly a strong nuclear
+revival depending on the political climate.
+If CO2 emission prices are between 19 and  25 per tonne of CO2, there should be a reordering in the
+merit order of coal and gas-fired technologies (CCGT) based on short-run marginal costs. Companies
+are expected to arbitrage between running their existing coal plant or their CCGT plants. The plants
+ranking on the merit order is sensitive to fuel prices and the plants efficiency rate. Without carbon
+emission prices, gas prices have to decline to approximately 2.2/GJ before CCGT plants are as
+competitive as coal plants on the short-run. However, with the introduction of a carbon emission cost,
+the coal plants competitiveness is eroded since coal plants emit twice the amount of CO2 than
+combined cycle gas turbines. Nevertheless, the effect of the carbon constraint depends on the degree
+to which the carbon emission costs are integrated in market prices.
+If prices are in the range of 5-19 per tonne of CO2, the current price range in Europe , the
+consequences of a carbon emission price are likely to be limited. The carbon emission price will scale
+up the costs of power generation on the wholesale market; however, no switch in the ranking is
+expected except at the margins, and if gas prices drop relatively to coal. The introduction of a carbon
+constraint would therefore only have marginal effects on investment decisions.
+Elements which might exert Upward Pressure on CO2 Emission Prices:
+Allocation methodologies and stringency of the emission reduction targets. The impact of
+carbon emission constraints for wholesale power markets could be profound and will depend
+heavily on allocation decisions. The number of allowances distributed to the installations
+participating in the emissions trading market will determine the stringency of the emission
+reductions target and their burden of costs. If installations receive a limited number of
+allowances for free, they will have to buy the rest on the market. This might place an upward
+pressure on the CO2 price;
+The treatment of new entrants. If governments require that new entrants cover their
+emissions on the market (paid entry), the number of players on the demand-side of the
+emissions trading market will increase. This will exert upward pressure on the price of
+allowances. On the other hand, free allocation to new entrants would require a reserve to be
+IEA: (2002): World energy, technology and climate policy outlook: WETO 2030, IEA/OECD, Paris.
+23.2 per tonne of CO2 is the CO2 emission price resulting from the plants assumptions.
+made out of the original allocation, so price impacts of allocation treatment of new entrants
+may not be very significant;
+Ability of companies to reduce their emissions. Because it is such a large emitter, the
+energy sector is generally seen as having a key role in reducing GHG emissions. When,
+however, the power installations have gone through most cost-effective emission abatement
+investments, they might decide to purchase needed allowances on the market which will in
+turn increase the demand for allowances;
+Phasing-out of nuclear. Nuclear presents many advantages in terms of price stability,
+indigenous supply and CO2 emissions although it also raises other environmental concerns.
+Nuclear power produces 35 per cent of the European Union's electricity without producing
+carbon dioxide. However, the policies of a number of EU countries - including Germany,
+Belgium and Sweden - have opted to phase out nuclear power stations. This decision could
+have substantial consequences on the costs of carbon emission mitigation;
+Higher than expected economic growth, driving up industrial output.
+Downward Pressure on CO2 Prices would come from Several Factors:
+Renewable Energy Obligations. In several countries, power companies are mandated to
+produce or hold a certain share of total output from renewable energy (RE) sources and must
+redeem certificates to the regulator testifying that they have done so. The renewable energy
+obligation policy ought to reduce the demand for allowances. Companies which decide to
+build these technologies as an option to meet their renewable energy targets will benefit from
+less carbon emissions. Certain fossil fuel technologies will be displaced on the spot market
+considering that certain renewable technologies are as competitive as fossil fuel plants on the
+short run. The green quota will therefore help lower emissions and consequently function
+indirectly as an emission quota, although the amount of emissions displaced is uncertain.
+The case of Accession countries in the EU ETS. The inclusion of additional players such as
+EU Accession countries in the emission trading market would reduce the cost of emissions
+trading by giving access to more cost-effective. Those countries also already have surplus
+allowances since they have exceeded their Kyoto commitments as a consequence of their
+economic decline in the 1990s. Their presence in the EU emissions trading scheme could put
+a downward pressure on the CO2 emissions price;
+Flexibility mechanisms: CDM and JI. The inclusion of CERs66 and ERUs67 in the trading
+schemes will let imported allowances enter the market. The inclusion of these projects would
+put downward pressure on CO2 emission prices due to the anticipated access to more costeffective emission reduction projects available outside the EU. In the case of the EU ETS,
+there may be some limit to the use of CDM and JI credits. A review will be triggered once the
+number of credits converted for use in the EU emissions trading scheme reaches 6 per cent of
+the total quantity of allowances allocated by the Member States for the 2008-2012 period. The
+See Carbon Market Europe Report for quoted prices (bids on the EU market are at 10 per tonne of CO2).
+ERs are certified emission reductions. Tradable emission reductions generated by CDM projects undertaken in
+developing countries, to be certified in order to be transferable.
+RUs are emission reduction units. Tradable emission reductions generated by joint implementation projects.
+outcome of such a discussion may, for example, be a quantitative limit of 8 per cent for the
+remainder of the Kyoto Period, according to the proposal. The downward pressure would thus
+be constrained.
+The possibility to bank allowances during the commitment periods will give installations some
+intertemporal flexibility in their decisions regarding allowances. If companies are able to operate
+below the allocated emission cap, they can arbitrate between selling credits from any underutilization
+in the market and banking them to off-set future emissions. Likewise, companies facing high emission
+constraints will be authorized to borrow allowances from other companies. This should allow
+companies to reduce the risk associated to CO2 price volatility and smooth the CO2 emission price
+volatility.
+The Decision to Pass on Carbon Emission Costs:
+Carbon emission costs could have an impact on power companies business and financial profiles.
+Installations with an emission cap could be negatively affected if they are unable to pass these costs
+through the end-users. However, the decision to pass on the carbon emission costs or only part of it
+depends on several factors. The most important elements are market competition, price elasticity of
+the demand and available generating capacity on the market.
+In power markets with tight capacity, competitive pressure from extra available capacity will be low.
+In this case, companies which emit CO2 will be encouraged to fully feed their carbon costs through
+their prices. Wholesale prices of electricity are expected to rise by 27 per cent in Europe if carbon
+emission costs were to be fully passed on to the generators prices. However, countries will be
+affected differently since some EU countries are more carbon intensive than others (see Appendix 1
+for details).
+However, there are several exceptions to price feed through of carbon emission costs:
+In the case where prices are regulated;
+In the case of international competition;
+Updating allocation based on output  including between trading periods;
+Market power.
+Will the ETS affect the Power Generators Differently?
+Existing nuclear power plants are likely to become highly valuable with the introduction of a carbon
+emission constraint. They will benefit from higher wholesale prices without bearing additional costs.
+Their main challenge will be to prolong their lives.
+Coal power producers should plan which investments will occur when their emission caps are
+implemented and their response will depend on CO2 prices. At high CO2 prices, they should manage
+the retirement of their plants or consider operational measures such as co-firing with biomass and
+improving the plants ability to supply on shoulder or peak capacity and not just run on baseload. One
+way to remain in the coal-firing technologies would be to get subsidies for clean coal technologies,
+although such technologies are not yet economic.
+Gas power producers are expected to benefit from the introduction of CO2 price, although obtaining
+high returns will depends on several factors. Of primary importance will be the access to gas supply
+and the price of the fuel. This will depend on their ability to sign long term contracts under favorable
+terms.
+Will the ETS affect the Investment Signal?
+In a simple economic analysis, the presence of a carbon emission cost in itself would not adversely
+affect the overall investment volumes, since the profitability of producing electricity would remain at
+the same level as without the ETS. The cost of allowances would be reflected in wholesale prices and
+be considered as an operating cost.
+However, in practice investment signals may be distorted in a number of ways. The investment signal
+in new plants depends on several factors. Incentives for shutting plants down are of primary
+importance. Companies which are due to shut down an inefficient carbon emitting plant in one
+commitment period but would not receive the corresponding allowances in the next trading period
+may decide to delay the plants closure. This could prevent investment in new plants and have a
+negative signal on the market. Details of the national allocation plans also have an impact on new
+investment decisions. By forcing companies which invest in new plants to purchase allowances, then
+the emission constraint might represent an entry barrier. On the other hand, allocating to new entrants
+for free could penalise investment in capacity expansion for incumbents.
+Will the ETS affect the Technology Choice when Investing?
+What is expected to occur with the implementation of an ETS is a change in where the profits can be
+made. Emission trading will have an effect on the investment signals for different types of technology.
+CCGT plants are likely to be the preferred option for new capacity additions in the future
+environmental context. Their advantages in terms of emissions, efficiency, and costs compared to coal
+facilities make it likely that companies will favour building gas plants against coal plants. Many highemissions plants such as old coal-fired ones which remain in operation may be required only for peaks
+in demand or back-up of wind. This might therefore require investments to change their operating
+patterns.
+Is the CO2 value likely to be an Incentive to build new Renewable and Nuclear Capacity?
+Compared to coal power plants, nuclear and renewable technologies do not have to invest in
+purchasing allowances. However, the current costs of renewable energy make these technologies less
+competitive than coal or CCGT plants. The question is whether the introduction of a price for carbon
+emission could improve the attractiveness of investments in such power plants, and whether the
+emission trading scheme might change the generation mix in participating countries:
+Ranking of permits between each commitment period in the EU ETS is not yet clearly stated, leaving some
+flexibility to governments.
+The limits of wind power. The share of wind power is becoming larger as a result of an
+improving cost position and subsidies from governments69. With the introduction of an
+emission cap, its competitiveness could improve, but to be as competitive as CCGT plants, the
+CO2 price would need to range between 30 and 116 per tonne of CO2 (see Chapter 2 Section
+1 for more detail on assumptions). Moreover, the cost of wind power does not only include its
+capital and operating costs. The full cost of wind is higher because wind is unreliable and
+cannot be counted on for time of peak demand, when it is most needed. Therefore,
+conventional capacity would be needed to back up wind-generation capacity, adding to its
+cost. The level of these additional costs will depend on whether new conventional power
+plants must be built or whether existing plants can play this role. Coal plants which are
+expected to retire because of a carbon emission constraint could continue to generate
+electricity when wind power is insufficient. This would thus reduce the additional costs for
+wind power, although investments might be necessary to give the coal plant flexibility;
+Biomass and other renewable energy. Biomass might also contribute to lowering carbon
+emissions. However its share would only grow to a limited extent because the costs of this
+technology are relatively high except for co-firing (see Annex 4). The price of carbon
+emissions would have to range from 140 to 245 a tonne of CO2, depending on the amount
+of operating costs for the technology to be as competitive as CCGT. Other renewable
+technologies such as solar and hydrogen-powered fuel cells might also increase their share.
+But since their viability depends on technological breakthroughs, it is unrealistic to believe
+that a carbon price will stimulate their construction in the short term;
+Nuclear Power as a possible solution to reduce carbon emissions. Investment in nuclear
+technology is currently more expensive than new CCGT power plants. Nuclear generation, in
+contrast to CCGT has high capital costs and relatively low fuel and operating costs. Under our
+price assumptions, carbon emission prices would need to reach approximately 26 per tonne
+of CO2 for nuclear to be as competitive as CCGT (see Annex 2 for details). This breakeven
+price will be sensitive to specific plant costs. For example, the full investment costs of nuclear
+power plants in Finland and in France are as low as 22 per MWh compared to the 38.8 per
+MWh found based on our assumptions. Nevertheless, economies of scale have tended to
+favour very large plants resulting in a relatively large capital commitment to a single
+construction project and thus associated investment risk. In most OECD countries, building of
+new nuclear power plants have slowed down because of litigation, construction delays and
+environment threats since the mid 1970s. If, however, solutions were found to security and
+environmental issues, there could be a case for investing in nuclear. According to the Boston
+Consulting Group, between 2012 and 2020, after 40 years of operation, 25 GW of prime baseload capacity is due to be closed in Europe. The lost capacity would put further pressure on
+the power generation industry, increasing the demand for gas. Nevertheless, investments in
+existing nuclear power plants to extend their life time could temporarily postpone this
+pressure on the capacity market.
+The Boston Consulting Group (2003).
+Will the Emission Trading Scheme raise a Barrier to Entry, thereby Discouraging New
+Investments?
+Several methods exist for the allocation of allowances within an emissions trading scheme , the main
+ones being auctioning, grandfathering, and updating (Harrison and Radov, 2002, Burtraw et al.,
+2002). In these three methods, emissions are capped. However, another allocation mode exists in
+which total emissions are not capped. This mode is based on a fixed carbon emission per output (e.g.
+kWh):
+In the case of auctions, participants in the trading system have to purchase the allowances to
+cover their expected emissions. The returns of the auction could then be recycled back into the
+economy, for example by means of reducing various tax rates. One of the advantages of
+auctioning allowances is that it avoids the difficult negotiation of source-by-source
+allocations. Instead, each source decides how many allowances it needs to buy to cover its
+projected emissions, and bid for these allowances on the marketplace;
+In the case of grandfathering, the distribution of allowances is free of charge and is based on
+the past emissions levels. The base period or historical emissions principle starts from
+emissions in a chosen period, either one reference year or the average over several years.
+Nowadays, the term grandfathering refers also to distributions using external benchmarks,
+for instance regarding emissions per unit of output71;
+A third approach is updating, in which allowances are also distributed free of charge to
+entities, and the emission cap is fixed during the whole period. Each entitys allocation is
+updated between trading periods on the basis of its activity level measured by a given metric
+such as industrial output. Such a method of allocation offers the opportunity to give firms
+additional allowances when they are needed;
+A fourth approach is a fixed carbon emission intensity. The difference between this allocation
+mode and the other three lies in the fact that total emissions are not capped during the
+commitment period. Companies can produce a variable amount of emissions as long as they
+fulfil the carbon intensity constraint.
+The choice of initial allocation has important effects on the efficiency and overall cost of a trading
+programme. According to Burtraw and al. (2001), the auction is significantly more cost-effective than
+the other approaches  roughly one half of the societal cost of grandfathering or updating. The
+differences in the cost of the three approaches flow from the effect of each approach on electricity
+price.
+The allocation mode used in European carbon dioxide emissions trading scheme is closer to the updating
+allocation mode than pure grandfathering. This is because emission caps are fixed for each commitment period but can be
+revised and modified for the following commitment period. In contrast, pure grandfathering means allocating emissions for a
+lasting period as it was the under the US Acid Rain Program. In this program, SO2 emissions were allocated to the emitters
+for a period of 30 years. In the EU, the allocation mode is free (up to 95 per cent) and bench marking is not excluded.
+The benchmark principle uses some kind of standard representing an equal position for all installations in a sector
+or subgroup.
+A fundamental question regarding investments in the power sector relates to the treatment of new
+plants . The issue here is whether new entrants (new generators which enter the power market and
+incumbents who build new plants) might be discouraged to enter the power market because of the
+allocation mode which covers their emissions. Will they be allocated part of their allowances for free
+as the incumbents in case of grandfathering or will they have to purchase all allowances to cover their
+emissions (either from the market or by auction), which might be seen as a disadvantage in terms of
+competitiveness:
+A barrier to entry? The choice between auctioning versus free allocation for new
+installations will have an impact on the number of new investments and on the raising of entry
+barriers. If incumbents are allocated their allowance free of charge (grandfathering) and
+owners of new plants have to buy the allowances, new entrants costs will include the price of
+allowances. They will not be able to compete on the market unless the price pays for the
+allowances. This could discourage the building of new plants. If new entrants receive, as the
+incumbents, the allowances free of charge73, then competition will be fully exercised. The
+decision to invest should not be restricted by the emission trading scheme. On the other hand,
+free allocation to new entrant could be seen as distorting the investment signals in relation to
+expansion of capacity in existing plant, where new allowances would need to be purchased. It
+will be important for policy makers to minimise these distortions, and much will rest on how
+new entrants are defined and treated in the scheme;
+The allocation of free allowances is one way to cover additional investment risks. The
+uncertainty concerning the CO2 price and future allocation of allowances, would drive the
+investment risk premium and thus make the investment more expensive; and this would not be
+reflected in the electricity price. The level of free allowances to new plants, given that it is an
+investment incentive, must, however, be very carefully considered. This would reduce barriers
+to entry but could complicate the investment signals for incumbents. If it were too high, it
+would create a boom-and-bust behaviour in the industry.
+An incentive for higher power prices? The choice between auctioning versus free
+allocation for new plants will have an impact on the behaviour of insiders. Whether the latter
+will actually reduce their price premiums with the arrival of new competitors  the difference
+between prices and marginal costs  depends on the treatment of new entrants in the trading
+scheme. If incumbents are allocated their allowance free of charge (grandfathering) and
+owners of new plants have to buy the allowances, the price premiums will not be decreased.
+Incumbents, therefore, do not have any incentive to pass on the subsidy in the prices74 and
+will receive a free transfer of wealth. If new plants receive, as the incumbents do, the
+allowances free of charge, then competition in the market can result in a decline of the price
+premiums. In this case, the price of allowances does not fully appear in the new entrants
+costs. The latter will be able to supply against an unchanged market price;
+It is important to keep in mind that the new entrants issue is of a transitory character. What is a new entrant in one
+trade period will be an existing installation in the subsequent period and be treated in the same manner as all other existing
+installations. Moreover, it may be quite difficult to distinguish real new entrants from incumbents that want to expand
+generation capacity.
+This could be done if countries chose to build a reserve of allowances for new entrants.
+Mannaerts, H. and Mulder, M. (2003): Emissions Trading and the European Electricity Market, Consequences of
+emissions trading on prices of electricity and competitiveness of basic industries, CPB Memorandum, Netherlands.
+Consequences of a non harmonised allocation mode in participating countries. The nonharmonisation of allocation modes for new entrants will have implications on the choice of
+investment location of the new operators. If some countries require that market entry must be
+paid for while other countries allocate allowance free of charge, new investments are likely to
+be implemented in the countries where allowances are grandfathered. New entrants who have
+paid for their entry should suffer from this competitive disadvantage compared to those who
+did not bear this incremental cost.
+Discouraging Early Actions?
+Once allocation plans have been established for a committed period, the allocations cannot be
+modified during that time. This anchoring is expected to bring credibility to the system in the short
+term, and incentives to reduce emissions if abatement costs are below the carbon market price.
+However, long-term decisions will be exposed to national plans revisions. This issue is particularly
+important for power plant retrofitting. If a power company decides to switch fuel (e.g. from coal to
+gas), it would benefit from the allocation based on historically high emissions. Whether the company
+would be able to hold these benefits for several trading periods is not known. This uncertainty could
+delay abatement measures since companies might wait until this uncertainty is resolved.
+Will the Regulatory Uncertainty Delay Investments?
+Uncertainty regarding the stringency of the allocation plans may delay investment decisions. The
+stringency of a countrys cap-and-trade regime will depend on the emissions of the sectors which are
+not covered by the scheme and the economic growth rate of the country. The main issue has to do
+with the forecasted growth of emissions from the transport and household sectors, both of which are
+not covered by the cap. Since a countrys cap is determined by the sum each sectors emissions, if the
+transport sector has a very rapid growth rate thereby increasing its share in the total emissions, other
+sectors may bear this increase. Likewise, if emission reductions are made in other sectors, the capped
+sectors may benefit from these reductions. Stringency on the power sector is therefore expected to
+result partly from the other sectors emissions. The level of stringency will nonetheless depend on the
+policies and measures applied to the transport and household sector, and the efforts made in these
+sectors to mitigate emissions.
+Uncertainty also arises from the opening - or not - of the emissions trading market to Russia and
+Ukraine. Several conditions need to be met if Russia and Ukraine decided to participate to an
+emission trading market. Ratification of the Kyoto Protocol is of primary importance. Secondly,
+those countries would have to meet the eligibility requirements to trade. The eligibility requirements
+in the Marrakech Accords specify that Parties that have ratified the Kyoto Protocol should have in
+place national systems for estimation of emissions and sinks of greenhouse gases, inventory systems
+for recording these, and that it is in compliance with the procedures for reporting of these emissions,
+sinks and assigned amounts. Countries that are in compliance with these requirements would be given
+a well-defined allocation of AAUs . Finally, if these countries decided to trade their AAUs on the
+European ETS, for example, bilateral agreements between those countries and the EU would have to
+be signed.
+Also called assigned amount units. Permission to emit one tonne of CO2 equivalent. The initial sum of a Partys
+allowances is its assigned amount, or allocation.
+If only the first two requirements were met, a dual trading market could emerge. The EU 25 ETS, on
+one side, could limit its access and allow trade only within its borders. Trade with the rest of the
+world including Russia and Ukraine, would be limited and would represent a second market.
+If all of the conditions were met, and the EU emission trading market was open to the rest of the
+world, this may have perverse consequences and have a critical impact on the stringency of the
+targets. The possibility of including Russia and Ukraine in the emissions trading scheme would reduce
+the cost of meeting emission caps by giving access to more cost-effective and therefore cheaper ways
+of reducing emissions. If no limit is imposed on the inclusion of hot air, the quantity of quotas
+allocated above the countries actual emissions would lead to a downward pressure on CO2 prices. For
+a sustainable outcome therefore, the amount of hot air included in any linked trading schemes would
+have to be carefully controlled and any Russian ET scheme would need to include allocation rules
+with similar restrictions as specified in the EU scheme in Annexe 3 . The discussion about ways in
+which to manage treatment of hot air is also linked to the development of a Green In vestment
+Scheme (GIS) .
+Given the uncertainty about whether the Kyoto Protocol will be ratified and what will happen after
+2012 if it is ratified, companies may decide not to invest immediately in new power plant technologies
+or abatement costs. Power companies may chose to delay their investments or the closure of their
+most inefficient plants until they know how rigorously the Kyoto accord is going to be implemented.
+Understanding how the market might develop both at the international and at the national level will
+determine the risk exposure of companies. Without resolution of these unknowns, it is likely that
+investments in new gas supplies, gas infrastructure and power plants may be deferred. Regulators
+could solve this investment delay by doing what they can to shape policy and regulation issues are
+soon as possible.
+Introducing an emissions trading scheme is not expected to adversely impact on overall investments,
+although it could change the technology choice for new plants. However, the uncertainty surrounding
+the trading market currently seems to cause definite hesitance to invest in the market. As described
+above, these unknowns may delay investments. In the power sector, plants which are currently built
+will be expected to still be operating in 20-30 years. It will not be possible to remove regulatory
+uncertainties over these timescales, but a trading market should help to transfer the regulatory risk to a
+market price of carbon which should be easier to manage through options, futures, etc. Emission
+trading provides additional flexibility to power companies compared to other regulatory measures
+such as emission standards. Nevertheless, in the early stages of the carbon market, these risks will be
+relatively high, and could affect investments. Whereas it is clear that the risk will be lower once the
+market has settled down, the remaining risk should not be underestimated. The fact that there will be
+ongoing new allocations and targets mean that investors will only have a short (three to four years for
+the first and second commitment periods) foresight into ETS (which will be the potentially most
+important value driver) when they commit themselves to a 20-30 year investment.
+In Annex 3 Criteria for National Allocation Plans, article 1 stipulates that The total quantity of allowances to be
+allocated shall not be more than is likely to be needed for the strict application of the criteria of this Annex.
+Green Investment Schemes are developed as a way of managing hot air in AAU transactions. For additional details
+see Bltyh, Baron (2003): Green Investment Schemes: Options and Issues, OCED/IEA AIXG, Paris.
+Is the Emissions Trading Scheme a (Re)distribution of Wealth?
+Overall, whatever the allocation mode, creating a cap and trade regime imposes costs on the producers
+and consumers of electricity and gas. At a given cap level, there is a given price impact on consumers,
+regardless of what share of permits are allocated freely to producers.
+Consumers will bear electricity price increases from two sources (carbon emission costs and increased
+gas prices in the long run due to increased demand for gas from the power sector). This consequence
+might cancel out the price decrease as a result of the electricity deregulation movement. Therefore, the
+free allocation of permits to producers acts as a transfer of rents from government/taxpayer to the
+producers. One solution could be to have companies pay for allowances through auctions.
+Governments would then have to decide how to distribute the income from the auction which in itself
+would have distributional effects. In addition, these distributional effects should ideally be taken into
+account when designing CO2 or energy tax structures.
+REFERENCES
+Baron, R. (1999): Market Power and Market Access in International GHG Emissions Trading, IEA
+Information Paper, Paris, October.
+Baron, R and Bygrave, S. (2002): Towards International Emissions Trading: Design Implications for
+Linkages, OECD and IEA Information Paper, October.
+Baron R., Serret Y. (2002):  Renewable energy certificates: Trading Instruments for the promotion of
+renewable energy.  in OECD (2002): Implementing Domestic Tradeable Permits  Recent
+Developments and future challenges, OECD Proceedings, Paris.
+Bltyh, Baron (2003): Green Investment Schemes: Options and Issues, OCED/IEA AIXG, Paris.
+Boisseleau F. (2003): Competition in European power (ex)changes: market design and market
+regulation", Ph.D. dissertation, Universit Paris Dauphine/Delft University of Technology,
+forthcoming 2003.
+Boston Consulting Group (2003): Keeping the Lights On: Navigating Choices in European Power
+Generation, BCG Report, May.
+Burniaux, J.M. (1999): How important is market power in achieving Kyoto? An assessment based on
+the GREEN model, OECD paper. Economics Directorate, OECD, Paris.
+Burtraw, D., Palmer, K., Bharvirkar, R., Paul, A. (2002): The Effect on Asset Values of the Allocation
+of Carbon Dioxide Emission Allowances, Discussion Paper, Resources for the Future, Washington
+D.C, March.
+Calder F., Hough C. (2001): Potential Interactions between New Emissions-Trading Related Policies:
+Minimising Conflicts, Maximising Synergies and Maximising Consistent Valuation of Carbon
+Savings. Final Report to the UK Department of Environment, Transport and the Regions, Energy for
+Sustainable Development.
+CPB Memorandum (2003): Emissions Trading and the European Electricity Market, the Netherlands,
+January.
+Commission de Rgulation de lEnergie, Annual Report 2000, Paris.
+Dresdner Kleinwort Wasserstein (2003): Emission Trading Carbon Derby, Pan-European Utility
+Research, UK.
+EEA (European Environment Agency) (2002): Greenhouse gas emission projections for Europe.
+Environmental Issue Report No 33/2002. EEA, Copenhagen.
+EEA (European Environment Agency) (2003): Annual European Community greenhouse gas
+inventory report 2003. Technical Report No. 95. EEA, Copenhagen.
+Ellerman, D., Schmalensee, R., Joskow, P., Montero, J., Bailey, E. (2000): Emissions Trading under
+the US Acid Rain Program: Evaluation of Compliance Costs and Allowance Market Performance,
+MIT, Massachusetts.
+European Commission (2003): The EU Emissions Trading Scheme: How to develop a National
+Allocation Plan, Non-Paper 2 Meeting of Working 3 Monitoring Mechanism Committee, Brussels.
+http://europa.eu.int/comm/environment/climat/030401nonpaper.pdf
+European Commission (2003): World energy, technology and climate policy outlook: WETO 2030,
+DG Tren, Brussels. http://194.185.30.69/energysite/pdf/weto_final_report.pdf
+European Commission (2002): Amended proposal for a Directive of the European Parliament and of
+the Council establishing a scheme for greenhouse gas emission allowance trading within the
+Community and amending Council Directive 96/61/EC. Interinstitutional File 2001/0245 (COD).
+Commission of the European Communities, Brussels.
+European Commission (2001): Directive 2001/77/EC of the European Parliament and of the Council
+of 27 September 2001 on the promotion of electricity produced from renewable energy sources in the
+internal electricity market. COM (2001) 884 final, 28-12-2000, Commission of the European
+Communities, Brussels.
+European Commission (1999): Second Commission report on harmonisation requirements concerning
+common rules for the internal market in electricity. COM(1999) 164; Bull. 4-1999, Commission of
+the European Communities, Brussels.
+European Commission (1997): Energy for the future-renewable sources of energy. White Paper,
+COM (1997) 196.
+Harrison, D., Radov, D., (2001): Evaluation of Alternative Initial Allocation Mechanisms in a
+European Union Greenhouse Gas Emissions Allowance Trading Scheme, Prepared for the DG
+Environment European Commission, NERA, March.
+ICF Consulting (2003).
+IEA (2003): CO2 Emissions from fuel combustion- 2003 Edition: 1971-2000, IEA/OECD, Paris.
+IEA (2002): Beyond Kyoto Energy Dynamics and Climate Stabilisation, IEA/OECD, Paris.
+IEA (2002): Energy Policies of IEA Countries 2002 Review, OECD/IEA, Paris.
+IEA (2002): World Energy Outlook  2002 Edition, IEA/OECD, Paris.
+IEA (2002): Dealing with Climate Change: Policies and Measures in IEA Member Countries,
+IEA/OECD, Paris.
+IEA (2001): Competition in Electricity Markets, , International Energy Agency, Paris.
+IEA (2001): Regulatory Institutions in Liberalised Electricity Markets, IEA/OECD, Paris.
+IEA (2001): International Emissions Trading From Concept to Reality, IEA/OECD, Paris.
+IEA (1999): Electricity Market Reform, IEA/OECD, Paris.
+IEA (1998): Benign Energy? The Environmental Implications of Renewables, OECD, Paris.
+IEA NEA (1998): Projected Costs of Generating Electricity, OECD, Paris.
+Int (2000): Scenario for a Clean Energy Future. Oak Ridge, TN: Oak Ridge National Laboratory and
+Berkeley, CA: Lawrence Berkeley National Laboratory, USA.
+IPCC, (2001): Climate Change 2000, Third Assessment Report, Cambridge University Press,
+Cambridge, UK and New York, N.Y.
+Jensen, S.G., Skytte, K. (2003): Simultaneous attainment of energy goals by means of green
+certificates and emission permits, Energy Policy 31 (2003), pp 63-71.
+Mannaerts, H. and Mulder, M. (2003): Emissions Trading and the European Electricity Market,
+Consequences of emissions trading on prices of electricity and competitiveness of basic industries,
+CPB Memorandum, Netherlands.
+McKinsey Quarterly (2003): Power producers should pay close attention to a European Commission
+proposal to curb greenhouse gas emissions. It could have paradoxical effects, Quarterly 2003 Number
+1, Paris.
+Morgan Stanley (2002): Boom, Bust and Through-the-Cycle Generation Prices, May.
+Morthorst P.E. (2001): Interactions of a tradable green certificate market with a tradable permits
+market, Energy Policy 29 (2001) 345-353.
+Mott MacDonald (2001): GHG Emission Reduction / A Study of Options in the Generation and
+Transmission of Electricity in the UK: public version August 2001, Brighton, United Kingdom.
+Nuclear Energy Agency (2002): Nuclear Energy and the Kyoto Protocol, NEA/OECD, Paris.
+Philibert, C. (2003): Technology Innovation, Development and Diffusion, OECD/IEA, Paris.
+PricewaterhouseCoopers (2002): Climate Change and the Power Industry, Paris, October.
+Ree, R., Korbee, R., Meijer, R., Konings, T., Aart, F., (2001): Operational Experiences of (In)direct
+Co-combustion in Coal and Gas Fired Power Plants in Europe, ECN/Kema contribution to PowerGen Europe 2001, Brussels, Belgium, May.
+Smith, A.E. and Ross M.T. (2002): Allowance Allocation  Who Wins and Loses Under a Carbon
+Dioxide Control Program? Paper by Charles River Associates prepared for the Center for Clean Air
+Policy, February.
+Svendsen, G.T., Versterdal, M. (2003): How to design greenhouse gas trading in the EU? Energy
+Policy 31, pp 1531-1539, April.
+Thomas, S. (2003): The Seven Brothers, Energy Policy, vol. 31, pp. 393-403, April.
+Tietenberg, T.H. (1985): Emissions Trading: An Exercise in Reforming Pollution Policy, Resources
+for the Future, Washington, D.C.
+Varming, S., Eriksen, P.B., Grohnheit, P.E., Nielsen, L., Svendsen, G.T., Versterdal, M., (2000): CO2
+Permits in Danish and European Energy Policy, Riso. R-1184(EN). Riso National Laboratory,
+Roskilde, www.risoe.dk/rispubl/SYS/ris-r-1184.htm
+Weitzman, M.L. (1974): Price vs. Quantities, Review of Economic Studies, 485.
+APPENDIX 1
+EUROPEAN POWER GENERATION AND RELATED EMISSIONS
+The power sector is the primary CO2 emitter in the European Union, representing 31.4 per cent of the
+European Unions total CO2 emissions . Nonetheless, large disparities exist among EU countries. In
+countries such as Denmark, Germany, Greece and Finland the share of the power sector in total CO2
+emissions is above the EU15 average. The impact of emission trading on the power sector will thus be
+considerably higher in those countries than in countries such as France and Sweden.
+Table 14
+Share of Power Sector in total CO2 Emissions
+REGION/COUNTRY
+SHARE OF POWER
+SECTOR IN TOTAL CO2
+EMISSIONS FROM FUEL
+COMBUSTION
+Austria
+Belgium
+Denmark
+Finland
+France
+Germany
+Greece
+Ireland
+Italy
+Luxembourg
+Netherlands
+Portugal
+Spain
+Sweden
+United Kingdom
+20.9%
+22.1%
+50.1%
+40.2%
+10.9%
+38.5%
+49.8%
+38.5%
+32.15%
+1.4%
+30.6%
+35.5%
+32.9%
+13.9%
+32.8%
+EU 15
+31.4%
+Source: CO2 Emissions from Fuel Combustion (2002 Edition)
+Table 15 shows the disparities among European countries based on the share of fossil fuels in their
+generation mix. The question is whether some countries will undergo more carbon cost than others,
+and whether this will lead to possible competitiveness implications if a carbon value is added to
+electricity prices, considering that companies might transfer the value of their carbon costs on the
+market prices.
+The Power Sector includes Public Electricity and Heat Production and Unallocated Autoproducers.
+In comparison, the transport sector is the second emitter accounting for 26 per cent of the EU total.
+Table 15
+Fossil Fuels Share in EU Countries Generation Mix and Emission Intensity
+ELECTRICITY
+GENERATION
+COUNTRY
+COAL
+TOTAL FOSSIL
+FUELS
+(TWH)
+Share in
+electricity
+production
+gCO2/
+Share in
+electricity
+production
+gCO2/
+Share in
+electricity
+production
+gCO2/
+Share in
+electricity
+production
+gCO2/
+Austria
+60.3
+11.1%
+3.3%
+13.0%
+27.4%
+Belgium
+82.7
+19.4%
+1 092
+1.0%
+19.3%
+39.7%
+Denmark
+36.2
+46.0%
+12.2%
+24.3%
+82.5%
+France
+535.8
+5.8%
+1.4%
+2.1%
+9.3%
+Finland
+70.0
+18.9%
+1 056
+0.9%
+14.4%
+34.1%
+Germany
+567.1
+52.7%
+0.8%
+9.3%
+62.8%
+Greece
+53.4
+64.2%
+16.6%
+11.1%
+91.9%
+Ireland
+23.7
+36.3%
+19.6%
+39.1%
+95.0%
+Italy
+269.9
+11.3%
+1 058
+31.8%
+37.5%
+80.7%
+Luxembourg
+53.1%
+53.1%
+Netherlands
+89.6
+28.4%
+3.5%
+57.7%
+89.6%
+Portugal
+43.4
+33.9%
+19.4%
+16.5%
+69.7%
+Spain
+221.7
+36.5%
+10.2%
+9.1%
+55.8%
+Sweden
+145.9
+2.1%
+1.2%
+0.3%
+3.6%
+372.2
+33.4%
+1.5%
+39.4%
+74.3%
+EU 15
+Average
+2572.3
+8.8%
+23.1%
+28.6%
+Source: CO2 Emissions from Fuel Combustion (2002 Edition)
+The burden of a carbon constraint depends on the share of fossil fuels in power generation. There are
+significant differences in fuel mix across EU countries. The share of fossil fuel plants in Denmark,
+Ireland and Greece for example, is high above the EU average. The impact of CO2 allowances will
+henceforth be greater than in countries where the generation mix is essentially based on hydro or
+nuclear technologies. However, to consider neighbouring countries are direct competitors implies that
+there are no transmission and interconnection constraints between the power markets. Nonetheless, in
+the European Union, interconnection capacity is a significant issue. The European power market is
+fragmented into several regional markets, the boundaries of which are driven by limitations in
+transmission interconnections. Some Member States are relatively isolated with very limited
+capacities with neighbouring countries. For example, Italian electricity imports from France must
+transmit through Switzerland, a country whose grid capacity is often constrained. Therefore, due to
+inadequate transmission capacity, Italy is unable to import from France the total amount of less
+carbon intensive electricity requested.
+According to the European Commission, the European electricity system may be considered as
+consisting of one core area: the central European market (which stretches from France to borders of
+Italy and takes in Germany, Austria and the Benelux countries), and six satellites (the Iberian
+Peninsula, Italy, Great Britain, Scandinavia/Nordel, Ireland/Northern Ireland and Greece). The four
+largest satellites all have a limited import capacity, the extreme case being Iberian Peninsula where
+import capacity is only 2 per cent of the total capacity in the area, followed by the UK (3 per cent),
+Scandinavia (4 per cent) and Italy (7 per cent). Among the core countries, there is a group of Member
+States which have a degree of interconnection capacity of around 20 per cent or more (Denmark,
+Sweden, Austria, Belgium, Finland and the Netherlands), which are all relatively well connected with
+surrounding markets. France and Germany are the two following Member States with an
+interconnection level of around 10 per cent. Henceforth, the introduction of a carbon constraint may
+not affect the countries competitiveness in terms of power prices as much as if there were no
+interconnection capacity constraints.
+Nevertheless, a carbon constraint will have implications on a plants competitiveness as not all
+facilities emit the same amount of greenhouse gases. Depending on the price of the carbon, thermal
+facilities will become less competitive than nuclear plants; and among fossil fuel plants, certain
+technologies might become more competitive than others. The reason for this is that the carbon
+intensity of conventional thermal generation differs largely from one country to another in the EU15
+and from one company to another.
+The carbon intensity for coal plants appear to vary greatly. The Danish, Finnish and Swedish plants
+emit half the amount of CO2 per kWh than the French or Italian coal plants. Several reasons can be
+invoked, the first of which is the average plants efficiency. In France, the baseload facilities are
+essentially nuclear plants, running at maximum efficiency. The coal plants are the marginal units on
+the market, operating as the shoulder producer. Their efficiency is therefore relatively low, leaving the
+facilities with a higher carbon emission. In contrast, in Denmark, coal facilities run as baseload
+capacity. Another reason lies in the plants lifetime. In Italy, coal plants are relatively old facilities
+compared to Swedish or Danish plants. Refurbishment investments must still be made, leaving the
+carbon intensity of those plants high. A similar argument can be invoked for the oil plants. Finally, in
+the Nordic countries, a number of CHP plants run on coal. This allows those plants to benefit form a
+high efficiency rate, lessening the carbon intensity of the plants.
+It is important to note that the impact of a CO2 constraint on the European power companies
+competitiveness would have been limited if the deregulation movement had not been introduced. The
+main reason is that under the previous regulation, there was no competition between electricity
+companies. Each utility was in a position of local monopoly. However, the creation of a single
+European power market implies that companies with very different fuel mixes are now in competition.
+APPENDIX 2
+LONG-RUN MARGINAL COST ASSUMPTIONS
+FOR A NEW NUCLEAR POWER PLANT
+The published estimates of nuclear costs vary widely, so for our nuclear scenario, assumptions were
+made which take a mid-point of these costs where possible. The average fuel costs used in the
+calculations were 6.65 per MWh (compared to a range from 2.3/MWh in Canada to 14.8/MWh in
+Japan), and the variable and fixed maintenance costs of the plants were assumed to be 9.1 per MWh
+taken from the OECD (IEA/NEA) report of 1998. On decommissioning, the OECD 1998 report
+provides discounted costs at 10 per cent discount rate ranging from 1 to 4 $/kWe. For our
+assumptions, the decommissioning costs are 0.27 per MWh assuming a discounted cost of $2 per
+kWe. The cost of capital reaches 22.8 per MWh, assuming that the capital cost totals 1700$ per kW,
+the plant availability rate equals 85 per cent and the plant size is 1200 MW. Therefore, for the
+assumed new power plant, the long-run marginal costs reach 38.85 per MWh.
+The full investment cost of a nuclear plant depends on a number of assumptions such as the interest
+rate, plant availability, etc. The LRMC found below is not country specific, and therefore does not
+represent the investment costs of nuclear plants in France nor in Finland where these can reach around
+22 per MWh in the latter. The capital cost is highly sensitive to the type of nuclear plan built and the
+size of the plant. For example, in the French DGEMP report , the capital cost is as low as 1043  per
+kW for a new series of European Pressurised Reactors. In the report, the capital cost contribution is
+lower than 20 per MWh (around 17-18  per MWh). On the other hand, a recent MIT study assumes
+that capital cost of a nuclear plant reaches 2000$ per kW . The cost effectiveness of the nuclear
+technologies (including the effects of carbon price i.e. the breakeven CO2 price) compared to other
+technologies will depend on specific plant costs.
+Assumptions for Nuclear Power Plant
+Variable and Fixed
+Operating and
+Maintenance Costs
+/MWh
+Cost of Capital
+/MWh
+22.8
+Decommissioning
+costs
+/MWh
+0.27
+Average fuel costs
+/MWh
+6.65
+Pretax Return
+LRMC
+/MWh
+38.85
+http://www.industrie.gouv.fr/energie/electric/pdf/cout-ref-2003prov-3.pdf
+http://web.mit.edu/nuclearpower/
+APPENDIX 3
+LONG-RUN MARGINAL COST ASSUMPTIONS FOR WIND
+ON-SHORE AND OFF-SHORE PLANTS
+Wind onWind onshore low
+shore high
+availability
+availability
+Plant Capacity
+Capital Costs
+Economic Plant Life
+Plant availability
+Fuel Costs
+Cost of Capital
+Variable O&M Costs
+Fixed O&M Costs
+Pretax return
+Long-run marginal
+cost for a Wind on
+shore plant
+/MWh
+/MWh
+% of capital
+costs
+% of capital
+costs
+45.08
+21.89
+8.06
+8.06
+/MWh
+Wind onshore low
+availability
+Wind onshore high
+availability
+Cost of CO2 allowance
+CO2 cost
+Carbon
+t/MWh
+0.007
+0.007
+CO2 cost
+/MWh
+0.140
+0.140
+Plant Capacity
+Capital Costs
+Economic Plant Life
+Plant availability
+Fuel Costs
+Cost of Capital
+Variable O&M Costs
+Fixed O&M Costs
+Pretax return
+Long-run marginal
+cost for a Wind on
+shore plant
+Wind offshore low
+availability
+1,309
+Wind offshore high
+availability
+1,309
+/MWh
+/MWh
+% of captial
+costs
+% of captial
+costs
+40.14
+30.10
+8.06
+8.06
+/MWh
+Wind offshore low
+availability
+Cost of CO2 allowance
+CO2 cost
+Carbon
+CO2 cost
+t/MWh
+/MWh
+0.007
+0.140
+Wind offshore high
+availability
+0.007
+0.140
+APPENDIX 4
+LONG-RUN MARGINAL COST ASSUMPTIONS FOR BIOMASS PLANTS
+Plant Capacity
+Capital Costs
+Economic Plant Life
+Plant availability
+Cost of Capital
+Variable O&M Costs
+Fixed O&M Costs
+Pretax return
+Long-run marginal
+cost for a biomass
+plant
+Cost of CO2 allowance
+CO2 cost
+Carbon
+CO2 cost
+Biomass low
+OPEX
+Biomass
+high OPEX
+2500
+2500
+/MWh
+% of capital
+costs
+% of capital
+costs
+15.33
+15.33
+8.06
+8.06
+/MWh
+t/MWh
+/MWh
+OPEX includes the fuel costs for biomass
+Biomass low
+OPEX
+Biomass high
+OPEX
+0.027
+0.540
+0.027
+0.540
+APPENDIX 5
+THE EU BURDEN SHARING AGREEMENT
+COUNTRY
+TARGETS 2008-2012
+(COMPLIANCE WITH 1990
+LEVEL)
+Austria
+-13%
+Belgium
+-7.5%
+Denmark
+-21%
+France
+Finland
+Germany
+-21%
+Greece
++ 25%
+Ireland
++ 13%
+Italy
+-6.5%
+Luxembourg
+-28%
+Netherlands
+Portugal
++ 27%
+Spain
++ 15%
+Sweden
++ 4%
+-12.5%
+Source: European Commission

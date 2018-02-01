@@ -1,0 +1,3557 @@
+Climate Change & the Financial Sector:
+An Agenda for Action
+A publication of Allianz Group and WWF
+FOREWORD
+Climate change poses a major risk to the global economy: It affects the wealth
+of societies, the availability of resources, the price of energy and the value of
+companies.
+At the same time, the need to revolutionize the way we use energy opens up a
+new universe of options for economic development and social benefits.
+The financial industry has a two-fold responsibility. On the one hand, it needs
+to prepare itself for the negative effects that climate change may have on
+its business and on its customers. On the other hand, it can significantly help
+mitigate the economic risks and enter the low-carbon economy by providing
+appropriate products and services.
+Allianz Group and the World Wide Fund for Nature (WWF) have joined forces
+to produce a report that will advance the debate in the financial community,
+and to propose solutions. The report identifies risks for the sector which are
+due to climate change, and develops actions that demonstrate how integrated
+financial services companies, such as Allianz Group, can turn these risks
+into opportunities. Implementing these actions will mean big steps forward in
+developing sound business for a living planet.
+WWF and Allianz Group will work together to implement the actions of this
+report and to make bold steps to help solve this global problem. Allianz and
+WWF strongly believe that companies that are ready to seize these new opportunities will ultimately be able to reap significant economic benefits.
+This cooperation between Allianz and WWF is the first milestone towards raising
+the awareness of climate change among the financial industry and towards a
+broader dialogue aimed at improving the management of environmental risks.
+London, June 2005
+Paul Steele
+COO WWF International
+Joachim Faber
+CEO Allianz Global Investors
+Climate Change 3
+CONTENTS
+Foreword
+Executive Summary
+Introduction
+1 The Direct Cost of Climate Change
+The Global Perspective
+The European Perspective
+2 The Economic Implications of Climate Change Policies
+Mitigation Policy
+Effects on the Corporate Sector
+Effects on the Consumer Sector
+3 The Necessary Path
+Avoiding Dangerous Climate Change
+What is Good Policy?
+4 Financial Services: New Risks, New Opportunities
+4.1 Insurance
+4.1.1 Adapting to Climate Change
+4.1.2 Insurance Solutions to Tackle Climate Change Business Risks  European Examples
+4.1.3 Insurers Risks and Opportunities in Mitigating Climate Change
+4.1.4 Recommendations
+4.2 The Banking Sector
+4.2.1 Climate Change-Related Risks
+4.2.2 New Opportunities
+4.2.3 Recommendations
+4.3 Asset Management
+4.3.1 Institutional Investors
+4.3.2 Consultants and Actuaries
+4.3.3 Fund Managers
+4.3.4 Financial Analysts
+4.3.5 Companies
+4.3.6 Recommendations
+4 Climate Change
+5 Financing Low-Carbon Energy
+6 Recommendations
+Endnotes
+Bibliography
+Boxes, Tables and Figures
+Acknowledgement
+EXECUTIVE SUMMARY
+Executive Summary
+1. Climate change is real
+Climates have always been changing. But this
+time there is one big difference: the changes are
+principally man-made. The issue has become
+urgent because the pace of change is accelerating.
+This report identifies actions for key stakeholders: Allianz Group, its clients, co-financiers and
+policymakers.
+Europe is not only warming 40 percent faster
+than the world as a whole, but has already sustained severe damage from climate change. Storms
+in 1999 and floods in 2002 each cost 13 billion
+euros, while a heat wave in 2003 cost 10 billion
+euros. Although no precise estimate of all future
+costs can be made, a European Commission paper
+puts the future cost of all the potential cumulative
+global damage at 74 trillion euros at todays value
+if effective action is not taken.
+Climate change will have a multitude of effects
+on human society and on nature if we fail to take
+clear actions to slow it down. While milder winters may seem an attractive proposition for Europeans, it is a prospect that deceives. Climate
+change will lead to increased heat stress, a rise in
+insect-borne diseases, and increases in rates of
+skin cancer and food poisoning. Globally, climate
+change already results in about 160,000 deaths a
+year, and this is likely to rise sharply because of
+increasing shortages of food and water.
+The extraordinary heat wave in 2003 caused
+27,000 deaths in Europe and disrupted agriculture, inland shipping, and electricity production.
+Huge swathes of forests covering a total of 5 percent of Portugals surface area were destroyed in a
+loss put at one billion euros.
+By the end of this century such a summer
+could be routine. Mediterranean agriculture
+might be in a state of collapse. Everywhere in
+Europe rainfall will be more intense. The number
+of major floods in Europe has already risen from
+one per year to 15 in recent decades. In the UK,
+the annual cost of flooding this century will rise
+to as much as 30 billion euros. Businesses are
+increasingly reporting reduced profitability because of unusual weather. Many European Union
+holiday destinations will suffer  in a region
+where travel and tourism generate about 4 percent of GDP.
+Climate Change 5
+EXECUTIVE SUMMARY
+2. Climate change policies are
+changing the economics
+Governments are starting to introduce policies to
+tackle the causes and combat the effects of greenhouse gas emissions (GHG), and these policies will
+alter the economics of entire industries. They will
+affect company share prices, both positively and
+negatively. Examples from industry show that
+proactive strategies tackling CO2 emissions reap
+economic benefits. And climate change might not
+be the only reason for taking such steps. Other
+benefits of climate change policy might include
+reducing dependence on energy imports, achieving more reliable energy price levels, ensuring
+clean air, and creating jobs. The growth of carbon
+markets associated with emissions entitlements
+offers revenue opportunities for developing countries and more efficient companies, and will
+need a range of services from the financial sector.
+International emissions trading could be worth
+between 50 and 800 billion euros in 2025.
+Climate change policies will have an effect on
+a number of industry sectors. The most sensitive
+sectors are either energy-intensive, such as cement,
+aviation, metals or energy industries such as oil
+and gas, coal, power utilities; or provide energyconsuming products such as automobiles.
+The driving force behind much of the current
+carbon market activity is the EU Emission Trading Scheme (ETS). Some of the early warnings of
+huge effects in certain sectors seem unlikely now,
+but the current market price has climbed to over
+20 euros per tonne of CO2 (May 30) which is not
+negligible.
+There has been a steady flow of research
+reports looking into the issue of carbon constraints on corporate earnings since 2002. They
+demonstrate that there are clear differences in the
+present value of corporate earnings, across a range
+of possible future climate policy scenarios. This
+means that managements and investors cannot
+assume that there will be time to react to policy
+when it is approaching implementation.
+A WWF study found that certain electricity
+companies could face costs of as much as 9 per-
+6 Climate Change
+cent of gross earnings, though costs may be
+passed on, while low-cost producers can extract
+larger margins. A Dresdner Kleinwort Wasserstein (DrKW) study concluded that 8 out of 18
+cement companies were overvalued by up to
+13 percent.
+3. Financial sectors need for
+consistent, long-term policy
+frameworks
+To combat the negative effects of climate change
+consensus exists that the global average temperature should not increase by more than 2 degrees
+Celsius and rather stay below this threshold.
+This will imply a cut in annual GHG emissions
+of 60 to 80 percent by 2050 globally, from the
+current level of almost 7 billion tonnes of carbon
+to under 2.5 billion. In line with these targets,
+individual EU member states have already
+announced national greenhouse gas reduction
+goals that support a path of deep and consistent
+reductions. For example, France proposes a 75 percent reduction by 2050, the UK a 60 percent cut by
+2050, and Germany is considering a 40 percent
+cut by 2020. However, specific actions are rarely
+defined beyond a horizon of 2012, the conclusion
+of the first Kyoto commitment period.
+Early action is needed to provide greater certainty for business, long-term investment and
+technological change. Inconsistent policies or no
+policies at all simply deter investment. Among
+the inconsistencies: the EU subsidized fossil fuels
+by 24 billion euros in 2004 compared to 5.3 billion euros for renewable energy sources; and
+international transport fuel is tax-exempt. The
+best strategy would involve a mix of actions on
+energy efficiency, including conservation measures, renewable energy and switching to low CO2
+fuel and gases. Perhaps half of the potential growth
+in emissions could be saved by greater energy
+efficiency.
+EXECUTIVE SUMMARY
+4. New risks and new demands for
+financial services companies
+The financial services industry needs to adapt its
+internal processes and policies and its products
+and services to meet the challenges its clients face
+as well as to safeguard its own viability. To enable
+financial services companies to play a responsible
+role in mitigating climate change they require a
+reliable, transparent and international co-ordinated policy framework as well as long term, appropriated CO2-reduction goals. That gives certainty
+for investment decisions and provides business
+opportunities for clients.
+In order to adapt their own operations to the
+new challenge, financial services companies should
+include climate change risk in their internal governance procedures, in line with the existing
+financial corporate risk identification, controlling
+and reporting structures and best practice in
+reporting requirements.
+INSURANCE
+Climate change and climate policy affect insurers
+through the risks they accept from clients. Since
+climate experts predict changes in the intensity
+and distribution of extreme weather events (especially water-related and storms), and because of
+the resultant risk of catastrophic property claims,
+insurers are likely to regard climate change as a
+threat rather than an opportunity. The high number of tropical storms worldwide pushed insured
+weather losses in 2004 to a record 32 billion
+euros. While the incidence of tropical storms is
+not conclusively linked to climate change, their
+increased frequency is part of a pattern of higher
+activity.
+Projections for the UK from the Association of
+British Insurers suggest that by 2050 the annual
+cost of weather claims will double to 3.3 billion
+euros, while an extreme year might cost 20 billion
+euros. In Germany the total exposure to flood
+damage in one event might be 15 billion euros.
+Climate change is increasing the potential for
+property damage at a rate of between 2 and 4 percent a year. Because insurance pricing relies on
+historical data, this could lead to an underpricing
+of weather risks by as much as 30 percent due to
+the time lag between the historic data that is used
+to set prices, and the future period in which
+claims will occur. In Allianzs global industrial
+insurance business for example, around 35 to
+40 percent of insured losses are already due to
+natural catastrophes  mainly floods and storms 
+so this could materially affect the overall profitability of insurers. Other effects are expected to
+include claims for loss of sales, heat stress among
+clients or staff, damage to vehicles, travel delays,
+and pollution from floods.
+But climate change will also bring more
+demand for conventional risk transfer and open
+opportunities in new areas such as emission
+reduction projects.
+Insurers Agenda for Action:
+ Gather information on future climate risks and
+thereby better predict and underwrite climateassociated risks.
+ Control their exposure to natural catastrophes
+and other climate-related risks by developing
+adequate risk assessment tools such as flood
+zoning and establishing expertise for natural
+catastrophes.
+ Upgrade risk assessment methodologies such
+as identifying potential new liabilities from
+carbon emission or using environmental due
+diligence screening of a company.
+ Develop risk management expertise regarding
+low carbon technologies jointly with industrial
+clients to develop new products supportive of
+low carbon technology.
+BANKING
+Banks play an important role in climate-related
+financing and investment, credit risk management, and the development of new climate risk
+hedging products. On the downside, they face
+credit risks because policies to cut emissions can
+create costs for carbon intensive sectors and companies. Price volatility in carbon markets (CO2,
+oil, gas, coal) and climate-related commodities
+leads to uncertainty in financial projections. For
+Climate Change 7
+EXECUTIVE SUMMARY
+example, the price of CO2 varied between 5 and
+20 euros per tonne in the two years to June 2005.
+But climate change also creates opportunities.
+According to the World Energy Council, the
+renewable energy market could be worth 1.4 trillion euros by 2020. The global carbon market in
+2010 could be worth up to 200 billion euros, estimates Point Carbon. Exploiting the Kyoto Mechanisms could enhance project returns by up to 15
+percentage points e.g. in methane reduction projects. Weather derivatives offer potential to banks:
+the total notional value of this market rose to 3.5
+billion euros in 2003/04. Emission trading creates
+new relationships between corporates: cross-border, cross-commodity, cross-product, and that in
+an increasingly international context. Significant
+new investments will be required internationally
+in high value added technologies for both large
+and small scale aspects for each project. A key
+challenge here is to marry long-term investment
+horizons with short-term regulatory change.
+Banks Agenda for Action:
+Banks taking leadership on climate change issues
+will therefore need to
+ Review and optimize their own carbon risk
+management and (further) develop assessment
+tools applied to carbon risks and carbon risk
+reduction strategies (e.g. by using carbon related economic analysis for sectors or companies
+and/or by developing climate change related
+risk matrixes).
+ Define clear risk requirements for clients
+regarding carbon risk reduction and market
+strategies (e.g. by discussing rating requirements with clients).
+ Foster the development of carbon risk hedging
+products e.g. derivatives.
+ Facilitate finance for public programmes that foster the introduction of low carbon technologies.
+8 Climate Change
+ASSET MANAGEMENT
+Climate change is one of the most financially significant environmental issues facing investors
+today. It distinguishes itself in the fact that it has
+implications for a number of sectors that are
+exposed to policy-driven strategies to mitigate
+climate change. Therefore, understanding to
+what extent and how climate change will impact
+or enhance the value of investments is crucial if
+shareholder value is to remain protected. Although
+there is increasing evidence to suggest that climate change considerations are starting to permeate into investor thinking, it is an issue that as
+yet still lacks incorporation into mainstream
+investment considerations. Barriers exist in the
+lack of understanding of the implications and
+uncertainty around climate change policy and
+regulation which remain complex.
+Furthermore, the availability of comparable
+and consistent data on companies emissions levels, as well as tools to assess risks and opportunities remain limited. Looking at the asset management chain of responsibility  institutional
+investors, consultants, fund managers, financial
+analysts and companies  each face different
+challenges. But what is clear is that each one of
+them can take specific action, primarily to develop understanding and respective tools regarding
+the financial implications of climate change.
+Specifically, fund managers and financial analysts should:
+ Evaluate their client portfolios for climate
+change risks and opportunities in order to be
+able to respond to changes in climate change
+policy and legislation.
+ Engage with company management to understand how climate change is impacting their
+business and what strategies they are employing to minimize its risks or maximize opportunities from it; educate clients about the benefits
+and processes being used to incorporate extrafinancial issues in the management of their
+assets.
+ Request and reward external research providers
+e.g. brokers to produce consistent, quality, long-
+EXECUTIVE SUMMARY
+term research, which incorporates extra-financial issues such as climate change and integrate
+such issues into their mainstream analysis and
+investment decisions also by utilizing the help
+of their in-house or external SRI expertise.
+5. Financing low-carbon energy
+The solution to climate change is essentially to
+convert the worlds economies to low-carbon technologies, through both alternative energies and
+more efficient energy conversion. Low-carbon
+energies can be a contribution to the mitigation
+of GHG emissions and a business opportunity for
+project developers and investors.
+The future outlook for the low-carbon energy
+market is promising. According to the International Energy Agency investment in cleaner energy at present is USD 20 billion a year, mainly to
+solar and wind power, expected to grow to USD
+100 billion globally within 10 years. Investment
+in renewables and clean energy technology rose
+150 percent between the years 2000 to 2004,
+across a wide range of applications (efficiency,
+windpower, fuel cells, etc.).
+The growing market opens increasing opportunities for financial services providers.
+However, renewable energy technologies, given
+their innovative character, often face a number of
+additional barriers compared to other projects,
+e.g. technical problems or higher upfront costs.
+Therefore it is necessary to develop specific
+expertise and financial involvement in low-carbon energies and to diversify the risks of such
+energy projects.
+6. Adressing climate change is
+5. crucial for the financial sector
+Climate change will increase costs for the financial
+sector if no action is taken. Banks and investors in
+particular need a clear regulatory framework on
+climate policy which they can adapt and base
+their investment and lending decisions on, while
+insurers face the prospect of heavy losses.
+Integrated financial organisations need to be
+aware that climate change could result in a compounding of risk across the entire business spectrum, diluting some of the benefits of diversification. For example, an insurer is exposed to
+property losses from extreme events, but so too is
+a property investor, and also a banker providing
+services to the property management sector. Furthermore, if the insurer seeks to reduce his risk by
+withdrawing cover, other stakeholders (investors,
+bankers etc.) are left with greater, uninsured risks.
+Therefore, integrated financial organizations
+need to develop pro-active strategies to manage
+the increasing risks due to climate change.
+Climate Change 9
+INTRODUCTION
+Introduction
+Human-induced climate change has rapidly become an important factor for the financial sector
+in its insurance, banking and investment activities. For centuries the financial sector has been
+involved in the management of climate variability through its provision of credit for seasonal
+cycles of agriculture, selection of suitable investment opportunities, and insurance against natural disasters, and has gained an invaluable fund
+of experience in that area. However, now the
+changes are not random, and the rate of change is
+accelerating. The details of the future climate are
+still unclear, and in fact they depend critically
+upon the way we manage our business and social
+affairs and use the land. It is clear that planning
+for the future properly, means anticipating different weather patterns and different economic
+structures from todays. The risks faced by clients
+will be different, and the returns on their present
+and future investments will change from the customary ones. The challenges will spring from a
+number of directions  physical changes in the
+environment, regulatory moves to limit greenhouse gas emissions, legal challenges to inadequate governance, reputational fallout from the
+corporate position on climate change, and competitive pressures as production costs shift and
+products are substituted in response to the new
+economics of a carbon-constrained world.
+In matters that affect them and their clients,
+financial companies have a duty also to join the
+debate to ensure that the outcome is efficient.
+Because of their involvement in every strand of
+the economy, and their dependence in the longterm on sustainable economic development, integrated global financial companies like Allianz
+need to take a broad, objective view. This is par-
+10 Climate Change
+ticularly valuable, since their views ought to
+reflect the best outcome for society as a whole.
+The position as assessed by this report is that
+there is already enough information to see that
+business as usual is not an option  the undeniable costs of prevention are less than the potential
+damage that could result. Nor is there time to wait
+while knowledge about the climate change
+process is improved, and energy technologies are
+refined  early reductions in greenhouse gas emissions avoid the need for much sharper cuts later.
+The main sections of the report discuss these
+points in more detail. Section 1 The Direct Cost of
+Climate Change assesses the evidence about the
+economic costs of climate change. Section 2 The
+Economic Implications of Climate Change Policies considers the business effects of policies and
+measures intended to reduce the growth in greenhouse gases. Section 3 The Necessary Path then
+discusses what the best option for climate change
+policy is in the light of the costs and benefits of
+sustainable development. In section 4 Financial
+Services: New Risks, New Opportunities we look
+at the implications of climate impacts and policies for the financial sector in its three main
+branches: insurance, banking and asset management. Section 5 Financing Low-Carbon Energy
+gives a more specific discussion of the concrete
+options to facilitate market penetration for sustainable technological solutions. Finally, section 6
+Recommendations identifies the key messages,
+and action points for the principal stakeholders
+including Allianz Group, its clients, and policymakers. Naturally, the specific mix of actions
+needs to be seen in the context of each financial
+market, but there are strong common elements
+throughout.
+1 THE DIRECT COST OF CLIMATE CHANGE
+The Direct Cost
+of Climate Change
+Climate change will touch almost every aspect of
+life. Here is an assessment of financial impacts 
+first, globally; with some emphasis on two key
+impact areas health and water; and, secondly,
+relating to Europe.
+1.1 The Global Perspective
+Climate change will alter weather patterns and
+make the sea rise. The overwhelming scientific
+consensus is not only that the change will be considerable, but also that change has already taken
+place because of greenhouse gas emissions. The
+most recent comprehensive global perspective is
+the 2001 IPCC Report1, which warned that climate change could reach dangerous levels this
+century. The next IPCC report is due in 2007, but
+already it seems clear that, in the light of recent
+research, the risk will be revised upwards from
+the 2001 assessment (see Section 4 Financial Services: New Risks, New Opportunities).
+Climate change will increase the unreliability
+of water supplies  both in quantity and quality. It
+will decrease agricultural yields in the tropics. It
+will cause a rise in sea levels and thus threaten to
+displace tens of millions of people from coastal
+settlements. It will cause extreme temperature
+stress and cause shifts in the location of some diseases. And it will result in insurance losses from
+extreme events.
+Putting a cost on climate change presents massive problems. Climate changes impacts are wideranging, cannot be modelled in detail, and trying
+to place a value on damage in the distant future
+poses problems that border on the philosophical.2
+In spite of these difficulties, an EU Commission
+paper puts the potential cumulative global damage at 74 trillion euros at todays value if action is
+not taken to prevent climate change. This amount
+is equivalent to a cost of 80140 euros per tonne
+for CO2, compared to the current market level
+of around 19 euros per tonne. More important,
+aggregating costs and benefits is misleading because gains for some are taken to cancel out losses for others.3 Tropical countries may be particularly exposed. Coral decay caused by temperature
+rises and acidification could cost over 200 million
+euros a year in the Caribbean. The cost of Hurricane Ivan that hit Grenada in 2004 amounted to
+twice the countrys GDP.4 The adverse outlook for
+water, crops and sea-level rise in developing countries mean that more people will be harmed by
+climate change than benefit from it.
+In the short term, the rich north would benefit
+because of warmer winters while the poor would
+Country type
+Temperature rise
+Effect
+Developing
+Generally net economic loss,
+increasing as temperature rises
+Developed
+Up to 2 degrees Celsius
+Net economic gain
+From 2 to 3 degrees Celsius
+Mixed or neutral
+Over 3 degrees Celsius
+Net loss
+Table 1
+Macro-Economic Effect
+of Climate Change
+Source: IPCC, 2001
+Climate Change 11
+1 THE DIRECT COST OF CLIMATE CHANGE
+become poorer. But even the wealthier nations
+would eventually have difficulties if climate
+change were to gather momentum, as shown in
+shown in Table 1. Even short term, problems in
+developing countries might destabilize the world
+economy. There are two reasons. First, an increasing proportion of industrial and service activity is
+located there, so that disruption would affect the
+whole supply chain. This has not yet been factored into the projections. Second, an increase in
+inequality could trigger criminal and civil disorder on a large scale.
+These considerations are underlined by the
+possibility that climate change may accelerate
+due to chain-reaction effects as certain thresholds
+in the climate system are exceeded (see Box 1),
+leading to influxes of climate refugees.
+The cost of natural disasters can be crippling
+for developing nations. The World Bank has inadvertently become the worlds third largest reinsurer after Munich Re and Swiss Re because it
+has to divert so much of its development funds
+into disaster relief. Rich countries are vulnerable
+too, but they have the resources to cope. Japan for
+example has two million people living below
+high-water level, and assets of 400 billion euros in
+that zone. Climate change will double that exposure by 2100.
+Among the concerns that Japan needs to deal
+with are heat waves. Each increase of 1 degree
+Celsius in air temperature reduces the efficiency
+of nuclear power plant by between 1 and 2 percent but at the same time increases demand by
+5000 megawatts (MW).5
+Water shortages are set to increase even in a
+stable climate simply because of economic development. Industry is greedy for water. 5 billion
+people will have inadequate access to drinkable
+water by 2025. Consumption is also increasing in
+countries where populations are growing and becoming wealthier. Climate change will worsen this
+in Central Asia, the Mediterranean region, south-
+Box 1
+Rapid Climate Change
+Climate change projections depict a
+gradual increase in temperature and
+precipitation. However, prehistoric data
+shows that at least eight times in the
+past 11,000 years there has been an
+abrupt onset of a radical new state.6
+Ice-cores show that the average temperature in Greenland shifted by
+10 degrees Celsius in 5 years, and
+that annual snowfall halved within
+3 years. One of the key triggers
+appears to be the failure of the Gulf
+Stream or thermohaline current (THC).
+Shutdown of THC could result in
+catastrophic changes in ice cover or
+vegetation, dramatic shifts in the
+water cycle, and a sharp drop in temperature for the North Atlantic and
+all those regions which border the
+12 Climate Change
+Atlantic (East Coast USA and Canada,
+Western Europe).
+A study commissioned by the Pentagon7 concluded that disruption and
+conflict will be endemic features of
+life if abrupt climate change occurs,
+and that many countries needs will
+exceed their carrying capacity with
+consequent large population movements. Contrary to the Hollywood
+blockbuster The Day after Tomorrow,
+the possibility of this event occurring
+before 2100 is very small,8 and general planetary warming would cushion
+the effect to some extent.9 However,
+there are already signs of change in
+the North Atlantic: weaker currents,10
+and changing temperature.11
+It is more likely that climate
+change could accelerate due to natural
+feedback mechanisms, such as the disappearance of tropical rainforests, the
+thawing of tundra, and the shrinking
+of ice-cover; all of which would speed
+up global warming by increasing
+the level of greenhouse gases, or the
+absorption of heat by oceans. Already
+the official UK climate models at the
+Hadley Centre are indicating such
+possibilities in some of their projections.12 The changes would compound
+themselves, because natural systems
+(e.g. forests and rivers) might start to
+fail due to the high rate of change, and
+the risk of unstable weather patterns
+would also be much higher.
+1 THE DIRECT COST OF CLIMATE CHANGE
+ern Africa and Australia by 2025, adding another
+500 million to the water-deprived. Around the
+world, the land surface hit by drought has risen
+from 15 percent to 30 percent in 30 years.13 Many
+reservoirs in Australia are at only half capacity. A
+2002 drought there cut farm output by 30 percent, lowered GDP by 1.6 percent, and cut 70,000
+jobs.14 In Africa, the Maghreb faces a rainfall
+decline of up to 40 percent by the 2050s. This in
+turn carries the risk that refugees will be driven
+away by drought and start heading for the EU.15
+In places like Peru, California and India, the loss
+of glacier water will cause problems for hydropower, agriculture, and consumers, and lead to an
+ultimate conflict over resources.16 In southern
+Africa, as much as 8 percent of GDP could be lost
+because of hydropower shortages.
+Paradoxically, the flood risk will increase even
+in drought-prone regions because climate change
+concentrates precipitation. Warm air can carry
+greater amounts of moisture than cold air. When
+it rains, the run-off will be faster because of sunbaked surfaces. Rapid urbanization of low-lying
+coastal areas means not only an increase in population densities but also increasing levels of assets
+being placed at risk. The risk of urban flooding
+will increase due to outdated drainage and other
+infrastructure deficits. Individual country studies
+such as in Egypt, Poland, and Vietnam have estimated that the costs of rising sea levels will be in
+the tens of billions of euros. Although science
+remains unable to provide definitive information
+about future storms, it is notable that 2004 was a
+record year for both hurricanes in the USA and
+typhoons in Japan.17 The storms lasted longer
+than usual and reached further north than normal. In addition, Brazil was struck by its first-ever
+hurricane-like storm.
+Temperature increases of up to around 2.5 degrees Celsius can have positive effects on food
+production. For example, milder winters prolong
+growing seasons in higher latitudes.18 The effect
+is less in the tropics because of the existing high
+temperatures.
+Overall, the effects of climate change on
+human health will be adverse, particularly for the
+poor because of their vulnerability to flooding
+and to heat stress combined with greater humidity and air pollution. Diseases like malaria will
+spread. Climate change already causes about
+160,000 deaths a year because of hunger, poor
+water quality, respiratory problems, and drowning. This will be greatly worsened by shortages of
+food and persisting difficulties in obtaining clean
+water.19
+1.2 The European Perspective
+The facts make it clear that action needs to be
+taken urgently. A European Environment Agency
+report in 2004 said Europe is warming 40 percent
+faster than the world as a whole.20 Across Europe
+the negative effects will be greatest in the south
+and east.21 Hot summers will double in frequency
+by 2020 (in Spain, they will occur five times as
+often) and increase tenfold by 2080. Cold winters
+will halve in frequency by 2020 and be non-existent by 2080. Summers will be drier in southern
+Europe and winters will be wetter in northern
+Europe.
+Severe damage is already evident. Storms in
+1999 cost 13 billion euros, floods in 2002 13 billion euros, and a heat wave in 2003 10 billion
+euros. A total of 14 climate-related incidents since
+1987 have cost over 75 billion euros, while the
+annual cost of climate disasters in the EU region
+has doubled to 8 billion euros in 20 years.22 By
+2070 rivers in southern Europe will be carrying
+half the water they do now while those in the
+north will be carrying half as much again. Even in
+regions that become drier, rainfall will be more
+concentrated. The risks of flooding will rise. An
+analysis of catastrophe damages suggests that a
+1 percent increase in precipitation is associated
+with losses of up to 2.8 percent.23 Already the
+number of major floods in Europe has risen from
+one per year between 1900 and 1974 to 15 a year
+between 1993 and 2001.24
+In the UK, floods cost 1.5 billion euros a year.
+By 2070, this could be twenty times as much.
+Climate Change 13
+1 THE DIRECT COST OF CLIMATE CHANGE
+10 percent of UK property with a value of 300 billion euros (5 million people in 2 million homes) is
+at risk from flooding. The Thames Barrier can be
+improved but the limits to protecting London are
+expected to be reached in the 23rd century  or
+about 150 years from now. This is because in
+practical terms, flood defences can only be raised
+another 2 meters.25 Good emergency warning
+systems mean that deaths from flooding are
+relatively low.
+The extraordinary 2003 heat wave caused
+27,000 deaths in Europe and massive social disruption.26 Agriculture and inland shipping were
+badly hit, power supply was affected as nuclear
+power plants had to be shut down. This was said
+to be the hottest heat wave in a thousand years.
+While it is possible that the heat was part of a
+natural fluctuation in weather patterns, some
+specialists believe the probability that human
+influence caused the heat wave to be at least
+75 percent. The probability of similar heat waves
+is projected to increase a hundredfold over the
+next decades.27 The upshot might threaten the
+very existence of agriculture in Southern Europe.
+An insight into the potential for destruction came
+in 2003, when forests covering a total of 5 percent
+of Portugals surface area were destroyed in a loss
+put at one billion euros.28 Any benefits in the
+north from an extended growing season and CO2
+fertilization may be cancelled by pests, weeds, and
+drought. Warmer winters will benefit health in
+Europe, but the negative consequences will include
+increases in the incidence of heat stress, tick-borne
+diseases, skin cancer, and food poisoning.29
+The burden of the changes will be uneven.
+Some economic sectors such as the construction
+industry might benefit from climate change30.
+Others, such as manufacturing, are climate-neutral. But still others, such as insurance, water and
+travel and tourism, are vulnerable. Often the
+immediate physical effect will be dictated by
+geography but the impacts are not limited to the
+direct physical results. Increasingly, businesses
+report unusual weather affecting profitability.
+Travel and tourism generate about 4 percent of
+GDP in the EU. Preliminary calculations with the
+14 Climate Change
+Mieczkowski Tourism Climatic Index indicate
+that many more locations will become unattractive than will gain from climate change. For
+example, Seville could become too hot for comfort by 2020. Elsewhere, lower Alpine ski runs are
+already relying on artificial snow. Traditional
+activities like winemaking in France and Spain
+may become non-viable in some regions. Golfing
+at traditional coastal sites might be so badly hit by
+the weather as to be placed in jeopardy.31
+Farming accounts for 1.7 percent of the EUs
+GDP (more in accession countries) and employs
+4.2 percent of the workforce. A temperature
+increase of up to about 2 degrees Celsius might
+result in increased yields. However there will be
+problem years and problem areas. The 2003 heat
+wave caused losses of between 30 and 40 percent
+of the grain crop, while 4.5 million chickens died
+in France. Bad harvests in Russia are expected to
+double by 2020 because of drought, with some
+regions likely to face a decline in yields of up to
+40 percent by the 2070s.32 Forestry productivity
+in northern Europe has already increased by
+10 percent, but water shortages and heat stress in
+the south will cause drought, wildfire, erosion
+and desertification.
+For economic activity, what matters is not necessarily changes in average temperatures or rainfall but changes in climate extremes. For example,
+models suggest that temperatures of average
+summers in Prague will rise by 3 degrees Celsius,
+but that the heat wave temperatures could rise
+by 10 degrees Celsius. Similarly, the incidence
+of heavy rain there will increase by 20 percent
+at the same time as overall rainfall declines by
+20 percent.33 Such patterns are already emerging
+elsewhere.
+Table 2 presents data from UK rainfall and
+temperature statistics, which reach back further
+than any other source available. Extremely warm
+months are occurring almost three times the statistically predictable levels; a change that began
+suddenly in the 1990s. Since then, cold months
+have almost vanished. This period has seen a number of severe storms, and also an increase in soil
+subsidence. There is no clear sign of a trend
+1 THE DIRECT COST OF CLIMATE CHANGE
+towards either wet or dry months, but the current decade has been hit by severe flooding. A
+sector which is clearly exposed to extreme conditions is the insurance industry, but this is ameliorated by the fact that, outside the UK, the risk is
+often borne formally or informally by the state or
+by the victims themselves.
+Conclusions
+1. Potential losses from climate warming are
+incalculable in detail, but a European Commission paper estimates a global figure of 74 trillion euros if effective action is not taken.
+2. Rises in sea level will threaten to displace
+entire coastal communities and destroy their
+assets with severe disruption to adjacent regions
+and the finance sector.
+3. Poor countries will be the first to be hit by
+climate change, but this will set off a reaction
+in the supply chain that will eventually affect
+wealthier countries.
+4. Widespread drought and shortages of water
+will lead to problems for agriculture, hydro
+power and, ultimately, to a conflict over
+resources.
+5. In Europe, where warming is happening faster
+than elsewhere, flooding is already costing
+huge amounts, with worse to come.
+6. Health systems will need to come to terms
+with increases in certain diseases such as skin
+cancer as climates warm.
+7. Insurance companies were the first financial
+sector companies affected by the impacts of
+climate change. Today the impacts extend to
+literally all branches of the sector.
+Type/decade
+1960s
+2000s
+Cold
+Table 2
+Number of Abnormal
+Weather Months per
+Decade in UK
+Expected level is
+12 per decade.
+Threshold for abnormal is
+the 10-percent level. Data
+from the Hadley Centre
+website. 2000s prorated
+to observed period.
+Climate Change 15
+2 THE ECONOMIC IMPLICATIONS OF CLIMATE CHANGE POLICIES
+The Economic Implications
+of Climate Change Policies
+The problems of climate change have their origins in the greenhouse gases created from economic activity.34 Because these emissions were
+once considered as harmless by-products, their
+side-effects were not included in the cost of production. Even as economic progress was giving
+millions of people higher standards of living,
+climate change remained a nebulous concept that
+would take place sometime in the future and not
+a visible, immediate issue.
+This means that deliberate intervention is needed
+to alter behavior patterns.35 In 1992, the countries
+of the world met under the auspices of the United
+Nations and agreed on the United Nations Framework Convention on Climate Change (UNFCCC).
+The key aim of this is to avoid dangerous climate
+change while permitting economic development.
+The primary objective is to reduce emissions
+from economic activity, and the second is to
+lessen the impact of unavoidable climatic changes.
+Under the UNFCCC, strategies to control greenhouse gas emissions and limit damage from climatic extremes are known as policies and measures respectively for mitigation and adaptation.
+Mitigation policies draw the most attention, because they affect the whole economy and often
+feature unfamiliar regulations. Adaptation is
+directed only at vulnerable activities, and may
+simply be an extension of current measures. The
+key instrument is the Kyoto Protocol (see Box 2).
+16 Climate Change
+2.1 Mitigation Policy
+Mitigating the effects of climate change is not as
+expensive as many people think. Often there are
+significant, immediate benefits such as clean air
+and new jobs.
+Carbon emissions could be cut by between 20 percent and 40 percent by 2020 using current technology, estimates the Intergovernmental Panel on
+Climate Change. It says half that reduction would
+cost nothing extra while the rest would be subject
+to a modest cost of around ten euros per tonne
+of CO2.36
+Efficient lighting can cut lighting bills by between 50 and 75 percent with a payback in one to
+three years.37 BP claims to have saved 500 million
+euros over three years by introducing voluntary
+internal carbon constraints, encouraging its workforce and management to seek both greater efficiency and new sources of revenue from by-products.38 Similar stories come from other members
+of The Climate Group, an association of companies, cities and regional administrations devoted
+to spreading good practice in the area of climate
+change.
+But climate change might not be the only reason for taking such steps. Other reasons might be
+reducing dependence on energy imports, achieving more reliable energy price levels, ensuring
+clean air, or creating jobs (45,000 new jobs were
+created in wind power industry in seven years).39
+Another benefit of mitigation is the incentive
+to innovate. The development of wind-powered
+electricity is a prime example. Ultimately, supplies of conventional gas and oil need to be
+replaced anyway. Similarly, the growth of carbon
+2 THE ECONOMIC IMPLICATIONS OF CLIMATE CHANGE POLICIES
+markets associated with emissions entitlements
+offers revenue opportunities for developing
+countries and more efficient companies, and will
+need a range of services from the finance sector.
+International emissions trading could be worth
+between 50 and 800 billion euros in 2025.40
+Policy is only beginning to take into account
+climate change as an economic factor. Policy
+innovations include price guarantees for renewable energy, quotas for non-fossil fuels, energyefficiency standards, compulsory and voluntary
+limits on emissions, and emissions trading
+schemes (cap-and-trade schemes, see Box 3).
+The EU has in fact a wide range of policy initiatives in place or in prospect to fight climate
+change, and will have to develop further ones.
+Outside the EU, various sub-federal initiatives
+are being implemented, notably in the United
+States, Canada, and Australia.
+2.2 Effects on the Corporate Sector
+Carbon constraints will mean different things for
+different sectors. Studies show, for example, that
+the effects on corporate earnings for the motor
+industry worldwide would vary considerably.
+Earnings for some manufacturers would increase
+while others would decline.
+Other reports indicate that earnings globally in
+the oil and gas industries would be neutral in
+some cases and down in others, and that the variation would be less than in the motor industry.
+The gas sector stands to benefit from changes.
+Metals and mining  especially aluminum and
+steel  would be vulnerable. Electricity and water
+utilities would generally be able to minimize
+financial impacts by passing costs on to the consumer, although one study did suggest that coalbased utilities were in some cases unprepared
+while some utilities were not always in a position
+to pass on costs. The option of passing on those
+costs depends on the price sensitivity of demand,
+Box 2
+The Kyoto Protocol
+The 1997 Kyoto Protocol was the first
+substantive agreement to mitigate
+global warming under the United
+Nations Framework Convention on
+Climate Change (UNFCCC). Annex 1
+(38 developed countries) agreed to
+reduce their emissions of six greenhouse gases by a total of 5.2 percent
+between 20082012 from 1990 levels.
+The six gases include carbon dioxide
+(CO2), methane, nitrous oxide, and
+three fluorocarbons. Other countries
+agreed to adopt positive measures, but
+without any binding targets. A share
+of the Annex 1 obligations to reduce
+the emissions can be achieved via
+three flexible mechanisms: Interna-
+tional Emissions Trading (IET), Joint
+Implementation (JI) and the Clean
+Development Mechanism (CDM).
+Under IET, industrialized countries
+can trade part of their emissions
+budget known as Assigned Amount
+Units (AAUs). In principle, this trading regime applies to nation states,
+although the participation of companies is not explicitly excluded. JI and
+CDM are project-based mechanisms,
+since new emission certificates are
+generated via specific emission reduction projects. Under JI, an industrialized country invests in an emission reduction project in another
+industrialized country and receives
+credits for achieved emission reductions  so called Emissions Reduction
+Units (ERUs). Under the CDM, an
+industrialized country invests in a
+project in a developing country and
+obtains credits for emission reductions
+called Certified Emissions Reduction
+Unit (CERs). The Kyoto Protocol
+entered into force on February 16,
+2005, but was somewhat diminished
+in impact by the non-ratification of
+key parties, including the United States
+and Australia.
+In addition to the Articles on mitigation, there are also important ones
+on adaptation, particularly for developing nations, and awareness-raising.
+Climate Change 17
+2 THE ECONOMIC IMPLICATIONS OF CLIMATE CHANGE POLICIES
+Box 3
+EU Emissions Trading
+Scheme (EU ETS)
+The EU ETS is a so-called capand-trade scheme regulating
+industrial CO2 emissions in the
+EU 25. The scheme started in January 2005. The first phase runs
+from 20052007, the second
+phase runs from 20082012,
+coinciding with the first Kyoto
+Protocol commitment period.
+About half of EU CO2 emissions
+are covered by the scheme. It is
+targetted at large individual energy-using installations in defined
+economic sectors: mainly energy production, metals, construction materials, and paper. As a
+market-based mechanism the
+ETS ensures emissions are reduced most cost-efficiently, the
+cap giving effective control over
+total emission amounts.
+Each EU country has to develop a National Allocation Plan
+(NAP) outlining the total number
+of emissions allowances (EUAs)
+allocated (free of charge) to the
+individual installations covered
+by the scheme. According to the
+European Commission, the allocation of allowances should be
+in line with the member states
+Kyoto commitments. At the end
+of each year, each site must surrender sufficient allowances to
+cover their CO2 emissions for
+that year. Failure to do so will
+result in fines  40 euros per
+tonne of CO2 in the first period,
+and 100 euros in 20082012. In
+addition, the deficit must be
+compensated for in the following year.
+Companies can meet their
+targets by implementing measures to reduce CO2 emissions or
+by buying surplus allowances
+from other firms i.e. trading. The
+so-called linking directive from
+2004 allows emissions credits
+from JI/CDM projects under the
+Kyoto Protocol to be used within
+the EU ETS.
+as well as market regulation and market inefficiencies. Even more challenging for utilities is to
+make investment decisions to replace or upgrade
+existing infrastructure today while at the same
+time accommodating the long-term outlook of
+decreasing future emission allocations.
+The driving force behind much of the current
+carbon market activity is the EU ETS (see Box 3).
+Although it started on January 1, 2005, it is still
+evolving as emissions allocations had not all been
+approved by that date. Some of the early warnings
+of huge effects in certain sectors seem unlikely
+18 Climate Change
+now, but the current market price has climbed to
+over 20 euros per tonne of CO2 (May 30) which is
+not negligible. The International Energy Agency
+believes the effect of the EU ETS on international
+competitiveness of whole economies is marginal,
+as eligible companies receive free entitlements
+for most of their emissions. Nevertheless, sensitive sectors are the energy-intensive industries
+(cement, metals), or those which produce energy
+(oil and gas, coal, power utilities). Rising power
+prices combined with rising oil and CO2 prices
+are likely to negatively impact energy intensive
+industries located in Europe, in particular when the
+rate of growth in Chinese demand is slowing.
+There has been a steady flow of research
+reports looking into the issue of carbon constraints on corporate earnings since 2002. Naturally the earlier findings were somewhat speculative, because the status of the Kyoto Protocol was
+uncertain, and the EU ETS was not well-defined.
+The fact that the studies come from different
+sources (banks, investment brokers, policy analysts, energy industry institutes etc) and are
+broadly in agreement means that one can use
+them to frame strategies.
+In some cases the analysis is simply qualitative, but it may still be useful given the great
+uncertainties in policy implementation, and the
+fact that climate change is only one influence on
+corporate performance.
+Most of the results below relate to the EU ETS
+specifically. However the first three are broader,
+and contain an important general message. They
+demonstrate that there are non-trivial systematic
+differences in the present value of corporate earnings, across a range of possible future climate policy scenarios. This means that managements and
+investors cannot assume that there will be time to
+react to policy when it is approaching implementation, because there are strategic structural factors such as access to resources and technology, or
+customer mix, which take longer to shift. A second point that recurs is that some sectors face
+several environmental challenges, and that tackling greenhouse gas emissions may interact with
+some of those other problems.
+2 THE ECONOMIC IMPLICATIONS OF CLIMATE CHANGE POLICIES
+A study of the general effect of climate policy
+on the automobile industry across the world by
+The World Resources Institute (WRI) concluded
+that the effect of carbon constraints on the corporate earnings of individual companies ranged
+from an increase of 9 percent to a decline of 10
+percent, reflecting factors such as the likely compliance costs to match potential emissions controls on vehicles and the manufacturers customer
+mix. Most interestingly, the study examined a
+range of scenarios and concluded that a company
+such as Toyota which had a strong R&D program
+on technologies that might replace the internal
+combustion engine would have a distinct advantage in every scenario.41
+A second study in the same general, non-EU
+series by WRI looked at the oil and gas sector
+globally, again using a scenario approach to issues
+such as the Kyoto Protocol and found systematic
+differences, but over a smaller range, from marginally positive to a decline of 5 percent in earnings.42 Curiously, Exxon Mobil, which has campaigned against early action on climate change,
+was not as vulnerable to mitigation policy as
+some other petrocarbon companies.
+ABN/AMRO carried out a multi-sector study,
+which identified metals and mining as the most
+affected industry, particularly aluminum and
+steel.43 On the other hand gas (the cleanest fossil
+fuel, and an easy substitute for coal) and platinum
+(for fuel cells) will benefit. The analysts felt that
+electricity and water companies would be relatively unaffected because costs could be passed
+on to customers. Car manufacturers might face
+potential brand issues (along the lines of the campaign what car would Jesus drive?). Cement
+companies in Annex 1 countries might be forced
+to focus on special-purpose products because of
+external competition. The study named individual companies in each sector as winners or losers
+but the selection was different from other analysts and not quantified.44
+Turning now specifically to EU ETS, in an early
+study of the power sector DrKW rightly felt that
+emissions regulation was inevitable. If a tough
+allocation of permits was adopted the effect on
+wholesale electricity prices might be as much as a
+70 percent increase. Initially, it looked as if the
+National Allocation Plans (NAPs) would be too
+loose, but then they were tightened by the European Commission. In fact, DrKW had already
+foreseen two years ago consistently high prices
+for CO2 of above 15 euros per tonne. UBS adopted a four-scenario approach to look at company
+prospects. It found that coal-based utilities (such
+as RWE) faced an uncertain future, with a spread
+of 70 percent in valuations. By contrast, the
+British utility SSE was stable with positive upside
+in all four scenarios, because it would receive a
+windfall benefit (free emission allowances). The
+sector would become less commodity-like with
+premiums for green electricity, and merger and
+acquisition activity might be stimulated. The
+effects would ripple along the value chain to fuel
+suppliers, and heavy consumers.45 Power companies do have a range of options to respond with
+the exact choice of which would depend on the
+carbon price, and factors like vertical integration,
+availability and use of renewables, and diversification intentions.46 WWF commissioned a study of
+utilities which found that companies in phase 1 of
+the ETS were unprepared. Some could be affected
+by up to 10 percent of earnings because it was not
+always able to pass on costs. Accepting the considerable uncertainty on NAPs, companies could still
+plan responses such as switching from coal to gas.
+Wholesale electricity prices in the UK might rise
+by over 5 percent, the report said, but this now
+seems unlikely.47 Other environmental issues
+that interact with climate change here are acid
+rain, water quality (outflow from cooling), and
+landscape aesthetics.
+The effect of emissions trading on the energy
+sector should soon be clearly visible as an important factor in investment decisions regarding generation assets, i.e. technology and fuel choice.
+Cement currently accounts for 5 percent of
+global CO2 emissions. These emissions are growing at 4 percent per year. CO2 emission reductions
+in this sector can be achieved by a number of
+strategies. However, to achieve deeper long-term
+cuts new ways to reduce the CO2 impact of the
+Climate Change 19
+2 THE ECONOMIC IMPLICATIONS OF CLIMATE CHANGE POLICIES
+cement sector will have to be developed. Uncertainty over the allocation of emissions permits
+does not provide the necessary incentives for the
+industry.48 Other construction materials (such as
+glass and clay) have strong local pricing power,
+which enables energy costs to be absorbed, or
+cannot be transported long distances. A DrKW
+study of the impact of EU ETS reduced target
+share prices on eight out of 18 companies in the
+cement sector by up to 13 percent and altered
+investment recommendations on several.49 This
+is broadly confirmed by McKinsey, whose experts
+note that while on average the effect may not be
+great, the impacts will vary greatly between companies depending on individual circumstances,
+and also what other mitigation measures are in
+hand in firms primary areas.50
+Some energy-intensive sectors  like the aviation
+sector  are not within the ambit of the EU ETS so
+far. However, the sector is growing so rapidly, at
+about 5 percent per year, and its impact is so large
+(possibly 10 billion euros in terms of climate
+damage) that it cannot be ignored by policy makers much longer. Potentially 15 percent of total
+human-induced climate change may be due to the
+aviation sector by 2050.51 Both a fuel tax solution
+and the inclusion of the aviation sector in emissions trading are currently being discussed on
+the political level  the airlines themselves (e.g.
+Lufthansa and British Airways) prefer emissions
+trading.52 Due to the large impact of the sector on
+climate change, climate policy regulations for the
+sector could have considerable consequences for
+the cost calculations of the airlines. DrKW estimates that corporate profits could be reduced by
+1015 percent by an EU-wide fuel tax.53
+The related sector of travel and tourism generates about 4 percent of GDP in the EU, and,
+mainly because of sun, sea and sand tourism,
+accounts for about 0.75 percent of global greenhouse gas emissions from Northern to Southern
+Europe.54 As shown in section 2 The Economic
+Implications of Climate Change Policies, this
+industry is vulnerable to direct climate impacts,
+so it faces a doubled exposure to climate change if
+the cost of travel rises because of higher energy
+20 Climate Change
+prices. It has been ignored in investment studies,
+probably because its market capitalization is
+small. But the social impacts could be very large 
+it is a high employment sector, and also ranks
+high in consumer awareness.
+Finally Nikko and Citigroup note a number of
+opportunities in power technology as climate
+change policies begin to show effect. Energy efficiency technologies as well as renewable energies
+will likely provide increased opportunities for
+financiers.
+2.3 Effects on the Consumer Sector
+Consumers will be affected by emissions regulations indirectly through the cost of goods and services55, and also through increasing emphasis on
+energy efficiency in household and transport use.
+In the EU, the price effect of industrial sector regulation will generally be small, at least until the
+second phase of the Emissions Trading Scheme.
+The effect on high-street prices will be minimal;
+many non-energy factors in production process
+will be little affected. Although the impact is likely to be greater between 2008 and 2012, when the
+Kyoto Protocol targets have to be met, governments are likely to be careful about taking direct
+action that might hit the consumer sector such as
+introducing steep increases in energy prices or
+raising taxes.
+Increasing emphasis will be placed on energy
+efficiency, and the setting of energy performance
+standards for all major types of equipment
+(cars, domestic appliances) as well as real estate
+(see Box 4). Though the capital cost of more
+efficient equipment may be higher, the wholelife cost may be less once energy savings and
+reduced maintenance are allowed. Voluntary
+standards run the risk that consumers will opt for
+cheaper equipment, ignoring the savings that
+come later.
+Once consumer hardware becomes generally
+more energy efficient, policies leading to energy
+2 THE ECONOMIC IMPLICATIONS OF CLIMATE CHANGE POLICIES
+Box 4
+EU Energy Performance
+of Buildings Directive
+European Member States will have to implement the Energy Performance of Buildings
+Directive (EPBD) by January 4, 2006 at the
+latest. It is intended to bring about a major
+uplift in the efficiency of energy consumption
+in building stock, which accounts for 40 percent of EU final energy demand. There are
+four key measures: introduction of a sound
+methodology to calculate energy performance;
+price increases will gain more widespread acceptance. The value of older equipment and property
+will decline in relative terms as their running costs
+increase. For consumer goods which are quickly
+replaced, it would be ideal if this entire process
+could take place within the time frame of the
+Kyoto Protocol  that is, by 2012. For property, the
+situation is more complicated because demographic trends and ownership patterns vary
+markedly across the EU, as does the replacement
+rate of domestic property stock. (Currently only
+about 0.1 percent of the UK housing stock is
+demolished every year).
+A key element in getting consumers to play a
+part in emissions reduction is education. One
+consequence of higher efficiency is the rebound
+effect. Instead of accepting the savings from
+reduced consumption, consumers change their
+behavior to raise consumption back to previous
+levels. They increase home heating or drive farther or faster. Consumers need to learn to be
+energy-wise, to monitor consumption and to consider whole-life costs. For people with less disposable income such as the elderly or single parents,
+even small cost increases from climate policy may
+be burdensome, and policymakers will need to
+consider this.
+application of minimum standards to new
+buildings and larger old buildings at the time
+of major renovation; certification of buildings
+performance when built, sold, or rented; and
+regular inspection of heating and cooling systems. Only industrial and historic buildings
+are excluded, and any buildings frequented by
+the public will have to display a certificate of
+energy efficiency.
+Conclusions
+1. Managements and investors should not assume
+they will have time to react to policy when it
+is approaching implementation. Proactive engagement with policymakers to plan ahead for
+business changes is required.
+2. Climate change mitigation measures are often
+inexpensive, and the savings and side benefits
+may accrue quickly.
+3. Governments need to bring in unambiguous
+policies so investors are not deterred. Companies need clear signals and directions from policymakers about future climate change related
+regulations.
+4. Carbon constraints will have different effects
+on the earnings of companies, both from sector to sector and within sectors.
+5. Some measures to combat climate change will
+have significant side-benefits as well, such as reducing reliance on imports, stable energy prices,
+cleaner air, employment and innovation.
+Climate Change 21
+3 THE NECESSARY PATH
+The Necessary Path
+Since the last report of the International Panel on
+Climate Change in 2001 much new evidence has
+arrived showing that the risk of climate change is
+considerably worse than previously thought. The
+sensitivity of the climate system has been underestimated (see Box 5). New factors like acidification of the ocean have been identified56. The
+disappearance of polar icecaps57, 58 and tropical
+forests59 is almost inevitable, unless we act soon.
+3.1 Avoiding Dangerous Climate
+Change
+Climate has to be measured in many ways for an
+accurate picture, but the key statistic is the average
+temperature. The Earths temperature takes a long
+time to respond to changes in the atmosphere,
+because the land and water are so massive. Waiting until the temperature has stabilized is therefore not an option, because damaging impacts
+may arrive before equilibrium is reached. The
+alternative is to select a level of greenhouse gases
+in the atmosphere that seems likely to just avoid
+causing a dangerous equilibrium temperature
+and aim to remain below that. Atmospheric levels
+of concentration in gas are measured in parts per
+million by volume of carbon dioxide equivalent
+or ppmv cde. There is growing international consensus that global average temperature should
+not increase by more than 2 degrees Celsius and
+rather stay below this.
+Box 5
+The High Sensitivity of the Climate System
+Recent observations of the atmosphere show that pollution has been
+dimming the suns radiation and so
+slowing down the pace of climate
+change, perhaps by as much as half.
+Unfortunately, it also has serious
+immediate effects on plant growth,
+human health, and rainfall, so it cannot be allowed to continue. If it is elim-
+22 Climate Change
+inated it will effectively double the
+rate of global warming.60, 61 A second
+source of concern is that because of
+their huge size, very few variations
+can be tested on climate change computer models (General Circulation
+Models, or GCMs). The standard projection given for climate change is a
+temperature range by 2100 of 1.4 to
+5.8 degrees Celsius. A recent novel
+experiment took advantage of the
+spare capacity on domestic personal
+computers to try out thousands of
+plausible variations and found that
+the range was extended at the top end
+to 11.9 degrees Celsius, which would
+be catastrophic.62
+3 THE NECESSARY PATH
+Because of these factors the European Heads of
+State stated that the global average temperature
+increase should not exceed 2 degrees Celsius.63
+Earlier, the European Environment Ministers64
+stated that this temperature stabilization would
+mean require staying well below a GHG level of
+550 ppmv cde, which is double the natural level
+of CO2. This implies a cut in annual GHG emissions of 60 to 80 percent by 2050 globally, from the
+current level of almost 7 billion tonnes of carbon to
+under 2.5 billion. In line with these targets, individual member states have already announced
+national greenhouse gas reduction targets that
+support a path of deep and consistent reductions.
+For example, France is aiming at a 75 percent
+reduction by 2050, UK a 60 percent cut by 2050,
+and Germany 40 percent by 2020. However, the
+most recent evidence on climate change processes reduces the safe level of GHGs by about a quarter. Therefore, to limit the rise in temperature to
+under 2 degrees Celsius with high confidence
+means aiming for 450 ppmv cde, not 550.65
+By 2004 the GHG level was already over 400
+ppmv cde and rising at 2 ppmv each year66. It is
+clear that urgent action is needed to address the
+divergence between what we are doing and what
+we need to do and that using less energy, or using
+carbon-light technologies will be needed to compensate for this. In fact, because we are not maintaining a stable level of emissions but increasing
+them, it will require double the effort to achieve
+a safe concentration of greenhouse gases in the
+atmosphere. Therefore deeper and faster reductions of greenhouse gases will be necessary. For
+governments, waiting for more scientific certainty does not appear to be sound.67 Delaying action
+by 20 years could mean reducing emissions very
+rapidly later (three to seven times faster to meet
+the same target). On the other hand, early action
+overcomes the inertia of the climate and socioeconomic systems, and provides greater certainty
+to business for long-term investment and technological change. To take an analogy from physics, the
+static friction that prevents movement is much
+greater than the kinetic friction that opposes a
+moving body.
+3.2 What is Good Policy?
+A key issue is finding policies that work. Because
+there are many barriers to change (such as the
+long-life of capital stock, fear of risk, problems of
+scale, transition from laboratory to marketplace),
+to inspire confidence and innovation policies
+must be loud, long and legal.68 That is, they must
+be unambiguous, well-signalled in advance, and
+enforced reliably. Cinergy, a major coal-dependent utility in the USA, has publicly called for
+emissions regulation by the federal government,
+because there is a proliferation of sub-federal
+initiatives, but more importantly because investing in cleaner technology is expensive and cannot
+be justified economically without a change in
+operating regulations.69
+At present, businesses are faced with mixed
+signals on energy technology. EU-15 subsidized
+fossil fuels by 24 billion euros in 2004, compared
+to 5.3 billion for renewables. International transport fuel is tax-exempt, yet air transport is the
+fastest-growing source of emissions.
+Absence of policy is in fact worse than unfavorable policy, since the risk of policy change
+deters any investment. Long-term policy planning can have a strong payback in economic
+terms. Providing 10 years warning of a fiscal tax
+can reduce the cost by one-third as efficient
+processes can be implemented beforehand. Costs
+will be lower if new technology is introduced as
+part of the business cycle. Much of EU power
+capacity needs to be replaced within the next
+20 years (at a cost of 1.2 trillion euros), which
+raises serious issues for those countries and companies in particular that currently operate on
+the basis of a fossil-fuel heavy generation portfolio or electricity sector. If the restructuring can
+be accomplished with low-carbon technology,
+new plants will not have to be retired early. Developing countries like China and India are expanding rapidly, with huge investments in new infrastructure and buildings. Both situations offer a
+golden chance to introduce climate-friendly solutions in the course of economic expansion or
+replacement.
+Climate Change 23
+3 THE NECESSARY PATH
+Creating new energy technologies can be costly
+and risky. Generally this means that it does not
+suit investors requirements. The private sector
+operates on a short duration-high risk to long
+duration-low risk front. Unfortunately, this is the
+reverse of technological development, where the
+longer the gestation, the higher the risk. This
+means that governments need to provide support
+for lengthy programs to reduce the risk profile.
+Yet globally, government energy R&D has fallen
+from a peak of over 10 billion euros in 1980 to
+under 6 billion in 2001, and most of the spending
+was concentrated on nuclear power. Some countries also heavily subsidize fossil fuels at the
+expense of funds available for new technologies.
+Policy changes are creating a perception of
+greater risk for investors in the energy sector due
+to increased uncertainty about fossil fuel economics. This can be countered to some extent by
+reducing the uncertainty in renewables, but in
+such a dynamic situation it seems inevitable that
+investors will have less appetite to participate in
+the energy sector until policies have crystallized
+and new business models have emerged and
+stabilized.
+A second area of concern for the private sector
+is the so-called valley of death for innovators. To
+get from pure research to the marketplace, innovations have to pass through a number of stages,
+from basic R&D to demonstration, to niche market and then full commercial production. Governments are often prepared to support the initial
+phases of innovation, but are reluctant to pick
+winners  that is, to support manufacturers in
+the wind-up to full-scale production and marketing, between the demonstration to niche market
+phases of development. Since this is a cash-burn
+situation, when the costs are still high and the
+revenue is insignificant, it is unattractive for
+investors. Nevertheless major American institutional investors have announced a target of
+investing 400 million euros into clean technology
+including renewable energy in the near future,
+and have set up the organizational structures
+to achieve this with external advisors. Allianzs
+private equity arm Allianz Capital Partners has
+24 Climate Change
+entered renewable technologies. So far, Allianz
+has bought the wind power gearbox manufacturer Hansen Transmissions for 132 million euros.
+More major investments will follow.
+A crucial issue is how climate change will be
+tackled internationally. There are many possibilities. The finance sector would like to know now
+what goals for emissions will be set for after 2012,
+when the first Kyoto Protocol commitment period
+ends and what instruments will be used to
+achieve them. Financial companies see emissions
+trading systems as having great potential in emissions reduction efficiency with a range of business opportunities. This requires transparency
+and reliability in rules and regulation, based on a
+clear downward path for reduction targets to
+achieve the required CO2 target levels.
+The sector would also like to see developing
+countries involved in a way that utilizes market
+mechanisms such as emissions trading.
+Conclusions
+1. To avoid dangerous climate change, very large
+cuts in greenhouse gas emissions are required,
+of the order of 60 to 80 percent by 2050.
+2. This means a big shift in energy policy now.
+Governments need to bring in unambiguous
+long-term policies so investors are not deterred
+by the increased riskiness of energy projects.
+3. Climate change mitigation measures are not
+always expensive, and the gains are not always
+only in the long-term.
+4. Carbon constraints will have different effects
+on the earnings of companies, both from sector to sector and within sectors.
+5. Some measures to combat climate change
+might be introduced for other reasons as well,
+such as reducing reliance on energy imports or
+to avoid energy price volatility.
+4 FINANCIAL SERVICES: NEW RISKS, NEW OPPORTUNITIES
+Financial Services: New
+Risks, New Opportunities
+Climate change is creating new risks but also
+new opportunities for all sectors of society from
+changing weather conditions to greenhouse gas
+abatement measures. The financial services industry needs to adapt its internal processes, policies, products and services to meet the challenges
+its clients face as well as to safeguard its own
+viability. This survey looks at each of the three
+branches of financial services  insurance, banking, and asset management  as well as issues that
+affect institutions in all three.
+4.1 Insurance
+Climate change and climate policy affect insurers
+through the risks they accept from clients. Since
+climate experts predict changes in the intensity
+and distribution of extreme weather events (especially water-related and storms), and because of
+the resulting risk of catastrophic property claims,
+insurers are likely to regard climate change as a
+threat rather than an opportunity.
+Insurers need to adapt to climate change by
+assessing how changing weather patterns will
+influence their clients exposure. They must adapt
+their risk assessment and review their underwriting (pricing, contract conditions and risk acceptance procedures) with a view to their specific
+risk exposure (line of business, geography, etc.),
+and business opportunities as well as the type
+of customer (private, commercial, industrial) they
+are focussed on (see Table 3).
+Beyond this core business activity, mitigation
+offers some interesting new opportunities for
+insurance. In some cases, insurers may be able to
+assist clients that are involved in renewable energy or energy efficiency technologies. In this way the
+insurance industry can offset its short-term risks
+arising from polluting and inefficient technologies and also decrease its long-term risk arising
+from extreme events.
+4.1.1 Adapting to Climate Change
+I M PA C T O N I N S U R A N C E
+Adapting to climate change is a huge challenge
+for insurance. Insured weather losses from property damage in 2004 hit a record 32 billion euros
+because of severe storms in Japan and USA.70
+Such storms, their frequency, location, timing and
+intensity are a strong indication of climate
+change. Their occurrence is also part of a strong
+upward trend in catastrophe costs in other locations like Europe71 and Australia.72 A study by the
+Association of British insurers has found that
+climate change is increasing the potential of property damage at a rate of 2 to 4 percent a year.
+Since insurance pricing relies on historical data,
+this could lead to an underpricing of weather
+risks by as much as 30 percent.73
+ In Allianzs global industrial insurance business, for example, around 35 to 40 percent of
+insured losses are due to natural catastrophes.
+More than three quarters of these losses are
+from storms and floods, so the overall effect of
+ignoring a trend would be serious. Potentially,
+climate change will make storms worse because
+a warmer atmosphere will contain more energy
+and transport more rain.
+Here, research in co-operation with modelling
+centers is necessary to better identify regional
+Climate Change 25
+4 FINANCIAL SERVICES: NEW RISKS, NEW OPPORTUNITIES
+impacts of climate change. On balance, climate
+change in Europe may prolong human life
+because of milder winters, but it could also bring
+increased burdens for health insurers and pension funds. Other effects are expected to include
+claims for loss of sales, heat stress to clients or
+staff, damage to vehicles, travel delays, and pollution as a result of floods.
+How insurers react to trends or scientific evidence varies greatly between the lines of insurance. For industrial and large commercial clients,
+contracts are renewed every year and the portfolio can be totally altered, taking into account
+Table 3
+Important Climate
+Change-Related Risks
+and Opportunities
+for Insurers
+Adapted from ABI 2004
+the number of contracts in regions particularly
+exposed to risk of climate change. Trend assessments can help to investigate the vulnerability of
+different industrial sectors. However, extreme
+events occur in bursts, so that there are quiet
+periods that lead to a form of inertia and scientists are reluctant to commit themselves on individual events, so market and regulatory forces
+may be the decisive factors. Finally, to be able to
+react at all, insurers need to survive the first
+onslaught  several insurers in Florida did not
+survive Hurricane Andrew.
+Insurance class/
+line of business
+Risks
+(from climate impacts,
+policy implementation,
+or policy failure)
+Opportunities
+(from proactive policy or
+climate impacts)
+Property
+ Unprecedented accumulation
+ More demand for insurance and
+Casualty
+of extreme events threaten
+solvency/liquidity
+Getting cover may become harder
+Lack of capital/reinsurance
+Inaccurate risk pricing
+Misinformed response from
+public sector
+More costly repair-work
+ Unexpected claims for duty of care
+ Product failures in new conditions
+ Disruption to transport
+ Cover for professional services to
+carbon markets
+ Green transport products such
+(extreme events)
+Life/health/
+savings
+ Episodic impacts on human health
+ Underestimating human life
+as low-mileage motor policies
+ More demand for health cover
+ Growing wealth in developing
+expectancy due to warmer winter
+in northern hemisphere
+ Reduced disposable income
+due to disasters
+Other underwriting
+26 Climate Change
+ Increased losses from business
+interruption, e. g. due to failure
+of public utilities
+ Disruption to leisure events
+ Increased losses in agro-business
+ Novel technology in energy sector
+alternative risk transfer
+Risk differentials can be priced
+Insurance of Kyoto projects
+Administration of disaster recovery
+Prototype equipment can be
+insured
+markets due to technology
+transfer
+ Alternative risk transfer
+(catastrophe bonds etc.)
+ R&D risks for low carbon
+technology
+Consulting/advisory services
+Insurance for emissions trading
+Trade risks for technology exports
+Carbon becomes an insurable
+asset
+4 FINANCIAL SERVICES: NEW RISKS, NEW OPPORTUNITIES
+For private and small commercial clients (mass
+markets), however, policies are not regularly
+reviewed. In fact, these policies generate the bulk
+of claims, for example during the Elbe flood of
+summer 2002 in central Europe. Changing the
+strategy in mass markets is much more difficult
+compared to industrial clients, due to regulatory
+and other pressure, which leaves insurance companies with a substantial climate related residual
+risk in mass markets.
+4.1.2 Insurance Solutions to Tackle
+Climate Change Business
+Risks  European Examples
+Insurance practices vary greatly across Europe.
+The following pages give an overview of how the
+issue is being tackled in Allianzs major European
+markets.
+ In Britain, where much analysis has been carried
+out, cover against weather perils is wide-spread.
+Projections suggest that climate change will double the annual cost of British weather claims to
+3.3 billion euros by 2050, while an extreme year
+might cost 20 billion euros. Research suggests
+that the underlying weather risk is rising at 2 to
+4 percent a year, which could lead to an underestimate in pricing of as much as 30 percent
+because of the time lag between the historic data
+used to set prices and future claims.74 A particular issue in the UK is flood insurance. The industry is introducing a competitive risk-based pricing structure to replace the old uniform tariff. This
+requires cutting-edge analysis with geographical
+information systems and catastrophe models.
+ Norwich Union has developed its own risk
+maps by using aerial surveys and is now selling them to other insurers. As a result it was
+found that 10 percent of property to a total
+value of 300 billion euros is at an immediate
+risk of flooding.
+ The industry is also working with the government and other stakeholders to control the
+risk through land-use planning, infrastructure design, and funding for maintenance.
+ In Ireland, which has a similar insurance system to the UK, insurers are hampered by the
+absence of a public post-code for real estate.
+Allianz Ireland has therefore geo-coded the
+bulk of its risks itself in order to apply a riskrelated underwriting approach. An important
+resource for carrying this out has been the 15man internal risk survey force, which provides
+local knowledge about flood hazards for example. The government has just released its first
+assessment of future climate impacts in Ireland,75 and this will help insurers to improve
+their planning.
+ In much of Germany flood insurance is available for private and industrial customers.
+Allianz and other insurers supported the development of a zoning system based on the calculation of probability of flooding using geological
+data to allow risk-adequate priced insurance.
+Research commissioned by Allianz and other
+German insurers indicated that the total exposure to flood damage in one event might be
+15 billion euros.76 This reflects the fact that
+flood defences in some regions are rather weak
+(only good against a 30-year flood in former
+East Germany, for example).
+ The Czech Republic was hit hard by floods in
+both 1997 and 2002. Unlike in 1997, little reinsurance cover was available in 2002 because of
+low reinsurance capacity after the World Trade
+Center attack in 2001 and the concurrent stockmarket crash. It was clear that risk management was worth investing money in. At the same
+time public geo-data was obtained to construct
+risk maps by combining internal insurance
+data and public data (see Figure 1). By working
+directly on model development itself, Allianz
+has side-stepped the black-box syndrome
+associated with proprietary models previously
+used. These models allow individual properties
+to be underwritten more precisely. However
+historical data is not sufficient and it is impossible to check the programmed logic of proprietary models which makes it difficult to assess
+how effectively they will cope with novel circumstances. The company is now exploring the
+Climate Change 27
+4 FINANCIAL SERVICES: NEW RISKS, NEW OPPORTUNITIES
+Figure 1
+Geographical Information Systems and Flood
+Risk  Czech Republic
+Source: V Bohdanecky,
+Allianz
+potential costs of various flood scenarios by
+applying its data to hydrological models.
+ Geological and hydrometeorological hazards
+generate important economic losses and social
+damages in Spain. The country is especially sensitive to the impact that desertification could
+have in certain areas of Spain, such as the center
+and the south, and the possible consequences
+of a sea level rise in the coastal zones.
+Overall, floods produce the most important
+losses, having reached in the last decades an
+annual average of losses of around 0.1 percent
+of the gross domestic product.
+Projections made by the Geological Survey of
+Spain estimate losses due to floods will total
+25.7 billion euros over the next 30 years.
+In this context, it is remarkable that the Spanish
+Consortio77 coverage has provided a reliable protection against these climatic events in the past.
+Last year the Consortio introduced important
+modifications, giving much wider coverage in
+order to insure all major climatic event scenarios.
+ In Italy Allianzs Italian subsidiary RAS adopts
+a territorial area approach to implementing
+underwriting rules and principles. The publicly
+available data on flood hazards is still not
+adequate for a thorough risk assessment, so
+insurers are cautious in this area. Improvements in river banks, beds and maintenance
+programmes in general are under way, but due
+28 Climate Change
+to failure in the past in enforcing regulations
+on land development, property in certain areas
+remains exposed. Insurance cover for climate
+change related events is mostly restricted to the
+commercial lines sectors. The price-driven
+small and medium enterprise market tends to
+generate an adverse risk selection. As a consequence, the offer of coverage and the development of a diversified weather risk portfolio
+are limited. Storm and atmospheric events
+coverage, however, is widespread. Apart from
+flood events recorded in the north of Italy in
+1994 and 2000, the market was hit last winter
+by heavy snow falls. The peak loss was 2.5 million euros, due to a collapsed roof, which highlighted the importance of building codes and
+the quality of construction.
+ Elsewhere in Europe, the public sector often
+prefers to operate a solidarity system of crosssubsidy for weather risks, through disaster relief
+or public insurance. For example, in France,
+there is a well-established public cat-nat reinsurance system which uses the private sector
+for administration. However, one aspect that
+causes some problem is that a disaster has to be
+declared by the local prefect to trigger the cover which can lead to anomalies. After severe
+droughts in the period 19892002 which caused
+three billion euro worth of damage to buildings, a double trigger method was established,
+4 FINANCIAL SERVICES: NEW RISKS, NEW OPPORTUNITIES
+based on water table and soil typology to give
+an objective way of defining drought-hit areas.
+Yet, this method has its limitations; as it was
+not able to cope with the drought of 2003 which
+caused over one billion euros of damage in a single year. It was not preceded by a dry winter,
+which was a criterion to provide coverage. The
+methodology is therefore being reassessed.78
+The expected increases in losses from climate
+change as described above will result in greater
+demands for public and private insurance mechanisms to provide compensation to victims, particularly in flood-prone areas such as coasts,
+river catchments, and steep valleys.79 This will
+be counter-productive unless appropriate attention is given to risk management, which is where
+the insurance industry could play a valuable role.
+Insurers need to focus their attention on solvency
+management by assessing their exposure to catastrophe scenarios and arranging reinsurance.
+ For example, Allianz Group set up two big
+catastrophe (Cat) programs to optimize its
+use of reinsurance and to increase the group
+protection against worst case natural perils:
+1. Super Cat covers medium-sized events in
+Europe and Australia up to return periods of
+250 years by pooling the potential losses of
+the Allianz entities.
+2. The Mega Cat program reinsures the top
+natural peril scenarios of Allianz Group up
+to return periods of more than 1,000 years.
+Both tools make extensive use of the good
+geographical diversification of the different
+Allianz entities. Depending on the scenario,
+these two covers provide NatCat protection
+of more than 1.5 billion euros, so that even
+more intense events due to climate change
+should be covered.
+The regulatory boundaries of insurance make
+some risk transfer solutions complicated.80 For
+example, new risk transfer tools like weather
+derivatives are not regulated as insurance products, and there is a basic presumption that catastrophe risk can be accounted for on a one-year
+basis, although it is closer to the multi-year nature
+of life and pensions business.
+4.1.3 Insurers Risks and
+4.1.3 Opportunities in Mitigating
+Climate Change
+New technologies are ultimately more efficient
+and represent better risks. Therefore there is a
+natural interest for insurance companies to
+Box 6
+Upgrading Technology
+to Protect the Environment
+Supplementary to any compensation for lost
+assets, insurance policies can provide financial
+resources to cover costs incurred for clearance
+and demolition, expenses involved in damage
+limitation, outgoings for decontamination and
+removal of soil, and professional disposal. If
+a commercial client of Allianz in Germany
+decides to include the eco-package in its property insurance, any additional costs involved
+in order to upgrade facilities and protect the
+environment as a result of replacing lost or
+damaged items covered by the insurance will
+be proportionately reimbursed. For example,
+the owner of a building that has burnt down
+can replace the original single glazing with
+energy-saving multiple-pane insulation glazing when the structure is rebuilt. The additional costs incurred will be reimbursed up
+to an agreed limit under the terms of the
+eco-package.
+Climate Change 29
+4 FINANCIAL SERVICES: NEW RISKS, NEW OPPORTUNITIES
+Insurance Solutions for Clean Development
+Mechanism (CDM) Projects in Practice:
+Carbon Delivery Guarantee
+Various researches have been conducted by the financial sector to develop insurance instruments for the
+greenhouse gas market as a whole and
+CDM projects in particular. There is
+obvious demand from project developers, investors and buyers of CERs
+for risk-mitigating tools for CDM projects. Austrian Garant Insurance,
+French Global Sustainable Development Project (GSDP) and Swiss Re
+Greenhouse Gas Risk Solutions are
+trying to meet this demand with the
+Box 7
+Source: UNEP FI 2004:
+CEO Briefing on
+Carbon Finance Solutions,
+Geneva
+30 Climate Change
+launch of the first carbon delivery
+guarantee insurance. A carbon delivery guarantee is an insurance product
+where the re-insurer/insurer acts as
+guarantor for future CER delivery, and
+financial compensation is paid in case
+CERs are not delivered according to
+agreed terms and conditions. The carbon delivery guarantee is shaped to
+meet the CER buyers demand for risk
+mitigation. One of the first carbon
+delivery guarantees was applied to
+CERs generated by a reduction project
+benchmark new technologies and thereby steer
+technical innovation to effective implementation
+through risk-assessment techniques as well as
+consider concessionary conditions for environmentally-friendly technologies.
+Thus GHG mitigation provides some interesting
+new opportunities for the insurance industry. It
+can influence and leverage the emergence of new
+technologies in several ways. One area is property
+and engineering insurance. Usually after an
+insurance loss in an old industrial plant, the
+insurer only has to pay for the installation of the
+technology that had been in use at the time of
+loss. Yet, if an upgrade of old facilities is possible,
+insurance could support this technological innovation, although it is a more expensive option.
+Allianz is applying this possibility in many cases
+today (see Box 6).
+However, as with every profit-risk ratio, every
+new technology also has unrecognized or unfamiliar risks  for example offshore wind park
+installations will entail cable laying, high stress
+components, and salt corrosion, all of which can
+in South America, which utilizes an
+innovative proprietary filter technology. In total, the project consists of
+1,000,000 tons of CERs. The seller will
+deliver CERs annually from 2005 to
+2007 and the carbon delivery guarantee is based on a purchase price of
+USD 5 per CER. The insurance covers
+carbon delivery guarantee, political risk
+insurance (incl. host industry insolvency, seller insolvency, political and country risk) and business interruption.
+potentially increase the risk of such an installation. Absence of insurance is a powerful blocker
+to finance for projects in this area  some experts
+believe the volume of projects might rise by
+300 percent if insurance cover were available.81
+This rise is expected despite the fact that insurance cover would make up as much as 11 percent
+of operating costs of offshore wind parks.82
+ Allianz has paid 33 million euros in the last
+ten years in claims related to on-shore wind
+turbines. This led the company to initiate close
+collaboration between wind turbine producers,
+energy suppliers and certifiers to improve the
+technology and maintenance practices so that
+insurance could become available later.
+ In the field of geothermal energy, Munich Re
+has similarly played a major role in developing
+insurance cover for exploration risk.
+ Loss of revenue for renewable energy producers is another potential field for new covers, for
+example, for wind generators if the wind speed
+is too high or too low.
+4 FINANCIAL SERVICES: NEW RISKS, NEW OPPORTUNITIES
+Climate policy has created opportunities to
+develop new carbon products (see Box 7).
+ Gerling Insurance Group is providing services
+for carbon markets. A reliable database on GHG
+emissions will be fundamental for operators
+and investors. Gerling offers the verification
+and certification of data for projects that aim to
+offset carbon emissions.
+Legal action has been taken by shareholder
+groups to test companies responsibility for greenhouse gas emissions or disclosure of relevant
+information (see Box 8). It is unlikely that insurance policies provide any scope of cover through
+risk transfer from the original emitters. This is an
+area which will warrant careful monitoring in the
+light of the way that other claims for environmental or health damage have developed  such
+as for asbestos claims.
+ Swiss Re already reviews corporate responses
+to the Carbon Disclosure Project (see Box 10)
+for clients requiring Directors and Officers
+insurance, to assess corporate carbon emission
+strategies and to see if further inquiries are
+needed.
+Another area still to be explored is the valuation of carbon assets and liabilities, setting an
+appropriate price for the risk of loss, and adjusting the loss when it happens. A variety of novel
+risk transfer tools have been proposed to tackle
+the complicated issues of innovative technology
+(catastrophe bonds, weather derivatives, contingent capital, double trigger structures, finite
+insurance, captives).83 Again there are legislative
+difficulties for insurers because some of these are
+not classified as insurance products, and so they
+will require alternative non-insurance solutions.
+Conclusions
+1. Climate change poses an economic risk to
+insurers.
+2. Major insurers are developing new techniques
+for assessing the ground-level risk of extreme
+weather and are adjusting their underwriting.
+3. New insurance products can support climatefriendly technology but insurance companies
+focus mainly on the adaptational aspects of
+climate change induced risks.
+Box 8
+Liability for Climate Change?
+Businesses that emit large amounts of greenhouse gases could be held liable for the
+damage that is caused by climate change, and
+so might providers of financial services to
+such companies. The Alliance of Small Island
+States, and more recently the Climate Justice
+Network, have suggested that compensation
+should be paid for impacts such as communities affected by sea level rise. In 2002 Friends
+of the Earth, Greenpeace and others launched
+a suit against two federal agencies, the ExportImport Bank and the Overseas Private Investment Corporation, for providing financial support illegally of over USD 32 billion to fossil
+fuel export projects without assessing their
+contribution to climate change in the USA.
+More directly, on 21 July 2004 eight states and
+a number of NGOs in the USA filed against
+five major electricity utilities that are collectively responsible for 10 percent of USAs
+emissions for creating a public or private nuisance by discharging carbon dioxide into the
+atmosphere, contributing to climate change.
+In this case the plaintiffs are not seeking damages, but simply an injunction compelling the
+companies to reduce their emissions by set
+amounts over a specified timetable.
+Climate Change 31
+4 FINANCIAL SERVICES: NEW RISKS, NEW OPPORTUNITIES
+Table 4
+Important Climate
+Change-Related Risks
+and Opportunities
+for Banks
+32 Climate Change
+4.1.4 Recommendations
+4.2 The Banking Sector
+Insurers should:
+ Gather information on future climate risks and
+thereby better predict and underwrite climateassociated risks.
+ Control their exposure to natural catastrophes
+and other climate-related risks by developing
+adequate risk assessment tools such as flood
+zoning and establishing expertise for natural
+catastrophes.
+ Upgrade risk assessment methodologies such
+as identifying potential new liabilities from carbon emission or using environmental due diligence screening of a company.
+ Develop risk management expertise regarding
+low carbon technologies jointly with industrial
+clients to develop new products supportive of
+low carbon technology (such as multiperil cover for renewable technologies, loss of revenue
+cover for renewable technologies, eco-package
+for Allianz Property/Commercial Clients).
+Banks can play an important role in societys
+adjustments to climate change. They do this
+through financing and investment decisions,
+credit risk management policies and lending
+practices, and the development of risk-mitigation
+products. Climate change policies pose new risks
+and offer new opportunities to banks. The most
+striking ones are outlined in Table 4.
+4.2.1 Climate Change-Related Risks
+The biggest risk to banks is credit risk. This is
+related to new climate change mitigation policies
+(legal/policy risks). Policies to reduce greenhouse
+gas (GHG) emissions  most importantly the
+Kyoto Protocol and the EU Emissions Trading
+Scheme (EU ETS)  transfer new liabilities and
+therefore business risks, e.g. via tradable emission certificates, to the economy. These policies
+Banking class
+Examples of risks
+Examples of opportunities
+Corporate
+banking and
+project
+financing
+ Reduction in competitiveness
+ Risk management services for
+Investment
+banking and
+asset
+management
+ Investment in immature
+Retail banking
+ Direct losses due to drought,
+ Microfinance for climate-friendly
+precipitation, soil erosion, flood
+ Policy change, e. g. termination of
+subsidies for renewable energies
+ Advisory service in the field of
+of GHG-intensive business clients
+due to higher mitigation costs
+ Higher costs for consumers of
+energy due to new mitigation
+policies
+ Price volatility on carbon markets
+and carbon-related products
+ Reputational risks due to
+investments in controversial
+energies projects (e. g. large
+dams, nuclear power)
+technologies
+ Additional costs due to changes
+in weather patterns e. g. in the
+utilities sector
+clients affected by the EU ETS
+ Carbon trust services (administration and custody of clients
+emission allowances account)
+ Carbon project finance services
+(JI/CDM)
+ Trading services in the EU ETS
+ Offering weather derivatives
+ Set up of carbon fund and fund
+custody
+activities
+loans for small sized renewable
+energy projects
+4 FINANCIAL SERVICES: NEW RISKS, NEW OPPORTUNITIES
+1,400
+1,200
+1,000
+Mt CO2
+influence the credit quality of GHG-intensive
+borrowers and therefore the risks of banks. The
+EU ETS is directly targeted at company level and
+creates direct costs of compliance on related sectors and indirect costs on all consumers of energy
+and electricity. In particular the energy sector,
+which accounts for 63 percent of the EU emissions
+market (see Figure 2), is affected.
+ As a consequence of the EU ETS, Point Carbon
+predicts higher electricity prices across the EU
+with additional costs of between 260 to 600 million euros/per year for the sectors affected.
+ DrKW Research concludes that cement companies with large exposures to EU countries
+could be affected by the EU ETS with estimated
+extra costs for individual companies of up to
+15 percent.
+Looking at the current developments in the
+international climate policy arena, it is likely that
+the EU ETS and the Kyoto Protocol only mark the
+beginning of a more rigorous future global climate policy regime. This, of course, has implications for banks in their important role as loan
+providers, equity investors, and project financiers. Besides those credit risks, banks face operational risks from inappropriate internal risk
+assessment processes and a consequential misassessment of such carbon-related impacts, e.g.
+banks internal failures in the climate due diligence for investments or loans lead to decreased
+margins. On top of this, the related operational
+risks for the banks clients, for example, suboptimal carbon risk management, can result in
+financial sanctions which also impair the clients
+liquidity and therefore the banks competitiveness and creditworthiness. Within the EU ETS
+40 euros per ton must be paid for excess emissions from 2005 to 2007, from 2008 the sanctions
+are 100 euros/ton. In addition to the financial
+sanctions, the amount of the deficit in allowances
+is carried over to the following year, which creates
+additional price and volumetric risks for the
+affected companies.
+Market risks are significant for banks and their
+clients. The main ones are volatile carbon certificate prices, volatile carbon-related commodity
+Power
+& Heat
+Building
+Metals
+Oil and
+prices (e.g. coal, gas, oil) and the insufficient availability of EUAs at the market. These price and volumetric risks lead to decreased corporate planning reliability  both for banks and their clients.
+The price for EUAs moved between 5 to 20 euros/
+ton between March 2003 and May 2005, displaying extremely high volatility and therefore high
+uncertainties in the EU ETS.
+ DrKW Research in 2003 has been estimating
+15 euros/ton as a likely price for EUAs for
+the period 20052007 and foresees even higher prices for the period from 20082012, in
+case the reduction constraint tightens for the
+companies affected by the EU ETS.
+In addition, changes in fuel prices as well as
+movements in EUA prices will influence the socalled merit order of energy generation. Banks
+must have the expertise to monitor and understand the impact of emissions trading on clients
+business.
+The more frequent the occurrence of extreme
+weather events such as flooding and storms, the
+higher the direct climate change related risk of
+physical damage to corporate assets and real estate.
+ The U.S. Department of Commerce estimates
+that nearly one-third of the U.S. economy, or
+USD 3,800 billion, is at risk due to the weather.
+Changes in weather patterns lead to high uncertainty especially in the utility sector, but possibly also to increased energy costs for the corpo-
+Pulp and
+Paper
+Other
+Figure 2
+EU Allowance Allocation
+by Sector in the EU ETS
+Source: 3C GmbH
+Climate Change 33
+4 FINANCIAL SERVICES: NEW RISKS, NEW OPPORTUNITIES
+rate buildings of banks themselves. Weather is 
+next to economic business activity  the main
+influence on power and heat production and
+therefore also on CO2 emissions.
+Non-compliance with mitigation policies is
+likely to be expensive for some companies. For
+example, companies that do not comply with the
+EU ETS will be put on a publicly available blacklist. These companies might become reputational
+risks (and therefore credit risks). The year 2004
+also saw the first lawsuit in the US accusing companies of liability for global warming. A number
+of states and environmental organizations have
+begun litigation charging five of the nations
+largest power companies with being a public
+nuisance by emitting CO2.
+Investments in controversial forms of renewable and conventional energies or related projectfinancing activities (e.g. large dams, nuclear) could
+bring reputational risks. The so-called Equator
+Principles have been adopted since 2003 by more
+than 20 major banks to mitigate such risks. The
+Equator Principles are a voluntary set of guidelines
+for managing environmental and social issues in
+project finance lending, developed by leading
+financial institutions. They are based on the environmental and social standards of the International Finance Corporation (IFC), and apply globally to development projects in all industry sectors
+with a capital cost of USD 50 million or more.
+The existence of these risks mean banks need
+to develop carbon risk management tools for
+their loan and investment due diligence.
+ Dresdner Bank has incorporated a set of emission trading related questions in its credit rating process and conducts thorough investment
+research in view of the consequences of the EU
+ETS for the affected industry sectors.
+ UBS Investment Bank, the investment banking
+arm of the financial institution UBS AG, has
+launched a program to integrate environmental
+and sustainability criteria into the banks overall
+assessment of investment risk and opportunity.
+ Other banks like Bank of America intend to
+develop new metrics to demonstrate the carbon intensity of their client portfolios.
+34 Climate Change
+ In its Public Environmental Policy Statement
+from 2005, JP Morgan announced it would
+restrict its lending and underwriting practices
+for industrial projects that are likely to have
+an adverse environmental impact. The bank
+also plans to calculate in loan reviews the financial cost of greenhouse gas emissions, such as
+the risk of a company losing business to a
+competitor with lower emissions and plans to
+include climate risk aspects in regular company
+analyses.
+4.2.2 New Opportunities
+Climate change not only creates new risks, costs
+and liabilities for banks, it also generates economic
+opportunities such as investments in renewable
+energy technologies, energy efficiency projects,
+emissions trading and weather markets, and climate change related microfinance.
+EMISSIONS TRADING
+The entry into force of the Kyoto Protocol in
+February 2005 and the start of the EU ETS in
+January 2005 have created an international emissions trading market incorporating various
+opportunities for banks.
+ Point Carbon estimates the volume of the international carbon market in 2010 between 4.6
+to 200 billion euros. The wide spread shows not
+only the remaining uncertainties but also the
+opportunities. For 2005, the market-size forecast is 2.5 billion euros.
+Figure 3 shows EU emissions market trading
+volumes in the first half of 2005.
+ Emissions trading offers new client service
+opportunities for banks. First, there are financial opportunities. Since the establishment of
+the EUA spot-market in early 2005, various
+banks have entered the market, providing further liquidity.
+ Dresdner Bank, Barclays Capital and Fortis
+Bank have set up their own emissions trading
+desks to provide trading services for clients and
+to trade on their own account.
+4 FINANCIAL SERVICES: NEW RISKS, NEW OPPORTUNITIES
+Mt CO2
+ Westpac has set up an Environmental Markets
+Group focussing closely on emissions trading.
+Emissions trading is also an interesting option
+for project financiers, since the internal rate of
+return (IRR) of emission reduction projects can
+be enhanced through the project-based mechanisms JI and CDM.
+ According to the World Bank, the Internal Rate
+of Return (IRR) increase through JI and CDM at
+USD 4/ton CO2 is between 0.5 and 2.5 percent
+in hydro, wind and geothermal projects and
+between 5 and 15 percent in methane reduction projects at landfills.
+Because administering JI and CDM projects
+is very complex and time consuming, these two
+mechanisms are still economically risky. But because they are, in principle, promising, various
+financial institutions have started to lobby for
+both to be designed more efficiently.
+ For the Financial Initiative of the United Nations
+Environment Program (UNEP FI) (with members such as Dresdner Bank, UBS, Abbey, Bank
+of America), the current interpretation of an
+emission reduction projects investment additionality is the crucial bottleneck in the CDM
+process which deters private financial institutions from getting involved in such projects.
+ According to Environmental Finance, Swiss
+cement company Holcim has cancelled three
+CDM projects due to the regulatory problems
+of the mechanism.
+Q1 2004
+Q2 2004
+Q3 2004
+Q4 2004
+increased from USD 2,517 million in 2000/2001
+to USD 4,578 million in 2003/2004 (see Figure 4).
+ In June 2001 DrKW became the first German
+bank to make a temperature-related transaction
+with a regional energy utility.
+Against the background of the interdependency of weather changes, carbon prices and carbonrelated commodity prices, weather derivatives
+provide  in particular for companies affected by
+the EU ETS  an attractive instrument to mitigate
+the related risks.
+Q1 2005
+Figure 3
+Traded Volumes on
+the EUA Market since
+Q1 2004
+Source: Point Carbon
+Figure 4
+Size of the Weather
+Market (in millions USD)
+Source:
+PricewaterhouseCoopers
+$ 5,000
+$ 4,578
+$ 4,339
+$ 4,500
+$ 4,188
+$ 4,000
+$ 3,500
+W E AT H E R D E R I VAT I V E S
+Weather derivatives help mitigate weather-related
+risks. Initially, the use of weather-hedging products was confined to North American energy
+companies. However, major financial institutions
+(e.g. Socit Gnrale, Axa, DrKW) have also become players in the weather market.
+The market for weather derivatives is gathering
+momentum again, despite the loss of confidence
+that this market experienced following the insolvency of Enron, which was the former market
+leader in weather derivatives.
+According to PricewaterhouseCoopers, the
+total notional value of the weather market has
+$ 3,000
+$ 2,517
+$ 2,500
+$ 2,000
+$ 1,500
+$ 1,000
+$ 500
+2000/1
+2001/2
+Winter
+2002/3
+2003/4
+Summer
+Climate Change 35
+4 FINANCIAL SERVICES: NEW RISKS, NEW OPPORTUNITIES
+STRUCTURED FINANCE
+Adapting corporate investment strategies to the
+new energy environment as outlined in this
+document also brings interesting opportunities
+for banks. The range of major facilities needing
+finance sector support include renewables, and
+low-carbon technologies. All of those require the
+financial involvement of banks. The associated
+long-term risks also need to be understood.
+MICROFINANCE
+Climate change-related microfinance offers innovative business opportunities for banks. Microfinance means providing poor families with small
+loans (micro-credits) to help them develop tiny
+enterprises. Over time, microfinance has come to
+include a broader range of services such as insurance or savings. Typical clients are low-income
+persons without access to formal financial institutions. Microfinance money is often used for
+climate protection projects such as installing solar
+power.
+Data from the Micro Banking Bulletin reports
+that 63 of the worlds top Micro Finance Institutions  often NGOs or credit unions  had an average rate of return, after adjusting for inflation and
+taking out any subsidies that programs might
+have received, of about 2.5 percent of total assets.
+This compares favorably with returns in the commercial banking sector.
+ An increasing number of private financial institutions like Socit Gnrale, Citibank in India
+or ABN Amro are recognizing the benefits of
+serving poorer clients.
+Box 9
+Export Credit Agencies
+Export Credit Agencies (ECAs) sit
+between banks and insurance. Firstly,
+with a mandate to facilitate exports
+from their respective countries, ECAs
+can play an important role in climate
+protection projects e.g. by facilitating
+the financing of renewable energy
+products and services. Secondly, they
+provide mainly short-term credit and
+specialized types of insurance e.g.
+against political events. Often operating as an arm of government, they follow strict guidelines laid down by the
+OECD to avoid unfair competition.
+With their ability to take a wider view
+following their guardian authorities,
+they could play an important role in
+financing mitigation projects such as
+renewable energy in developing countries. Four areas of action were identified by an ECA/UNEP Working Party
+on renewable energy:
+36 Climate Change
+1. Changes to international agreements to allow greater local content
+in projects and longer repayment
+periods.
+2. New products/processes e.g. bundling small projects for economies
+of scale, factoring in emissions
+allowances, adopting non-recourse
+project finance structures, and
+measuring the carbon intensity of
+credit portfolios.
+3. Strategy: greater attention to working with other ECAs and multilateral development banks, more flexibility within the existing OECD
+rules for small businesses, and outreach campaigns to target business
+sectors.
+4. Experiment: giving responsibility
+to a team to consult widely and
+pilot ideas.
+Because ECAs are closely related to
+the public sector, practices are scrutinized by NGOs and have resulted in
+legal actions for alleged breach of
+environmental care in funding fossil
+fuel projects (see Box 6). A new twist
+to this is calling for disclosure of information on finance activities related to
+environmental issues e.g. energy exploitation, under the Aarhus Convention or further national regulations.
+Against this background, the German
+Government is facing action from Germanwatch, related to the German Environmental Information Disclosure
+Law (Deutsches Umweltinformationsgesetz). Euler Hermes, an Allianz subsidiary and a German ECA, is acting as
+ECA Federal Export Credit Guarantees
+and is a potential party to the action.
+4 FINANCIAL SERVICES: NEW RISKS, NEW OPPORTUNITIES
+Conclusions
+4.3 Asset Management
+1. Leading international banks now include
+climate change as a factor in the credit and
+investment rating process, in their overall risk
+management and in due diligence for project
+financing.
+2. The examples of Dresdner Bank, Barclays Capital, Fortis and ABN Amro show that when climate change policies are well-articulated, they
+provide positive opportunities for banks to
+widen the scope of their services to clients that
+have become subject to those regulations.
+The extent of the impact from climate change will
+vary sector by sector (see Table 5). What is clear,
+however, is that overall it will have a significant
+direct impact on the global economy, financial
+markets and ultimately shareholder value.84 Climate change has received ever greater attention,
+as Tony Blair, the UK prime minister, has placed
+climate change, along with Africa, at the top of
+the agenda for the UKs chairmanship of the
+Group of Eight industrialized nations and the
+European Union this year. Therefore, understanding to what extent and by which causal connections climate change will impact or enhance the
+value of investments is crucial if shareholder
+value is to remain protected.
+To varying degrees, companies have begun to
+look at climate change risk and its impacts on
+their businesses, but the level of sophistication
+varies from company to company. The financial
+markets and investors are starting to recognize
+the potential opportunities arising from climate
+change, for example, the launch of and investment
+in various carbon or environmental technology
+funds.
+ Allianz Group subsidiary AGF has invested,
+together with Fortis Bank, 60 million euros in
+the European Carbon Fund launched by the
+French financial institution CDC IXIS. Currently, they are looking to invest more than 1 billion
+euros in Carbon Funds.
+Institutional investors are also acknowledging
+that climate change can have a material impact on
+their investments, and are taking action to
+address the issue. Consequently, investor groups
+such as the Institutional Investors Group on Climate Change (IIGCC) in Europe and the Investor
+Network on Climate Change in the United States
+have been established with the same common
+purpose: to promote better understanding of the
+risks of climate change among institutional investors and encourage companies and markets to
+address any material risks and opportunities to
+their business associated with climate change and
+a shift to a lower carbon economy. Furthermore,
+4.2.3 Recommendations
+Specifically banks should:
+ Review and optimize their own carbon risk
+management and (further) develop assessment
+tools applied to carbon risks and carbon risk
+reduction strategies (e.g. by using carbon-related economic analyses for sectors or companies
+and/or by developing climate change related
+risk matrixes).
+ Define clear risk requirements for clients
+regarding carbon risk reduction and market
+strategies (e.g. by discussing rating requirements with clients).
+ Offer carbon risk advisory services for clients.
+ Define clear requirements for rating agencies
+on carbon risk in corporate and sector ratings.
+ Foster the development of carbon risk hedging
+products e.g. derivatives.
+ Facilitate finance for public programs that foster the introduction of low carbon technologies.
+ Improve the opportunities of JI/CDM project
+development to generate CO2-reduction certificates for optimizing the cash flow of project
+financing.
+ In respect of their own operations and on a
+voluntary basis, adapt frameworks such as the
+Global Reporting Initiative (GRI) or guidelines
+more specifically based on the emissions inventory of the GHG protocol as an accounting and
+reporting standard.
+Climate Change 37
+4 FINANCIAL SERVICES: NEW RISKS, NEW OPPORTUNITIES
+Table 5
+Equity Value at Risk to
+Climate Change
+Source: Carbon Trust,
+2005
+Adjusted carbon
+intensity a)
+% of brand value
+at risk
+Equity value at risk
+(billion euros) b)
+Food and drink
+manufacturers
+Banking
+0.45
+8.55
+Oil and gas
+22.5
+5.85
+Airlines
+14.5
+2.25
+Telecommunications
+Food retailers
+<0.6
+a) Measured in kg CO2 emitted per GBP of corporate earnings
+projects such as the Carbon Disclosure Project are
+additional evidence of investors willing to collaborate in order to better understand the implications of climate change and to increase transparency (see Box 10).
+Although the CDP and other climate change
+investor groups demonstrate the rising importance of impacts from climate change for the
+investment process, the issue and its consideration still remain largely ignored by the majority
+of short-term oriented mainstream investors and
+fund managers. As such, only a small proportion
+of such investors and their fund managers are
+actively considering climate change issues in the
+course of their investment decisions. The reasons
+behind this are varied and can be best explored by
+looking at the chain of responsibility of asset
+management.
+4.3.1 Institutional Investors
+Institutional investors or pension fund trustees
+have a fiduciary duty to their pension fund beneficiaries to ensure that they act in the best, longterm interests of plan members and beneficiaries
+by maximising the returns of the pension fund
+assets entrusted to them. In fulfilling this responsibility, trustees must maintain maximum diversification and have an understanding of the risks
+their assets are exposed to and manage them
+accordingly.
+38 Climate Change
+b) Assumption: exchange rate GBP : EUR 1:1.5
+The consideration of environmental, social or
+ethical issues in the management of these assets
+has started to permeate trustee thinking, as a
+result of pension legislation e.g. UK Pension
+Reform Act 2001 and as a result of increasing
+attention being paid to these issues by consultants and the media. However, this has been limited as trustees grapple with how they should be
+addressing climate change. A large proportion of
+institutional investors still sees the issue within the
+context of socially responsible investment which
+is viewed with some skepticism as to the financial
+benefits.85 Crucially, the majority of institutional
+investors are finding it difficult to make the link
+between climate change risk and investment risk
+and consequently they are not actively instructing their fund managers to take the issue into
+consideration in the running of their assets.
+Given the potential impact that climate change
+may have on financial performance, trustees have
+yet to recognize that they have a responsibility to
+consider climate change if they are to act in the
+best interests of their beneficiaries. Some institutional investors, such as the Dutch pension fund
+PGGM, have taken the step to actively explore the
+added value of considering climate change in
+their investments by allocating pools of funds to
+various socially responsible investment strategies
+ranging from best in class to engagement overlays. Alternatively, pension fund trustees leave
+the consideration of issues such as climate change
+to the discretion of their fund manager.
+4 FINANCIAL SERVICES: NEW RISKS, NEW OPPORTUNITIES
+Pension fund trustees are also facing a number
+of significant challenges, the most pressing and
+immediate being to meet their pension fund liabilities. In this respect, there is limited amount of
+time available to focus on issues such as climate
+change and, coupled with greater pressure to perform, so this has led to greater focus on short
+term, relative performance measurement.86 This
+is at odds with the long term nature of climate
+change, since climate change risks are usually
+talked about in the space of decades. Some
+investors are looking to address this, one example
+being the The Marathon Club which is a consortium of individuals representing major pension
+funds to research how their funds can encourage
+active long term and responsible investing. There
+is less doubt than ever that climate change is a
+fact, that it is happening, and that it has the
+potential to pose a real threat to global economies
+and financial markets.87 The remaining uncer-
+tainty is when and to what extent these threats
+from climate change will become a reality. Being
+prudent investors, pension fund trustees need
+the appropriate tools to help them understand
+the implications of climate change on their
+investments and instruct their asset managers
+accordingly. Alternatively, they may look at the
+possibility of diversifying their assets into investment vehicles that provide a hedge against climate
+change risk.
+4.3.2 Consultants and Actuaries
+The role of consultants and actuaries as advisors
+to pensions fund trustees is to provide commercial, financial and prudential advice on the management of assets and liabilities  especially
+where long-term management and planning are
+critical factors. Environmental factors such as
+Box 10
+Carbon Disclosure Project (CDP)
+The Carbon Disclosure Project was launched
+in November 2003, and provides a secretariat
+for the worlds largest institutional investor
+collaboration on the business implications of
+climate change. CDP provides the process
+through which many institutional investors,
+including Allianz, representing USD 20 trillion, collectively sign a single global request
+for disclosure of information on Greenhouse
+Gas Emissions. CDP then sends this request to
+the FT500. 300 of the 500 largest corporations
+in the world currently report on climate
+change issues through the CDP website. The
+CDP has been successful in both attracting
+institutional investors to sign up to the project, starting from 35 institutions in the first
+year to 143 in the third year, and getting more
+companies to provide responses to the questionnaire. The CDP has helped to illustrate the
+extent to which the largest global companies
+are aware of and responding to climate change.
+The first (CDP1) survey found that while
+80 percent of respondents acknowledged the
+importance of climate change as a financial
+risk, only 35 to 40 percent were actually taking
+action to address the risks and opportunities.
+The second (CDP2) survey showed that climate change and shareholder interest are
+becoming more closely intertwined. However,
+significant differences in opinion remain as to
+the importance of climate change to business
+and competitiveness. Major discrepancies still
+exist between some companies responses and
+what is publicly known about their actual
+climate change stance. Not all companies
+respond to shareholder requests for more climate change information. CDP3 was launched
+in February 2005, representing a larger group
+of investors.
+Climate Change 39
+4 FINANCIAL SERVICES: NEW RISKS, NEW OPPORTUNITIES
+climate change should not be viewed as a natural
+consideration. Given the long-term nature of
+climate change and the wide-ranging impacts it
+may have on client assets, this ought to be a
+natural consideration for them. However, many
+consultants are fairly skeptical of the moves
+towards shareholder activism and socially responsible investments.88 Climate change is often
+pigeon holed into socially responsible investment, which is seen as potentially interfering
+with trustee fiduciary duty and an issue that falls
+into the environmental rather than the financial
+sphere.
+There is also a significant element due to political and regulatory uncertainty. Consultants, just
+like institutional investors, do not have the correct tools to enable them to understand the
+impacts of climate change and as such remain
+reluctant to provide advice on an issue they are
+not familiar with and which does not yet fall into
+their area of expertise. Given that climate change
+and its impacts remains a complicated issue it
+may be acting as the barrier to entry for consultants and actuaries to understanding how this
+issue could impact investments, since it requires
+a wide range of skills to be able to give the kind
+of advice that would affect a portfolio. Among
+other issues, it requires an understanding of
+climate change policy and how the price of carbon may affect a particular market.89 Some consultants such as Mercer Investment Consulting
+have already formalized their approach towards
+socially responsible investment, and have dedicated SRI capabilities. The next steps for Mercer
+include the assessment of fund managers and
+how they are integrating issues such as climate
+change within their traditional or mainstream
+investment practices.90 Mercer is soon to publish
+a report in July 2005 for the Carbon Trust and
+the IIGCC, entitled A climate for change: A
+trustees guide to understanding and addressing
+climate risk.
+In conclusion, if investment consultants and
+actuaries are to take climate change into account
+when advising clients, this needs to be supported
+by increased awareness and knowledge building
+40 Climate Change
+as well as an understanding of the approaches
+that fund managers are taking towards climate
+change in their investment processes.
+4.3.3 Fund Managers
+When making decisions on a clients assets and
+fulfilling a clients requirements, the core of a
+fund managers decision-making process is to
+evaluate the relative risks and opportunities of
+their investments. Traditionally, these have been
+financial and include the growth of a company,
+the margins it is generating and the annual profits it is making. Non-traditional issues such as climate change do not normally fall into the realm
+of a traditional fund managers thought processes, an exception being the introduction of the EU
+Emissions Trading Scheme, which places a value
+on the price of carbon leading to direct financial
+implications for specific sectors and investee
+companies. Climate change is a regular consideration for SRI fund managers whereas mainstream
+managers still tend to marginalise the issue and
+rarely include it in their investment considerations. There are several reasons for this. Such
+fund managers are finding it difficult to make a
+clear link between climate change and portfolio
+risk, thus it is still being seen as an SRI issue,
+and as such not relevant to mainstream investments. There is also a conflict for fund managers:
+the long-term nature of climate change appears to
+clash with the short-term measurement of their
+performance by institutional investors, despite
+the fact that such investors ought to have a longterm investment horizon.
+The lack of clarity around climate change policy and its long-term time frame places a level of
+uncertainty around the actual impacts this will
+have on investments. The availability of investment tools to enable fund managers to evaluate
+the impact of climate change is limited; although
+some organisations such as the World Resource
+Institute (WRI) have developed frameworks which
+provide fund managers with a multidimensional
+framework for assessing climate change risk in
+4 FINANCIAL SERVICES: NEW RISKS, NEW OPPORTUNITIES
+their portfolios.91 The framework highlights that
+greenhouse gas regulatory risk and its competitive implications are most immediate and tangible
+aspects of risk. It also states that to accurately
+analyse the implications of policies on greenhouse gas emissions, investors should consider
+how companies respond competitively to these
+policies and ultimately how this affects cash
+flows. It therefore appears to be an issue relevant
+to a prudent investor, which is the responsibility of the fund manager to their institutional
+investor.
+Fund managers are in the early stages of being
+provided with the tools and information that
+should enable them, better than before, to start
+understanding the impact of climate change risk
+on their investment decisions and ultimately
+their client portfolios. These will include WRI
+reports, the Carbon Disclosure Project, and support from their in-house SRI specialists who have
+been evaluating the impacts of climate change on
+investments for many years (see Box 11).
+Having described this situation, there are
+indications that mainstream fund managers are
+beginning to recognize the importance and
+approaches of socially responsible investment. In
+their annual Fearless Forecast survey review
+conducted in late 2004, Mercer Investment Consulting asked 190 fund managers worldwide
+whether certain SRI practices would become a
+common component of mainstream investment
+processes in the near and long term. The survey
+findings indicated that the majority of fund managers outside the USA are becoming more convinced that the adoption of SRI practices and
+strategies will become more commonplace. Furthermore, some participants in the financial markets are recognizing the importance of integrating environmental, social and governance issues
+into mainstream investment processes and have
+Box 11
+Socially Responsible Investment
+at RCM
+RCM is the core growth equity platform within Allianz Global Investors, a wholly-owned
+subsidiary of Allianz. RCMs in-house SRI specialists are responsible for focusing their
+research on non-traditional or extra-financial
+issues, by means of a proprietary sustainability scoring and rating process, which among
+other issues evaluates companies on their
+approach towards the management of climate
+change risks and opportunities. RCM was one
+of the first signatories to the Carbon Disclosure Project when it was launched in November 2003, recognizing the need for consistent
+and comparable climate change information
+from companies for a better research process.
+RCMs SRI specialists also use GrassrootsSM,
+which is a proprietary research entity within
+RCM that provides the investment platform
+with additional market analyses by conducting market research at the local, regional and
+global levels. In SRI analyses, it helps to confirm and identify where material environmental and social factors are starting to have an
+impact on a companys financial performance.
+RCM SRI specialists discuss with companies
+areas relating to material business issues such
+as climate change, especially in instances
+where companies do not fully disclose their
+policies and approach towards their management. Finally, all SRI research outputs are fed
+back into the RCM global investment platform, which includes RCM fund managers
+and financial analysts, to aid the integration of
+extra-financial issues into mainstream research
+and investment decision making.
+Climate Change 41
+4 FINANCIAL SERVICES: NEW RISKS, NEW OPPORTUNITIES
+produced a set of recommendations for asset management, securities and brokerage to take action
+under a UN-based initiative.92 This is encouraging and provides confidence that extra-financial
+issues such as climate change will become more
+of a regular feature in fund manager thinking.
+Especially since there is increasingly strong evidence suggesting that companies with good environmental governance standards, such as the
+management of climate change risks, have better
+financial returns compared to those that do not.93
+4.3.4 Financial Analysts
+The consideration of climate change  or its lack
+of  by mainstream financial analysts is based on
+the very same issues as presented for fund managers. The availability and quality of climate
+change information being provided by companies varies and long-term political frameworks
+have not been established, making comparative
+and consistent modeling and analysis difficult.
+This is daunting, given that climate change is one
+of many factors that both analysts and fund managers need to take into account when evaluating
+investments. The Carbon Disclosure Project is,
+however, aiming to address this issue. Furthermore there has been rising criticism directed at
+the financial markets for its short termism, where
+Box 12
+Enhanced Analytics Initiative (EAI)
+The EAI was set up by a group of asset owners
+and fund managers to promote better broker
+or sell-side research on extra-financial issues,
+i. e. factors that cannot be readily quantified
+but nevertheless have considerable power
+over asset value. Extra-financial issues include
+factors such as climate change, human capital
+management, reputational risk, mergers and
+acquisitions and corporate governance. The
+EAI hopes to see research that identifies corporate prospects across different time scales
+and sectors, integrating the findings into conventional stock-picking valuation. Members
+of the EAI (which include AGF Asset Management, BNP Paribas Asset Management, Generation Investment Management, London Pension Fund Authority, Mistra, PGGM, RCM,
+SNS Reaal Group, Trade Union Congress,
+Superannuation Society and the Universities
+Superannuation Scheme) have committed to
+allocate 5 percent of their respective broker
+commission budget (approximately 8 million
+euros in 2005) to brokers on the quality
+42 Climate Change
+of their extra-financial research, as regularly
+evaluated by an independent consultancy,
+OnValues. The second evaluation completed
+in June 2005, highlighted that there was an
+increase in extra-financial research being generated, however, there is still a long way to go
+with regard to the quality of research. It also
+indicated encouragingly that research houses
+are beginning to integrate extra-financial
+research into their mainstream reports and
+that the breadth of issues being researched 
+including corporate governance, emerging
+environmental liabilities, consumer and public health issues, and business ethics and
+brand management  is expanding. However,
+whilst there are signs that some research houses are gearing up to consistently provide extrafinancial research, the overall coverage and
+quality of the research need to be expanded
+further in order for it to become a useful tool
+for the buy-side (in house financial analysts of
+fund management houses).
+www.enhanced-analytics.com
+4 FINANCIAL SERVICES: NEW RISKS, NEW OPPORTUNITIES
+company performance is measured on a quarterly
+basis rather than over the longer term, with the
+trend primarily being driven by hedge funds.94
+A number of fund managers and institutional
+investors are, however, addressing this issue by
+providing incentives to mainstream, sell-side
+research analysts to produce more long-term
+research, which incorporates extra-financial issues
+such as climate change (see Box 12).
+4.3.5 Companies
+Company disclosure on climate change is improving. However the quality, comparability and consistency of this information varies from company
+to company, limiting its usefulness for financial
+analysis and valuation. The communication of climate change policies and strategies is mostly limited to discussions in meetings with SRI analysts
+and fund managers rather than with mainstream
+investors. The exception is where SRI analysts
+also attend such mainstream meetings and ask
+relevant questions in the presence of mainstream
+investors. However, companies who have welldeveloped climate change policies and strategies
+are indicating that mainstream investors are not
+showing much interest in this type of information. Consequently, they do not include their climate change strategies in mainstream investor
+presentations.
+It is clear that there is a discrepancy here and
+two things need to happen. Companies ought
+to re-evaluate their investor-directed communication regarding their approaches to environmental
+government  it needs to be more meaningful
+and the materiality should be clearer for mainstream investors. Mainstream investors should
+take greater notice of the growing evidence of
+the link between good environmental and financial performance and find out why companies
+do or do not allocate resources towards addressing: firstly, the challenges of climate change to
+their business and secondly, the potential impact
+climate change can have on the value of investments. This will not only highlight to companies
+that investors are taking a greater interest in nontraditional aspects of company performance but
+also put greater pressure on companies to produce more consistent and meaningful information that is useful in company financial analyses.
+Conclusions
+1. A few institutional investors and fund managers
+have acknowledged that climate change will
+have a material impact on their investments
+and that they are taking action to address the
+issue.
+2. Investors who have been following socially
+responsible investment strategies for some years
+now treat climate change as a strategic factor
+in portfolio performance.
+3. There is increasing evidence to indicate a positive link between good corporate environmental governance, including climate change, and
+good financial performance, but it is still insufficient at the corporate level in particular.
+4. The comparability and quality of climate
+change information provided by companies remain insufficient for credible financial analysis. Although, the availability of comparable
+and consistent data on climate change as well
+as tools for fund managers to assess climate
+change risk in their portfolios are increasing.
+5. There is a lack of understanding among both
+institutional investors and consultants on how
+they should be evaluating the financial implications of climate change on investments.
+6. Climate change, its implications and uncertainty
+around policy and regulation remain complex,
+acting as a barrier to entry to institutional
+investors and consultants in understanding
+the related financial risks.
+7. Fund manager performance is measured over
+a short time frame, causing fund managers to
+focus on short-term corporate performance,
+which is in direct conflict with the long-term
+nature of climate change.
+Climate Change 43
+4 FINANCIAL SERVICES: NEW RISKS, NEW OPPORTUNITIES
+4.3.6 Recommendations
+With a growing body of evidence on climate
+change, and its wide ranging impacts especially
+on financial performance, institutional investors,
+consultants, fund managers and analysts should
+start to build up their understanding of the relevance of climate change to their advice, analyses
+and investment decisions.
+Specifically, fund managers and financial analysts
+should:
+ Evaluate their client portfolios for climate change
+risks and opportunities so that they are able to
+respond to changes in climate change policy
+and legislation.
+ Help company management understand how
+climate change is impacting their business and
+what strategies they can employ to minimize its
+risks or maximize opportunities from it. Educate clients about the benefits and processes
+being used to incorporate extra-financial issues
+in the management of their assets.
+ Request and reward external research providers e.g. brokers to produce consistent, quality,
+long-term research which incorporates extrafinancial issues such as climate change, and to
+integrate such issues into their mainstream
+analyses and investment decisions with the
+help of in-house or external SRI expertise.
+ Challenge both buy- and sell-side analysts on
+their understanding and incorporation of climate change risks and opportunities in their
+investment research and ideas.
+ Support the development of climate change
+databases and request more consistent information from companies on their climate change
+performance.
+ Develop innovative investment vehicles that
+capitalize on changes in climate change policy
+and regulation.
+44 Climate Change
+5 FINANCING LOW-CARBON ENERGY
+Financing Low-Carbon
+Energy
+The solution to climate change is essentially to
+convert the worlds economies to low-carbon technologies, either through alternative energies or
+more efficient energy conversion.
+Renewable energy technologies can be both a
+contribution to the mitigation of GHG emissions
+and a business opportunity for project developers
+and investors. The future outlook for the renewable energy market is promising, since ambitious
+targets for renewable energy generation have
+been set in many regions and countries. Germany
+is taking the lead with its target to generate
+50 percent of its energy needs from renewable
+energy sources by 2050.
+ According to the World Energy Council, the
+clean technologies market could be around
+1.4 billion euros by 2020.
+ According to the Carbon Disclosure Project, the
+proportion of major banks involved in such
+investments rose from 13 percent to 31 percent
+between 2002 and 2003, despite regulatory risk
+problems in some markets.
+ The International Energy Agency assumes that
+capital and generating costs of renewable energy technologies will fall steeply over the next
+decade, making such technologies more competitive. Worldwide capacity from renewables
+are expected to be in the region of 400 GW,
+compared with 2,000 GW for gas, 1,400 GW for
+coal and 400 GW for hydro. About 1.3 billion
+euros in cumulative investments will be needed
+in OECD countries only to replace ageing plants
+and meet rising demand.
+One survey found that investment in renewables and clean energy technology rose 150 percent between the years 2000 to 2004 across a wide
+range of applications (efficiency, windpower, fuel
+cells, etc.). US pension funds as well as global
+investors are now entering this field in a big
+way, but with expert advisors to avoid expensive
+mistakes.
+ The Environmental Technology Program of the
+Californian pension funds CalPERS will focus
+on providing capital to investors who have a
+proven track record, and avoid over-exposure to
+any one target area by diversifying sectors and
+geographical areas.95
+ According to the International Energy Agency,
+investment in cleaner energy at present is USD
+20 billion a year, mainly in solar and wind power, and is expected to grow to USD 100 billion
+globally within 10 years, compounded at an
+annual growth of 15 to 20 percent.
+ Allianz Group is approaching this area through
+specialist operators such as Allianz Capital Partners, who now own Hansen Transmission, a
+major supplier of wind turbine components.
+The group sees wind energy as an important
+component in its strategy to treble its private
+equity exposure (currently 1.5 billion euros in
+23 projects), because a diversified windpower
+portfolio offers long term stable cash flow
+with relatively low risk. A newly-founded unit,
+Allianz Specialised Investments, will continue
+investing in this sector.
+ Allianz estimates that by 2010 installed global
+wind capacity will be more than double its current level of around 50 GW, with more than
+half of this expected to be in the European
+Union.
+ In Italy, Rasfin, another Allianz subsidiary, is
+closely monitoring opportunities in fuel cell
+technology, and also exploring possibilities to
+Climate Change 45
+5 FINANCING LOW-CARBON ENERGY
+Figure 5
+Banks and Renewable
+Energy Technology
+work on clean technology with local government bodies such as cities and states, because
+their decision-making processes are often quick.
+Banks, in their role as lenders and investors, play
+an important role in developing and promoting
+the renewable energy markets. However, a banks
+primary criterion for investment is the expected
+profit. The due diligence for renewable energy
+projects is no different compared to other investments. In addition to that, renewable energy technologies often face a number of additional barriers compared to other projects, e.g. technical
+problems or higher upfront costs.
+Due diligence for renewable energy projects
+therefore requires special expertise. Banks analyse
+renewable energy investments in particular in
+view of market risks, technology risks, reputational risks and policy risks (see Figure 5).
+Credit Risk
+Renewable
+Energy Project
+Market Risks
+Technology Risks
+Reputational Risks
+Risk of Change
+of Legislation
+Financial
+Institutions
+Influence on:
+Corporate Rating
+Costs of Capital
+High Costs of Lending
+Market Capitalization/
+Shareholder Value
+Creditworthiness
+Notwithstanding the additional barriers in the
+renewable energy market, the structured finance
+market for renewable energy has taken off in
+recent years:
+ The Carbon Disclosure Project (CDP) reports
+increasing activities of major banks in this field.
+Dutch Dexia holds an outstanding in the renewable energy sector worth more than 200 million
+euros. Spanish Santander Central Hispano
+has financed wind farms over the past years;
+an investment worth over 250 million euros.
+46 Climate Change
+UK Barclays, Dutch ABN AMRO and French
+BNP Paribas provide tailor-made financial
+services to renewable energy projects.
+ Dresdner Bank founded its Renewable Energy
+Competence Centre in 2004 to bundle the banks
+existing expertise in the field of renewable
+energy investments and lending criteria. In particular, Dresdner has developed specific expertise and financial involvement in on-shore wind
+energy, solar power and biomass.
+The growing market in renewable energies
+also opens increasing business opportunities for
+investment banks: Allianzs investment banking
+arm, Dresdner Kleinwort Wasserstein, has conducted four large business transactions in the last
+two years.
+ DrKW advised in April 2005 the selling shareholders in Dersa, the Spanish renewable energy
+company, on the companys acquisition by
+Spains largest gas supplier, Gas Natural.
+ Also in April 2005 DrKW executed a capital
+increase for Nordex, the German wind turbine
+manufacturer, for an equity consideration of
+42 million euros.
+ In May 2004, DrKW concluded the sale of a
+participation in Cesa, the fourth largest wind
+energy developer, to Bridgepoint Capital.
+ Vestas merger with NEG Micon was also
+advised by DrKW. Both companies are wind turbine manufacturers. The merger confirmed the
+new group has the largest wind turbine manufacturer in the world. The transaction size was
+500 million euros.
+A boost in energy efficiency could create a winwin solution that both helps improve the economic competitiveness of energy-intensive companies and offers investment opportunities for
+banks. According to the WWF, the EU Directive
+on Energy End-Use Efficiency and Energy Services  if adequately implemented  could bring a
+net economic gain for the entire EU economy of
+approximately 10 billion euros per year.
+Energy efficiency activities are taking on a
+new strategic importance for energy intensive
+companies. Investments in energy efficiency
+projects also offer new opportunities for banks 
+5 FINANCING LOW-CARBON ENERGY
+the first players have already started to develop
+new products in this respect:
+ According to CDP, Dexia is developing an
+Energy Efficiency and Emissions Reduction
+Fund. Italian Sanpaolo IMI is also working on
+the structuring of funds dedicated to energy
+efficiency projects.
+ For the European Bank for Reconstruction and
+Development (EBRD), energy efficiency is a key
+issue. The bank systematically screens both
+existing and potential projects to identify possible energy savings and  where possible 
+facilitates the sale of carbon credits from these
+projects.
+Climate Change 47
+6 RECOMMENDATIONS
+Recommendations
+48 Climate Change
+Recommendations addressing
+Financial Service Providers
+Recommendations addressing
+Insurance Companies
+F I N A N C I A L S E RV I C E P R O V I D E R S S H O U L D :
+I N S U R A N C E C O M PA N I E S S H O U L D
+ Call for a reliable, transparent and internationally co-ordinated policy framework as well as
+for long-term and appropriate CO2-reduction
+goals that provide certainty for investment
+decisions and initiate business opportunities
+for clients.
+ Include climate change risk in their internal
+governance procedures, in line with the existing financial corporate risk identification, controlling and reporting structures and best practice in reporting requirements.
+ Contribute to the international debate on carbon research and analysis for a better understanding e.g. of the carbon-related economic
+impacts.
+ Gather information on future climate risks and
+thereby better predict and underwrite climateassociated risks.
+ Control their exposure to natural catastrophes
+and other climate-related risks by developing
+adequate risk assessment tools such as flood
+zoning and establishing expertise for natural
+catastrophes.
+ Upgrade risk selection assessment methodologies such as identifying potential new liabilities
+from carbon emissions or using environmental
+due diligence screening of a company.
+ Develop risk management expertise regarding
+low-carbon technologies jointly with industrial
+clients to develop new products supportive of
+low-carbon technology (such as multiperil cover for renewable technologies, loss of revenue
+cover for renewable technologies, eco-package
+in Allianz Property/Commercial Clients).
+6 RECOMMENDATIONS
+Recommendations addressing
+Banks
+Recommendations addressing
+Asset Managers
+BANKS SHOULD:
+S P E C I F I C A L LY, F U N D M A N A G E R S A N D
+ Review and optimize their own carbon risk
+management and (further) develop assessment
+tools applied to carbon risks and carbon risk
+reduction strategies (e.g. by using carbon related economic analysis for sectors or companies
+and/or by developing climate change related
+risk matrixes).
+ Define clear risk requirements for clients
+regarding carbon risk reduction and market
+strategies (e.g. by discussing rating requirements with clients).
+ Define clear requirements for rating agencies
+on carbon risk in corporate and sector ratings.
+ Foster the development of carbon risk hedging
+products e.g. derivatives.
+ Facilitate finance for public programs that foster the introduction of low carbon technologies.
+ Offer carbon risk advisory services for clients.
+ Improve the opportunities of JI/CDM-project
+development to generate CO2-reduction certificates for optimizing the cash flow of project
+financing.
+ In respect of their own operations and on a
+voluntary basis adapt frameworks such as the
+Global Reporting Initiative (GRI) or guidelines
+more specifically based on the emissions inventory of the GHG protocol as an accounting and
+reporting standard.
+F I N A N C I A L A N A LY S T S S H O U L D :
+ Evaluate their client portfolios for climate
+change risks and opportunities so that they are
+able to respond to changes in climate change
+policy and legislation.
+ Help company management understand how
+climate change is impacting their business and
+what strategies they can employ to minimize
+its risks or maximize opportunities from it. Educate clients about the benefits and processes
+being used to incorporate extra-financial issues
+in the management of their assets.
+ Request and reward external research providers
+e.g. brokers to produce consistent, high quality,
+long-term research which incorporates extrafinancial issues such as climate change, and
+to integrate such issues into their mainstream
+analyses and investment decisions with the help
+of in-house or external SRI expertise.
+ Challenge both buy- and sell-side analysts on
+their understanding and incorporation of climate change risks and opportunities in their
+investment research and ideas.
+ Support the development of climate change
+databases and request more consistent information from companies on their climate
+change performance.
+ Develop innovative investment vehicles that
+capitalize on changes in climate change policy
+and regulation.
+Climate Change 49
+ENDNOTES
+50 Climate Change
+IPCC 2001.
+Cost-benefit techniques based on even modest
+discount rates lead to distant costs being
+assigned a low present-day value. However the
+people affected by that damage have no say in
+the decision.
+An increase of 1 degree Celsius would be neutral for global GDP weighted by population, or
+even beneficial on a crude monetary aggregation basis (R Tol, 2002).
+ECF 2004.
+H Harasawa et al, at Hadley Centre conference
+2005.
+Abrupt Climate Change, National Academy of
+Sciences, 2001.
+Schwartz and Randall, Office of Net assessment, Washington DC, 2003.
+Weaver and Hillaire-Marcel, Global Warming
+and the next Ice Age, Science, vol 304,
+pp 400402, April 16, 2004.
+Hulme M, Abrupt climate change: can society
+cope? Tyndall Centre Working Paper 30;
+Tyndall Centre for Climate Change Research,
+Norwich, March 2003.
+Hakkinen S and Rhines P, Decline of subpolar
+North Atlantic circulation during the 1990s,
+Science, vol 304, pp 555559, April 23, 2004.
+Richardson A & Schoeman D, Climate impact
+on plankton ecosystems in the Northeast
+Atlantic, Science, vol 305, pp 16091612,
+September 10, 2004.
+Hadley Centre reports 2003, 2004.
+Dai A, et al, Journal of Hydrometeorology 2004.
+ACG 2004.
+ECF 2004.
+ECF 2004.
+Ten typhoons in 2004 (previous record was
+six) costing 4 billion euros. Emori S, et al at
+Hadley Centre conference, February 2005.
+IPCC, 2001.
+WHO.
+European Environment Agency 2004.
+EEA 2004.
+Caspary, STARDEX 2003.
+Choi O & Fisher A, Climatic Change, 2003.
+EEA 2005.
+Hall et al, at Hadley Centre Conference,
+February 2005.
+STARDEX 2003.
+Stott P, et al, Nature 432, December 2, 2004.
+Kemfert & Pfeifer 2003.
+A heatwave with a 9 degrees Celsius warming
+is associated with 15 percent more cases of
+food poisoning (AGF, 2004).
+This is because of the increased need to refit
+infrastructure and protect physical assets.
+Viner D and Amelung B, at Hadley Centre Conference, 2005.
+ECF 2004.
+Hadley Centre Conference, 2005.
+Agricultural and forestry processes and simple
+domestic energy use also create greenhouse
+gases, but not on the same scale as fossil fuel.
+Because of the high natural variability of the
+climate system, it is generally difficult to say
+which events are due to climate change and
+which might be natural. The European heatwave of 2003 seems to have been man-made.
+IPCC Working Group 3, 2001.
+ACG 2004.
+Lord Browne, CEO of BP, at IIGCC Conference,
+November 2003.
+EU staff paper 2005.
+Point Carbon.
+Changing Drivers  World Resources Institute,
+Washington 2003.
+Changing Oil  World Resources Institute,
+Washington 2004.
+This is supported by Innovest who calculated
+that an increase of energy costs of 5 percent
+could reduce the market value of metals
+companies by 10 to 20 percent, Carbon
+Disclosure Project, 2004.
+ABN/AMRO climate change study, 2003.
+UBS in UNEPFI materiality study.
+DrKW power sector study, October 2003.
+WWF Powerswitch 2003.
+IIGCC construction materials study 2004.
+DrKW cement sector study.
+C Grobbel, McKinsey interview May 11, 2005.
+House of Commons Environmental Audit
+Select Committee, Seventh Report, 2005.
+ENDNOTES
+Deutsche Lufthansa AG 2005: Position zu
+Klimawandel und Emissionshandel, Frankfurt; DrWK 2005: British Airways  Lunch on
+environmental issues, London.
+DrKW 2003: Aviation emissions  another cost
+to bear, London.
+Viner & Amelung, Tyndall Centre conference,
+2005.
+A proposal has been made in UK for Domestic
+Tradable Quotas, whereby every individual
+would receive an annual emissions entitlement, but this is unlikely to proceed in the
+foreseeable future (Anderson, Tyndall Centre,
+2004).
+Hadley Centre conference 2005.
+The Western Antarctic Ice Sheet is accelerating like a cork out of a bottle with a potential
+for 5 meters sea level rise, R Kerr, Science 305,
+September 24, 2004.
+Greenland icecap melting will be inevitable
+even if emissions stabilize at 550 ppmv cde,
+with a 7 meter sea level rise eventually.
+By 2100, 75 percent of carbon stored in
+Amazonia could be released due to dieback,
+Hadley Centre conference danger conference
+report 2005.
+Penner J, Nature 432, 23/30 December 2004.
+Stanhill G, Weather, 60.1, 2005.
+climateprediction.net.
+European Council 7619/05.
+European Council 7242/05.
+WBGU, reported in EEA 200a. Even at 500
+ppmv cde there is a 5 percent chance that
+Europe may see a rise of over 6 degrees Celsius.
+Collins M, et al Hadley Centre conference
+February 2005.
+EUC 2005.
+EU staff paper 2005.
+Statement on Finance Sector  SEFI Conference on Renewables, June 2004.
+Cinergy, report on climate change 2004.
+Munich Re catastrophe review 2004.
+Kemfert C, & Pfeifer D, 2003.
+ACG 2004.
+Calculated by Dr A Dlugolecki on the basis that
+data used for price-setting may be 4 years old
+on average at the time of the calculation, and
+that the mid-life of the policies to which those
+prices apply may be 3 years later. A time-lag of
+7 years with a trend rate of 4 percent per year
+yields approximately a 30 percent error in the
+price calculation, unless the trend is projected
+forward of course. However trend projections
+are strongly resisted by regulators and consumers!
+ABI 2004.
+Climate Change: Regional Model Predictions
+for Ireland.
+O Bogenrieder, Allianz Group, quoting an
+unpublished German insurance industry
+study, 2005.
+The Spanish Consortio (Consorcio de Compensacin de Seguros) is a public entity strongly
+connected with the Spanish insurance industry. In general, it behaves as a direct insurer, in
+those cases private market refuses to deal with,
+and as Guarantee Fund, in those cases of lack
+of insurance, bankruptcy of the insurer, etc.
+AGF.
+EU Commission 2005.
+UNEP FRMI for RE2004.
+UNEP FRMI report 2004.
+David W. Jones, Allianz Capital Partners.
+UNEP FRMI report 2004.
+Climate Change and Shareholder Value in
+2004, Carbon Disclosure Project 2.
+Will UK Pension Funds Become More Responsible? A Survey of Trustees  2004 edition,
+Just Pensions, January 2004.
+Mainstreaming Responsible Investment,
+Accountability/World Economic Forum,
+January 2005.
+IPCC, Hadley Centre.
+Avanish Persaud, Chairman, Intelligent Capital
+James Cameron, Chairman of the Carbon
+Disclosure Project.
+Jane Ambachtsheer, Mercer, March 21, 2005.
+Framing Climate Change Risk in Portfolio
+Management, World Resource Institute and
+CERES, May 2005.
+Climate Change 51
+ENDNOTES
+52 Climate Change
+Who Cares Wins: Connecting Financial
+Markets into a Chaining World, UN Global
+Compact, June 2004.
+Corporate Environmental Governance: A study
+into the influence of Environmental Governance and Financial Performance, Innovest
+Strategic Advisors, November 2004.
+Cadbury Chief slams investor groups for lack
+of openness, Financial Times, April 22, 2005.
+CalPERs investment committee chairman,
+Rob Feckner, March 14, 2004.
+BIBLIOGRAPHY
+ABI (Association of British Insurers), Investing
+in Social Responsibility, Association of British
+Insurers, London, September 2001 (author
+R Cowe).
+ABI (Association of British Insurers), Risk
+Returns and responsibility, Association of
+British Insurers, London, February 2004
+(author R Cowe).
+ABI (Association of British Insurers), A Changing Climate for Insurance, Association of
+British Insurers, London, June 2004 (author
+A Dlugolecki).
+ABN-AMRO, Climate Change and Analysis,
+ABN-AMRO, London, November 2003 (author
+M Brown).
+ACE (The Association for Conservation of Energy), Energy Efficiency in Buildings: Assessing
+the Situation (authors J Wade, et al), London,
+2003.
+ACG (Australian Climate Group), Climate Change:
+Solutions for Australia, WWF, Sydney, June
+2004.
+Anderson K, Investigating Domestic Tradable
+Quotas, Tyndall Research Project T3.22
+Reports 20032005 on Tyndall Centre website.
+Bordass W, et al, Energy Performance of Nondomestic Buildings: Closing the Credibility Gap,
+paper at Building Performance Congress, 2004.
+Carbon Disclosure Project (CDP), Climate Change
+and Shareholder Value in 2004 (authors
+Innovest), London, May 2004.
+CERES (Coalition for Environmentally Responsible Economies) website.
+CERES, Institutional Investor Summit on Climate Risk: A New Call for Action, New York,
+May 2005.
+Choi O, and Fisher A, The Impacts of Socio-economic Development and Climate Change on
+Severe Weather Catastrophe Losses: MidAtlantic Region and the US, Climatic Change,
+58 (12), pp 149170, May 2003.
+Cinergy Corp, Air Issues: Report to Stakeholders.
+An analysis of the potential impact of greenhouse gas and other air emission regulations on
+Cinergy Corp, Cincinnati, December 2004.
+climateprediction.net. Website for climate prediction experiment using free capacity on private
+personal computers.
+Community Climate Change Consortium for Ireland (c4i). Climate Change: Regional Model
+Predictions for Ireland, c4i, Dublin, June 2005.
+Dlugolecki A, and Mansley M, Climate Change
+and Asset Management, Tyndall Centre Technical Report 20, February 2005.
+Dlugolecki A, and Keykhah M, Climate Change
+and the Insurance Sector in The Business of
+Climate Change, ed. K Begg, et al, Greenleaf
+Publishing, 2005.
+Dai A, et al, A global dataset of Palmer Drought
+Severity Index for 18702002: relationship with
+soil moisture and effects of surface warming,
+Journal of Hydrometeorology 5 (6), pp 11171130,
+December 2004.
+Deutsche Lufthansa AG: Position zu Klimawandel
+und Emissionshandel, Frankfurt, 2005.
+DrKW (Dresdner Kleinwort Wasserstein) Sectoral
+studies (Aviation, Power, Cement) and Emissions
+Trading updates, London 20035.
+Environmental Finance magazine, monthly, London.
+ECF (European Climate Forum) What is Dangerous Climate Change?: Key Vulnerable Regions
+and Climate Change, Proceedings of a Symposium in Beijing, October 2004.
+EC (European Commission), Greenhouse Gas
+Reduction Pathways in the UNFCCC Process up
+to 2025, DG Environment, EC, Brussels, October 2003.
+EC (European Commission),  Winning the battle
+against global climate change. Background
+paper. Staff working paper and final version,
+Brussels, February 9, 2005.
+European Council, Presidency Conclusions,
+7619/05 Brussels, March 2005.
+European Council, Conclusions of the Meeting of
+Ministers for the Environment, 7242/05 Brussels, February 2005.
+EEA (European Environment Agency), Impacts
+of Europes Changing Climate, Report 2/2004,
+Copenhagen, 2004.
+Climate Change 53
+BIBLIOGRAPHY
+Grobbel C, et al, Preparing for a low-carbon
+future, McKinsey Quarterly 2004 (4).
+Hadley Centre, Climate change observations and
+predictions: recent research, presented at COP9,
+December 2003.
+Hadley Centre, Uncertainty, Risk and Dangerous
+Climate Change, presented at COP10, December 2004.
+Hadley Centre, Stabilising Climate to avoid Dangerous Climate Change, International Symposium on the stabilisation of greenhouse gases.
+Steering Committee Report and individual
+papers, Exeter, February 2005.
+Hakkinen S, and Rhines P, Decline of subpolar
+North Atlantic circulation during the 1990s,
+Science, vol 304, pp 555559, April 23, 2004.
+House of Commons Environmental Audit Select
+Committee, Seventh Report Pre-Budget 2004
+and Budget 2005: Tax, Appraisal, and the Environment, London, April 2005.
+Hulme M, Abrupt climate change: can society
+cope?, Tyndall Centre Working Paper 30; Tyndall Centre for Climate Change Research, Norwich, March 2003.
+IEA (International Energy Agency), Energy to
+2050: Scenarios for a Sustainable Future, Paris,
+2003.
+IEA (International Energy Agency), World Energy
+Outlook 2004, Paris, 2004.
+IEA (International Energy Agency), International Competitiveness: the Effect of the EU Emissions Trading Scheme, Paris, February 2005.
+IIGCC (Institutional Investors Group on Climate
+Change), Climate Change and Institutional Investors: Managing the Risks and Profiting from
+the Shift to a Lower Carbon Economy, Conference Proceedings, London, November 2003.
+IIGCC website and papers on aviation (2003),
+power (2003) and construction materials (2004).
+INCR (Investor Network on Climate Risk)
+website, and Investor Guide to Climate Risk:
+10 Key Steps.
+IPCC (Intergovernmental Panel on Climate
+Change), Climate Change 2001: Third Assessment Report: Reports of Working Groups 1
+(The Scientific Basis), 2 (Impacts, Adaptation,
+54 Climate Change
+and Vulnerability) and, 3 (Mitigation), Cambridge University Press, 2001.
+ICCT (International Climate Change Taskforce),
+Meeting the Climate Challenge, London,
+March 2005.
+Kemfert C, and Pfeifer D, An Economic Impact
+Assessment of Extreme Weather Events, Oldenburg University, November 2003.
+Kerr R, A bit of Icy Antarctica is Sliding Toward
+the Sea, Science 305, p1897, September 24,2004.
+Lowe R, Defining and meeting the carbon constraints of the 21st century, Building Research
+and Information 28 (3), pp 159175, 2000.
+Mansley M, and Dlugolecki A, Climate Change 
+A Risk Management Challenge for Institutional Investors, Universities Superannuation
+Schemes (USS), London 2001.
+Munich Re, Annual Review: Natural Catastrophes 2004, Munich, 2005.
+NAS (National Academy of Sciences), Abrupt
+Climate Change, Washington, 2001.
+Penner J, The Cloud Conundrum, Nature 432,
+pp 962963, 23/30 December 2004.
+Richardson A, and Schoeman D, Climate impact
+on plankton ecosystems in the Northeast
+Atlantic, Science, vol 305, pp 16091612,
+September 10, 2004.
+Schwartz and Randall, An Abrupt Climate Change
+Scenario and its Implications for United States
+National Security, Office of Net Assessment,
+Department of Defense, Washington, 2003.
+SEFI (Sustainable Energy Finance Initiative),
+Statement on the Finance Sector, presented at
+Creating the Climate for Change Conference
+Bonn, June 2004.
+Stanhill G, Global dimming: a new aspect of climate change, Weather, 60 (1), pp 1114, 2005.
+STARDEX (Statistical and Regional Dynamical
+Downscaling of Extremes for European Regions)
+EU-funded project website.
+Stott P, et al, Human Contribution to the European
+Heatwave of 2003, Nature 432, pp 610613,
+December 2, 2004.
+Tang K (ed) with Dlugolecki A, The Finance of
+Climate Change, Risk Books, London, 2005.
+BIBLIOGRAPHY
+The Carbon Trust, The European Emissions
+Trading Scheme: Implications for Industrial
+Competitiveness, London, June 2004.
+The Carbon Trust, Brand Value, London, May
+2005.
+Tol R, New Estimates of the Damage Costs of Climate Change, Part I: Benchmark Estimates,
+Environmental and Resource Economics, 21
+(1), pp 4773, 2002.
+Tol R, New Estimates of the Damage Costs of Climate Change, Part II: Dynamic Estimates,
+Environmental and Resource Economics, 21 (2),
+pp 135160, 2002.
+UNEP (United Nations Environment Programme),
+Financial Risk Management Instruments for
+Renewable Energy Projects (authors consortium led by Marsh Ltd), UNEP Division of Technology, Industry and Energy, Paris, 2004.
+UNEPFI, The Materiality of Social, Environmental and Corporate Governance Issues to Equity
+Pricing, Asset Management Working Group,
+UNEPFI, Geneva, June 2004.
+UNEPFI, Climate Change and the Financial Services Industry: Module 1 Threats and Opportunities (authors Innovest) Climate Change
+Working Group (CCWG), UNEPFI, Geneva,
+2002 (electronic version only).
+UNEPFI CCWG, Climate Change and the Financial Services Industry: Module 2 A Blueprint for
+Action (authors Innovest) UNEP, Geneva, 2002
+(electronic version only).
+UNEPFI CCWG, CEO Briefings on Emissions
+Trading (November 2003), Renewable Energy
+(June 2004) and Clean Development Mechanism (December 2004), Geneva.
+WBCSD (World Business Council for Sustainable
+Development), Energy and Climate Change:
+Facts and Trends to 2050, Geneva, 2004.
+WBGU (German Advisory Council on Global
+Change), Climate Protection Strategies for
+the 21st Century: Kyoto and beyond (authors
+H Grassl, et al), WBGU, Berlin, November 2003.
+Weaver A and, Hillaire-Marcel J, Global Warming
+and the Next Ice Age, Science, vol 304,
+pp 400402, April 16, 2004.
+WEF (World Economic Forum), Statement of G8
+Climate Change Roundtable, Geneva, June 2005.
+West LB, Carbonomics (authors H Garz, et al),
+West LB, Frankfurt, July 2003.
+West LB, Insurance and Sustainability: Playing
+with Fire (authors H Garz, et al), Frankfurt,
+March 2004.
+WHO (World Health Organisation), Climate
+change and human health: risks and responsibilities, New York, 2003.
+WRI (World Resources Institute), Changing Drivers, Washington, 2003.
+WRI, Changing Oil, World Resources Institute
+and Sustainable Asset Management, Washington, 2004.
+WWF (World Wide Fund for Nature), Power
+Switch: Impacts of Climate Policy on the Global
+Power Sector (with Innovest Strategic Value
+Advisors), Berlin, November 2003.
+Climate Change 55
+BOXES, TABLES AND FIGURES
+Box 11
+Box 12
+Box 13
+Box 14
+Box 15
+Box 16
+Box 17
+56 Climate Change
+Box 18
+Box 19
+Box 10
+Box 11
+Box 12
+Rapid Climate Change
+The Kyoto Protocol
+EU Emissions Trading Scheme (EU ETS)
+EU Energy Performance of Buildings Directive
+The High Sensitivity of the Climate System
+Upgrading Technology to Protect the Environment
+Insurance Solutions for Clean Development Mechanism (CDM)
+Projects in Practice: Carbon Delivery Guarantee
+Liability for Climate Change?
+Export Credit Agencies
+Carbon Disclosure Project (CDP)
+Socially Responsible Investment at RCM
+Enhanced Analytics Initiative (EAI)
+Figure 1
+Figure 2
+Figure 3
+Figure 4
+Figure 5
+Geographical Information Systems and Flood Risk  Czech Republic
+EU Allowance Allocation by Sector in the EU ETS
+Traded Volumes on the EUA Market since Q1 2004
+Size of the Weather Market (in millions USD)
+Banks and Renewable Energy Technology
+Table 1
+Table 2
+Table 3:
+Table 4
+Table 5
+Macro-Economic Effect of Climate Change
+Number of Abnormal Weather Months per Decade in UK
+Important Climate Change-Related Risks and Opportunities for Insurers
+Important Climate Change-Related Risks and Opportunities for Banks
+Equity Value at Risk to Climate Change
+ACKNOWLEDGEMENTS
+The authors thank the interviewees from Allianz and its subsidiary companies for providing their
+experience and expertise to this report.
+The authors particularly thank
+Peter Hoeppe, Munich Re
+Matthew Kiernan, Innovest
+Simon Schaerer, SAM
+Ariane von Buren and James Coburn, CERES
+Nick Robins, Henderson Investors
+This report has been prepared by
+Dr. Andrew Dlugolecki & Dr. Sascha Lafeld
+Andlug Consulting
+3c climate change consulting
+June 2005
+Dr. Andrew Dlugolecki
+Principal
+Andlug Consulting
+17 Craigie Place
+Perth, PH2 0BB
+United Kingdom
+andlug@btopenworld.com
+Dr. Sascha Lafeld
+Managing Director
+3c climate change consulting GmbH
+Hanauer Landstrasse 521
+60386 Frankfurt am Main
+Germany
+sascha.lafeld@3c-company.com
+Contacts
+Allianz AG
+Group Communications
+Kniginstr. 28
+D-80802 Mnchen
+Germany
+www.allianzgroup.com
+Contact:
+Michael Anthony
+Email: michael.anthony@allianz.com
+WWF International
+WWF Climate Change Programme
+Av du Mont Blanc
+CH-1196 Gland
+Switzerland
+www.panda.org
+Contact:
+Martin Hiller
+Email: mhiller@wwfint.org
+Climate Change 57
+Disclaimer:
+This study is published by WWF and Allianz, and has been prepared in close cooperation with the professionally
+renowned authors named on page 57. The study contains general information and does not take into account specific
+circumstances which might be relevant for individual readers. The information, expectations and opinions reflected
+herein consitute judgement as at the date of this study and neither WWF and Allianz nor the authors assume any
+obligation to update the information and recommendations contained herein. We explicitly advise any reader that
+the content of the report and the respective recommendations are based on information and expectations that may
+be subject to changes in the future or may not develop as currently expected. Consequently, the reader should not
+base any decision solely on the content of this study. The study does not intend to provide any guidance regarding
+any investment, in particular with respect to securities of Allianz Aktiengesellschaft or any of its subsidiaries.
+All greenhouse gas emissions caused by production and delivery
+of this report are offset through high quality emission reduction projects.

@@ -1,0 +1,451 @@
+Unclassified
+COM/ENV/EPOC/IEA/SLT(2005)10
+Organisation de Coopration et de Dveloppement Economiques
+Organisation for Economic Co-operation and Development
+14-Nov-2005
+___________________________________________________________________________________________
+English - Or. English
+ENVIRONMENT DIRECTORATE
+INTERNATIONAL ENERGY AGENCY
+COM/ENV/EPOC/IEA/SLT(2005)10
+Unclassified
+CLIMATE MITIGATION: INTEGRATING APPROACHES FOR FUTURE INTERNATIONAL COOPERATION
+Cdric Philibert, International Energy Agency
+The ideas expressed in this paper are those of the author and do not necessarily represent views of the
+OECD, the IEA or their member countries, or the endorsement of any approach described herein.
+English - Or. English
+JT00193989
+Document complet disponible sur OLIS dans son format d'origine
+Complete document available on OLIS in its original format
+COM/ENV/EPOC/IEA/SLT(2005)10
+Copyright OECD/IEA, 2005
+Applications for permission to reproduce or translate all or part of this material should be addressed to:
+Head of Publications Service, OECD/IEA
+2 rue Andr Pascal, 75775 Paris Cedex 16, France
+9, rue de la Fdration, 75739 Paris Cedex 15, France.
+COM/ENV/EPOC/IEA/SLT(2005)10
+FOREWORD
+This document was prepared by the OECD and IEA Secretariats in September and October 2005 in
+response to the Annex I Expert Group on the United Nations Framework Convention on Climate Change
+(UNFCCC). The Annex I Expert Group oversees development of analytical papers for the purpose of
+providing useful and timely input to the climate change negotiations. These papers may also be useful to
+national policy-makers and other decision-makers. In a collaborative effort, authors work with the Annex I
+Expert Group to develop these papers. However, the papers do not necessarily represent the views of the
+OECD or the IEA, nor are they intended to prejudge the views of countries participating in the Annex I
+Expert Group. Rather, they are Secretariat information papers intended to inform Member countries, as
+well as the UNFCCC audience.
+The Annex I Parties or countries referred to in this document are those listed in Annex I of the UNFCCC
+(as amended at the 3rd Conference of the Parties in December 1997): Australia, Austria, Belarus, Belgium,
+Bulgaria, Canada, Croatia, Czech Republic, Denmark, the European Community, Estonia, Finland, France,
+Germany, Greece, Hungary, Iceland, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg,
+Monaco, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Russian Federation, Slovakia,
+Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine, United Kingdom of Great Britain and Northern
+Ireland, and United States of America. Korea and Mexico, as OECD member countries, also participate in
+the Annex I Expert Group. Where this document refers to countries or governments, it is also intended
+to include regional economic organisations, if appropriate.
+ACKNOWLEDGEMENTS
+This paper was prepared by Cdric Philibert (International Energy Agency). The author wishes to thank
+Nicolas Lefvre, Julia Reinaud, Richard Baron, and Richard Bradley of the IEA; and Ellina Levina, Dennis
+Tirpak and Jane Ellis of the OECD, for the comments and ideas they provided.
+Questions and comments should be sent to:
+Cdric Philibert
+Energy Efficiency and Environment Division
+International Energy Agency
+Email: cdric.philibert@iea.org
+Fax: +33 (0)1 40 57 67 39
+OECD and IEA information papers for the Annex I Expert Group on the UNFCCC can be downloaded
+from: http://www.oecd.org/env/cc/
+COM/ENV/EPOC/IEA/SLT(2005)10
+TABLE OF CONTENTS
+BACKGROUND AND OBJECTIVES............................................................................................. 5
+REASONS FOR INTEGRATION AND LIKELY EFFECTS ...................................................... 6
+COMPARING DIFFERENT APPROACHES................................................................................ 7
+Comparing domestic efforts ............................................................................................................. 7
+Comparing efforts in helping others................................................................................................. 9
+Comparing domestic results ........................................................................................................... 10
+Comparing results in helping others............................................................................................... 12
+CONCLUSIONS .............................................................................................................................. 12
+REFERENCES................................................................................................................................. 13
+COM/ENV/EPOC/IEA/SLT(2005)10
+1. Background and Objectives
+At their March 2005 meeting, the AIXG delegates asked the Secretariat to investigate how different
+approaches to climate change mitigation, undertaken by various countries, could be integrated in the
+future. This paper is an attempt to shed some light on this question, define integration and explore its
+rationale, its possible mechanisms and implications.
+Integration may have at least two distinct purposes in this context. One could be to enhance synergies
+between approaches adopted independently in different countries. Another could be to help the negotiating
+process to take into account preferred approaches by various countries in establishing future agreements,
+thus expanding efforts and participation. This paper addresses both purposes.
+Approaches for future international action to mitigate climate change can be broadly classified into two
+categories: those that place quantitative objectives for greenhouse gas emissions, and those that do not. The
+first category itself divides into options for different target types, and options for different allocation
+methods. The second category includes international coordination of policies and measures, of carbon
+taxes, and international technology agreements (Philibert, 2005).
+Published and unpublished work undertaken thus far under the AIXG auspices has focussed on options for
+future quantitative objectives1, and international technology collaboration.2
+Options for future commitment types were essentially considered in relation to emissions trading. Several
+other AIXG papers examined various aspects of linkages between existing or developing systems.3 The
+linking of various emissions trading systems is certainly one possible type of integration, but integration
+can be broader, in particular when extended to fundamentally different approaches.
+One aspect of integration may be how countries following different approaches with respect to their own
+emissions could collaborate in helping other countries reducing their emissions, and how help to others
+relates to the approaches taken by each country to mitigate its own emissions. For example, the Clean
+Development Mechanism, supposed to help developing countries achieving sustainable development, is
+based on the desire for Kyotos developed countries to search for cheaper emission reduction possibilities
+in developing countries. Can it be integrated with support for technology transfers by industrialised
+countries following another approach?
+This paper discusses first the various arguments favouring integration, and the likely effects of various
+possible forms of integration. As comparing approaches, either by comparison of efforts or comparison of
+results, appears crucial to any form of integration, the paper then considers in more details how different
+approaches can be compared, with respect to a countrys own emissions as well as to its action to help
+other countries reduce theirs.
+E.g. see Pershing, 1999; Philibert et al., 2003; Willems and Baumert, 2003; Philibert and Reinaud, 2004; Bosi and
+Ellis, 2005; Ellis and Baron, 2005.
+E.g., see Philibert, 2003, 2004, and Justus and Philibert, 2005
+E.g., see Baron & Bygrave, 2002; Bygrave and Bosi, 2004, and Philibert, 2005b
+COM/ENV/EPOC/IEA/SLT(2005)10
+2. Reasons for Integration and Likely Effects
+Integration may take place when objectives are set and policies adopted, so each countrys policy more or
+less stems from an international negotiating process; integration may also take place at a later stage, when
+national policies set up independently may be somewhat adapted to maximise synergetic effects at
+international levels. Ex-ante and ex-post integration may be inspired by the same motives; however, they
+may not entail exactly the same effects.
+While one could think of various reasons for integrating different approaches, most if not all relate to the
+presumption that this would create the necessary conditions for an eventual increase in the level of action.
+The various arguments are the following:
+The public good argument: climate stability is a public good. As such, it would be undersupplied
+by agents and countries acting in isolation, for countries would aim at equalising their marginal
+abatement cost with the marginal benefit they derive from their action alone. Provided free-riding
+can be avoided, collective or integrated action would drive higher level of mitigation, for
+countries would aim at equalising their marginal abatement cost with the (greater) marginal benefit
+they derive from the action of all countries;
+The competitiveness argument: Unilateral or uneven action against climate change may raise
+concerns about companies competitiveness on global markets, and undermine emission reduction
+efforts of these companies while entailing emission leakage. Integration may help alleviate these
+concerns and facilitate increased level of action;
+The fairness argument: Unilateral or uneven action may raise perception of unfairness which could
+reduce policymakers and publics will to act; this argument may be compounded by the
+considerations made above about competitiveness;
+The static cost-effectiveness argument: If different approaches can be combined or linked in some
+way, it may improve the cost of effectiveness of the combined regime by making the whole greater
+than the sum of its parts. For example, integration of national emissions trading approaches, i.e.,
+linking, could lead to greater economic efficiency and broader participation. It enhances economic
+efficiency by expanding low cost reduction opportunities. It could expand participation by
+reducing competitiveness concerns.4 It could also help enhance technology transfer in providing
+some up-front financing for emission reductions in the countries part of the integrated scheme.
+The dynamic cost-effectiveness argument: Some clean technologies still in their early development
+would improve performances and reduce costs through learning by doing processes. Such
+improvements may be greater and happen faster if markets are broader; as collaboration may
+broaden these if approaches lead to broader participation and are linked. It could reduce mitigation
+costs faster; collaboration may also help share information, research and development costs; lower
+abatement costs would justify governments requiring lower emissions.
+Benito Mller (2005) writes that significant surplus permits for the most populous developing countries  would
+definitely not do the job of mitigating concerns about competitiveness and leakage, since, by definition, surplus
+permits do not impose a mitigation cost. However, even surplus emission rights could, with proper domestic policy,
+create an opportunity cost for emissions. Such costs would certainly not affect the profitability of the companies in
+countries with surplus emissions as they may in countries short in emission allowances, but it would still deter
+increases in activity and emissions in the former countries, i.e. leakage, as a consequence of the carbon constraint.
+COM/ENV/EPOC/IEA/SLT(2005)10
+The technology transfer argument: Mitigating climate change will require improved or breakthrough clean technologies; most are in the hands of industrialised countries; collaboration
+between industrialised and developing countries help disseminating them more widely; integration
+of industrialised countries efforts could lead to more technology transfers as the public good
+argument applies in this context as well.
+How do these various arguments relate to each other? Obviously there are numerous synergies between
+them. Collaboration may simultaneously increase level of action, as suggests the public good argument, as
+a result of alleviating concerns for competitiveness, leakage or unfairness, in reducing short term and long
+term costs through market based instruments and technology development and transfers. However,
+combining approaches may induce conflicts not just lead to synergies. A complete assessment of options
+for integration would require a complete evaluation of the advantages and disadvantages. Such an
+assessment would be part of any future paper beyond this scoping effort.
+One area deserving particular attention in analysing the integration of different approaches comparable
+may be that of timing. Some approaches, such as the Kyoto targets, have a clear short term focus. They
+may still have a long term impact, although less easy to evaluate, in particular as it strongly depends on
+what follows the first commitment period. Other approaches may have a longer term focus. This time
+dimension may be important, as for example efforts deemed comparable if expressed, say, in monetary
+terms, may not do much to alleviate competitive or fairness concerns.
+3. Comparing Different Approaches
+The successful integration of different approaches may result from rounds of negotiations and trade-offs,
+and never require nor rely on a transparent assessment and comparison of Parties respective contributions.
+Such a process is not suited for analysis, as it requires an understanding of negotiating positions and
+Parties preferences, all difficult to observe and likely to change over time, including during the negotiation
+process itself. The interaction with domestic policy-making is another complication for such analysis.
+As an alternative, we seek to identify objective means of comparisons of countries efforts, putting them in
+perspective to each other. This section offers a first examination of issues in comparing approaches
+directly.
+Comparisons can be made either on the efforts (to be) accomplished, or on the results (to be) achieved. The
+first option would need methodologies to translate efforts-oriented approaches5 into result-oriented
+approaches, using comparable metrics. In both cases it would be to account for efforts and results relating
+to one countrys own emissions and those relating to assistance provided to other countries emissions
+reductions  especially, but not exclusively, to developing countries.
+Comparing domestic efforts
+A possible comparison metric is costs. Costs might be evaluated ex ante or ex post, or both. Comparisons
+should involve costs for the governments and costs for emission sources, i.e. administrative and mitigation
+costs. Some approaches may be more able to reveal costs than others, however.
+Or input-based approaches, as opposed to output-based approaches, to adopt the terminology of Heller and
+Shukla, 2003.
+COM/ENV/EPOC/IEA/SLT(2005)10
+For example, carbon taxes would provide ex ante a straightforward indication of marginal costs, but
+evaluating total costs will require evaluating ex ante or ex post the amount of abatement achieved, not to
+mention possible interaction with the existing or evolving fiscal basis in each country. If this can be done, a
+good approximation can be given of total costs from marginal costs and volume, although the cost schedule
+can entail different total costs.
+A broad emissions trading system would also reveal much ex post information on actual unit costs for
+mitigation. Changes in entities or countries registry accounts, indicating net trades, would be useful
+indicators of countries costs incurred  or benefits received  internationally through trading mechanisms.
+In the absence of underlying price information, a strategic information for private stakeholders, average
+prices over the period could be acceptable substitutes. Comparison of baseline trends and targets would
+provide useful information. Emissions trading system with price cap would ease ex ante assessment of total
+costs, although presumably the multiplication of the estimated emission reductions and the price cap level
+provides only an upper estimate.
+However, even a single price resulting from linking several emissions trading systems may hide large
+differences in costs resulting from differing features in the systems involved, such as rules for closure or
+treatment of new entrants. Moreover, emissions trading schemes are likely to interfere with many other
+policies and measures. While some would simply aim at making markets more efficient, others would be
+inspired by the willingness to develop some specific technology responses, as illustrates the EU renewable
+directive, which coexists with the EU emissions trading system. Countries policy mixes already
+integrate different approaches, which may or may not facilitate the integration of approaches at the
+international level.
+As a matter of fact, costs associated with technology approaches may be even more difficult to assess, at
+least ex ante. Spending from public and private partnership on R&D can usually be estimated with some
+precision. Costs associated with standards are more difficult to assess ex ante, and ex post information may
+be difficult to gather. The history of environmental regulations shows that ex ante cost estimates are often
+several times higher than ex post assessments. This was notably the case for the strengthening of the
+environmental standards for fuel in both North America and Europe (see, e.g., Harrington et al., 2000).
+Estimating costs of environmental programmes has proven difficult. However, past programmes  with
+limited sectoral and geographic scope  were relatively simple compared to the multiple measures that
+greenhouse gas mitigation programmes may involve. According to the IPCC, effective GHG mitigation
+may imply hundreds of end-use technologies (Metz et al., 2001) when energy efficiency is the primary
+lever for action.
+Further, climate change mitigation will involve actions that have multiple benefits and costs. Saving fuel,
+reducing local pollutants, reducing urban congestion, reducing fatalities from traffic, are but a few
+examples of actions, where either the climate or the other benefits could be considered ancillary to each
+other. This is one well-known difficulty in project-based mechanisms, as additionality is often difficult to
+demonstrate when non-climate benefits exceed costs. When non-climate benefits are other externalities, it
+is even more difficult to decide if these benefits must be taken into account in the analysis  this would be
+equivalent to bet whether and when policies able to internalise these costs would be implemented..
+Another difficulty is that public-private partnerships may tend to give national companies some
+competitive advantage over others. Therefore, other countries may be reluctant to take associated costs into
+consideration. Although not a methodological issue, this may have negotiating implications.
+Technological approaches based on standards and norms are likely to be more costly than cap-and-trade
+approaches. For example, Edmonds and Wise (1999) stated that their technology approach would cost
+about 30% more than a cap-and- trade approach to achieve a similar environmental outcome. Comparing
+COM/ENV/EPOC/IEA/SLT(2005)10
+efforts may thus over estimate the significance of efforts where governments take less effective policies
+than others. However, these expenditures may also provide more emission reductions in the long run.
+Indeed, one possible difference between efforts-oriented and result-oriented approaches is that they may
+lead to different emission reduction profiles over time. All these issues move the focus from assessing the
+efforts to assessing the results, and will be examined below.
+If comparisons are to extend to domestic efforts by developing countries, an array of new issues will
+appear. Should one use exchange rates or purchase power parities as the basis of these cost comparisons?
+Should one focus on monetary values themselves, or on the welfare derived from expenditures?
+In any case, one might still consider global, direct comparisons between the policies and measures
+undertaken in different countries. Thomas Schelling (2002), for example, considers that the Marshall Plan
+and the North Atlantic Treaty Organisation (NATO) could offer a model for what might succeed the
+Kyoto Protocol if it fails or evolves into something else, adding that their procedure is one that the main
+developed nations might pursue prior to any attempt to include developing nations.
+NATOs burden-sharing exercise included targets for national military participation, conscription of
+soldiers, investments in equipment, contributions to military infrastructure and real estate, and so on. ()
+the process was one of reciprocal scrutiny and cross-examination, with high-level officials spending
+months negotiating. As Schelling views it, NATO has been an enormous success; member nations made
+large contributions in money, troops, and real estate. They did it all voluntarily; there were no penalties
+for shortfalls in performance. And, without explicit trading, they practiced the theory of comparative
+advantage (in geographical location, for instance, or demographics, or industrial structure). It was an
+example of highly motivated partnership, involving resources on a scale commensurate with what a
+greenhouse regime might eventually require.
+Schelling thus suggests that not all countries need to do exactly the same things, and that broad and direct
+comparisons of levels of efforts implied by various policies and measures remain possible. One question is
+the potential complexity and necessary time of such negotiations in the case of climate change, if these
+comparisons are to serve some of the purposes assigned to integration in section 2. Climate change, on the
+other hand, is a long term issue. Another difference between NATO and possible future climate
+negotiations is that NATO involved essentially direct governmental expenses, while climate mitigation
+would involve efforts from all  governments, regional or local authorities, companies, individuals.
+Comparing efforts in helping others
+Costs comparisons may be a better metrics of effort when applied to assisting other countries to address
+their emissions. Capacity building costs can be estimated, as travel costs, costs of equipment transfers,
+patents offered or waived, workers trained and the like.
+It would be useful to distinguish donor technology purchase requirements, often the case in bilateral
+agreements, when making comparisons with aid forms such as contributions to the Global Environment
+Facility (GEF). In practice however making this distinction in expense comparisons may be difficult, as
+these economic returns might be difficult to assess.
+For somewhat similar reasons, it may not be easy to take into account facilities given to technology
+exporters through development banks or export credit agencies. One may also wonder what types of
+projects should be considered as helping others to address their emissions. Should one take into account
+the whole cost of a more efficient coal fired power plant, for its emissions per kWh would be lower than
+those existing in the host country? Or should the reference be the more recent and efficient similar
+investments? Should one take into account the costs of natural gas pipelines, or LNG terminal, for similar
+COM/ENV/EPOC/IEA/SLT(2005)10
+reasons? Should nuclear power projects be taken into account? Could projects to halt deforestation be
+considered? Very likely the same issues than those currently discussed about project-based mechanisms
+will have to be considered here even if the needed precision might be lower in this case than what is
+required to support market mechanisms. However, crediting emission reductions need not be an inherent
+part of such efforts, which would reduce the monitoring cost of these efforts from what they would be
+under a crediting mechanism.
+Annex II countries are fulfilling part of their obligations under the UNFCCC in financing climate
+programmes of the GEF, which funding evolved from voluntary contributions to more organised
+replenishment procedures (Sjberg, 1999). Countries could simply do more by increasing their
+contribution to the GEF. This is, for example, Schellings preferred approach, as he explains (Schelling,
+2002): Eventually, to bring in the developing nations and achieve emissions reductions most
+economically, the proper approach is not a trading system but financial contributions from the rich
+countries to an institution that would help finance energy-efficient and decarbonised technologies in the
+developing world.
+Annex II countries, however, also have bilateral or plurilateral agreements  the most recent being the
+G8 Climate Action Plan adopted at Gleneagles and the Asia-Pacific agreement announced in Vientiane,
+both in July 2005. If and when these agreements trigger significant financing targeted to climate change
+mitigation, whether directly or through technology cooperation, participating countries may want these
+efforts to be accounted for in any future comparison.
+Those Annex II countries that participate to the Kyoto Protocol may also acquire certified emission
+reductions under the Clean Development Mechanism, or Emission Reduction Units under Joint
+Implementation, or Removal Units. Under future agreements, this may extend to buying emissions
+allowances from developing or transition economies under various forms of emission targets. These
+countries may be willing to have these action credited to them in this comparison of efforts to help others.
+In this case, however, they should not take also into account these reductions against their own targets, or
+this would amount to double-counting.
+Comparing domestic results
+The other main option to make approaches comparable is to balance their results. For countries under a
+quantitative emission target approach, determining emission reductions would be relatively straightforward
+in comparing baseline trends and actual emission levels. It is likely to be more difficult with other
+approaches based on a variety of policies and measures and technology programmes, although this will
+depend on their exact form.
+In case of approaches focusing on R&D programmes, estimating resulting emission reductions may prove
+rather difficult and controversial. Moreover, the results may be expected on longer timescales than in the
+case of quantitative targets  although, for example, fifteen years separate the adoption of the Kyoto targets
+from the end of the first commitment period. Some technology programmes, as well as other policies and
+measures, still have a longer term horizon. For example, carbon capture and storage is not expected to
+provide significant reductions before 30 years, neither is photovoltaic, let alone nuclear fusion.
+Strengthening building codes has little short term effects, as the built capital stock rotates slowly, but
+important cumulative long term effects.
+How important is that difference in the timing of emission abatements? At first glance, it may appear of
+relatively second order importance, as climate change is a cumulative issue. With respect to long term
+concentration levels, emissions taking place later may even seem to matter more than those taking place
+earlier, thanks to the natural decay of carbon or methane in the atmosphere.
+COM/ENV/EPOC/IEA/SLT(2005)10
+Climate impacts, however, are a different matter. Reducing carbon dioxide and methane contributions to
+climate change at a late stage may have long-lasting impacts on the rate of climate change, if not its
+eventual extent. Moreover, reaching earlier some unknown thresholds in concentration levels can trigger
+positive feedbacks, such as the thawing of permafrost releasing more methane emissions, or the drying up
+of tropical forests weakening the terrestrial carbon sink. In sum, feedbacks and non-linear cause-effects
+relationships make the comparison of emissions at different points in time very complex (e.g., see SBSTA,
+2002), and possibly controversial.
+There is another obvious difficulty in comparing the results of approaches that would lead to emission
+reductions at significantly different points in time: such comparison must be done on the basis of estimates
+ or be performed only years or decades after the action took place.
+For approaches based on norms and standards, comparison with results-oriented approaches may be easier.
+As already noted, technology approaches based on standards would be similar to quantitative approaches
+based on sector-wide output-based targets. More generally, if results of standard-based approaches could
+be assessed in quantitative terms of emissions avoided, all forms of quantitative approaches come close to
+them  close enough perhaps to allow tradability and close enough probably to ensure the other possible
+benefits expected from integration. In this case, standard-based approaches would share with indexed
+targets and important characteristic: actual emissions would remain dependant on economic scenarios.
+Moreover, trading regimes based on indexed targets can be linked to trading regimes based on fixed and
+binding targets and other target types; therefore, it is conceivable to integrate and perhaps efforts-oriented
+approaches based on performance standards to any kind of result-oriented approaches  and even perhaps
+to link them to each other in the sense of linking emission trading regimes.
+Still, the issues of the timing of emission reductions, and the sheer number of technologies involved may
+be obstacles. The only simple standard-based approaches found in the literature are rather comprehensive,
+focusing on supply side and, perhaps as a consequence, on long time-scales. For example, Edmonds and
+Wise (1999) suggested a protocol requiring all new power plants in industrialised countries to be zero
+emitting by 2020, all existing power plants by 2050, and similar plants in developing countries when they
+reach the same level of per capita GDP expressed in purchasing power parities. In fact, the ex ante
+assessment of the outcome of such approach suffers from the uncertainties inherent to a technologyforcing approach  for technology development always remains unpredictable at least in part (Philibert,
+2003).
+Other, less ambitious approaches, would need much greater levels of detail to target the hundreds of
+technologies at end-use level quoted by the IPCC (Metz et al., 2001), and to achieve significant results.
+This may lead to rather complicated negotiating processes.
+Would the NATO example be of some help in this case? As Schelling (2002) underscores, One striking
+contrast between NATO and the Kyoto Protocol deserves emphasis: the difference between "inputs" and
+"outputs," or actions and results. NATO nations argued about what they should do, and commitments were
+made to actions. What countries actually did -- raise and train troops; procure equipment, ammunition,
+and supplies; and deploy these assets geographically -- could be observed, estimated, and compared. But
+results -- such as how much each NATO nation's actions contributed to deterring the Warsaw Pact -- could
+not be remotely approximated. But what could not be approximated with respect to NATOs non discrete
+objective could possibly be approximated in the case of climate change where emissions can be observed
+and reductions estimated. One such example may be found in the Methane-to-Markets Partnership, which
+sets a specific target of a 50 million metric ton equivalent of carbon reduction by 2015.
+Thus, a negotiating procedure following NATOs example, while focusing initially on comparing efforts,
+could still allow some rough comparison of results if efforts are formulated in terms of norms and
+standards for some, in quantitative emission terms for others. This would need to estimate the likely results
+COM/ENV/EPOC/IEA/SLT(2005)10
+of each and every action, unlikely to be easy task. Real and comprehensive emissions trading, however,
+may be out of reach  although some trading may take place at sectoral level, for sufficiently accountable
+activities.
+Comparing results in helping others
+On a project basis, when one only investor intervenes, estimating the results is not beyond possibilities 
+this is what is undertaken in the project-based mechanisms framework. However, estimating more globally
+the effects of the efforts of each country in helping another may be hopeless. These effects may be difficult
+to distinguish from those due to the domestic efforts of the country receiving help, and from efforts
+undertaken by other countries in helping the same country  not to mention the role possibly played by
+multilateral institutions to which all Annex II countries contribute.
+4. Conclusions
+Integrating options for GHG mitigation with fundamentally different structures and designs is very
+difficult, although not necessarily impossible. This is especially the case between approaches addressing
+emissions in a quantitative and comprehensive manner and those establishing output-based standards for
+well-identified sectors on the basis of best available or forthcoming technologies.
+With respect to domestic efforts to mitigate climate change, comparisons can be based either on efforts,
+e.g. through expense evaluation or detailed policies and measures examination, or on results, e.g. measured
+in emissions or emission reductions. With respect to efforts to help other countries mitigating climate
+change, comparisons may be far from straightforward. Any comparisons may best be based on efforts,
+preferably through common institutions.
+Such comparisons of approaches could help countries engage in more action, as the public good theory
+predicts, and in alleviating concerns about free-riding. In some cases, such as technology approaches or
+other policies based on standards, the structure of such approaches could be similar enough to allow
+emissions trading, provided the time frames of the different approaches are comparable. This high level of
+integration would enhance cost-effectiveness, which could in turn raise the level of action. In some other
+cases, the deployment of similar policies in different countries could help increase cost-effectiveness in
+accelerating learning-by-doing processes in the development and deployment of new climate-friendly
+technologies.
+Technology approaches focusing exclusively on research and development programmes are less easy to
+compare to result-oriented approaches. Integrating such fundamentally different approaches would be
+difficult. However, as R&D approaches tend to have a longer time horizon than all other approaches, they
+could be seen as complementary to these other approaches. The relevant issue may thus be integrating
+different approaches in individual countries, as well as integrating different approaches followed by
+different countries.
+Comparisons of efforts in helping others could also increase technology transfers, and this would likely
+enhance all the positive effects of integration of approaches in broadening the scope of international action.
+All these comparisons, however, are likely to more complex, time and resource-consuming than
+comparison between quantitative emission objectives.
+COM/ENV/EPOC/IEA/SLT(2005)10
+5. References
+Baron, Richard and Stephen Bygrave, 2002. Towards International Emissions Trading: Design
+Implications for Linkages. OECD/IEA Information Paper, Paris.
+Bosi, Martina and Jane Ellis, 2005. Exploring options for Sectoral Crediting Mechanisms. OECD/IEA
+Information Paper, Paris.
+Bygrave, Stephen and Martina Bosi, 2004. Linking project-based mechanisms with domestic greenhouse
+gas emissions trading schemes. OECD and IEA information paper, Paris.
+Edmonds, Jae A. & Marshall Wise, 1999. Exploring a Technology Strategy for stabilising atmospheric
+CO2, in Carraro C.(ed), International Environmental Agreements on Climate Change, Kluwer
+Academic Publishers, Dordrecht, NL.
+Ellis, Jane, and Richard Baron, 2005. Sectoral crediting mechanisms. An initial assessment of
+implementation issues in the electricity and aluminium sectors. OECD/IEA Information Paper, Paris.
+Harrington, Winston, Richard D. Morgenstern and Peter Nelson, 2000. On the accuracy of regulatory cost
+estimates. Journal of Policy Analysis and Management, 19(2): 297-322.
+Heller, Thomas C. and P.R. Shukla, 2003. Development and Climate: Engaging Developing Countries. In
+Joseph E. Aldy et alii, Beyond Kyoto  Advancing the international effort against climate change,
+Pew Center on Global climate change, Arlington, VA.
+Justus, Debra and Cdric Philibert, 2005. International Energy Technology Collaboration and Climate
+Change Mitigation: Synthesis Report, OECD/IEA Information Paper, Paris.
+Metz, Bert, Ogunlade Davidson, Rob Swart and Jiahua Pan (eds), 2001. Climate Change 2001, Mitigation.
+Contribution of Working Group III to the Third Assessment Report of the Intergovernemental Panel
+on Climate Change. Cambridge University Press.
+Mller, Benito, 2005. Climate Change post-2012: Transatlantic Consensus and Disagreements. Journal for
+Energy Literature, Vol. 11, Issue 1, June.
+Pershing, Jonathan, 1999. Evolution of mitigation commitments, Scoping paper, AIXG, September.
+Philibert, Cdric, 2003. Technology Innovation, Development and Diffusion, OECD/IEA Information
+Paper, OECD/IEA Information Paper, Paris.
+Philibert, Cdric, 2004. International Energy Technology Collaboration and Climate Change Mitigation,
+OECD/IEA Information Paper, Paris.
+Philibert, Cdric, 2005a. Approaches for future international co-operation. OECD/IEA Information Paper,
+Paris.
+Philibert, Cdric, 2005b. New commitment options: Compatibility with emissions trading. OECD/IEA
+Information Paper, Paris.
+Philibert, Cdric, Jonathan Pershing, Jan Corfee Morlot and Stphane Willems, 2003. Evolution of
+Mitigation Commitments: Some Key Issues, OECD/IEA Information Paper, Paris.
+COM/ENV/EPOC/IEA/SLT(2005)10
+Philibert Cdric and Julia Reinaud. 2004. Emissions trading: taking stock and looking forward. OECD/IEA
+Information Paper, Paris.
+SBSTA (Subsidiary Body for Scientific and Technological Advice), 2002. Methodological issues:
+scientific and methodological assessment of contributions to climate change. Report of the expert
+meeting. Note by the secretariat. FCCC/SBSTA/2002/INF.14
+Schelling, Thomas C., 2002. What Makes Greenhouse Sense?, Foreign Affairs, May/June.
+Sjberg, Helen, 1999. Restructuring the Global Environment Facility. Working Paper 13, www.gefweb.org
+Willems, Stphane and Kevin A. Baumert, 2003. Climate Actions and Institutional Capacity: Current and
+Future Challenges, OECD/IEA Information Paper, Paris.

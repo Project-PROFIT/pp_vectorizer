@@ -1,0 +1,1567 @@
+Tel.: 33 92 33 55
+Fax: 33 12 38 93
+trm@trm.dk
+www.trm.dk
+Energy Strategy 2025  Perspectives to 2025 and Draft action plan for the future electricity infrastructure
+The Danish Ministry of Transport and Energy
+Frederiksholms Kanal 27
+1220 Copenhagen K
+The Danish Ministry of Transport and Energy
+ISBN: 87-91511-39-9
+Energy Strategy 2025
+Perspectives to 2025 and
+Draft action plan for the
+future electricity infrastructure
+Energy Strategy 2025
+Perspectives to 2025
+Draft action plan for the
+future electricity infrastructure
+Table of Contents
+Foreword . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+1. The Government's energy strategy in brief . . . . . . . . . . . . . . . . . . . . . . . . 5
+2. Long-term challenges and goals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1. Global challenges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2. Scenarios for expansion of the Danish energy system . . . . . . . . . . . . . . .
+3. Goals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3. Future security of the Danish energy sector . . . . . . . . . . . . . . . . . . . . . . .
+1. Economic robustness . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2. Markets and prices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3. Environment and climate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4. Research perspectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4. Action plan for the future electricity infrastructure . . . . . . . . . . . . . . . .
+1. Perspectives to 2010 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2. The Great Belt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3. Skagerrak . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4. Upgrading of the link between Jutland and Schleswig-Holstein . . . . . . .
+5. Increased national grid expansion to 2010 . . . . . . . . . . . . . . . . . . . . . . .
+6. National grid expansion after 2010 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Foreword
+Energy consumption is on the rise around the world. International assessments
+indicate that global energy consumption in 2030 may be as much as 60% higher
+than it is today.
+Denmark is energy self-sufficient. Since the 1970s, we have been able to keep our
+energy consumption at the same level despite economic growth of over 50%. But
+global developments will nevertheless affect us. A steadily growing percentage of
+oil consumption will be covered by producers in politically unstable countries.
+This may very well have consequences for oil prices and, in the long term, for our
+supply security as well.
+Without a change of course, it is expected that a significant amount of the global
+increase in energy consumption will continue to be covered by fossil fuels such as
+oil, coal and natural gas. If this proves to be the case, it will lead to increased
+emissions of greenhouse gases rather than reduction of anthropogenic climate
+changes, which is the objective of the Climate Convention.
+This is a development which Denmark alone cannot stop. But we can ensure that
+Denmark is able to meet global challenges. At the same time, we must also exploit
+the possibilities for growth and economic development, with respect to energysaving and renewable-energy technologies, for example. This is a major opportunity for Danish enterprises because of the global increase in energy consumption.
+The Government has therefore formulated a coherent energy strategy which ensures a balance between supply security, environmental protection and economic
+growth.
+Developments in the energy sector should be based on the needs of consumers and
+of industry. The environment must be respected. Supply security must be ensured
+at lower costs than previously and must be closely connected to developments in
+international energy markets. All signs indicate that the energy sector of the future
+will be even more efficient and competitive than it is today. And this is very positive. Similarly, the energy sector will contribute to there being significantly less
+environmental impact and to fulfilment of future climate obligations.
+Energy Strategy 2025 and the draft action plan for the overall electricity infrastructure are part of a follow-up to the wide-ranging political agreement of 29
+March 2004. The transport sector's energy consumption has, for the first time,
+been integrated into an overall energy strategy. The Government's energy-policy
+goals must be achieved by means of effective efforts across all sectors.
+Energy Strategy 2025 sets Danish energy-policy frameworks for many years into
+the future. I look forward to discussing the strategy and the follow-up to it in the
+years to come with our partners in Parliament, with the energy sector and with
+other interested parties.
+Flemming Hansen
+Minister for Transport and Energy
+1. The Government's energy strategy
+ in brief
+A good point of departure
+Denmark is well placed to meet future energy challenges. The Danish energy system is robust, flexible and oriented towards competitive international markets.
+Denmark has a multi-faceted energy supply based on many different energy
+sources, a well-constructed energy infrastructure, a high degree of efficiency in
+energy consumption and significant auto-production of oil and natural gas.
+Furthermore, the Government's policy will lead to improved use of market mechanisms and to more cost-effective initiatives. The Danish electricity and natural-gas
+markets have been completely liberalised and are part of larger Nordic and European markets with substantial cross-border trading. The previous purchase obligation for environmentally-friendly electricity production has been revoked and,
+with implementation of the CO2 allowance system in the European Union, a decisive step has been taken towards flexibility in climate protection. It reduces energy
+costs and increases freedom of choice.
+Finally, developments in the energy system are to a certain extent based on Danish
+knowledge and technology. Today, Danish enterprises are in a particularly strong
+position internationally when it comes to energy-efficient technology and renewable energy.
+Long-term challenges
+Investments in the energy sector often have long time horizons. Infrastructures and
+production installations have long lifetimes and it takes time to develop new technologies. It is therefore necessary to think in the long term when setting energy
+policies. In the long term, there are three major challenges:
+Long-term energy policy challenges:
+Supply security. Rapidly rising energy consumption around the world puts greater
+pressure on global resources. An ever greater percentage of oil in particular will be
+supplied by politically unstable regions. In the future, the Danish economy must
+maintain a high degree of robustness vis--vis high and unstable energy prices.
+Global climate changes. Implementation of the Kyoto Protocol and future fulfilment of the Climate Convention's goal to limit anthropogenic climate changes to a
+non-dangerous level assume major global reductions in greenhouse-gas emissions,
+particularly the emission of CO2 as a result of energy consumption and supply.
+Growth and economic development. Globalisation leads to increased international competition and new commercial opportunities. Danish enterprises must have
+competitive framework conditions, including efficient energy use and access to wellfunctioning energy markets. In addition, Danish research into, and knowledge of,
+energy technologies must be transformed into exports and jobs.
+The Government will meet these challenges with a coherent strategy which ensures a balance between supply security, respect for the environment and economic growth. The strategy exploits the opportunities for these three factors to be
+coactive. It is essential to the Government that the means used be cost effective
+and appropriate to well-functioning markets in which competition can thrive to the
+benefit of consumers.
+The energy strategy should be seen in the light of the Government's overall strategy to make Denmark a leading growth-, knowledge- and entrepreneur society and
+to make Denmark the world's most competitive society by 2015.
+Long-term energy-supply security
+Most of today's global energy requirements are met by oil, coal and natural gas. The
+world's deposits of these resources are sufficient to cover growing demand until at least
+2025. Over time, most of the global production of oil and natural gas in particular will,
+however, be concentrated in fewer and fewer regions. This is especially true of oil, the
+largest reserves of which are found in areas which are today politically unstable.
+In order to meet the growing demand for oil and natural gas, major investments must
+be made in prospecting and in production- and transport capacity. There is the risk that
+it may prove impossible to attract the investments necessary in order to further develop
+oil production in these regions. This in turn may very well lead to rising and unstable
+oil prices and therefore, to a certain degree, to similar conditions for natural gas and
+other energy sources.
+Efficient energy use
+Compared to other Western economies, the Danish economy is well protected
+against high and unstable energy prices. Energy is used in Denmark more efficiently than in most other countries. A wide range of energy sources is exploited,
+which reduces vulnerability to a tense supply situation (with respect to oil, for
+example). Increased energy expenses correspond, to a certain extent, to increased
+income for the State and for the private sector from the production of oil and
+natural gas in the Danish part of the North Sea.
+The current high degree of robustness of the Danish economy must be ensured,
+including when North Sea production begins to fall. The long-term strategy to
+counteract unstable energy prices will involve continuing to make energy consumption more efficient and developing and using new, more effective technologies, including technologies based on renewable energy.
+On 10 June 2005, the Government entered into a broad political agreement on intensifying energy-saving efforts. This ambitious agreement sets the frameworks for energy-saving initiatives as well as the main elements of those initiatives for the next
+several years. The parties are in agreement on the target: that overall energy consumption (exclusive of transport) must be reduced. Greater efforts will be made to achieve
+documentable energy savings corresponding to an annual average of 7.5 PJ during the
+2006-2013 period. The additional savings will to a large extent be achieved by means
+of greater savings delivered by network and distribution companies in the electricity,
+natural-gas, district-heating and oil sectors.
+Transport
+The transport sector is a particular challenge. In the past, its energy consumption
+has risen uninterruptedly and is almost exclusively based on oil. It is the Government's intention to focus more attention on this situation. The costs involved in
+reducing the transport sector's energy consumption with national means are generally high, which must be seen in light of the already high level of taxation applied
+to the sector. The Government considers it to be essential that initiatives to limit
+energy consumption for transport are cost-effective. Many initiatives will propose
+common European Union efforts.
+Technically speaking, there are many ways in which vehicle energy efficiency can
+be improved. Within the European Union, the Government will therefore work to
+promote initiatives which can lead technological developments in a more environmentally friendly and energy efficient direction and which can increase the production and marketing of such technologies. Efforts should be made, for example,
+to continue to develop and further strengthen the European Union's agreement
+with the automobile industry on the reduction of CO2 emissions from passenger
+vehicles.
+On the national level, the Government will focus on the synergy between transport
+and energy by giving greater support to research and development in these sectors.
+In addition, the Government will set up a committee to investigate long-term, proceeds-neutral and environmentally positive conversion of overall vehicle taxation.
+With respect to establishing the basis for more ambitious, long-term efforts to limit
+and reduce oil dependency in the transport sector, the Government will set up a
+committee to establish an overview of the perspectives and potentials relative to
+developing and using competitive alternatives to petrol and diesel. Such alternatives include biofuels, natural gas and, further down the road, hydrogen.
+Renewable energy
+Renewable energy is increasingly used to produce electricity and district heating.
+In 2003, more than 25% of the electricity and district heating consumed was produced on the basis of renewable energy1 and nearly 24% for electricity supply
+alone. On the basis of various scenarios, the Danish Energy Authority (DEA) has
+prepared projections to 2025 on the production of electricity and district heating.
+According to the basic projection2 , which predicts moderate rises in oil prices and
+in CO 2 allowance prices, the renewable energy contribution to electricity supply
+will amount to more than 36% in 2025 (see Figure 1). Wind energy will account
+for a major part of this increase.
+The assumptions to 2025 regarding oil prices and CO2 allowance prices are very
+uncertain. It is therefore important to point out that increased use of renewable
+energy will naturally adapt to actual economic framework conditions. If the price
+of oil remains high and if ambitious international climate objectives result in
+higher CO2 allowance prices, both wind energy and biomass will become so
+advantageous that the amount of renewable energy produced could very well
+Principally in the form of biomass, biodegradable waste and wind.
+See the Summarised Background Report, DEA 2005.
+increase significantly. With high oil- and CO2 prices, such a development could be
+achieved with reduced production subsidies or perhaps without any production
+subsidies at all for new installations.
+It is the Government's intention to use the market as a basis for continued increased use of renewable energy. This is in line with the fact that a market needing
+new capacity will be far more cost-effective than politically forced increased use
+of renewable energy. The frameworks for the market must be established so that
+renewable energy is promoted using means which result in society benefiting from
+the advantages which these forms of energy provide. This must include consideration being given to the need for continuity in technological developments at the
+same time as benefits are derived from the operational experience gained.
+Source: DEA.
+Note: The basic projection was prepared before the new agreement on energy saving was entered into. Therefore, both
+this figure and the following figures do not take the effects of the new energy-saving initiatives into consideration.
+Today, renewable energy is promoted by means of direct production-subsidies and
+exemptions from energy taxes as well as indirectly by means of CO2 taxes and
+CO2 allowances on other forms of energy. In addition, increased use of wind energy is supported by means of necessary strengthening and development of the electricity grid. In the future, greater flexibility in electricity consumption, including
+more flexible use of electricity for heating, could facilitate the introduction of
+more renewable energy to the energy system.
+It is the Government's intention that new wind-energy capacity, both on land and
+offshore, continue to be established on an economically healthy basis. With the
+extension of systems already in place and with respect for impact on the landscape,
+expansion on land can be undertaken in step with the decommissioning of older
+wind turbines. The Government considers it to be essential that the physical planning and official approval involved continue to be fully clarified. In this context,
+the basis for assessing possibilities for the physical location of new offshore windturbine farms and the various considerations relative to nature, the environment and
+the landscape, as well as the related challenges, will all be updated. Today, biomass-based installations use primarily domestic resources. With more widespread
+use, it may become necessary to import a greater percentage of the biomass
+required. The development of international biomass markets will contribute to
+improving these fuels' competitiveness and contribution to supply security.
+Initiatives for energy saving and renewable energy
+The Government will:
+Ensure decisive and intensified energy-saving efforts
+ On 10 June 2005, the Government entered into a broad political agreement on decisive intensification of energy-saving efforts. The parties are in agreement on the target: that overall energy consumption (exclusive of transport) must be reduced.
+ Greater efforts will be made to achieve concrete, documentable energy savings
+corresponding to an annual average of 7.5 PJ during the 2006-2013 period. In 2008,
+the efforts made and the results achieved will be assessed.
+ The additional energy savings will to a large extent be achieved by means of greater
+savings delivered by network and distribution companies in the electricity-, naturalgas, district-heating and oil sectors.
+ The agreement of 10 June 2005 also includes many other new initiatives which
+intensify energy-saving efforts pursuant to the Government's draft energy-saving
+plan of December 2004.
+Increased focus on the transport sector's energy consumption
+and oil dependency
+ Development of more effective technologies and alternative fuels.
+ Analysis of the perspectives for the development and use of alternative fuels, including natural gas, biofuels and hydrogen, in the transport sector.
+ Within the frameworks of the Act on Sector Research, the Government will expand the
+Danish Transport Research Institute so that it also focuses on energy-related challenges;
+it will become the Danish Transport and Energy Research Institute.
+ An ambitious initiative at the European Union level for long-term improvement in
+the efficiency of the transport sector's energy consumption by means of the development and marketing of more energy-effective vehicles.
+ Study of the possibilities to undertake a proceeds-neutral and environmentallyimproving conversion of overall vehicle taxation over several years.
+Ensure increased use of renewable energy by means of continued effective
+framework conditions
+ Expansion of the electricity infrastructure so that it supports increased use of renewable energy.
+ Continued good economic conditions for a market-oriented expansion with renewable energy.
+ Prioritising of renewable energy and energy efficiency in connection with public research-, development- and demonstration programmes and by working for corresponding prioritising within the European Union.
+ Updating of the basis for assessing possibilities for the location of future offshore
+wind-turbine farms.
+At the present time, the use of biomass to produce electricity is a relatively expensive solution in socio-economic terms but, with higher prices for CO2 and fossil
+fuels, biomass-based electricity and heat production may very well become an economically viable choice. Today, a significant amount of biomass is used at power
+plants as a result of the biomass agreement and related subsidies. This contributes
+to maintaining the scientific basis for increased use of biomass in the future. The
+European Commission is working on an overall biomass-trade plan. In general, we
+may expect increased use of biomass within the European Union in coming years.
+In Denmark, it has proven to be possible to build and operate large biogas installations which are socio-economically viable as long as a certain amount of organic
+waste is available. It is therefore expected that the use of biogas will rise.
+The environment and global climate changes
+The energy sector's major environmental challenge is changes to the global climate caused by the emission of CO2 and other so-called greenhouse gases. Most of
+the world's CO2 emission is attributable to the use of coal, oil and natural gas for
+electricity, heat and transport. The same applies in Denmark. According to the
+International Energy Agency (IEA3 ), if no political action is taken before 2030,
+global CO2 emissions will by then have increased by 60% relative to today's levels.
+It is the European Union's objective to limit anthropogenic climate changes to a
+non-dangerous level, defined as global temperature increases of not more than 2C.
+In March 2005, the European Union Heads of Government and of State agreed on
+an approach to international climate negotiations. They stressed the importance of
+far-reaching global participation in efforts against climate changes. It is expected
+that, during negotiations with other parties, reductions amounting to 15-30% of
+total greenhouse-gas emissions in industrial countries up to 2020 and beyond will
+be considered in the light of the conclusions arrived at during the previous committee meeting of Ministers of the Environment. The Heads of Government and of
+State also intend to develop a European Union strategy for limiting climate changes.
+The Government will encourage the European Union actively to seek an ambitious
+agreement on reduction of greenhouse gases in good time, that is, before the first
+phase of the Kyoto Agreement runs out in 2012. It is the Government's hope that
+more stable frameworks for investments in the energy sector will be ensured by
+means of clarification of future climate obligations.
+By implementing the European Union's CO2 allowance system, the Government
+has ensured an instrument decisive to fulfilling Denmark's Kyoto obligations between
+In World Energy Outlook, IEA.
+2008 and 2012. The allowance system guarantees that enterprises covered by the system live up to their obligations and that they have the opportunity to do so in the most
+efficient and flexible way possible. The Danish energy sector already has a major
+joint responsibility to live up to Danish CO2 obligations. And this will remain the case
+in the future. The frameworks for the future allowance system must, however, be set
+so that the conditions for investing in new energy installations in Denmark are not
+significantly different from such conditions in other European countries.
+Energy saving and the use of renewable energy will continue to be promoted as a
+result of the allowance system. At the same time, continued development of energy-efficient and CO2 -neutral technologies will, in the long term, support fulfilment
+of Denmark's future climate obligations.
+The extent of future challenges both globally and in Denmark indicates that the
+development of new, efficient energy technologies will become the driving force in
+long-term climate initiatives. Furthermore, technological development within the
+energy sector could make a concrete contribution to fulfilment of the Government's
+overall objective of making Denmark a leading growth- and knowledge society.
+National and regional environmental considerations create challenges to energy supply. Although the emission of sulphur dioxide has gradually been brought down to a
+low level, achieving Denmark's international NOx goal remains a serious challenge.
+In this context, local environmental impact due to energy supply is a major issue.
+Initiatives against global climate changes
+The Government will:
+Nationally
+ Ensure that emission of greenhouse gases in Denmark is regulated in a cost-effective
+way and in cross-sector balance. The Government will work towards future expansion
+of the CO2 allowance system so that it includes other sectors, including transport.
+ Support the development of new and effective energy technologies which can
+contribute to fulfilling future climate obligations at the lowest possible cost.
+ Continue to take local and regional environmental factors into consideration when
+establishing energy-policy priorities.
+Internationally
+ Encourage the European Union actively to seek an ambitious agreement on reduction of greenhouse gases in good time, that is, before the first phase of the Kyoto
+Agreement expires in October of 2012.
+ Work actively during international climate negotiations in order to achieve long-term, tenable frameworks for international climate policy which contribute to positive environmental
+impact and, at the same time, ensure stable, predictable investment conditions for industry.
+Growth and economic development
+The Government will make Denmark a leading growth-, knowledge- and entrepreneur society. The energy sector can contribute to reaching this objective by means of:
+ well-functioning markets with a high level of daily supply security
+ continued improved efficiency of Danish energy consumption
+ expansion of Danish positions of strength in the development and production
+of effective energy technologies.
+Well-functioning markets
+In order for energy supply to be efficient, the course set by the Government with
+market liberalisation and market-oriented instruments must be maintained and
+taken further. Denmark is closely connected to markets in Scandinavia, in the rest
+of Europe and around the world. Healthy development of these markets towards
+full integration, openness and competition must be ensured for the long term.
+Integration of the electricity- and natural-gas markets requires a well-developed
+infrastructure which physically connects regional markets. By means of expansion
+of the electricity infrastructure, the Government will also ensure both supply security and effective frameworks for the introduction of more renewable energy.
+An electricity link under the Great Belt will improve the functioning of the overall
+Danish electricity system, improve supply security and promote stronger competition
+to the benefit of consumers. It will also have a significant socio-economic value if it
+can prevent even 1 hour's power outage every 10 years. According to assessments,
+the setting up of a link under the Great Belt in 2010 will result in a socio-economic
+surplus of more than DKK 400 million during the links lifetime.
+A key element in evaluation of the link is the need to improve the functioning of
+the Danish electricity market and to strengthen competition. It is estimated that the
+link will foster competition to the extent that there will be an average drop in the
+market price of electricity by between 3% and 6%. The precise extent of this effect
+is, however, highly uncertain.
+Development of the Danish gas market is influenced by the fact that Denmark is
+located physically on the edge of the European gas market and that its market is of
+minor importance on the European scale. The effects of these factors on competition must be counteracted with effective market conditions and greater integration
+with surrounding markets. Today, the Danish gas infrastructure sufficiently supports consumption and production. In the longer term, the need may arise both in
+Denmark and throughout Europe to access new sources of gas supply.
+The Government will therefore carry out an analysis of the long-term need to
+develop the gas infrastructure.
+Effective, competitive international markets require a uniform set of rules which
+ensure equal and fair cross-border competition. It will be in the Danish interest to
+ensure unified development of national gas markets within Europe. The Government will support new, ambitious initiatives within the European Union in order to
+improve market functioning.
+Economic growth also depends on the continued supply security of electricity and
+natural gas being maintained at a high level in the liberalised markets. Supply security can be reinforced with an effective infrastructure but the Government will also
+prioritise clear, stable frameworks for the commercial decisions regarding establishment of new production capacity. The need to expand the infrastructure will depend
+on concrete market developments, including the use of gas in the electricity sector.
+A new, large, Danish-based electricity and natural-gas company will be a player on the
+Northern European market and will contribute to stronger competition in relationship
+to large European companies. A large Danish-based energy company will also make a
+major contribution to maintaining and developing knowledge, competencies and development environments within the new energy technologies in close co-operation with
+industry, research institutions and public research- and development programmes.
+Taxes
+Energy- and CO2 taxes are complicated. They have been established according to
+conditions which are expected to change in the future. The Government intends to
+modernise and simplify the Danish energy- and CO2 tax system in light of the fact
+that CO2 allowances were introduced at the Community level as of 1 January 2005.
+The Government will therefore propose that future energy- and CO2 taxes be
+changed. The Government has set up a committee which is studying the question.
+It may be necessary to amend certain rules before the taxes are revised, depending
+on specific conditions. Various organisations, etc., in the energy sector have proposed that taxes on district heating be revised.
+The taxes on heat from the co-production of electricity and heat are lower than the taxes
+on separately produced district heating and much lower than the taxes on heat produced
+with electricity. In a number of situations, this results in socio-economically and environmentally inappropriate overproduction of electricity. With low market prices for electricity, electricity is produced at power plants in spite of the fact that the electricity price is
+lower than the costs involved since this loss is often more than offset by the taxes saved.
+Similarly, tax regulations, etc., discourage the use of electricity to produce district
+heating. This means that tax regulations can constitute an obstacle to socio-economically advantageous possibilities being taken into consideration for the production of district heating with electricity. With low market prices for electricity, the
+socio-economic costs of electrically produced heat, inclusive of environmental
+costs, are lower than the costs incurred with the use of other energy sources.
+The Government will study the possibilities for revising the taxes on district
+heating. The objective will be to ensure that these taxes do not unnecessarily result
+in electricity production when the costs involved are higher than electricity prices
+and that these taxes do not discourage use of electricity in district-heating systems
+when the socio-economic costs, including environmental costs, involved are lower
+than the costs associated with other energy sources. In addition to the fact that any
+changes must be proceeds neutral, the Government considers it to be important
+that the effects on distribution be acceptable and that the regulations be simplified.
+Technological developments
+For many years now, valuable experience has been gained in the energy sector
+through the marketing of new knowledge and ideas. And this has led to the creation
+of new jobs. It is very likely that Danish energy-technology competencies may be
+valid in the globalised market. This applies not only to existing areas of strength,
+such as wind energy, but also to other technologies, such as fuel cells, biofuels and
+entire energy systems in which new technologies are interconnected. This implies
+potentially significant economic perspectives for Denmark given that, in the
+coming decades, it is expected that there will be substantial growth in the international demand for new, environmentally-friendly energy technologies and solutions.
+In general, it is the Government's intention to maximise the development of green
+technology in Denmark so that Danish positions of strength (in the energy domain,
+for example) can be extended and transformed into exports and jobs.
+For the 2005-2008 period, the Government has allocated an additional approximately DKK 280 million for strategic research into energy and the environment.
+This research is to be co-ordinated by the Danish Strategic Research Council. The
+Government has also decided to establish a High Technology Foundation, the purpose of which will be to carry out advanced technological research and innovation.
+The Foundation's assets will be used in selected areas, nanotechnology, biotechnology and information- and communication technology in particular. Special attention will be paid to promising areas of particular interest commercially and in
+which Denmark has unique qualifications and possibilities. This may include support for the development of advanced technological solutions in the energy field.
+Overall technological development within the areas on which the High Technology
+Foundation will concentrate may naturally play an important role in connection with
+the development of new energy technologies, both in the development of individual
+technologies and of technologies for the management of interconnected energy systems. For example, the development of fuel cells and biofuels requires particular
+attention so that the technologies can be brought up to a commercial level.
+Furthermore, the Government will prepare an ambitious, co-ordinated multi-year strategy
+aimed at making Denmark a leading growth-, knowledge- and entrepreneur society. In the
+years leading up to 2010, the Government will allocate DKK 10 billion to further education, research, innovation and entrepreneurship. It is expected that the strategy will be presented in spring 2006 and that it will constitute the basis for the prioritising of new means.
+Initiatives for well-functioning energy markets
+The Government will:
+Ensure a well-functioning energy market by
+ Carrying out a socio-economically viable expansion of the overall electricity infrastructure. Energinet.dk will introduce a project for an electricity link between Eastern
+and Western Denmark under the Great Belt. In addition, efforts will be made to
+strengthen the electricity links to Norway and Germany.
+ Setting clear requirements and frameworks for necessary supply security in the local
+electricity grid (this as part of a dialogue with network companies).
+ Establishing an action programme for more flexible electricity consumption.
+ Investigating the possibilities for removing tax-related obstacles to socio-economically and environmentally viable use of electricity in the district-heating systems;
+ensuring that taxes do not unnecessarily results in electricity production at times
+when ensuring the related costs are higher than electricity prices.
+Promote a more effective gas market by
+ Working on the European level to further integrate the Danish gas market with other
+European gas markets in order to arrive at unified and transparent framework conditions.
+ Ensuring a socio-economically viable expansion of the gas infrastructure in step with
+long-term development of Danish gas consumption and production.
+Ensure consumers the lowest possible heat prices by
+ Continuing to increase the efficiency of district-heating supply, focusing on supply
+companies costs and on the appropriate inclusion of new technologies in heat
+supply generally.
+Initiatives for technological development
+The Government will:
+Promote development of new technologies and the use of industrial potentials by
+ Increasing research efforts in general and strengthening co-operation between
+public and private initiatives.
+ Intensifying development and demonstration of new, energy-efficient technologies
+and renewable energy.
+ Co-ordinating efforts across the various public research and development programmes.
+ Focusing efforts in the energy field towards the realisation of particular Danish industrial potentials and energy-policy priorities.
+Follow-up
+The Government will closely monitor developments in the production and consumption of energy in order to ensure supply security, respect for the environment,
+well-functioning markets and cost effectiveness. By 2010, the Government will
+prepare an overall stocktaking of its energy strategy on the basis of actual developments in energy prices, international CO2 allowance prices and technologies and
+markets.
+2. Long-term challenges and goals
+2.1. Global challenges
+In the future, the Danish energy system and the Danish economy in general will
+encounter external challenges as a result of greater pressure on international
+resource markets and of increasingly demanding international environmental agreements. In accordance with the general guidelines established by the Government, the
+challenges arising from globalisation will be met by concentrating on well-functioning energy markets and by exploiting the resulting major economic potentials.
+Growth and economic development
+Well-functioning electricity and gas markets
+The European electricity- and gas markets have been liberalised and, by 2007, all
+consumers in the European Union will have free market access. In Denmark, all consumers had free market access as early as 2004. It is very much in Denmark's
+interest that the European Union's energy markets become more competitive. This
+will also strengthen competition within Denmark. It is therefore important to follow
+up this positive development and to ensure that new markets function well and that
+they are integrated across borders. This will constitute the best possible basis for
+competition, to the benefit of consumers.
+The European Commission has singled out the efforts made by Denmark and the
+other Scandinavian countries to lead the way in implementing liberalisation directives. There are, however, barriers to fully integrated, well-functioning, competitive
+markets in many other European Union member states. Goal-oriented efforts within
+the European Union are necessary in order to ensure the true opening up of markets
+in all countries and more transparent and harmonised conditions across borders.
+In the liberalised markets, it is the market mechanism, that is, the market players'
+decisions regarding purchase and sale, which creates supply security. The decision
+to establish new production capacity is therefore no longer made by central authorities but by professional investors on the basis of price signals from the market
+regarding the need for new capacity. As opposed to the case in most markets, the
+"marketplace" itself  the interconnected electricity grid  is a natural monopoly.
+With the political agreement of 29 March 2004, the Government has ensured that
+the driving force in this natural monopoly, that is, the transmission network and
+the system operator, are publicly managed.
+A clear division of responsibilities between the market players and the system operator are necessary for optimal maintenance of supply security. The division of
+responsibilities should, along with other frameworks for the market, be increasingly co-ordinated internationally  that is, in Scandinavia and throughout the European Union.
+While the Scandinavian electricity market now has an effective exchange platform
+and healthy competition and trade across borders, the natural-gas market remains
+less developed. There will be a need in coming years to develop further the frameworks for effective competition in the Danish and European gas markets.
+Public service obligations
+PSO costs
+PSO stands for Public Service Obligations and refers to electricity-supply enterprises'
+public obligations. In 2003, the costs arising from these obligations amounted to a total
+of almost DKK 4 billion, divided among:
+ subsidies to environmentally-friendly electricity, including management and regulation: DKK 2.960 million
+ supply security (payment for extra production capacity): DKK 370 million
+ other (research, development, energy advice, etc.): DKK 410 million
+The costs arising from these public obligations are sustained by electricity consumers.
+The Government has worked consistently to reduce costs to energy consumers, including the costs for PSO applied to electricity bills. PSO-related costs primarily cover
+subsidies for environmentally-friendly electricity production but also support for research and development and energy saving (cf. box above). Overall PSO costs vary
+somewhat from year to year. In 2003, they amounted to just under DKK 4 billion.
+Source: DEA.
+As a consequence of the Government's focus on energy costs, support for wind
+energy and for production of decentralised, co-generated heat and power has been
+changed. A marked reduction in PSO costs can therefore be expected in coming
+years (see Figure 2). Electricity prices will therefore become more competitive for
+Danish enterprises and consumers.
+The forecast drop in PSO costs after 2010 is mainly due to the fact that subsidies
+for both wind energy and decentralised, co-generated heat and power are being
+significantly reduced. The reduction in subsidies for environmentally-friendly
+electricity reflects both that the technologies are becoming more competitive and
+that higher prices are expected on the electricity market, which automatically leads
+to reduced subsidies. The changes in PSO costs are particularly sensitive to price
+changes on the electricity market.
+Today, some wind turbines still receive relatively high subsidies. This high level of
+support will be gradually phased out during the next 10 years. Furthermore, it is expected that older wind turbines will be replaced during that period by new, more effective
+wind turbines, which will receive considerably less State support. The low rise in PSO
+costs after 2015 is the result of forecasts in the basic projection concerning greater
+The values given for the expected changes in PSO costs include subsidies to environmentally-friendly electricity,
+payment for extra production capacity and costs related to research, development, energy advice, etc. For the last
+two subsidy categories, it is assumed for the purposes of calculation that costs will remain constant throughout
+the period. The overview of the changes expected in total PSO costs reflects expected increases in subsidies for
+environmentally-friendly electricity.
+wind-energy capacity and of the calculation assumption made in the projection that
+subsidies will remain at today's levels.
+The Government expects that State support for new investments in renewable energy
+(such as new, more efficient wind turbines) can be gradually reduced in coming decades as technologies applied to the use of coal, oil and natural gas become more
+competitive. The Government's goal is that politically-decided costs built into the electricity price reflect conscious prioritising and cost-effective initiatives.
+Commercial perspectives
+Today, Danish enterprises have impressive competencies and international positions of strength when it comes to energy technologies and overall energy solutions. The production and export of wind turbines is the flagship of this activity.
+It is expected that the global market for effective, environmentally-friendly energy
+technologies will grow rapidly in coming decades as a result of increasingly strict environmental requirements, the reinforcement of supply security by means of diversification and rapidly rising energy consumption in developing countries. It is a challenge
+for Danish enterprises to ensure an increasingly larger share of expected global growth.
+Competition on the market for new and effective energy technologies may be
+expected to become increasingly intense in coming decades. If the Danish positions of strength are to be maintained and expanded at the same time as the
+groundwork is prepared so that new, innovative technologies can become competitive and viable on the global market, then goal-oriented efforts are essential.
+The development of new technologies must be seen in an international perspective
+in which Danish enterprises are the leaders in selected areas. In order for the often
+heavy investments in development to be justifiable, such technologies must also
+have potential on the international market.
+A positive development of this kind will require optimal frameworks for enterprises
+in the entire chain from research and development to marketing, financing and,
+finally, commercialisation. There must be continued research and innovation in the
+form of co-operative efforts between the private and public sectors. The public sector will be able to support these efforts by means of joint financing, for example.
+Furthermore, the Danish energy system must contribute to the practical demonstration of
+new technologies and interconnected systems. New and effective technologies will make
+a major contribution to the further increased efficiency of the Danish energy system.
+It is expected that, by 2025, many of the technologies which are currently unable
+to compete at market conditions will have been brought to a commercial level.
+Expansion of the electricity infrastructure
+The electricity-transmission grid is the backbone in the connection between electricity producers and consumers both domestically and abroad. The transmission
+grid is therefore of crucial importance to electricity supply-security. It is the foundation on which the cross-border, liberalised electricity market is based.
+Expansion of transmission capacity must counteract the formation of bottlenecks,
+which limit competition. The transmission grid also must contribute to stronger
+competition by supporting the establishment of new production installations. Sufficient transmission-grid capacity is the key precondition for new electricity-production installations being set up in Denmark by commercial investors. Finally, the
+transmission grid must support investments in wind energy and other environmentally-friendly electricity production.
+The decisive challenge in connection with expansion of the electricity infrastructure is to ensure that it takes place when required and that it corresponds to need. In
+this way, it will be possible to promote competition and reinforce supply security
+and encourage environmentally-friendly electricity production.
+With effect as of 1 January 2005, the State has taken over responsibility for the system
+and for the overall transmission networks for both electricity and gas from Eltra,
+ElKraft Transmission, El-kraft System and Gastra A/S. Ownership will be exercised by
+a new State enterprise, Energinet.dk, which is completely independent of commercial
+activities. The objective is to ensure open and equal access for all users of the network.
+Long-term supply security
+Oil is the most important energy source traded globally. 35% of the world's energy
+consumption is covered by oil and consumption is expected to grow in coming
+years. The oil market is equally interesting, since price swings often influence the
+prices of natural gas and coal. Changes in the price of oil therefore have consequences on economic development, both globally and in Denmark.
+According to the IEA, the international supply situation will not, in spite of the
+high and very unstable crude oil prices seen in recent years, become critical during
+the next few decades. The IEA expects that the price of oil in 2025, marked increases in demand notwithstanding, will be around US$ 30/ton.
+The IEA points out that there is nevertheless considerable uncertainty concerning
+future oil-price changes and hence, to a certain extent, the prices of other energy
+sources. If, for example, global oil consumption increases to a greater degree than
+anticipated, or if it is not possible to attract sufficient investments for new production, the price of oil may very well rise considerably. An increasing percentage of
+global oil production will take place in OPEC countries (as shown in Figure 3)
+and, if oil consumption rises as expected by the IEA, global production over
+several years could approach capacity.
+These factors will result in pressure for price increases. The market mechanism
+will counteract this pressure since higher prices over a long period will contribute
+to limiting consumption and to increasing investments in oil supply and in use of
+alternative energy sources. However, an oil price of around US$ 50/ton (calculated
+according to 2002 prices) in the coming decades cannot be discounted.
+Source: World Energy Outlook 2004.
+Future oil prices can be expected to become periodically very unstable and potentially
+to remain at a high level. This uncertainty in and of itself can have a negative economic
+impact by restricting willingness to invest and thereby enterprises' ability to develop.
+The impact on the Danish economy of high, unstable oil prices is reduced by
+lower energy consumption and a lower percentage of oil in overall energy consumption. Cost-effective energy savings, gradually increased use of renewable
+energy and the development of new technologies are all instruments which can
+contribute to ensuring Danish economic robustness vis--vis the price of oil.
+The steadily increasing concentration of oil reserves in OPEC has also a geopolitical
+dimension which makes greater, long-term independence from oil recommendable.
+Denmark's considerable auto-production of oil and natural gas means that significant
+parts of the Danish economy benefit from high oil- and natural-gas prices.
+This applies first and foremost to the State, to oil- and natural-gas producers and to
+suppliers to the offshore sector. As is shown by Figure 4, it is assumed that oil production will be maintained at a high level for several years, after which it will gradually
+fall as we approach 2025.
+Based on estimated production from existing fields alone, Denmark expects to be selfsufficient in oil at least until 2015. New technologies and prospecting will contribute to
+this self-sufficiency. If all of the estimated potential from new, improved reclamation
+methods and prospecting becomes actual, this self-sufficiency will last until after 2025.
+Moreover, higher efficiency and conversion of oil consumption will contribute to
+increased self-sufficiency. The consumption projection in Figure 4 is a so-called basic
+sequence which does not take the effects of new initiatives into consideration.
+Explanation: "Reserve contribution" is the expected oil production from known fields. "Technology contribution" is
+increased production as a result of expected improvements in reclamation methods, etc. "Prospecting contribution"
+is production from deposits which are expected to be found due to future prospecting activities.
+Source: Danish Oil and Gas Production 2004, DEA.
+Natural gas
+Delivery of natural gas from the Danish part of the North Sea began in 1984 and
+continues to meet Danish needs. Denmark expects to be self-sufficient in natural gas
+up to around 2015. Depending on results from prospecting activities, this self-sufficiency may extend beyond 2015. The technology contribution is considered to be
+significantly less for natural gas than for oil.
+The Danish infrastructure is well designed and has sufficiently large capacity so as to
+ensure responsible and secure supply to the existing natural-gas market. It is expected
+that, in coming years, the use of natural gas for heating and for industrial purposes will
+not rise significantly. On the other hand, it is expected that natural gas will be increasingly competitive as a fuel for electricity production as of around 2015. This is first
+and foremost due to CO2 allowances, which impact natural gas more than coal, and to
+the fact that the investment costs for new electricity-production capacity based on
+natural gas are relatively low.
+The DEA's basic projection assumes that, given the foregoing, production of gas
+energy in 2025 will account for approximately 40%5 of electricity consumption. A
+rise of this kind in gas consumption will presumably require investment in the
+strengthening of the existing transmission network in order to ensure sufficient,
+dependable supply. In addition, it may become necessary to invest in pipelines
+from the existing transmission network to both new and existing power-plant sites.
+Increased use of natural gas for electricity production combined with expected
+reduction in natural-gas production in the Danish part of the North Sea will, at a
+certain point, give rise to the need to access other gas reserves. The overall supply
+situation in the future must therefore be assessed to a large degree in relationship
+to access to gas on the international markets. Denmark is geographically well located in relationship to the large Norwegian and Russian gas reserves. Access to
+these gas reserves will, however, require new infrastructures.
+From now on, Energinet.dk will be responsible for natural-gas supply security and
+must therefore evaluate the need for long-term expansion of the infrastructure.
+The environment  globally and locally
+Climate
+Two of the major environmental challenges to the energy system are global warming and the emission of greenhouse gases. According to IEA projections 6, global
+The projection is, however, subject to considerable uncertainty.
+In World Energy Outlook 2004, IEA.
+emissions of CO2 will be 60% higher in 2030 than they are today if no counteracting
+political action is taken. If this increase is to be avoided, there is long-term need for new
+technologies which are more effective than the most widely used technologies today
+and for technologies based on renewable energy instead of coal, oil and natural gas.
+With its implementation of the European Union's new CO2 allowance system,
+Denmark has ensured a decisive means of living up to its international climate
+obligations for the 2008-2012 period. The allowance system works well with the
+liberalised market and has made it possible to reduce the costs of necessary new
+initiatives significantly. It has also ensured that these initiatives will be taken where they are most effective.
+While it is to be expected that future international climate obligations will be increasingly ambitious, the future of the allowance system after 2012 is as yet unknown.
+This is partly due to the fact that major sections of energy consumption are not yet
+subject to allowance regulation. It is therefore important that international agreements
+be reached for prolongation and implementation of the allowance system after 2012.
+An international market for trade in CO2 reductions is necessary in order to ensure
+smooth and cost-effective transition to an energy system which results in either
+lower or no emission of CO2 . The transition to such an energy system must occur
+in step with technological and energy-price developments.
+It is expected that a major breakthrough for environmentally-friendly technologies in
+the transport sector still lies well in the future. But, in other sectors, there are already
+technologies that are both environmentally friendly and economically viable. This
+applies, for example, to heat pumps for the heating of single-family dwellings.
+Sulphur dioxide and nitrogen oxides
+National and regional environmental considerations also constitute challenges to
+energy supply. Emissions of sulphur dioxide have gradually been brought down to
+a low level but fulfilment of Denmark's international obligations to reduce the
+emission of nitrogen oxides (NOx ) remains a major challenge. The local environmental impacts of energy supply can result in significant health problems.
+The development of new, cost-effective energy technologies which can reduce
+energy consumption or extend the use of non-fuel-based technologies can limit
+overall environmental costs to the benefit of both households and enterprises.
+Development of this kind takes time and requires prioritised research- and development initiatives.
+NOx emissions must be brought down to 127,000 tons by 2010. The Ministry of
+the Environment will submit a report in the autumn on the technical/economic
+possibilities for reducing emissions.
+2.2. Scenarios for expansion of the Danish energy system
+In order to be able to assess the specific long-term challenges to Danish energy
+supply and market reactions to global challenges, a number of projections have
+been made regarding Danish energy consumption and supply up to 2025. The projections had been completed previous to the agreement of 10 June 2005 on energy
+saving. The effect of the energy-saving initiatives agreed to were therefore
+obviously not taken into consideration.
+The projections are based on the analytical assumption that no new energy-policy
+decisions will be made during the period in question. This means that the tax and subsidy rates in the calculations are to be assumed as remaining at the current level7. The
+projections therefore appropriately illustrate any need for regulation adjustment.
+The point of departure is a basic projection based on development expectations in
+a series of central parameters as described below. Changes in these parameters
+over a 20-year time horizon are clearly uncertain at this point in time. Projections
+have therefore also been based on alternative scenarios for changes in the prices of
+oil and of CO2 allowances.
+Oil-price projections and CO2 allowance prices
+The projections of future oil-price changes are illustrated in Figure 5. The basic
+projection of the price of crude oil is based on the IEA's price assumptions as of
+October 20048 . In the light of current high oil prices, the DEA has assumed a relatively slow alignment of the price of crude oil to the IEA price assumptions.
+The price of crude oil is extremely difficult to predict in both the short- and the
+long term. Given the considerable uncertainty, the choice was made in connection
+with the energy strategy to develop alternative scenarios for changes in the price
+of crude oil. The DEA has made calculations on the basis of the price of crude oil
+at an average of both US$ 20/ton and US$ 50/ton (at 2002 prices) as upper and
+lower alternatives for the basic projection to 2025. The prices reflect an average
+and can therefore not be taken as absolute minimum and maximum limits for
+expected changes in the future price of oil.
+The projection is, however, subject to considerable uncertainty.
+In "World Energy Outlook 2004", IEA.
+With respect to the price of CO 2 allowances, the basic projection assumes a gradual rise up to DKK 150/ton in 2017 after which time it is assumed that the price will
+remain unchanged. As lower and upper alternatives, DKK 50 and 300/ton respectively have been calculated as an average up to 2025.
+Basic projection
+The basic projection shows that total energy consumption will grow but according
+to a rate which is approximately half of the economic growth rate. Oil consumption will continue to rise, primarily as a result of increasing energy consumption
+for transport.
+The basic projection also shows that there will be economic incentives to choose
+natural-gas technologies in centralised electricity- and combined heat- and power
+supply as well as significant growth in production from offshore wind turbines up
+to 2025. Uncertainty as to price changes and to continued diversity of the fuels
+used will, however, dampen actual expansion of production capacity based on
+natural gas in relationship to coal and biomass.
+The projection shows a distinct drop in reserve power in the total electricity-production capacity. The major costs currently being incurred due to the large overcapacity will thereby be reduced. In order to maintain a high level of electricity supply-security with a lower reserve capacity, greater system flexibility and a system
+operator with well-defined powers will be necessary.
+Overall CO2 emission is relatively constant in the basic projection in spite of continued economic growth. This includes increasing emission from the transport sector and decreasing emission from electricity- and heat production. Compared to
+calculations made for the Government's climate strategy (2003), the basic projection shows significantly lower CO2 emission. This is primarily because of market
+reactions to the new CO2 allowance system.
+Neither the effect of the energy-saving agreement of 10 June 2005 or of other initiatives in the energy strategy have been taken into consideration in the projections. It
+is expected that these initiatives will lead to substantial reduction in total Danish
+emission of CO2.
+Alternative scenarios
+The alternative scenarios show a distinct market reaction compared with the basic
+projection. In the two scenarios, total energy consumption in 2005 varies by
+around 150 PJ or approximately 20% of today's level.
+Energy consumption for transport varies relatively little between scenarios, prima rily due to the fact that consumption of petrol and diesel is very insensitive to
+changes in the price of oil.
+The renewable-energy contribution to electricity supply is very much affected
+by changes in the prices of both oil and allowances. The combination of high oil
+prices and high CO2 emission prices is an economic initiative to a much higher renewable-energy share in electricity supply in the form of increased use of biomass in
+centralised CHP (combined heat- and power plants) as well as a marked
+increase in wind energy. As shown in Figure 6, the renewable-energy contribution to
+electricity supply reaches approximately 80% in a scenario with high oil- and CO2
+allowance prices. According to such a scenario, however, the electricity grid must be
+expanded in order to be able to handle a much greater amount of wind energy.
+CO2 emission projections in the scenarios show significant variation in the emission from allowance-regulated sectors. The scenarios show that the prices of oil
+and allowances has a marked effect on emissions. In line with expectations that
+future international climate agreements will become more ambitious, the
+allowance regulation could ensure the market-based conversion of large sections
+of the energy system along with rising prices for CO2 allowances.
+Source: DEA
+To the extent that future climate obligations will make greater demands on the
+Danish energy sector, the outstanding difference between allowance allocation and
+the sector's actual emissions should be manageable by means of the purchase of
+allowances and credits on the international market.
+Source: DEA
+Both the basic projection and the scenarios during a 20-year time horizon are subject to considerable uncertainty. Technological developments may be other than
+expected. The basic analytic assumption that no new initiatives will be taken
+means that the scenarios should not be considered as forecasts. In practice, political frameworks and initiatives already underway should be considered as independent of changes in the prices of external resources, etc.
+The scenarios do not show any marked advances with completely new technologies before 2025. It is currently considered that several new technologies have
+major potential and, in the slightly longer term, will play a role in the energy system. This applies, for example, to fuel cells for decentralised electricity- and heat
+production. Such a development will, in the long-term, diminish the need to
+expand centralised electricity-production capacity and, presumably, the overall
+electricity-transmission grid. Changes in energy consumption, for example, with
+low-energy buildings, regulation of consumption with the use of increasingly more
+advanced IT technologies and new transport technologies based on hydrogen, for
+example, may, in the long-term, prove to be decisive and of far greater impact than
+what is illustrated by the current scenarios to 2025.
+It is therefore necessary to monitor developments closely, to evaluate the efforts
+made and continually to assess the need to change the course of officially established
+frameworks, including the research-and development infrastructures and prioritising.
+Source: DEA
+2.3 Goals
+In order to meet long-term challenges, we need an active and balanced energy
+policy. The Government will base its energy-policy efforts on the following
+general goals:
+The Government's general energy-policy goals:
+ Economic robustness: a high degree of supply security must be maintained in the
+long term and contribute to general economic robustness vis--vis unstable and possibly high oil prices.
+ Environment: the use and production of energy and the development and introduction of new energy technologies must comply with national environmental priorities and support the fulfilment of Denmark's current and future international environment- and climate obligations.
+ Well-functioning markets: electricity and natural gas must be available on wellfunctioning, competitive markets with real choices for consumers and equal competition conditions for enterprises in the European Union.
+ Development of new technologies: Danish technological positions of strength in
+the energy field must be transformed into growth and jobs and must support the
+development of an effective and environmentally-friendly Danish energy sector.
+ Electricity infrastructure: future expansion of the overall electricity-transmission
+grid must support supply security, well-functioning markets and enable the introduction of more renewable energy.
+Concretely, it is the Government's intention to maintain multi-faceted and flexible
+electricity supply with continually improved energy efficiency and increased use
+of renewable energy.
+Today, these goals are being furthered by means of a wide range of politically set frameworks such as allowances, taxes and electricity-price surcharges. These policies provide
+wide-ranging support to renewable energy in particular. Furthermore, energy saving is
+promoted by means of a wide range of efforts which will be further strengthened by the
+initiatives in the far-reaching political agreement on energy saving of 10 June 2005.
+Research and development in the energy field is supported by a total of approxi-mately DKK 300 million annually9. Long-term auto-production of oil and natural gas is
+being promoted through new prospecting and improved reclamation methods. With
+respect to the energy sector's contribution to international environmental obligations,
+a decisive instrument has been implemented with the CO2 allowance system.
+In order to carry on the positive development of the Danish energy system which
+was begun with liberalisation of the electricity- and gas markets, there is need for
+continued, active energy policies. The initiatives taken must be cost-effective and
+viable in the long-term as basic principles. The following summarises the Government's ambitions in this regard.
+The Government's energy-policy principles
+ Future energy policy must be cost-effective, market-based and internationally oriented.
+It must be balanced with respect to supply security, growth and the environment.
+ The energy policy must be based on market-oriented instruments, on the development and use of new technologies with significant commercial potential and on active international efforts to further Denmark's energy-policy interests.
+ Energy prices must be competitive. Energy-supply obligations must be formulated
+and implemented and must be fulfilled at the lowest possible cost.
+Primarily PSO instruments (see page 20), the Ministry of Transport and Energy's Energy Research Program and the
+Ministry of Science, Technology and Innovation's Strategic Program for Research into Renewable Energy.
+3. Future security of
+the Danish energy sector
+Energy supply in the future must contribute to stronger competitiveness for Danish
+enterprises, must be secure and stable and thereby support growth and well-being
+in Danish society. It is the Government's intention to ensure a continued high level
+of supply security and environmental standards, which must be maintained at the
+lowest possible cost. This will require well-functioning markets, effective competition, efficient energy use, flexibility and innovation.
+3.1 Economic robustness
+The future price of oil can be expected to be periodically very unstable. The costs
+to the Danish economy of adjusting to unstable oil prices will depend on energy
+efficiency, oil dependency and the energy system's flexibility. It is the Government's intention to make the economy more robust vis--vis high and unstable oil
+prices. Given that the transport sector is responsible for a large and growing share
+of oil consumption, long-term efforts must necessarily take into consideration the
+nature and extent of energy consumption for transport. Today, we lack competitive
+alternatives to diesel and petrol in this sector.
+Improving energy efficiency
+The Government intends to continue to improve the efficiency of energy consumption.
+On 10 June 2005, it entered into a broad political agreement to intensify energy-saving
+efforts. This ambitious agreement sets the frameworks for effective and amplified
+energy-saving initiatives in coming years. The parties agree on the goal: that total energy consumption (exclusive of transport) must be reduced. Greater efforts will be made
+to achieve concrete, documentable energy savings corresponding to an average of 7.5
+PJ annually during the 2006-2013 period. The additional savings will to a large extent
+be achieved by means of greater savings delivered by network and distribution companies in the electricity-, natural-gas, district-heating and oil sectors.
+It is also expected that there will be major technological developments which will
+contribute to making the use of energy sources more efficient.
+With the new agreement of 10 June 2005 and the Government's draft action plan
+of December 2004, the following major efforts, from among other important initiatives, will be carried out.
+New initiatives for heat savings in buildings
+ Making energy requirements in building regulations more strict by 25-30% as of 2006.
+ Further tightening of energy requirements by approximately 25% as of 2010.
+ Repeal of supply obligation and of prohibition against the use of electric heat in
+new, low energy buildings.
+ Requirements in building regulations for more extensive renovations to existing buildings, change of heat supply, replacement of boilers, windows and roofing.
+ Continuation and further development of ambitious energy labelling of buildings.
+ Grid- and distribution companies must prioritise heat savings, including through
+more extensive energy labelling. As a part of this initiative, agreements must be
+made with the building sector on bundled and standard solutions.
+Additional new initiatives for energy saving
+Trade and industry:
+ To make advice-giving and the energy campaign for trade and industry more effective.
+ To promote the sale of energy services.
+The public sector:
+ Requirement on energy-right purchase and on achieving viable energy savings as
+well as on making energy consumption in State institutions transparent.
+ Corresponding requirements for municipalities and regions.
+Devices and products:
+ To give high priority to international efforts on energy labelling and standards, including standby consumption within the frameworks of the Eco-Design Directive.
+ To promote transparency of energy consumption and development of advanced
+energy meters.
+Information, and behaviour modification:
+ To maximise information initiatives on energy-saving.
+Research and development and price-elastic consumption:
+ To promote and goal-direct research, development and market maturing of energy
+efficient technologies.
+Organisation of energy-saving initiatives:
+ Network- and distribution companies dealing with electricity, natural gas, district
+heating and oil must deliver greater savings within existing economic frameworks.
+Target monitoring will be introduced and companies will have a significant degree of
+freedom in the choice of their methods. As far as the industrial sector is concerned,
+some of the initiatives will be tendered out.
+ A co-ordination committee will be established to ensure that cost-effective saving
+initiatives are taken. It will also ensure better joint prioritising and greater co-operation and co-ordination among all stakeholders.
+Increased flexibility
+The Danish energy system is based on a wide range of energy sources, from coal, oil
+and natural gas to renewable energy (in the form of biomass and wind, for example).
+In addition, a high percentage of heat consumption is covered by district heating.
+District heating
+District heating is produced either along with electricity at CHP plants, which have
+a high total efficiency, or separately at specific district-heat plants. These plants
+often use natural gas or biomass (in the form of straw, for example) but have a
+very flexible fuel use. This flexibility helps to improve robustness in the energy
+system thanks to reduced dependency on the supply of a single fuel.
+The Government intends to maintain the high level of district heating in Danish
+heat supply and therefore to continue to maintain the valuable flexibility and efficiency of district heating.
+Renewable energy
+The wide range of energy sources in the Danish energy system contributes to economic robustness by spreading risk. Using many energy sources rather than a few
+reduces vulnerability to price swings and supply crises. For many years now, the
+amount of renewable energy in the Danish energy system has been growing considerably, replacing primarily coal.
+One of the principal sources of renewable energy in Denmark is wind energy, a
+form of energy which also has major potential for continued development in the
+future. Wind energy is still quite a long way from being competitive in purely
+commercial terms and expansion is therefore supported by a surcharge on the market price of electricity. Recently, agreements have been made for the construction
+of two new offshore wind-turbine farms, to begin operation in 2008-2009.
+The further development of wind energy should take place in step with the electricity market's need for new capacity. It must take place in a way which continues to
+profit from experience and which tests new technological land reclamation processes with onshore and offshore wind turbines. This will be of benefit to both longterm expansion of the electricity system and continued technological developments in the Danish wind-turbine industry.
+The Government will support this development through expansion of electricitytransmission capacity, which will in turn improve the possibilities for introduction
+of fluctuating energy sources. Research- and development initiatives must be
+intensified so that Denmark maintains the necessary knowledge environments and
+commercially strong position in the wind-energy industry.
+Due to the current overcapacity of electricity production, it may well not be until
+around 2015 that we can expect a market-driven expansion with new electricityproduction capacity in Denmark. Current overcapacity will be gradually reduced
+as a result of liberalisation. This will lead to the possibility for cost-effective substitution of coal, for example, with more renewable energy. It is, however, possible
+that wind energy may be further developed before 2015 if favoured by changes in
+electricity and fuel prices and wind-energy technology.
+The percentage of renewable energy in Danish electricity consumption is already
+high, and rising. It would be socio-economically costly to carry out forced expansion of wind energy before the market itself demands greater electricity-production capacity and before wind energy has become more competitive. The subsidy
+to electricity production based on renewable energy was recently adjusted in connection with the energy-policy agreement of 29 March 2004. The objective was to
+counteract the rise in the so-called PSO costs10 to consumers and, at the same time,
+to ensure investors a reasonable return on their investments.
+It is the Government's view that this direction must be followed so that subsidies
+for new investments in renewable energy (new wind turbines, for example) are
+gradually reduced as technologies become more competitive than technologies
+based on fossil energy sources.
+At the present time, biomass-based installations in Denmark primarily use domestic
+resources. With greater use of biomass, it may become necessary to import considerable amounts. If rising CO2 allowance prices lead to a general demand for biomass, it is to be expected that more international markets will develop. This will
+make biomass more competitive and increase its contribution to supply security.
+Currently, the use of biomass to produce electricity is a socio-economically relatively expensive solution but, with higher CO2 and fossil-fuel prices, biomassbased production may well become an economically sensible choice. Today, a
+substantial amount of biomass is used at power plants as a result of the biomass
+agreement and the associated subsidy. This contributes to the scientific basis for
+future increased use of biomass. The European Commission is working on the
+presentation of an overall biomass-trading plan and, generally, it is to be expected
+that biomass will be used more and more within the European Union in the years
+to come.
+See Figure 2.
+In Denmark, we have learned that it is possible to build and operate large, socioeconomically viable biogas installations if a certain amount of organic waste is
+available. Increased use of biogas is therefore also to be expected.
+Reduced dependency on oil in the transport sector
+As time goes by, the global resource situation will require a change in consumption away from fossil energy sources  first of all, oil  in favour of renewable
+energy sources such as wind, biomass and solar energy. It is to be expected that
+this transition will take place in step with the development of viable alternatives. It
+is the Government's intention to work in order to reduce long-term oil dependency.
+The transport sector is a particular challenge. Over the years, its energy use, which
+is almost exclusively based on oil, has grown constantly. The Government intends
+to intensify efforts to address this situation.
+Source: DEA
+In Denmark, although oil is primarily used in the transport sector, it is also used
+for heating and production. 58% of total Danish oil consumption occurs in the
+transport sector, of which 80% goes to road transport 11. While total Danish energy
+consumption has remained more or less constant for decades, the transport sector's
+energy consumption has risen uninterruptedly. It is expected that between now and
+If international air traffic is excluded from the calculation, more than 90% of oil consumption goes to road
+transport.
+2025, energy consumption for transport will grow by approximately 20%. This
+applies both to road transport, which is the heaviest consumer, and air traffic, where the most growth can be expected.
+Continued increase in the emission of CO2 from the transport sector will lead to
+greater pressure on CO2 reductions from other sectors, including industry and
+electricity- and heat production. It is essential that any initiatives taken to fulfil
+Denmark's international climate obligations be cost effective. This means that initiatives to reduce CO2 emissions must be assessed across sectors and uses.
+We need continually to evaluate initiatives which can reduce the consumption of
+oil for transport. Within the sector itself, there are various possibilities for both
+reducing CO2 emission and oil dependency. Energy efficiency can be improved
+and fuels other than petrol and diesel can be developed and used.
+Increased energy efficiency in the transport sector
+The efficiency of individual vehicles in the transport sector is continually improving and it is expected that, for ordinary passenger vehicles, efficiency will rise by
+20-30% between now and 202512. The costs of reducing energy consumption in the
+transport sector with national means is generally high, which must be seen in the
+light of the already high tax level in the this sector. Efforts to limit energy consumption for transport must be cost effective and should be considered within a
+European context.
+The Government will focus to a greater extent on the synergy between transport and
+energy consumption and improve the possibilities for integrated research- and deve lopment initiatives. It will work to expand the Danish Transport Research Institute
+so that it also focuses on energy-related challenges. This institute will henceforth be
+known as the Danish Transport and Energy Research Institute. The change will be
+carried out within the frameworks of the Act on Sector Supply, which includes consultation with the Strategic Research Council concerning the nature of the research
+to be conducted and the most appropriate placement of the research desired.
+Secondly, there are encouraging possibilities to improve the energy efficiency of vehicles. At the European Union level, the Government will therefore work to promote
+initiatives which can lead technological development in an energy-efficient direction
+and which can augment the production and marketing of more energy-efficient vehicles.
+Efforts should be concentrated on furthering and tightening the European Union's agreement with the automobile industry on reduced CO2 emission from passenger vehicles.
+"Technological Development in the Transport Sector", Technological Institute, 2004.
+The Government also intends to strengthen Danish consumers incitement to purchase more energy-effective cars. The Government will set up a committee to analyse the possibility of carrying out a proceeds-neutral change in overall vehicle
+taxation which improves the environment and increases energy efficiency.
+There is also considerable potential for savings in energy consumption in transport
+within the establishment of a fixed link over Femern Belt. The energy consumed
+driving a vehicle over a fixed link is considerably lower than a corresponding trip
+by ferry (high-speed ferries consume especially large amounts of energy). The
+CO2 saving with the establishment of a Femern Belt link is estimated at 220,000
+tons annually, corresponding to almost 70,000 tons of fuel oil.
+Many other initiatives must be studied and followed up nationally, at the European
+Union level and internationally. On the national level, the Government will continue to
+encourage cost-effective initiatives which can reduce energy consumption in transport.
+Such initiatives could include, for example, providing information and raising awareness about energy consumption, including awareness of commercial vehicles energy
+consumption, as well as initiatives that focus on energy-conscious driving behaviour.
+Initiative for more energy-effective cars
+The Government will make an ambitious effort at the European Union level for longterm improvements in the efficiency of the transport sector's energy consumption
+through the development and marketing of more energy-efficient vehicles.
+Development and use of alternative fuels
+Although Danish energy consumption is generally based on a wide range of energy sources and technologies, the energy used for transport is still completely
+dependent on petrol and diesel. It is expected that by 2025, petrol and diesel
+engines will have been replaced or supplemented only to a limited extent by fuel
+cells or electric engines13, for example.
+It is possible to replace petrol and diesel either wholly or partially with other fuels
+such as natural gas or biofuels. These fuels can, to a certain extent, be used in existing vehicle engines. The alternatives are, however, still more expensive to use
+than more traditional technologies and resources. As regards some alternatives,
+there may also be limits to the physical potential and costs of engine conversion
+and to the development of new infrastructures for the distribution of new fuels.
+"Technological Development in the Transport Sector", Technological Institute, 2004.
+The Government expects that, in the long term, there are indications that biofuels
+could contribute significantly to reducing the transport sector's oil consumption
+and thereby reinforce supply security. Research is underway on means to reduce
+the cost of producing biofuels, including research on entirely new production
+methods based on enzymes, for example. Danish enterprises are on the leading
+edge of these developments, which are financially supported by the Energy
+Research Program.
+The opportunities for cost-effective use of natural gas in the transport sector must
+be studied further. For example, there may be possibilities for the use of natural
+gas in buses, which would improve the local environment in large cities.
+The cost-effective conversion of the Danish energy system to more renewable
+energy and less oil first of all assumes continued technological development.
+Introduction of completely new technologies at market conditions will make it
+possible, at one and the same time, to reinforce supply security and to reduce
+stress on the environment more cost effectively than is possible at the present time.
+There may be new possibilities for integrating electricity- and heat production
+with the production of fuels for the transport sector. In-depth analyses of such
+possibilities should be carried out.
+Initiatives to reduce oil dependency in the transport sector
+The Government intends to make more ambitious, long-term efforts to limit and reduce
+oil dependency in the transport sector. Two committees will be set up:
+ A committee to study the possibilities for proceeds-neutral and environmentallyimproving conversion of overall vehicle taxation over a period of several years.
+ A committee to establish a comprehensive view of the perspectives and potential for
+the development and use of competitive alternatives to petrol and diesel. Such alternatives could be biofuels, natural gas and  in the longer term  hydrogen.
+3.2 Markets and prices
+Enterprises are dependent on stable and competitive energy services and products
+in order to maintain production and protect their competitiveness. This is best
+ensured when the offer of, and demand for, energy goods and services balance out
+on well-functioning, competitive markets.
+Danish electricity supply is still subject to regulations and politically set surcharges on market prices. PSO regulations must be simplified and made more effective. Electricity consumers and society are best served if subsidies for public obligations are continually made more effective and gradually reduced. In Denmark and
+in the rest of Europe, the markets for electricity and natural gas have been liberalised and competitive markets are being established. Investments in new production
+capacity are being made on the basis of corporate economic considerations in
+response to signals from a market subject to competition.
+Denmark has led the way in this liberalisation. All Danish consumers may now
+freely choose their suppliers of electricity and natural gas. Furthermore, the establishment of a State-owned system operator has led to the total separation of, on
+one hand, commercial production and trade and, on the other hand, transmission of
+electricity and natural gas, which naturally result in monopolies.
+The basis for the development of well-functioning, competitive markets for electricity and natural gas in Denmark has therefore been established. Foreign companies have the opportunity to compete with existing Danish companies to the benefit of consumers.
+It is essential to ensure stronger competition on these new markets and to avoid
+the tendency for monopolies to develop. Barriers to competition must be counteracted first and foremost by means of common European Union regulations in
+which the rules governing competition and the power to sanction them must be
+strengthened. Furthermore, the need may arise to review existing directives in
+order to ensure separation of ownership between national system operators and
+commercial interests, to ensure that national supervisory bodies have the necessary
+powers and that they are truly independent of political and commercial interests.
+The Government has implemented a series of initiatives in order to ensure clear
+and stable frameworks for electricity production at market conditions by means of
+the strengthening of international co-operation on electricity, free competition and
+transparent conditions for the establishment of new electricity-production capacity.
+Competition in the Danish gas market will be strengthened to the degree that the
+market is able to attract new gas suppliers. The development of real gas exchanges
+on the European market  similar to Nordpool in the electricity field  could also
+promote competition and greater use of natural gas at competitive prices.
+Initiatives for more effective energy markets
+The Government intends to foster competition by further integrating the Danish energy
+markets with international markets. This must be ensured by means of transparent and
+unified framework conditions (legislation, etc.) for trading in electricity and gas in the
+European Union. As well, Energinet.dk must establish socio-economically appropriate
+physical links for the transport of electricity and gas.
+The production and distribution of district heating is not subject to direct competition and it will therefore continue to be necessary to regulate this sector in order to
+improve effectiveness. The Government will ensure that frameworks are set so
+that the effectiveness of district-heating may continue to be improved.
+It is also important that future regulation ensures frameworks that promote the
+introduction of effective technologies into the heat-supply system. The Government will support research into and development and use of energy-efficient technologies for heating. Future buildings with less and less need for heating must be
+supplied with heat in the way that is most beneficial to society.
+Flexibility in electricity consumption
+With the introduction of the liberalised electricity market and the establishment of
+the electricity exchange, Nordpool, Danish electricity consumers are now able to
+purchase electricity on an hourly basis. This means that consumers are able to
+reduce electricity-purchase expenditures by focusing their consumption on the
+times of day when the market price for electricity is low. Nordpool statistics show
+that there is significant potential for reaching a lower electricity price given that
+the hourly prices vary considerably.
+Even though the large swings in the price of electricity mean that consumers could
+save considerably by choosing the time of day when they consume electricity, they
+are reacting to market prices to only a limited degree. Hence, both consumers and
+society are losing out on a considerable financial gain which could be achieved
+with limited effort. Industry's electricity consumption has the largest and most
+obvious potential for being moved to other parts of the day. More attention must
+therefore be focused on encouraging flexible electricity consumption, co-ordinated
+with electricity-saving efforts.
+Consumers' full use of price variations on the electricity market depend on electronic
+measuring and regulating equipment being sufficiently commercially developed.
+The question of flexible energy consumption should therefore also be considered
+in the context of research and of technology development.
+Initiative for more flexible electricity consumption
+The Government will set up an action programme to encourage more flexible electricity
+consumption and thereby a well-functioning electricity market.
+3.3 Environment and climate
+Danish energy supply has very high environmental standards. Danish electricity
+producers are among the most efficient users of resources in the world and, today,
+more renewable energy is used than ever in modern times. In the long term, the
+energy system should be converted to using primarily renewable energy. In the
+transition period, increased use of natural gas will serve an important function.
+The transition to increased use of renewable energy must be cost effective. This
+means that it must be brought about in an international context and occur in step
+with the development and commercialising of new technologies. New, effective
+technologies and overall energy solutions must be introduced on the energy market
+gradually, as they become competitive.
+Climate
+Climate changes are one of the major global challenges for the energy sector. Most
+of the greenhouse gases which human activity causes to be emitted derive from the
+use of coal, oil and natural gas. In Denmark, overall energy consumption accounts
+for almost 80% of Danish emission of greenhouse gases.
+The Government assumes it to be undeniably necessary that the solution to the
+greenhouse-gas problem be found in a global context, specifically within the frame works of the UN's Climate Convention and the Kyoto Protocol. This is the only
+way to arrive at an effective solution to the problem. It is therefore a positive sign
+that Russia has ratified the Kyoto Protocol, which took effect on 16 February 2005.
+A CO2 allowance system entered force in the European Union on 1 January 2005.
+The system makes it possible to reduce CO2 emissions where it is cheapest to do
+so and thereby contributes to cost-effective fulfilment of common CO2 obligations
+in the European Union. It is the Government's view that the European Union's trading system for CO2 allowances is essential to Denmark's fulfilment of its international climate obligations in the years leading up to 2012.
+The allowance system's role after 2012 will depend on upcoming discussions on new
+international obligations but it may be expected to continue to be the central instrument
+for fulfilling future goals. In connection with the 2008-2012 allowance allocation plan,
+the Government will study the advantages and disadvantages in expanding the allowance system so that it also covers small electricity- and heat plants as well as various
+energy-intensive enterprises.
+In the future, it will in principle be possible to expand the allowance system so
+that it also covers greenhouse-gas emission from other sectors, such as the transport sector. Expansion of the allowance system will potentially contribute to greater cost effectiveness in overall climate efforts. This will possibly require amendments to the Allowance Directive and should also be co-ordinated within the
+European Union for reasons having to do with competition. It will be necessary to
+analyse carefully the consequences to administrative procedures, State finances
+and competition.
+New technologies and solutions in the energy field can be expected to become
+more and more competitive, partly as a result of technological developments,
+partly as a result of rising CO2 allowance prices expected as a consequence of
+gra-dually more ambitious global climate objectives. This will improve the energy
+sector's opportunities for effective compliance with tighter allowance regulations
+in the future. At the same time, the development of new, effective and environmentally-friendly technologies can support viable development and climate
+initiatives in developing countries.
+The spread of new, effective energy technologies to developing countries can, for
+example, be brought about through international climate projects (Joint Implementation and Clean Development Mechanism). Each year, Denmark allocates DKK
+200 million for such projects, which also contribute to cost-effective fulfilment of
+Danish climate obligations.
+Initiatives against global climate changes
+The Government will work to ensure that the European Union actively seeks an ambitious agreement on the reduction of greenhouse gases in good time, before the Kyoto
+Agreement's first phase expires in 2012.
+In Denmark, emission of greenhouse gases must be regulated in a cost-effective balance across sectors. The Government will work on future expansion of the CO2 allowance
+system so that it covers more sectors, including transport.
+The parties to the Climate Convention have already begun the difficult discussions
+on obligations after 2012. In this process, wide-ranging support for ambitious global objectives after 2012 will have major consequences on the system's overall
+effectiveness and environmental impact.
+The Government will work actively during international climate negotiations in an
+attempt to reach long-term, durable, international climate-policy frameworks
+which give industry more certain investment conditions and decisively enhance
+positive environmental effects. Given both Danish industry's impressive positions
+of strength with respect to environmentally-friendly energy technology and the
+Danish energy system's high degree of efficiency, a development of this kind
+makes an important contribution to growth and employment.
+Other environmental effects
+The consumption and production of energy have a number of other regional environmental effects. Principal among these are the emission of SO2 and NOx and particles
+(from the transport sector in particular). The emission of these substances is already subject to strict international regulations. Major reductions in the emission of SO 2 and NOx
+have already been the achieved through purification, fuel conversion and improved
+combustion technologies.
+In line with other sectors, the energy sector will continue to make a cost-effective
+contribution to reducing the emission of SO2, NOx and other environmentally
+harmful substances.
+3.4. Research perspectives
+Today, the energy sector makes a major contribution to Denmark's economic
+growth and to employment. Danish export of energy equipment and advice
+amounted to more than DKK 25 billion in 2002, corresponding to almost 6% of
+the value of total Danish exports. In 2002, wind turbines were exported with an
+overall value of more than DKK 15 billion.
+World demand for effective, environmentally-friendly energy technology is expected
+to grow rapidly in coming decades as a result of increasingly strict environmental
+requirements, of the need for supply security and of the development of energy supply
+in many developing countries where, today, the lack of energy is a crucial problem.
+Danish enterprises are facing positive challenges. They have the opportunity to gain an
+even greater share of expected global growth in the field of energy. In addition, new
+and effective energy technologies could make a substantial contribution to the continued development and improved effectiveness of the Danish energy system.
+Danish positions of strength must be maintained and expanded
+Given the right conditions, it is expected that many of the technologies in the energy sector which today are unable to compete at market conditions will, by 2025,
+approach a commercial level. In addition to wind energy, there are also good perspectives for fuel cells, for the use of biomass for electricity- and heat production,
+and for the use of biofuels and other fuels for transport. Solar and wave energy
+may also prove to have potential.
+The Danish positions of strength achieved, for example, in the areas of district
+heating, co-generated heat and electricity and energy saving have aroused keen
+international interest.
+Within a timeframe extending beyond 2025, there are promising perspectives for
+the development of hydrogen as a source of energy in combination with fuel cell
+technology. Hydrogen is already a key element on the international political agenda for energy and research. Denmark has an excellent chance of being involved in
+future developments.
+There must be continued strong focus on the commercial perspectives for Danish
+energy technology and solutions. The enormous growth potentials in the future
+must be exploited and the position of strength which Denmark already enjoys in
+the energy field must be maximised so that, in the future, Denmark will be able to
+compete successfully and globally in economic growth and job creation.
+Initiative for technological developments
+The Government will analyse the framework conditions for the development of Danish
+energy technology with a view to reinforcing Danish enterprises' ability to innovate and
+grow in the energy field by, among other things, focusing on the promotion of technological developments by means of private/public sector co-operation.
+Research and development  priorities and co-ordination
+Given that Denmark cannot be at the leading edge in all fields, State support for
+research, development and demonstration must be prioritised. The key elements in this
+process should be the relevant competencies and development possibilities which
+either actually or potentially exist within Danish enterprises and institutes of knowledge.
+Future efforts must be based on co-ordinated and well-integrated co-operation between the public and private stakeholders in the entire chain from research to inno-
+vation and marketing. For many enterprises in the energy sector, research and
+development are a necessary precondition for innovation. It is important to continue to build on the private/public co-operative relationship for which there is
+already a long tradition in the energy field.
+It is the Government's objective that Denmark be among the absolute leaders in
+Europe when it comes to research and development. It has actively supported the
+recently implemented revision of the Lisbon Strategy which focuses on creating growth
+and employment. Advancement of environmentally-friendly technologies is seen in the
+strategy as a particular possibility for creating synergy between growth and employment
+on one hand and the environment on the other hand. Denmark already has extensive
+experience with public/private co-operation in the energy field, the principal aim of
+which is to work together to intensify research and development initiatives.
+Today, the public sector allocates approximately DKK 300 million annually for
+strategic research and development in the energy field, partly under the Ministry
+of Transport and Energy and partly under the Strategic Research Council, through
+the Ministry of Science, Technology and Innovation. In addition, energy is one of
+the fields which will benefit from the High Technology Foundation's future activity and from generally higher grants for research and development between now
+and 2010. Internationally, Danish energy research is well placed, with participation in various related projects and programmes, not least in the European Union.
+The Government considers it to be important to increase co-ordination of international energy research efforts and that particular efforts be made in areas in which
+Denmark has unique competence and therefore the opportunity to influence international development in favour of Danish industry and employment. International
+co-operation also offers possibilities for importing knowledge which it has been
+difficult for Danish stakeholders to acquire on their own.
+The Commission has proposed that 420 million be used annually for non-nuclear
+energy in the 7th Framework Program for Research and Technological Development (2007-2013). This amount is almost double previous allocations. The focus is
+on supply security, climate protection and strengthening of the European energy
+industry's competitiveness. The funds are to support transformation of the existing
+energy system based on fossil fuels to a more viable system based on a combination
+of renewable energy and greater energy efficiency.
+Eight main activities in the energy field are identified in the Commission's proposal,
+with hydrogen and fuel cells at the top of the list. Negotiations on the Commission's
+proposal are to be completed before the beginning of 2006. The Government views
+very positively the proposals made regarding the areas in which to concentrate efforts.
+These proposals are in line with Danish interests on a number of central points.
+In addition to energy-technology co-operation within the European Union, there are
+also encouraging prospects for widening transatlantic co-operation (regarding hydrogen and fuel cells, for example) both through the European Union and bilaterally.
+Initiatives for focusing research and development efforts
+The Government will ensure that resources allocated to research, development and
+demonstration in the energy field are focused and co-ordinated to a higher degree
+within connected areas which
+ are part of the entire development chain from research and innovation to market
+launching on a commercial basis and which create connections among the individual
+links in this chain
+ build on public/private co-operation, are solution-oriented and ensure interdisciplinarity, and
+ support possibilities for international co-operation.
+Need for the demonstration of new technologies
+In order to maintain and build on Danish positions of strength, further efforts must
+be focused on pilot projects and demonstrations, which is also the objective of a
+range of sub-strategies in selected technology areas, as developed by the DEA
+with the system operator and other related stakeholders.
+Full-scale testing reveals the strengths and weaknesses of a technology's function
+and thereby results in either further development or discontinuation of a particular
+line of research. This requires financing at the point at which a technology's potential
+for commercialising is as yet uncertain and investors' risks therefore high. For the
+same reason, it is often difficult to attract or make available sufficient private capital
+for large-scale demonstrations.
+Although public energy-supply programmes can support demonstration projects,
+this possibility is made use of only to a limited extent, primarily because demonstration is typically very expensive both for the individual enterprise and in relationship to overall programme volume. The challenge is to ensure that competencies are pooled and that society's resources are used efficiently.
+There is also need to implement pilot projects or demonstrations which must not
+only test an individual installation or technology but also test the interconnection
+among various technologies and various forms of control. Similarly, competencies
+must be involved and used in order to improve development areas such as material-, nano- and biotechnologies, IT technology and social sciences.
+For example, work must be done on interconnected systems for the use of renewable energy to produce the hydrogen which will be distributed and used in fuel
+cells (for transport purposes, for example). Another area is the production, distribution and use of biofuels, which involve purely technical conditions, the testing
+of various control instruments and economic incitements.
+The development of projects and the testing and use of the experience gained must
+take place in close co-operation among enterprises, entrepreneurs, institutes of
+knowledge and local and State authorities. Development windows can be created
+which attract expertise from abroad as well and thereby lead to the exchange of
+knowledge and training. There are also potential positive effects for regional development and employment.
+Initiatives to promote new energy technologies
+ The Government intends to step up research into, and development and demonstration of, new energy technologies.
+ The Government will promote full-scale demonstration of new technological solutions
+and testing of the correlation among various technologies and systems.
+ The degree and organisation of these intensified efforts will be co-ordinated in light of
+the Government's overall strategy to make Denmark a leading growth-, knowledgeand entrepreneur society.
+Increased long-term oil- and natural gas reclamation
+The Government considers it to be essential that the highest and most economically viable degree of reclamation possible from Danish oil and gas fields be
+achieved. The private stakeholders have the primary responsibility and not insignificant interests in this regard. As is the case with other technology areas,
+public/private co-operation nationally and internationally could support the oil
+industry's research and development in this field. It is also important to support
+training in the various fields.
+The Government will take initiatives to ensure that, in co-operation with industry
+and other relevant parties, an updated strategy for research, development and training is drafted. The intention will be to ensure increased long-term reclamation in
+the Danish oil and gas fields.
+4. Action plan for the future
+electricity infrastructure
+4.1 Perspectives to 2010
+Changing demands on the electricity system
+Since the beginning of the 1990s, the framework conditions for electricity supply
+have been changed in a number of essential areas. In Denmark, as in other European
+countries, production, transmission and distribution were separated (either in terms
+of ownership or organisationally). The sector was also liberalised on the production
+side, and transmission- and distribution companies were made subject to new framework conditions according to which the previous self-supporting principle was
+replaced with income frameworks.
+Under the new framework conditions, the electricity market must ultimately ensure
+supply security, competitive electricity prices and efficient and environmentally-right
+use of the overall production- and transmission system. This means that there must be
+effective, free competition on the electricity market. This in turn assumes that both
+co-ordination procedures and the overall, national transmission network is constructed so as to respond to the electricity market's need for transmission capacity
+without major bottlenecks.
+Along with legislative and organisational changes, significant changes were made to
+the physical demands on the electricity system. During the 1990s, the amount of wind
+energy and decentralised production (from local CHP, for example) grew at an unprecedented rate. Similar growth occurred later in the form of offshore wind-turbine
+farms. These changes in the production system resulted in marked changes to the
+demands on the electricity system. The expected continued increase in the construction
+of wind-energy installations will mean that the electricity grid must be able to transport
+energy, to an even greater extent than today, over long distances from offshore production sites and scarcely populated areas to large urban areas where the energy is used.
+All in all, over the last 10-15 years the demands on the electricity system have
+both changed and grown. In order for Denmark to derive full benefit from the free
+electricity market in the long term, it is necessary to intervene so that the electricity-transmission grid does not constitute a limit to electricity trading. Future
+expansion with renewable energy  from the two wind-turbine farms already
+decided upon and future such farms  will also require grid expansion. This means
+that decisions must be made regarding the expansion of the electricity-transmission grid so that the electricity system is able to meet future demands as they arise.
+As a result of liberalisation of the energy market throughout the European Union,
+there is growing need for co-operation in the setting of framework conditions for
+transmission enterprises and system operators.
+Energinet.dk
+During 2005, Gastra A/S and the electricity-transmission companies Eltra, ElKraft
+Transmission and El-kraft System will be merged to become Energinet.dk. This
+body will act as system operator on behalf of the State and manage the overall
+electricity- and gas-transmission network.
+In addition, Energinet.dk will be responsible for general, long-term planning of the
+overall transmission network. It will continually assess the need for justified expansion of the general electricity infrastructure in accordance with general guidelines. It
+will also ensure that any necessary infrastructure expansion is carried out.
+Energinet.dk will perform these functions within general frameworks laid down by
+the Government and Parliament.
+When Energinet.dk decides to establish a new transmission network, the need for
+the expansion must be explained in a plan submitted to the Minister of Transport
+and Energy. The Minister will then decide whether a given individual installation
+project may be approved. Some projects may require particularly substantial
+investments, others may have potential impact on the country's supply security and
+co-operation with foreign enterprises/parties, still others may have major environmental impact.
+Long-term network structures
+The future infrastructure must be set up so that a balance is maintained between
+supply security, the economy, the environment and the electricity market. Expansion of the electricity infrastructure must facilitate the introduction of more renewable energy and must occur with due consideration given to effects on the
+landscape. Continued expansion with offshore wind-turbine farms will put particular pressure on the electricity system and infrastructure at the same time as
+supply security must be kept at a high level.
+When the transmission network is reinforced, the technical solutions used have a
+lifetime of between 30 and 40 years. Decisions made today regarding infrastructure investments must therefore remain valid when the various developments
+which are part of the general frameworks set by the Government and Parliament
+take place. This means that the technical solutions decided upon today must be a
+natural part of the overall, long-term expansion of the infrastructure.
+Market function  Nordic perspectives and the European Union  Supply security
+In both international and European contexts, the Nordic electricity market is an
+effective, fully integrated and well-functioning market characterised by close
+co-operation among the parties involved. In the Akureyri Declaration of 2004, the
+Nordic Ministers of Energy agreed that the vision for the Nordic electricity market
+is: "A borderless Nordic market trading effectively with the rest of the world".
+With respect to developing the European electricity market and augmenting crossborder trade, the European Commission has also emphasised the importance of
+expanding transport capacity among countries. The Commission has therefore
+drafted a directive proposal containing new instruments to improve supply security and infrastructure investments. The European Council of Ministers had previously declared its agreement with the objective of developing transmission capacity among countries to at least 10% of the production capacity at the national
+level. Danmark already fully meets this goal.
+Further to the foregoing, there is need for co-operation among system operators
+and among national authorities across borders. A interconnection, for example,
+such as the Danish-German link will thus not be strengthened unless both countries' authorities and system operators agree on giving it high priority.
+In this regard, as part of TEN (Trans-European Network) activities, the European
+Union has identified 29 interconnections among countries which should be established or expanded. These include the Great Belt link, an extra link between Denmark and Norway (Skagerrak 4), as well as expansion of the link between West
+Denmark and Germany. Domestic links between Kass (west of Aaabenraa) and
+Revsing (north of Vejen) and between Revsing and Tjele (east of Viborg) are also
+on the list.
+In Scandinavia, Nordel, which is a joint organisation for Nordic transmission
+enterprises and system operators, has analysed the need for expansion within the
+combined Nordic electricity market. The latest Nordic power balance shows that,
+in the Nordel area as a whole, there is already a power deficit (excluding import
+possibilities) and that this deficit is expected to rise. Considered on its own,
+Denmark has a power surplus. Import possibilities to Scandinavia are limited by
+bottlenecks within the Nordic transmission grid. The establishment of new transmission capacity within Scandinavia will therefore improve possibilities to import
+electricity from areas outside Scandinavia and thereby reduce the power deficit.
+In order to ensure a robust Nordic infrastructure, Nordel recommends reinforcing
+or expanding five particular links within Scandinavia, collectively referred to as
+"prioritised sections". They include the Great Belt link as well as an extra link
+between Denmark and Norway (Skagerrak 4). These two links have also been
+prioritised by the European Union.
+Electricity supply in Denmark and the rest of Scandinavia is today stable, with a
+high degree of supply security. The challenge is therefore to ensure that supply
+security remains at a high level.
+In the liberalised electricity market, investments in new production capacity must be
+made according to market conditions. It is therefore up to the market players to ensure supply security as far as sufficient production capacity is concerned. It is expected that this will lead to a reduction in reserve capacity. The DEA's basic projection
+shows that reserve capacity in Denmark could fall from the current approximately
+80% to approximately 30% as of around 2015. Plans must therefore be made to maintain a high degree of supply security in a future situation with more limited reserve
+capacity. This can be achieved with more powerful transmission links which will
+enable more effective use of the total reserve capacity.
+Interruptions in electricity supply have far-reaching economic consequences.
+Major transmission installations, such as cross-border links or links to larger urban
+areas, must therefore be expanded to the extent possible so as to strengthen independence and thereby reduce vulnerability. Emergency requirements must generally
+be taken into consideration during the planning stages for new electricity-transmission installations so as to reduce the electricity system's vulnerability and to
+reinforce the system against the consequences of unexpected events.
+As far as the electricity grid is concerned, maintaining supply security is the
+responsibility of the system operator and the grid companies. Danish supply-outage
+statistics show that by far the majority of outages occur because of breakdowns in
+the distribution grid. It is therefore important to maintain the quality of distribution
+grids. The new income-framework regulation covering grid companies can, in
+principle, prompt distribution companies to reduce grid maintenance in order to
+increase the return on their capital. It is therefore important to assess the need to
+supplement the income-framework regulation with other instruments which ensure
+grid quality. This could be done, for example, by establishing obligatory quality
+requirements for grids or by obliging grid companies to pay compensation to consumers for outages caused by distribution-network failures. The compensation
+could be determined by assessing the average cost of outages to consumers.
+Supply security can be further improved by means of agreements with consumers on
+interruptibility, by reinforcing the transmission grid, by improving wind forecasts
+and by more competition in the delivery of regulated services, etc. Stronger competition will also contribute to more cost-effective system operation. Improved flexibility in electricity consumption will also contribute to improved supply security.
+Bottlenecks and bottleneck revenue
+The majority of Danish cross-border links are direct-current installations with submarine cables.These installations are particularly expensive and therefore constitute
+bottlenecks in the interconnected Nordic electricity system. When an interconnection
+results in a bottleneck, the price of electricity will be higher on the import side than
+on the export side and the energy transmitted will therefore be calculated as having
+different prices on each side. This price difference results in so-called bottleneck
+revenue. Bottleneck revenue is a sign of the need for greater transport capacity.
+According to the Nord Pool system, bottleneck revenue in the Nordic electricity
+system is collected by Nord Pool, which then distributes it among the Nordic system operators in accordance with agreements made in this regard. An auction
+model is used on the border between Denmark and Germany.
+Previously, bottleneck revenue from each individual link within the Nordic system
+was divided equally among the system operators concerned, just as investments in
+interconnections were previously agreed to and financed bilaterally. Bottleneck
+revenue was thereby returned to the place where it was accrued. Previously in
+Denmark, such revenue has been used to reduce the grid tariff.
+Bottleneck revenue varies greatly from year to year. In the last four years, bottle neck revenue  on the Nordic level  varied between approximately DKK 240 million and 680 million annually, of which Denmark received between DKK 95 million and 255 million annually.
+The Nordic system operators' agreement on equal distribution of bottleneck revenue
+expired on 28 February 2005. The system operators then entered into a new agreement, valid until September 2006. According to the new agreement, bottleneck revenue within Scandinavia will be earmarked for joint financing of the prioritised
+sections. Whether or not these links are set up, Denmark can expect to receive
+approximately the same share of bottleneck revenue as with the previous agreement.
+Future expansion with offshore wind-turbine farms
+It is expected that future wind-energy development will primarily take place at
+sea. The expansion of wind-energy output is of prime importance to the demands
+on the electricity system and hence also to overall, long-term planning of the electricity-transmission grid.
+The Government will support the further development of wind energy by means of
+necessary expansion of electricity-transmission capacity. The Government also
+considers it to be important that investments in new production capacity be driven
+by market demand. On the basis of the existing overcapacity in electricity production, the DEA's basic projection indicates that it will be around 2015 when need
+for new electricity capacity arises in Denmark. Such long-term projections are,
+however, subject to great uncertainty.
+Market-based expansion of wind energy entails unavoidable uncertainty in the
+basic planning for the infrastructure. It is therefore the Government's view that any
+possibilities for introducing renewable energy to the existing grid  with limited
+subsidies  should be fully examined and used to the greatest extent possible. Possible short-term production limiting offshore wind-turbine farms in particularly
+critical situations should be economically weighed in relationship to the need for
+grid investments. It is Energinet.dk's responsibility to carry out long-term planning
+of the infrastructure so that it remains stable vis--vis various new developments.
+One key element in future planning will be to clarify in which geographic areas
+wind-turbine farms can be set up and how many farms there will be in the individual areas and to establish a prioritised order for the various areas.
+The Government will therefore take initiatives to update the Offshore Wind-Turbine
+Action Plan of 1977. The updated analysis will describe the possibilities for the
+location of new offshore wind-turbine parks with reference to the environment,
+nature and the landscape.
+Landscape considerations  underground and overhead cables
+When the overall transmission grid is to be expanded, consideration must be given to
+both economic and landscape-related interests. Particularly at the 400-kV level, overhead cables are considerably less expensive than underground cables with corresponding transfer capacity. On the basis of pure economic considerations, overhead cables
+should therefore be the preference. But overhead cables disfigure the landscape. The
+two possibilities must therefore be weighed.
+The guidelines in effect in this area were set by the Ministry of the Environment
+and Energy in 1995. These guidelines contained principles for the choice between
+overhead and underground cables on the basis of a general weighing of economic
+and landscape-related considerations.
+The principles for the establishment and renewal of high-voltage installations call
+for the placement of new 400-kV connections by means of overhead cables when
+they are run across open land and when this can be done without coming into conflict with particular, national nature interests. According to these principles,
+132/150-kV installations may also be established with overhead cables when so
+doing does not have major consequences for urban constructions or important
+nature interests.
+The price of cables, 132/150-kV cables in particular, has dropped since 1995. In
+many cases, there is also no longer any need for the transfer capacity of overhead
+cables. In most cases, the actual additional cost of using 132/150-kV cables will
+therefore not be particularly high for the solutions needed. Overhead cables, however, do have a minimum capacity and it is still approximately 2-4 times more
+expensive to establish a 132/150-kV link with underground cables if there is need
+for large transfer capacity.
+Given the foregoing, the Government has decided that new 132/150-kV links will,
+as a general rule, be established as underground cables. Only in relatively special
+cases (such as the first step in a future 400-132/150-kV combined line or in the
+case of the need for very high transfer capacity at the 132/150-kV level over long
+distances) should overhead cables be considered.
+As far as converting existing 132/150-kV overhead cables to underground cables,
+the Minister of Economic and Business Affairs decided in June 2004 that, as a
+general rule, permission will be given to convert existing 132/150-kV overhead
+cables to underground cables when the existing overhead cables pass through or
+near residential areas or through particular nature areas or other urban areas.
+It is still considerably more expensive to lay 400-kV underground cables compared to the cost of overhead cables. The cost is 3-6 times higher for corresponding transfer capacity. In addition, 400-kV connections are generally long cable
+stretches in the overall transmission grid. A general policy for underground cables
+at the 400-kV level will hence be particularly expensive.
+The Government therefore considers it to be important that new 400-kV and 400132/150-kV connections shall henceforth be established as overhead cables in the open
+countryside when this can be done without coming into conflict with particular national
+nature interests. When new 400-kV overhead cables are set up, compensating underground cables at lower voltage levels are to be used when possible so that the total overhead-cable system over 100 kV is reduced. In this way, it will be possible to make greater
+overall improvement to the landscape with fewer means, which will be in accordance
+with the Government's general policy of the best environment for the money.
+Changes in the cost of 400-kV cables should be monitored carefully so that increased
+use is made of underground cables if the relative prices become more comparable.
+4.2 The Great Belt
+An electricity link under the Great Belt will contribute to better market functioning and will make it more difficult for large producers to exploit market power.
+The link is therefore considered to be of benefit to electricity consumers.
+A Great Belt link will also improve supply security by improving possibilities to equalise
+imbalances between various parts of the country and to provide reciprocal access to
+reserve capacity on each side of the Great Belt. The link will also make it possible optimally to exploit power-plant capacity and production from wind turbines since production can take place at the power plants which have the lowest costs. The link will therefore also support introduction of more renewable energy to the electricity system.
+A Great Belt electricity link will reduce the risk for major power outages such as
+the one which took place on 23 September 2003. If a power outage does occur, the
+link will improve the possibilities to restore electricity supply quickly. If it proves
+possible to avoid just 1 major outage every 10 years or if, in the case of a major
+outage, it is possible to restore electricity supply much more quickly with the aid of
+a Great Belt electricity link, then the economic value will be enormous.
+Onshore and offshore wind-turbine expansion will make greater demands on the
+transmission system's ability to transport electricity from the wind turbines to electricity consumers in Denmark and in the countries around it. An electricity link
+between parts of the country will give new possibilities for transporting electricity
+both within Denmark and  via the other part of the country  to neighbouring
+countries. This is of particular importance to the electricity system in Western
+Denmark, which already has a very large wind-energy capacity. Due to the bottleneck in the transmission grid, wind-energy production sometimes results in widely
+swinging electricity prices, with electricity prices in Western Denmark differing
+considerably from the price in neighbouring areas. Large variations in prices in
+neighbouring areas is a sign that the market is not functioning properly.
+The advantages of a Great Belt electricity link must be considered in light of the
+costs involved. It is estimated that a 600-MW link would involve an investment of
+just under DKK 1.2 billion, corresponding to an annual cost of approximately
+DKK 85 million, to which must be added annual operational and maintenance
+costs of up to DKK 10 million.
+The values of the advantages in the form of supply security, stronger competition,
+daily operations and reduced costs for reserve and regular power have also been
+estimated, although they are subject to considerable uncertainty. Overall, it is estimated that a link under the Great Belt which begins operation in 2010 will result in
+a socio-economic surplus of more than DKK 400 million14 over the link's lifetime.
+Recommendation of a Great Belt electricity link
+The Government recommends that Energinet.dk develop a project for a Great Belt
+electricity link to be operational in 2010.
+4.3 Skagerrak
+Expansion of the Skagerrak link between Jutland and Norway is one of the grid
+Expressed as today's values in 2010
+strengthening projects prioritised by both the European Union and Nordel. A 600MW Skagerrak link would involve an investment of approximately DKK 2 billion,
+corresponding to an annual cost of DKK 130 million annually.
+Previous studies have shown that expansion of the Skagerrak link has a lower use
+value than a Great Belt link. However, these studies evaluated only the direct
+operational benefit and consideration must also be given, as for the Great Belt
+link, to a range of other advantages.
+The conditions according to which the previous studies were done have changed.
+A decision has been made to build a 700-MW link between Norway and Holland
+and it is to be expected that a Great Belt link will be established rather than a
+Skagerrak link. Both of the new links will reduce the use value of a Skagerrak
+link. Furthermore, the capacity between Jutland through Schleswig-Holstein to
+Germany is decisive for the profitability of a Skagerrak link.
+According to Energinet.dk, later on in 2005 it will be possible to carry out an overall, updated study (in co-operation with Norway's Statnett) of the socio-economic
+profitability.
+The Government will wait for more information and data before making a decision on
+the establishment of a new Skagerrak link.
+4.4 Upgrading of the link between Jutland and Schleswig-Holstein
+It is considered that it will be socio-economically profitable to upgrade the alternating-current link between Jutland and Schleswig-Holstein. Expansion of the link is
+also a European Union priority.
+Increasing the capacity by approximately 200 MW has been estimated to cost
+approximately DKK 50 million. Eltra estimates that this will result in an additional
+annual return (socio-economic operational benefit) of approximately DKK 30 million. To this should be added the value of a market which functions better. The
+advantages of an upgrading hence far outweigh the costs involved.
+The project assumes agreement between the parties on both sides of the DanishGerman border. According to Eltra, E.ON Netz has so far not shown any interest
+in the project.
+The Government supports Energinet.dk's endeavours to establish a constructive dialogue with
+the German system operator on upgrading the link between Jutland and Schleswig-Holstein.
+4.5 Increased domestic grid expansion to 2010
+The Government expects that Energinet.dk, as system operator, will prepare longterm plans up to 2010 and beyond, and that, on the basis of these plans, it will
+ensure necessary expansion of the overall electricity infrastructure in the most
+appropriate way and in accordance with general political priorities and guidelines.
+Energinet.dk is an autonomous public body with independent management and is
+responsible for the overall infrastructure in the electricity- and gas areas.
+In its contribution to the Government's draft infrastructure action plan,
+Energinet.dk described domestic grid expansions up to 2010 which it, as the system operator, is considering at the present time and which are of significance to
+the national situation. That is, expansion of interconnections, of the 400-kV grid
+and 132/150-kV expansions in connection with the setting up of offshore windturbine farms. These projects are briefly described below. The necessary procedures have been initiated by Energinet.dk in order to clarify how these projects
+could be realised.
+Western Denmark
+Reconstruction of the 400-kV link in North Schleswig
+Negotiations are underway among the authorities concerned for reconstruction of the
+existing 400-kW overhead link between Kass (west of Aaabenraa) and Revsing
+(north of Vejen). The North Schleswig and Ribe County Council has begun public
+consultation on the proposed regional plan for the project. The project is expected to
+cost DKK 270 million, which includes the costs for cable replacements and compensating laying of underground cables. Eltra expects the system to be operational in 2008.
+Land-conveyance installation from Horns Rev 2
+A transformer platform and a 150-kV cable to convey power to land from the
+upcoming 200-MW offshore wind-turbine farm at Horns Rev (near Esbjerg) are
+required. The costs involved will amount to around DKK 350 million.
+Grid strengthening relative to Horns Rev 2
+The upcoming offshore wind-turbine farm, Horns Rev 2, for which a call for tenders
+was made in June 2004, will make it necessary for the West Coast grid to be strengthened. It is expected that the wind-turbine farm will be operational by 2008 at the
+earliest.
+Energinet.dk has proposed a long-term solution in the form of a new 400-kV link
+in West Jutland between Endrup and Idomlund. A link of this kind would cost
+approximately DKK 560 million.
+Eastern Denmark
+Land-conveyance installation from Rdsand 2
+A transformer platform and a 132-kV cable to convey power to land from the
+upcoming 200-MW offshore wind-turbine farm at Rdsand south of Lolland are
+required. The costs involved will amount to around DKK 300 million.
+Grid strengthening relative to Rdsand 2
+The new offshore wind-turbine farm, Rdsand 2, for which a call for tenders was
+made in November 2004, will make it necessary for the grid between Central Zealand and Lolland-Falster to be strengthened. The tender process was begun later
+than for Horns Rev 2 and it is therefore expected that this wind-turbine farm will
+not become operational until 2009 or 2010.
+Various solutions are being weighed. At the present time, it is considered that a shortterm 132-kV solution costing approximately DKK 350 million-400 million is the
+most appropriate solution to the situation. Energinet.dk will initiate a preliminary project for this solution so that a final choice can be made before the beginning of 2005.
+Bornholm
+After the power outage on Bornholm on 10 October 2004, various possibilities are
+being considered in order to improve the island's supply security. One possible
+solution is to strengthen  or double  the cable connection to Sweden.
+Economic consequences for electricity consumers
+For every DKK 100 million invested in the new transmission grid, the system tariff
+will rise by approximately 0.03 re/kWh15. The rise in the system tariff will be offset by the advantages deriving from the projects, such as better use of the system,
+better competition and lower costs for ensuring supply security in other ways.
+The establishment of a Great Belt electricity link is considered overall as being able
+to give Danish electricity consumers an economic advantage of up to
+DKK 400 million annually16, corresponding to approximately 1 re/kWh. The contribution resulting from improved competition is a determining factor for this
+advantage to Danish consumers. If competition is not at all improved, electricity
+consumers with face a loss of approximately DKK 100 million annually.
+With interest and depreciation over 30 years.
+Assuming a drop in the market price of electricity of 5% as a result of improved competition.
+4.6 National grid expansion after 2010
+All of the expansion projects described above are within a decision horizon up to
+2010 and all are of significance to the national electricity situation: expansion of
+interconnections, the 400-kV grid and possible 132/150-kV expansions in connection with offshore wind-turbine development. This is not an exhaustive list of conversions and expansions of the over 100-kV transmission grid, which may become
+necessary in the short- and long terms. It is well to be expected that conversion
+and expansion of the regional 132/150-kV grid will become necessary in order to
+ensure local supply security, to introduce wind-turbines and other decentralised
+land production to the system as well as to carry out reconstruction, etc.
+In the long view, beyond 2010, further expansion of the electricity-transmission
+grid may become necessary. The system operator has various plans which are part
+of long-term considerations. At the present time, they are, however, merely possible solutions to various problems which may arise further down the road. When
+and if concrete decisions are made, the problems and their possible solutions will
+be carefully examined in each individual case.
+The system expansions referred to above, about which decisions must be made in
+the short term leading up to 2010, have been assessed in relationship to possible
+future developments so that solutions are chosen which can become part of a longterm grid structure in harmony with possible future grid expansions.

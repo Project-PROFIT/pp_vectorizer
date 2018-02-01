@@ -1,0 +1,1296 @@
+Electricity Disclosure in Europe
+A policy paper prepared as part of the ALTENER project
+Consumer Choice and Carbon Consciousness
+for Electricity (4C Electricity)
+Sponsored by the European Commission
+September 2002
+Written by
+Christof Timpe (c.timpe@oeko.de), ko-Institut
+Veit Brger (v.buerger@oeko.de), ko-Institut
+With contributions from
+Brenda Boardman, Louise Rickard, Kevin Lane (Environmental Change Institute,
+Oxford), Diana Urge-Vorsatz (Central European University), Herbert Ritter (Energieverwertungsagentur), Judith Lipp, John Green and Barbara de Radigues
+(IT Power), Asa Gerger and Francis Johnson (Stockholm Environment Institute).
+The project Consumer Choice and Carbon Consciousness for Electricity (4C Electricity)
+is supported by the European Commission through the Altener programme (contract no.
+AL 2001/88).
+This report represents the views of its authors. These views have not been adopted or in
+any way approved by the Commission and should not be relied upon as a statement of the
+Commission's views. Neither the European Commission, nor any person acting on behalf
+of the Commission, is responsible for the use that might be made of the information arising
+from this document. The responsibility for the report, including possible flaws, remains
+with the authors.
+ ko-Institut e.V. 2002
+The 4C Electricity project consortium:
+Environmental
+Change
+Institute
+IT Power
+ko-Institut
+Stockholm
+Environment
+Institute
+Energieverwertungsagentur
+Central
+European
+University
+Electricity Disclosure in Europe
+Contents
+The 4C Electricity Project ............................................................................................. ii
+Executive Summary.........................................................................................................1
+An introduction to Electricity Disclosure...............................................................3
+1.1 The concept of Electricity Disclosure ............................................................3
+1.2 Potential benefits of Electricity Disclosure ....................................................4
+Electricity Disclosure  state of the art...................................................................6
+2.1 Experiences in the US.....................................................................................6
+2.2 Developments in Europe ................................................................................8
+The front side: What consumers want to know...................................................12
+3.1 Label content ................................................................................................12
+3.2 Mandatory vs. voluntary disclosure .............................................................15
+3.3 Full vs. partial disclosure..............................................................................16
+3.4 Product vs. portfolio disclosure ....................................................................16
+3.5 Reference time ..............................................................................................18
+The back side: How the market can provide information..................................20
+4.1 Tracking electricity in liberalised markets ...................................................20
+Contract-based (settlement) approach ................................................................... 21
+Certificate-based approach .................................................................................... 22
+Hybrid tracking approach ...................................................................................... 23
+Conclusion .............................................................................................................. 24
+Power exchanges ..........................................................................................24
+Exports and imports......................................................................................25
+Data handling................................................................................................27
+Implementation strategies .....................................................................................29
+5.1 Regional scope and harmonisation requirements .........................................29
+5.2 Roles of involved actors ...............................................................................31
+5.3 Cost evaluation and options for cost reduction ............................................32
+Recommendations ..................................................................................................34
+6.1 EU policy recommendations ........................................................................34
+6.2 Recommendations for EU Member States and other European
+countries........................................................................................................35
+6.3 Implications for the electricity industry .......................................................36
+6.4 Demand for further research.........................................................................36
+Bibliography............................................................................................................37
+Appendix ........................................................................................................................39
+Electricity Disclosure in Europe
+The 4C Electricity Project
+The project Consumer Choice and Carbon Consciousness for Electricity (4C Electricity) is being carried out under the framework of the EU Altener programme. The aim
+of this project is to promote Electricity Disclosure, i.e. consumer information about the
+source of the electricity product they are currently buying and the implications of its
+generation.
+By assisting consumers to make an informed choice in the liberalised market place, this
+project proposes to develop a label (and the information system behind it) that will provide them with details of the content of their supply mix and its resulting environmental
+implications.
+By designing an information system which displays details about the primary energy
+sources used to generate a certain product, this label will provide a tool which can aid
+consumers and policy makers in greening Europes electricity supply.
+The Electricity Disclosure scheme will be explored within the context of liberalisation,
+in order to ensure that a functional and practical scheme is proposed. An assessment of
+the opportunities and barriers to labelling, and especially for tracking electricity, from
+the changes to the European liberalised markets will therefore be undertaken.
+These will be achieved through the following activities:
+Phase 1: A study of the ability of suppliers to access and provide the information
+needed for an electricity label within the context of liberalisation.
+Phase 2: A study of what the label will mean for consumers and what consumers
+want by consulting with them directly through focus groups and a telephone survey.
+Phase 3: Development of policies to maximise the impact of the label, as well as
+investigating the need for associated policies to ensure effectiveness. This final
+phase views the label as part of a policy framework towards a lower carbon future,
+and suggests a policy toolbox that can be employed to build on the label.
+In the course of the project, two workshops will be held, which form key deliverables of
+the 4C Electricity project. The project final report will be available in October 2003.
+This policy report is an outcome of Phase 1 of the project. It is supported by a more
+extensive report on the findings of this phase.
+For more information about the 4C Electricity project, please visit the project website:
+http://www.electricitylabels.com
+Electricity Disclosure in Europe
+Executive Summary
+Electricity Disclosure is an important supplement to the creation of a single European electricity market
+Electricity Disclosure provides objective and standardized information about electricity
+offerings and therefore can contribute significantly to market transparency. Electricity
+disclosure will be beneficial for:
+ Consumers: by giving them information which allows them to make informed purchasing decisions
+ Suppliers: by giving them a means for increased product differentiation and competition
+ Traders: by encouraging competition on more parameters than just price
+ Generators and fuel security: by encouraging a diversity of generation types and
+products
+Even in markets which are not fully liberalised, consumers still have the right to know
+what they are buying.
+Electricity Disclosure is on the political agenda
+Several countries world-wide including nearly half of the US states have already gained
+experience with Electricity Disclosure. Austria is the first European country with an
+operating disclosure system. Other EU Member States like The Netherlands and Belgium as well as Non-Member Switzerland are preparing to implement disclosure rules.
+Electricity Disclosure has been proposed by the European Commission as part of the
+revised Electricity Directive 96/92/EC. This proposal is currently being discussed by
+the European Council and the Parliament. A decision on the revised Directive can be
+expected for autumn 2002.
+Electricity Disclosure is technically feasible and can be implemented in a way that
+is compatible with market operations and only incurs low additional cost
+Electricity Disclosure should be implemented as an obligation for all electricity suppliers to final consumers. The disclosure scheme should be product-based, but additional
+information on the suppliers company portfolio should be available. Disclosed
+information should refer to current product characteristics (ex ante) rather than
+historical data.
+For the tracking of electricity in liberalised markets, different systems are available and
+have been tested in existing disclosure schemes. Experience from the US shows that
+cost for implementation and operation of the tracking system are not negligible in total
+size, but will not affect electricity prices to a significant extent. Besides the well-known
+contract-based and certificate-based tracking approaches, this paper outlines a hybrid
+tracking model which contains elements of both models.
+Electricity Disclosure in Europe
+All tracking options can deal with power exchanges, imports and exports. The hybrid
+approach might be able to combine the benefits of the two other models, i.e. flexibility,
+market compatibility and credibility to consumers.
+Electricity Disclosure has additional benefits
+Electricity Disclosure can support the implementation of policies like voluntary agreements on environmental performance of industry sectors or differentiated electricity
+taxation as well as policies for the promotion of electricity from renewable energy
+sources or cogeneration, like renewables obligations or feed-in systems. It is closely
+linked to the guarantee of origin for electricity from renewable energy sources and from
+cogeneration required by European Directives.
+Main policy recommendations
+The European Council and the Parliament should consider the following essential features of an EU-wide disclosure scheme:
+ A mandatory, full disclosure system for Europe, which is product-based, but provides for additional company portfolio information
+ Minimum requirements for label content and design, with an obligation for Member
+States to decide on details of a standardised label
+ Principles of a European tracking system, including maximum data requirements
+(maximum disaggregation of fuels, list of environmental indicators, etc.)
+ A clear timetable for implementation of the disclosure scheme
+The Member States should focus on
+ Definition of the standardized disclosure label, including price information, fuel mix
+and environmental indicators such as greenhouse gas emissions and nuclear waste
+ Agreements on specifications for a harmonized European tracking system for electricity and creation of such a system
+ Merging the systems for guarantees of origin for renewables and cogeneration with
+the tracking system for Electricity Disclosure
+The regional scope for Electricity Disclosure should be all countries of the main European transmission systems (UCTE, Nordel, and the UK systems). It is recommended
+that any first step of implementing disclosure should be jointly taken by a group of
+countries with close internal market relations and not too many exports and imports.
+Implementation and operation of the tracking system can either be delegated to national
+agencies or to the electricity industry. In both cases, thorough systems have to be set up
+in order to prevent fraud. Mechanisms for monitoring and verification by independent
+external bodies also have to be implemented.
+The electricity industry as well as other stakeholders should be actively involved in the
+development, implementation and operation of a European disclosure scheme.
+Electricity Disclosure in Europe
+1 An introduction to Electricity Disclosure
+The concept of Electricity Disclosure
+Since liberalisation of the European electricity market in the late 1990s electricity consumers are gradually becoming eligible to choose among different suppliers. In contrast
+to earlier times when consumers could only buy a standardized, generic product from a
+default supplier, there are now, in many national markets, a variety of electricity products on offer. The products offered differ in attributes like fuel mix of electricity generation and price. Well-functioning competition requires high transparency of the key
+characteristics and qualities of the different companies and products. Consumers need
+access to adequate information to make informed choices when choosing between products.
+Therefore two key questions arise when evaluating the functioning of liberalised
+electricity markets:
+Are consumers already adequately informed to choose between different electricity
+products and suppliers?
+Which further information  beyond price  could be decisive factors for interested
+customers and should therefore be available to consumers?
+These questions gain significance when considering that electricity is a commodity and
+consumers can not recognise any differences in the quality of a product through its use.
+Electricity Disclosure could be an effective instrument to bring more transparency into
+the electricity market, thus facilitating consumers to make informed choices. Following
+the proposal of the European Commission for a revised directive concerning common
+rules for the internal electricity market, Electricity Disclosure shall mean making available in aggregate form commercial information associated with the production of
+electricity and relating to the sources used to produce electricity, their location, or environmental impact.1
+In the field of consumer information one should generally distinguish between disclosure and evaluating instruments such as quality labelling.
+Disclosure offers consumers objective and standardized information about a product
+(e.g. price, ingredients, energy consumption). Without evaluating or judging the
+quality of the products, disclosure is a means to increase market transparency. In the
+interest of consumer protection, consumers are enabled to take a purchase decision
+based on their own criteria.
+Amended proposal for a Directive of the European Parliament and of the Council amending Directives 96/92/EC and 98/30/EC concerning rules for the internal markets in electricity and natural gas,
+COM (2002) 304 final
+Electricity Disclosure in Europe
+Quality labels usually define minimum standards for products. Quality labels or
+product valuations are based on subjective criteria of the issuing organization (e.g.
+consumer organizations). To get the permission to carry a quality label, a product
+must fulfil these standards. Normally the product is subject to independent audits
+verifying its quality.
+The European energy label for household appliances provides objective information on
+energy consumption and appliance effectiveness, but this information is also ranked into
+seven efficiency classes from A to G. Ranking of information supports consumer
+comprehension of the label and its application to all suppliers or products provides
+evaluation of product features. However, the choice of attributes to be ranked and the
+threshold for ranks contain a certain degree of subjective criteria.2
+The question whether Electricity Disclosure labels should provide ranking of information will be evaluated in the course of Phase 2 of the 4C Electricity project, which will
+include detailed consumer research.
+Potential benefits of Electricity Disclosure
+Electricity Disclosure provides objective and standardized information about electricity
+offerings and therefore increases the degree of market transparency.
+Electricity Disclosure can create advantages for all market participants:
+Consumers have an elementary right to know what they are buying. Electricity Disclosure provides easy access to relevant market information.
+Electricity Disclosure creates a more transparent market, thus potentially enhancing
+competition across suppliers and products. It encourages choice and competition by
+increasing confidence in the information provided and enables consumers to better
+exercise their preferences in electricity product choice.
+Electricity Disclosure creates incentives for suppliers to differentiate their electricity
+products. By targeting different market segments, additional values for electricity
+products could be created.
+A standardised method to present product information increases the credibility of
+information on products and companies on the electricity market.
+Electricity consumers can choose the product that best suits their preferences for
+specific energy sources (e.g. renewables, natural gas) for any given budget. Electricity Disclosure provides additional decision criteria, as well as price information.
+Quality labels and ranking require a wide acceptance of the criteria they are based on. For electricity
+this might be more difficult than for household appliances as there are several criteria consumers
+might have different opinions on. For example, while for washing machines a broad consensus exists
+that low energy consumption and high washing effectiveness are worth striving for, the electricity
+sector experiences a contentious debate about trade-offs between greenhouse gas emissions from fossil fuels and risks of nuclear energy.
+Electricity Disclosure in Europe
+Electricity Disclosure can support consumer education about the relationship between a purchased electricity product and the environmental impacts resulting from
+the electricity production. Better consumer education could gradually increase the
+market share of environmentally friendly electricity products.
+Business, industrial and public sector customers can use Electricity Disclosure information as an element to determine their environmental performance. This information can be used for marketing and communication purposes.3
+Electricity suppliers can improve product differentiation within their portfolio and
+distinguish themselves more easily from competitors by offering products with
+different attributes.
+Consumer and environmental organisations can rate electricity offerings on the basis
+of standardised information provided by Electricity Disclosure. A quality label for
+electricity can therefore be designed so as to be consistent with disclosure and can
+complement the information content of disclosure.
+Governments can adopt policies based on the tracking scheme to be established
+within the Electricity Disclosure system. Such policies could include electricity
+taxes with differentiated rates depending on the environmental performance.
+Electricity Disclosure is closely related to the requirements of the EU Directive
+2001/77/EG to implement a guarantee of origin for electricity produced from renewable energy sources and of the similar regulation in the Cogeneration Directive
+proposed by the Commission.
+In several countries many medium and large companies as well as public authorities have already
+signed on to environmentally-certified electricity as part of their company environmental policy.
+Electricity Disclosure in Europe
+2 Electricity Disclosure  state of the art
+Several countries world-wide have already gained experience with Electricity Disclosure. The first and most extensive experience has been collected in the United States. In
+the US as well as in Canada and Australia, disclosure is implemented on the provincial
+or state level and therefore does not cover the whole country. Austria is the first European country with an operating disclosure system. Other EU Member States are preparing to implement disclosure rules. This chapter focuses on developments in the US and
+in Europe.
+Experiences in the US
+In the US, Electricity Disclosure has been introduced at the state level. At the federal
+level, there is no requirement for electricity disclosure yet, although it has been included
+in several legislative proposals. Currently, 22 US states and the District of Columbia
+have legally implemented disclosure rules for electricity (see Figure 1).
+Of these, 19 disclosure schemes are mandatory, i.e. suppliers are required to disclose
+information to consumers. Eighteen US states have decided on standardized label content and design. All states except Arkansas have included the fuel mix of power generation into the label, 16 of these display the related emissions as well.4 Regarding emissions, most states require data on carbon dioxide (CO2), nitrogen oxides (NOx), and
+sulfur dioxide (SO2), and in a few states, nuclear waste. The majority of states require
+disclosure for single products, while a minority of states require disclosure for the suppliers portfolio of resources. In some states, consumers can access data on both individual products and the supplier company. Several states require disclosure of average
+product prices. Even some states that have not liberalized their electricity markets have
+introduced disclosure requirements to inform and educate consumers. For more details,
+see the list in the Appendix.5
+In Arkansas, only emissions are disclosed, without displaying the fuel mix.
+An overview on the current state of electricity disclosure in the USA can be found in the Internet on
+http://www.eren.doe.gov/greenpower/disclosetxt.shtml.
+Electricity Disclosure in Europe
+Figure 1:
+Status of Electricity Disclosure in the USA
+Disclosure implemented
+Disclosure in preparation
+Source: Timpe/Holt et. al. 2002
+In the New England region, states and other stakeholders worked together to develop a
+common approach to disclosure, although it is up to the individual states to act on this
+joint framework (RAP 1998). Because this region is served primarily by one power
+pool, the power pool has developed a tracking system that can support Electricity Disclosure in all six states. Some western states have discussed a joint tracking system for
+electricity as well, but this has been slowed by the recent problems with the California
+market and delayed restructuring in other states (Timpe/Holt et. al. 2002).
+Since the first phase of introduction of Electricity Disclosure in 1995, extensive research has been conducted in the US.6 This includes several studies on consumer preferences and understanding with regard to label content and design and other elements of
+the disclosure scheme. Mandatory, standardized disclosure of electricity information
+has been acknowledged as a successful instrument to facilitate consumer choice in
+competitive electricity markets (EFI 2000, USFTC 2000).
+See, for example, the website of The National Council on Competition and the Electric Industry,
+http://www.ncouncil.org/publications.html.
+Electricity Disclosure in Europe
+Developments in Europe
+EU legislation
+In the course of revising the Directive for the internal market of electricity the European
+Commission emphasized the importance of facilitating effective choice among electricity products and suppliers by increasing market transparency. Therefore the Commission took up Electricity Disclosure in the draft Directive, which was published in March
+2001.7
+In March 2002 the European Parliament adopted a series of amendments to the original
+Commission proposal specifying the disclosure requirements in more detail, including
+obligations to display the cogeneration share as well as the country of origin. These far
+reaching specifications were rejected by the Commission indicating that detailed implementation issues should be left to the Member States.8
+According to the latest proposal by the Danish presidency from July 2002, Member
+States shall ensure that electricity suppliers specify in the bills and in promotional
+materials made available to final consumers a) the contribution of each energy source to
+the overall fuel mix of the supplier over the preceding year and b) the relative
+importance of each energy source with respect to the emissions of CO2 (resulting from
+electricity production).9
+The directive is still under consideration and consultation by the European Council and
+the Parliament. The completion of the debate is expected for fall 2002.
+According to Article 5 of the EU Directive on the promotion of electricity produced
+from renewable energy sources in the internal electricity market,10 all Member States
+must establish a verification system to enable producers and traders of electricity from
+renewable energy sources to demonstrate that the electricity they sell has been produced
+from renewable energy. The so called guarantee of origin must be implemented in
+each Member State by October 2003. The main purpose of the guarantee of origin is to
+track progress towards the indicative consumption targets for renewable energy set by
+the Directive, rather than to support consumer information disclosure, but the effect is
+similar to partial disclosure.
+Proposal for a Directive of the European Parliament and of the Council amending Directives
+96/92/EC and 98/30/EC concerning common rules for the internal market in electricity and natural
+gas; COM(2001) 125 final
+Amended proposal for a Directive of the European Parliament and of the Council amending Directives 96/92/EC and 98/30/EC concerning rules for the internal markets in electricity and natural gas,
+COM (2002) 304 final
+Recommendations are given how difficulties in tracking electricity could be handled. For electricity
+obtained from electricity exchanges or undisclosed imports from outside the European Union aggregate figures should be used. Where a supplier offers products differing in the fuel mix, Member States
+shall ensure that appropriate and reliable verification measures of the fuel mix are in place.
+Directive 2001/77/EC of the European Parliament and of the Council of 27 September 2001 on the
+promotion of electricity produced from renewable energy sources in the internal electricity market.
+Electricity Disclosure in Europe
+Similarly, the draft Directive on the promotion of cogeneration11 proposed by the
+Commission establishes a system of guarantee of origin for electricity from cogeneration. In this proposal, the Commission directly links the guarantee of origin to the proposed rules for Electricity Disclosure in the amended Directive 96/92/EC.
+Austria
+In 2000, the Austrian Electricity Act (ElWOG) was passed. Section 45 of ElWOG requires each retail supplier in Austria to disclose on the electricity bill the primary energy sources used to generate the electricity. The disclosure requirement became effective in October 2001.
+Although the Austrian regulator Elektrizitts-Control GmbH (E-Control) is responsible
+for overall implementation issues concerning the law, the implementation was delegated
+to the nine federal states. E-Control has made a recommendation for how the energy
+sources could be presented on a disclosure label, but the federal states pursued different
+implementation paths. Some states allow product information to be displayed, while
+others insist on company-wide disclosure. Up to now two states havent implemented
+the disclosure system at all.12 Additionally the federal states didnt agree on a standardized label layout but pursue different formats to present the disclosed information.
+These developments demonstrate that the disclosure paragraph in the Austrian ElWOG
+should be improved. First evaluations show that the lack of a uniform disclosure scheme
+and therefore the limited regional validity of the labels are confusing consumers. Differences between advertising messages and label information can be observed and raise
+concerns about the credibility of the label. As the implementation was, for the most
+part, left to the electricity industry (disclosure is based on utility self-declaration) and
+no sufficient verification mechanism was set in place, first complaints against the validity of disclosure labels have been submitted.
+In July 2002 the ElWOG was revised. As from July 2004 a harmonized disclosure system will be implemented. All electricity companies supplying final consumers will be
+obliged to display the fuel mix used to generate the electricity based on the company
+portfolio. The primary energy sources to be disclosed are coal, natural gas, oil, nuclear
+energy, hydropower, wind, solar and geothermal energy, sewage gas, biomass and biogas. Electricity that can not be directly allocated (e.g. electricity traded via power exchanges or imports) must be assigned to the European generation mix (UCTE). The
+information displayed on the bill refers to the most recent financial year.
+Switzerland
+In Switzerland, disclosure is intended to be implemented in the course of the liberalization of the electricity market. Article 12 of the draft liberalization law (Elektrizitts11
+(Proposal for a) Directive of the European Parliament and of the Council on the promotion of cogeneration based on a useful heat demand in the internal energy market; COM(2002) 415 final
+These are Salzburg and Vienna.
+Electricity Disclosure in Europe
+marktgesetz EMG) in combination with Article 16 of the draft electricity market regulation decree (Elektrizittsmarktverordnung EMV) requires all generators, suppliers, and
+traders of electricity to display on their offers and bills the fuel mix and country of origin of the electricity offered.
+The primary fuel source categories are hydro, nuclear, coal, oil, biomass, waste, solar,
+and wind. Electricity from unknown sources has to be disclosed as such. The information displayed refers to the preceding financial year.
+The liberalization of the Swiss electricity market as well as the implementation of a
+disclosure system is subject to a referendum to be held in September 2002.
+The Netherlands
+The Dutch Parliament is currently discussing a draft Electricity Disclosure law that is
+widely supported. The draft law contains the provision for all suppliers to disclose the
+average mix of primary energy sources used for their electricity generation in a standardised manner. Imports would be disclosed either according to the generation mix of
+the exporting country or as electricity of unknown origin. As a first step, the suppliers
+should be obliged to disclose the primary energy mix of their electricity purchase once a
+year from 2004 on, when the electricity market will be fully liberalized.
+In December 2001, the Dutch Ministry of Economic Affairs announced a separate
+disclosure proposal in a letter to the Parliament that emphasizes the necessity of a
+common European solution.
+In spring 2002 the Ministry commissioned a study to develop requirements and criteria
+for the establishment of a reliable and well-functioning Electricity Disclosure system in
+the EU. The study (SKM 2002) analysed questions related to the tracking system within
+the disclosure scheme (back side of the label). The authors of the study propose the implementation of an ex-ante product-based disclosure system (see chapter 3 for details on
+these issues). They additionally recommend to start with a simple label displaying the
+fuel mix disaggregated in five categories as well as the price. They conclude, that a
+tracking system based on tradable certificates would be most suitable to comply with
+the evaluation criteria set up for the study. Although SKM emphasizes that it would be a
+major advantage to establish a disclosure system in a larger region (EU wide system)
+they consider it possible to introduce the system in a smaller region, e.g. the Netherlands and some neighbouring countries, in the beginning.
+Belgium
+Over the last year Electricity Disclosure has established itself firmly on the Belgian
+agenda. The Federal Energy Minister issued draft legislation about the electricity and
+gas bills at the beginning of 2002, which has since been amended. This document requires the supplier to provide information on price, trends in consumption and on the
+composition of their electricity portfolio. The inclusion of CO2 indicators was rejected
+as it was thought to favour nuclear power. Additionally, the draft legislation obliges
+suppliers to add a leaflet to their bills explaining different energy efficiency measures.
+Electricity Disclosure in Europe
+The draft legislation is currently being reviewed since arguments have emerged that
+disclosure is an energy-efficiency measure and, should as such, fall within the competency of the regions and not the federation. In fact, the regions are already engaged in
+this issue. Flanders, for instance, has already adopted a disclosure measure concerning
+the trend in consumption and the fuel sources of the supplier. In the Walloon region, the
+responsible minister is considering the issue of disclosure, since environmental organisations are campaigning in favour of it.
+For all these disclosure systems no tracking system is provided yet. The federal project
+envisages that the Minister of Energy should approve the information provided. The
+suppliers will provide the necessary information to enable the Minister to do so.
+Electricity Disclosure in Europe
+3 The front side: What consumers want to know
+Electricity Disclosure intends to offer consumers transparent, standardized and credible
+information to facilitate informed purchasing decisions. In the following, the basic elements of the front side of a generic Electricity Disclosure scheme are discussed, and
+preliminary recommendations are given. These are based on the current status of work
+within the 4C Electricity project, including a large number of expert interviews. Still,
+some aspects on the front side of Electricity Disclosure can be outlined only in draft
+form, as they are subject to ongoing research within the project, including extensive
+consumer research in several European countries.
+Label content
+There is a broad set of information which could possibly be displayed on a disclosure
+label. The choice of how many and which information should be displayed and in which
+format and layout would be the most appropriate for a disclosure label depends on the
+following factors:
+The limited physical size of the label considering the fact that the label should not
+only be printed on the electricity bill (or added as a supplement to the bill) but also
+used within other communication lines between electricity companies and consumers (e.g. advertising materials).
+The level of simplicity required to make sure that consumers are able to use the label as an information tool supporting them to take informed purchasing decisions.
+Results from consumer research giving indications which information consumers
+wish to see on a label.
+The availability of data (e.g. emission data of power plants).
+Expert views on information priority.
+In order to allow consumers to easily compare different electricity offerings, a uniform
+label format is essential at least on the Member State level. Considering the limiting
+factors listed above, the following information could be provided on the label:
+Basic information
+Basic information should include the supplier name and product name (if applicable), a
+service telephone number and a company website. In addition, a reference period for the
+information provided on the label should be indicated.
+Fuel mix
+The fuel mix information should provide a minimum list of energy sources to be displayed. Such a list defines a minimum degree of disaggregation, which is essential for
+consumer orientation.
+Electricity Disclosure in Europe
+This minimum list could comprise the following three categories:
+fossil fuels (hard coal, lignite, gas, oil, non-biodegradable fraction of waste etc.)
+nuclear energy
+renewable energy (hydro, wind, biomass, solar, geothermal etc.)
+Member States should be allowed to further disaggregate the items on this list, e.g. in
+different fossil or renewable fuels. Further consumer research might give indications
+about whether a more detailed list could increase or reduce acceptance of Electricity
+Disclosure and the label.
+Environmental impacts
+Environmental indicators inform consumers about the most relevant environmental burdens associated with electricity generation. Results from consumer research in the US
+show that consumers wish to see this information provided on a disclosure label.13 Environmental indicators could include greenhouse gas emissions, air pollutants (e.g. acidifying emissions, particulates) and nuclear waste.
+Member States should not be restricted to display only greenhouse gases as proposed by
+the European Commission in its current draft Directive. Although the greenhouse effect
+is one of the most important environmental issues related to power production, Member
+States should be encouraged to add other environmental indicators as well, such as nuclear waste or air pollutants.
+Additional information
+Results from consumer research in the US and Switzerland14 indicate that consumers
+want information about electricity prices in order to be fully enabled to easily compare
+different products. Therefore Member States could be allowed to include information
+about the monthly or annual cost of electricity products on the disclosure label, under
+the principle of subsidiarity.15 As pricing rules differ widely between Member States,
+details of how costs could be displayed in a standardized format should be left to Member States.16
+Other information of potential relevance concerns the country of origin of electricity. In
+a single European electricity market, most offerings might include imported electricity.
+Consumers in Switzerland have demanded for the disclosure of the country of origin.
+Holt 1998
+Holt 1998, Markard 2001, Markard/Holt 2002
+Price information on the label only makes sense if either product labelling is chosen (see chapter 3.4)
+or if suppliers only offer a single product.
+In some Member States it might only be possible to indicate the costs for electricity consumption
+based on the generation price per kilowatt-hour plus taxes while network tariffs might depend
+strongly on the location of the consumer.
+Electricity Disclosure in Europe
+This information could for example be displayed in the form of a list of countries with
+relevant shares of generation for the product.
+Comparison to a reference
+Most consumers will not be able to evaluate the information given for the electricity
+supplied unless they can compare it to a reference. Therefore information about fuel
+mix and environmental attributes should be supplemented by a reference. For the time
+being the most appropriate reference will usually be the national market, as physical
+imports and exports are still limited in size. The total national consumption is the relevant reference (and not generation), because a reference to generation would neglect
+imports of electricity (including those from sources other than domestic generation).
+Where regional markets are already well-integrated, such as in the Nordic countries, a
+regional rather than a national reference might be more appropriate. As soon as the internal market for electricity is completed, the reference might be changed to a European
+average.
+Sample labels
+The following figures show examples of product labels which are used in two US states.
+The label from California only displays the product name and the fuel mix including the
+states average as a reference (Figure 2). It also indicates the share of the product which
+is bought from independent generators. The Texas label additionally includes price and
+contract information as well as environmental indicators (Figure 3). The latter are indexed to the state average as a reference.
+Figure 2: Examples for disclosure labels: Sample label from California
+POWER CONTENT LABEL
+PRODUCT
+2001 CA
+ENERGY
+NAME*
+POWER MIX**
+(projected)
+(for comparison)
+RESOURCES
+Eligible Renewable
+-- Biomass & waste
+-- Geothermal
+-- Small hydroelectric
+-- Solar
+-- Wind
+Coal
+Large Hydroelectric
+Natural Gas
+Nuclear
+Other
+TOTAL
+100%
+* ___% of Product Name is specifically purchased
+from individual suppliers.
+** Percentages are estimate annually by the California
+Energy Commission based on electricity sold to
+California consumers during the previous year.
+For specific information about this electricity product, contact
+Company Name. For general information about the Power Content
+Label, contact the California Energy Commission at 1-800-555-7794
+or www.energy.ca.gov/consumer.
+Electricity Disclosure in Europe
+Figure 3: Examples for disclosure labels: Sample label from Texas
+Mandatory vs. voluntary disclosure
+Should all retail suppliers be obliged to disclose information on their electricity (mandatory disclosure) or should it be up to each supplier to voluntarily disclose the information?
+The results of various, independent consumer surveys in the US show overwhelming
+consumer desire for mandatory disclosure.17 Most participants in focus group discussions felt that standard information should be required of all suppliers. They did not
+believe it would be satisfactory if some companies made standard information available
+and others did not. Besides that, research in the US demonstrates that consumer's capabilities e.g. to accurately identify the lowest cost product increased from 66% to 91%,
+E.g. Holt 1998 and Teisl/Halverson 1997.
+Electricity Disclosure in Europe
+when all products were labelled, compared to the case when only some products were
+labelled.18
+Considering the effectiveness and credibility of the system, Electricity Disclosure
+should be implemented as a mandatory scheme. Standardised and transparent information about electricity products are essential preconditions for informed consumer choice
+and therefore for well-functioning competition on the electricity market. Only mandatory disclosure for all products would enable consumers to easily choose among offerings. In addition to this, a mandatory disclosure scheme would allow a much more efficient monitoring and verification system compared to a voluntary system which would
+only partially cover the market. Fraud and errors could therefore be traced more easily
+with fully implemented disclosure for all suppliers.
+Full vs. partial disclosure
+Electricity Disclosure can either be implemented covering the market completely or
+only parts of it. Partial disclosure could mean that only suppliers who claim to offer a
+product which is different to the average system mix, or products offered to competitive
+segments of the market, would be obliged to disclose their sources.
+First findings of the 4C Electricity project indicate that full disclosure is an indispensable precondition for the functioning of a reliable and credible disclosure system. As
+stated above, proper verification can be guaranteed only when the tracking system covers all electricity generated and traded in the market. Full disclosure in a standard format also adds to consumer confidence in the disclosure system and information.
+However full disclosure does not automatically imply that all consumer groups have to
+be confronted with identical labels or any label at all. For example, large industrial customers could be given information on a more frequent basis and in a different format
+than it is used for small customers.
+Product vs. portfolio disclosure
+Within a disclosure system two options can be pursued regarding the level of information aggregation.
+Disclosed information could relate to specific electricity products offered by a supplier (product disclosure).
+Disclosure could refer to the companys total supply mix (portfolio disclosure).
+Implementing Electricity Disclosure on a product level would enable electricity suppliers to offer differentiated products with diversified attributes.19 A supplier could for
+example create one product which consists of 50% coal and 50% nuclear and a second
+Winneg et al. 1998
+Product differentiation has already developed in some Member States, e.g. in Germany.
+Electricity Disclosure in Europe
+one which is exclusively generated from renewable energy sources. Such products
+would be presented to consumers with corresponding labels reflecting their attributes.
+This market diversification occurs in order to meet the preferences of different market
+segments. Supply companies thus can much better position themselves fulfilling the
+wishes of different consumer groups. Product labels give clear indications about the
+quality of an electricity product. For example consumers choosing green products
+will see the positive environmental attributes on the label (e.g. low CO2 emissions) directly linked to the product.
+Implementing portfolio disclosure would result in one single label per electricity supplier presenting the structure of the companys supply portfolio. The label would display the average attributes of all products sold to all customers of the respective supplier.20 This is very likely to confuse consumers if the supplier claims to offer differentiated products. Electricity companies would only be able to position themselves compared to competing utilities by changing the structure of their whole supply portfolio.
+Suppliers aiming to present different products with different labels would have to set up
+subsidiaries, e.g. a separate company for marketing green power.21
+The advantage of portfolio disclosure is that portfolio labels allow consumers to obtain
+better insight in the suppliers company policy. This would also reflect expectations that
+only a proportion of consumers will use the information provided by Electricity Disclosure for their purchasing decisions. Portfolio disclosure would allow those consumers to
+include the overall portfolio of a supplier into their selection criteria, not only the individual product features. They would also know what electricity the supplier is selling to
+those consumers who have other preferences or do not care about electricity attributes.
+On the other hand, displaying Electricity Disclosure information on the basis of company portfolios only, provides no incentive for suppliers to diversify their offerings.
+Different products would all carry the same label and therefore the label would not directly inform consumers about attributes linked to the individual product. In this case
+the label might even lead to additional consumer confusion. In addition, in a portfolio
+disclosure scheme it would be difficult to show product price information, unless the
+supplier offers only one single product.
+Therefore, if a disclosure scheme intends to encourage electricity suppliers to develop
+and market new and diversified offerings, then disclosure should be implemented on the
+product level. Nevertheless it is recommended that a product disclosure scheme is supplemented by provisions about accompanying portfolio information. It could be left to
+the Member States to decide whether portfolio information should be included in the
+This does not necessarily mean that each supplier would only be allowed to offer one product (as
+indicated in the Dutch study, SKM 2002), but different products of a supplier would all carry the
+same label.
+In the Nordic countries, which have the longest experience with liberalised markets, there are a number of examples of affiliated groups of companies that operate along these lines, i.e. with separate operating companies or subsidiaries that concentrate on green power.
+Electricity Disclosure in Europe
+product disclosure label or whether they have to be published on the companys website, annual reports or through other communication lines.
+Reference time
+Usually the data on fuel mix and environmental indicators displayed on the disclosure
+label represents an average over a certain settlement period. To allow easier verification, the settlement period for all disclosure labels should be identical at least on the
+Member State level. The duration of this period could be 6 or 12 months. Periods of less
+than 6 months do not make much sense, because consumers usually do not switch their
+electricity supply that often. Whereas a longer period might not be able to reflect current market dynamics. Settlement periods of less than one year could create problems
+for all sources which are depending on seasonal variation (e.g. hydro power and CHP).
+A recommendation on time also depends on further research analysing the total transaction costs for a disclosure system and in particular for the settlement. For the following,
+it is assumed that settlement is made every calendar year.22
+But should the label display prospective or retrospective data? Considering this question
+there are two options. Both are used in practice:
+Ex ante disclosure: Disclosure labels carry prospective information. Suppliers tell
+their customers the attributes that their electricity will have in the future, e.g. during
+the current or next calendar year. By selling a specific product, e.g. with a certain
+fuel mix, an electricity supplier commits himself to generate or purchase electricity
+with the corresponding attributes to comply with the label.
+Ex post disclosure: Disclosure labels carry historical information. Suppliers show to
+customers the attributes of their electricity from the past. Consumers will for example be informed about the fuel mix of a product as an average over the preceding
+calendar year.
+The advantage of the ex post approach is that historical data are reliable, while prospective claims have to be verified at the end of the reference period. On the other hand, ex
+post labels give no indications about the current characteristics of an electricity product.
+Therefore consumers never know which product they are actually buying. This problem
+is of high relevance in dynamic markets with large shares of short-term contracts and
+spot-market sales, which might lead to strong changes of the supply mix of a given
+product from one calendar year to the next one. Any commitment by the supplier for the
+actual electricity delivery would not be compatible with the ex-post label and would
+lead to consumer confusion.
+Ex-ante disclosure much better meets the requirements of active, informed consumers:
+In this case, the label shows the current attributes of electricity products, based on
+Another option would be to link the label to the financial year of the respective supply company.
+However, as these periods are different for individual companies, this would significantly increase the
+complexity of the tracking system for electricity and the verification procedures.
+Electricity Disclosure in Europe
+claims of the suppliers. Consumers can see from the label what they are buying. Generally product names already imply specific attributes of a product and therefore demand
+for an ex-ante approach. A consumer buying a product called green power expects to
+be supplied by electricity from renewable energy sources. Consumers who want to
+make informed choices need to know the quality of the product they are going to buy.
+The information about the quality which the product had in the past (as provided by an
+ex-post approach) is less important.
+Ex-ante disclosure needs to be verified ex-post. Verification means that compliance has
+to be proved between the ex-ante label and the actual performance of the product delivered. Hence, any ex-ante disclosure scheme must comprise a penalty regime for those
+suppliers which do not match the claims made in their labels.23
+Assuming that product disclosure better meets the objectives of the liberalised electricity market and considering the fact that liberalisation should support active market participation, an ex-ante disclosure should be implemented.
+In dynamic markets, supply companies might want to gain advantages over their competitors by making claims that they might not be able to meet. Therefore, an effective verification system with substantial penalties is an undeniable element of any ex-ante disclosure scheme.
+Electricity Disclosure in Europe
+4 The back side: How the market can provide information
+In this section, implications of Electricity Disclosure for a liberalised European electricity market and the electricity industry are discussed.
+Tracking electricity in liberalised markets
+A fundamental prerequisite of Electricity Disclosure is that there is a way to create unambiguous links between the power plants and electricity sold to final consumers.
+These links are used to transfer information about power generation attributes to consumers, which will be aggregated and displayed on disclosure labels.
+In physical terms, these links are clearly impossible to create. Once a generation device
+has fed its electricity into the public grid, the flow of electrons to specific consumers
+can not be traced, because electricity in the grid is physically homogenous: There is no
+way of distinguishing black, green or red electrons. On the other hand, there is no
+reason why Electricity Disclosure should be based on the physical flow of electricity.
+The electrons always follow the path of least resistance, which usually means that electricity takes the shortest way from a power plant to a consumer nearby. But commercial
+electricity contracts might paint a completely different picture about which plant is generating power for a specific customer. Liberalised electricity markets use the public grid
+as a huge reservoir, within which balancing groups and links from sources to sinks are
+created independently from physical electron flows.
+The purpose of a tracking scheme is to create these kind of bilateral links and to assign
+the characteristics of power plants to electricity delivered to final customers. These
+characteristics can then be aggregated either on the level of single electricity products or
+for the company portfolios of suppliers (see chapter 3.4). If an ex ante disclosure system
+is chosen (see chapter 3.5), the information generated by the tracking system is used to
+verify the claims of suppliers. In an ex-post scheme, the tracking system generates the
+information to be displayed to consumers as an average of e.g. the last calendar year.
+In the following, the term physical electricity transaction will be used in order to delimit (physical) electricity trading arrangements from physical electron flows on one
+side and from financial contracts which are used for risk hedging in the electricity market on the other. Physical transactions can include bilateral short or long-term delivery
+contracts, spot market trades and futures for physical delivery of electricity.
+Usually, two options for tracking electricity are distinguished (e.g. RAP 1997, Biewald
+1999, SKM 2002).
+The contract-based (or settlement) approach
+In this approach the information for disclosure is attached to physical electricity
+transactions. In a strict contract-based system, all physical transactions must be associated with information about the characteristics of power generation. In a more
+flexible system, market participants could choose for every transaction either to use
+Electricity Disclosure in Europe
+unit contracts which carry the characteristics of a specific power plant or to leave
+the quality of the power transaction open. All non-specified electricity would then
+be assigned the average quality of all generation, which has not been used for unit
+contracts.
+The certificate-based approach
+Here, the attributes of power generation are separated from the commodity electricity at the power plant and are made transferable in the form of tradable certificates.24
+Power plants therefore produce two separate products, electricity and certificates.
+Both products can be traded independently. The demand for certificates is created
+by the obligation, that electricity suppliers have to prove the characteristics of their
+power portfolio or products by purchasing and redeeming25 a corresponding number
+of certificates.
+Both tracking alternatives show significant advantages and disadvantages. The most
+relevant of these are summarised below.26
+Contract-based (settlement) approach
++ This approach gives a picture which directly reflects the outcome of physical
+electricity transaction. For example, a portfolio label for the German utility RWE,
+which directly or indirectly owns a relatively high capacity of coal plants, would
+certainly show a large share of electricity from coal. The result of the tracking
+scheme may therefore be highly credible to consumers and public opinion leaders.
+ A strict contract-based tracking system would lead to a segregation of markets for
+different qualities of electricity and therefore to reduced market liquidity. In addition to the current features of timing (e.g. base load or peak load in a certain period
+of time) and location of delivery within the European transmission systems (e.g.
+Laufenburg/CH), a third dimension of several power qualities would further split up
+electricity markets.
+ The flexible version of the contract-based tracking system would allow for undisclosed electricity transactions. This would lead to a possibly large volume of electricity whose qualities can only be determined ex post (after all unit contracts have
+been sorted out and the remaining fuel mix has been averaged and assigned to non-
+The tradable certificates introduced here can be compared to bearer bonds, which represent attributes of electricity generation instead of a plain monetary value. The instrument of tradable certificates
+is being used for diverse cap and trade mechanisms in environmental policy, e.g. air pollution control in some US states or carbon emissions trading under the Kyoto protocol.
+Redemption of certificates means that the owner consumes the certificate. Every certificate can be
+redeemed only once and after its redemption it can not be transferred any more.
+The evaluation of alternative tracking systems was discussed in the expert interviews, which have
+been conducted during phase 1 of the 4C Electricity project. The Dutch study (SKM 2002) offers a
+good summary of arguments, although it seems inclined to favour a certificate-based system and does
+not fully reflect critical arguments against this approach.
+Electricity Disclosure in Europe
+specified electricity). This could significantly reduce the ability of the disclosure
+system to provide for distinct choices for consumers.
+ Current industry practices of trading electricity several times before it is physically
+produced requires a high flexibility to disassemble and re-bundle diverse electricity
+contracts according to the needs of sellers and buyers. This ability would be strongly
+reduced by the requirement of a contract based tracking system to keep contracts
+with different origin separated through all trading steps from the generator to the
+consumer.27
+Certificate-based approach
++ This approach separates the markets of electricity and generation attributes and
+therefore limits the possible negative impact of disclosure to electricity market
+operation, e.g. through reduced liquidity.
++ The flexibility of certificate markets supports a system of ex-ante claims of electricity characteristics by suppliers which have to be fulfilled and verified afterwards
+(see chapter 3.5). This might enhance the impact of consumer choice on power
+generation.
+ The negative effects of market segregation and reduced liquidity might occur in
+markets for diverse certificate qualities in similar ways as they would affect electricity markets in a contract-based tracking system. However, as certificates are a much
+more flexible good than electricity, the market volume might be increased by expanding the geographical scope of the respective market places.
+ A completely free movement of certificates in an international disclosure system
+could lead to results which obviously do not reflect the reality of physical electricity
+transactions. As an extreme example, French suppliers could swap all nuclear power
+attributes with Scandinavian suppliers, so that the disclosure scheme would tell
+French consumers that all their electricity was from (Scandinavian) hydropower and
+Scandinavian consumers would see a very high (French) nuclear share. Although
+this would formally be correct in a European certificate-based tracking system, this
+result would contradict to the obvious relationship between Scandinavian utilities
+and their hydro power plants and French EDF to its nuclear facilities. It is not likely
+that swaps of electricity with volumes of this size would occur in the physical electricity market. Therefore consumers might wonder whether the tracking system is
+For example, a trader might want to split up one of his contracted volumes and merge both parts with
+other contracts in order to sell them on. If all contracts involved were unit contracts from different
+power plants, then the merged volumes would not be unit contracts any more, because they contain
+electricity generated in two different power plants. Under a contract-based tracking system, unit contracts could be split up into several parts, but if they are to be merged with contracts from other units,
+then they would have to be treated as non-specified electricity.
+Electricity Disclosure in Europe
+reliable.28 Developments like this could undermine the credibility of the whole disclosure system to consumers.29
+The implications of both tracking options for the cost of the disclosure scheme are not
+clear yet. The contract-based approach is more complex, but it can build upon existing
+settlement procedures. The certificate-based approach requires a completely new market
+system, but certificate systems are easier to operate and experience with such systems is
+already available.
+It can be concluded from these pros and cons that none of the two alternatives offer an
+ideal solution. Based on this background, we suggest an alternative solution, which we
+call hybrid tracking system.
+Hybrid tracking approach
+The hybrid approach is characterised as follows:
+Certificates are used as accounting units for electricity generation and its attributes
+Electricity suppliers are required to prove the characteristics of their power sales by
+purchasing and redeeming certificates.
+Every physical transaction of electricity must be associated with the transfer of a
+corresponding number of certificates
+Apart from this, electricity market participants can trade certificates freely, but some
+restrictions apply. For example, certificates may only be transferred within areas
+covered by physically interconnected electricity systems.30
+This hybrid system for tracking combines the flexibility of the certificate approach with
+a stronger link to the reality of physical electricity transactions in order to enhance the
+systems credibility for consumers. Each physical electricity transaction would be assigned with generation characteristics, similar to the strict contract based system. But
+the electricity market would not be separated in a large number of potentially non-liquid
+parts, because standardised market products can be mapped better with certificates.31
+Moreover, as the attributes are expressed in standardized certificates, market participants can easily handle the characteristics during disassembling and re-bundling of elec-
+Average consumers will most likely not understand the mechanisms of a certificate system. But still
+the system must be plausible to them as well, otherwise they will not trust it.
+This is supported by US consumer research on tracking options (Herrmann et. al. 1998).
+This would encompass the UCTE system (including CENTREL), NORDEL and the power systems of
+the United Kingdom.
+For example, if a standard product contains a share of gas, then a generator who does not own a gas
+plant might sell the required number of gas certificates short (i.e. without owning them), and buy
+them from someone else later on to balance his certificate portfolio.
+Electricity Disclosure in Europe
+tricity contracts.32 Certificates also support the creation of a limited number of standardized products on the wholesale electricity market, which might allow for sufficient market liquidity. The option of trading certificates without the link to an electricity transaction would allow electricity traders and suppliers to adjust the quality of their products.33
+Within the hybrid tracking system electricity market players could try to get around the
+obligation to transfer certificates together with physical electricity transactions by mutual agreements to transfer these certificates back immediately. In this case the hybrid
+system would have the same results as the pure certificate tracking system. Power suppliers would then have to shop for certificates separately from the electricity purchase.
+We would argue that this option will not be used by a large number of market players,
+because it creates additional transaction cost.34
+Conclusion
+It can be concluded from the discussion above that there are several options available
+for tracking electricity in liberalised markets. The introduction of certificates as accounting units for electricity attributes makes much sense. Nevertheless, there are reasons for creating links between electricity and certificate transactions. Therefore the
+hybrid tracking system outlined above might represent the best solution. Consumer research in Phase 2 of the 4C Electricity project will provide additional insight into consumer preferences and credibility issues for tracking schemes.
+Further details on the design of the tracking system can be left to further analysis during
+the implementation phase of a disclosure scheme.
+Power exchanges
+Physical electricity transactions on power exchanges are usually performed on spot
+markets. Some power exchanges also facilitate trade in physical futures, but most electricity derivatives have a pure financial meaning and therefore can be neglected for the
+purpose of Electricity Disclosure.
+Transactions of physical electricity on power exchanges are a challenge to Electricity
+Disclosure schemes. As power exchanges are anonymous market places, they usually do
+The degree of flexibility depends on the size of the certificates. Small certificates (e.g. 1 MWh) would
+allow a flexible composition of standardized market products. On the other hand, a small standard
+certificate size leads to high volumes of certificates to be issued and transferred (the UCTE system
+would generate 2,2 billion 1 MWh certificates per year). It would also be possible to allow different
+sizes of certificates in the system, e.g. 100 MWh and 1 MWh.
+If, for example, a supplier has bought a standard product on the wholesale electricity market which
+includes a share of coal, but he wants to sell a non-fossil product to his customers, then he can exchange his coal certificates against nuclear or hydro certificates on the certificate market.
+Large multinational companies however would be able to move certificates around between their
+operations in different European countries. However this could occur for the certificates route too.
+Electricity Disclosure in Europe
+not create bilateral relationships between individual buyers and sellers. Therefore, no
+unambiguous path exists for the generation attributes from seller to buyer.
+This is no problem for the certificate-based tracking approach, because it separates the
+attributes from the physical electricity. In the case of a contract-based tracking scheme,
+two options exist to dealing with power exchanges:
+If the market segment of a specific power quality is large enough to ensure liquidity,
+then the market will create separate exchanges for these qualities. For example three
+generic market segments could be electricity produced from coal, nuclear and hydropower.
+If different power qualities are traded over the same exchange (non-specific power
+exchange), then the exchange can calculate averages of the qualities of electricity
+sold into the exchange over certain trading periods, e.g. per day or per month. This
+average can be assigned to all power purchased from the exchange in that period.
+The latter option creates an element of unpredictability for the buyers from the exchange, because the attributes of their electricity purchase can only be known ex post
+(after the end of the averaging period). The relevance of this effect depends on the market share of physical trading via non-specific power exchanges.
+Currently, most spot markets have market shares well below 10 %, with only Nordpool
+showing a very high share of more than 30 %. Future developments of these market
+shares are subject to speculation. In the case of Nordpool it is very likely that a significant part of the market could be separated in a specific exchange for hydropower. Nevertheless market shares of non-specific power exchanges in ranges above 10 % could be
+regarded as an obstacle for a precise contract-based electricity tracking.
+Both the certificate-based and the hybrid tracking approach could integrate power exchanges in a better way than the contract-based approach. The hybrid approach, which
+was introduced above, would also stimulate the creation of specific power exchanges, if
+the market is liquid enough. For the electricity traded physically via non-specific power
+exchanges, the certificates could be detached from the electricity. This means that participants on non-specific power exchanges would trade the attributes separately from
+electricity.
+It can be concluded that all tracking approaches can work together with power exchanges, but large market shares of non-specific exchanges would create an obstacle to
+contract-based electricity tracking.
+Exports and imports
+Between countries which have implemented an Electricity Disclosure scheme, transborder trade of electricity can easily be handled.35 Therefore in the following exports
+For a discussion on harmonisation issues see chapter 5.1.
+Electricity Disclosure in Europe
+and imports refer to electricity trade between countries with Electricity Disclosure and
+countries without disclosure.
+As we assume that Electricity Disclosure will be introduced in all EU Member States,
+this situation can occur
+any time between EU Member States with Electricity Disclosure and non-Member
+States without disclosure, and
+during the phase of introduction of Electricity Disclosure in the EU between Member States that have already introduced the system and others which are still in the
+implementation phase.
+Dealing with exports to countries without Electricity Disclosure
+In countries with Electricity Disclosure, it is likely that consumers develop preferences
+for certain electricity attributes and these attributes receive a higher market value. Other
+attributes might receive a lower price. If a generator or trader has the possibility to export electricity to a country with no Electricity Disclosure, then he has an incentive to
+export those attributes that are less favoured by markets with disclosure.
+This incentive is of particular relevance in disclosure schemes that only focus on
+electricity products: The attributes exported outside the disclosure scheme would not
+appear in disclosed information at all. In a portfolio disclosure scheme this incentive
+can be removed by including the attributes of exported electricity into the disclosed
+portfolio, so customers would also see this part of the suppliers business.
+If a disclosure scheme for electricity products is combined with additional information
+on the portfolio of suppliers (see the recommendation in chapter 3.4) and if exported
+electricity is included in this portfolio, then the impact of this incentive can be reduced
+to an acceptable level. Still it is recommended that the effect of exports on product disclosure should be monitored by the Commission and Member States.
+Dealing with imports from countries without Electricity Disclosure
+If electricity is imported into the Disclosure region from a country with no disclosure
+scheme, then the attributes for this electricity have to be determined. Austria has chosen
+to assign all imports with the UCTE fuel mix, but to display this mix separately from
+domestic fuels on the disclosure label.
+An alternative could be to allow imports on the basis of unit contracts, i.e. if the seller
+of the electricity can give sufficient proof that he has acquired the attributes of the
+power generation of certain plants, then these attributes are assigned to the power at the
+border. The effect of such an option could be that the importers start cherry-picking,
+i.e. they buy up those attributes in other countries which receive the highest price within
+the Electricity Disclosure system. This could be relatively cheap, because in the exporting country, the different attributes have no extra market value. The exporting countries
+would then be left with the unfavourable attributes. Probably nobody would notice this,
+because there are no disclosure rules in these countries.
+Electricity Disclosure in Europe
+To limit the incentive for cherry-picking, we recommend to accept unit contracts for
+imports only if the exporting country has implemented a guarantee of origin for the respective type of attributes.36 This will also avoid double-counting of these attributes. In
+all other cases, the imported electricity should be assigned with an average mix of attributes. This mix should be determined from the power generation portfolio of the electricity transmission system in which the exporting country is embedded (e.g. the UCTE
+system), minus the generation portfolios of all countries within this system with Electricity Disclosure, minus all generation in the remaining part of the system which is
+receiving a guarantee of origin.
+This solution would create an incentive to set up systems of guarantee of origin for preferable electricity attributes in the exporting countries. It also avoids double-counting of
+preferred power generation and significantly reduces the risk of so-called electricity
+laundering.37
+Despite all this, high shares of imports and exports are a challenge to Electricity Disclosure and may deteriorate its basis: a reliable tracking system. Therefore Electricity Disclosure should be implemented in a harmonised way in all or most of the countries in
+European interconnected transmission systems (UCTE, NORDEL and the UK power
+systems). This would reduce the share of undisclosed imports to a negligible size which
+would not affect the disclosure scheme.38
+Data handling
+Relevant questions concerning the data required to assign attributes like fuel mix or
+emissions to each kilowatt-hour delivered to consumers are as follows:
+Which level of accuracy and aggregation would be adequate to facilitate consumers
+to make informed choices? Which level of accuracy is necessary to promote the
+credibility of the scheme to consumers?
+Which types of data are already collected at power plants within the normal bookkeeping or within existing monitoring programs e.g. for air pollutants? What is the
+accuracy of this data?
+Directive 2001/77/EC requires EU Member States to implement a guarantee of origin for electricity
+from renewable energy sources. The proposal from the Commission for a Directive on cogeneration
+(COM(2002) 415) suggests a similar requirement for electricity from cogeneration.
+Electricity laundering can occur if imports are assigned with the attributes of the exporting country
+rather the transmission system mix: Generators or traders from a country (A) with less favourable
+sources could export their electricity to a country (B) with a more attractive generation mix and then
+export it from there to a third country (C). The importer in country C would treat this as an import
+from country B and assign the average attributes of country B to the respective electricity.
+For an assessment of different clusters of EU Member States for disclosure see SKM (2002). It must
+be noted though that the data used for that assessment only represents the physical exchange of
+power. The volume of contracts for physical delivery in both directions might be significantly higher.
+Electricity Disclosure in Europe
+What would be the transaction costs for the aggregation of existing data sets in the
+required format for an Electricity Disclosure system?
+First findings from the 4C Electricity project imply that the level of accuracy required
+for a reliable disclosure system doesnt necessitate plant specific data collection. It
+rather seems to be sufficient to define a set of 15-30 power plant classes representing
+typical power plants operated in the European Union.
+These classes would depend on parameters like the fuel source, the installed capacity,
+the age, the efficiency and the installed emission reduction technologies. Each power
+plant class would be linked to a predefined set of attributes which has to be determined
+only once and can be adapted later to technological development. With respect to disclosure, every power plant would be assigned to one of the plant classes and its predefined attributes. Each plant class will therefore represent a limited range of different
+power plants. A possible plant class could, for instance, cover all hard coal-fired condensation power plants with CO2 emission factors between 800 and 900 g/kWh and
+with SO2 and NOx abatement systems.
+The advantage of this option (which corresponds to a predefined number of different
+electricity products in the wholesale market) is that the limited degree of aggregation
+much better meets the requirements of the electricity market than an option working
+with plant specific data, creating a magnitude of different certificates.
+Furthermore first results from the 4C Electricity project indicate that all data required
+for a disclosure system should already be available at a sufficient level of aggregation
+(as European legislation is in place requiring the generation of this data). Therefore data
+only have to be adapted to formats required by the disclosure scheme.
+Questions related to data handling have to be further analysed during the implementation phase of a disclosure scheme. Further research is required e.g. regarding the question how to handle multi-fuel-fired power plants and CHP plants.
+Electricity Disclosure in Europe
+5 Implementation strategies
+Electricity Disclosure is a scheme which requires considerable innovation in the electricity sector, i.e. the installation of a tracking mechanism, handling of data on environmental impact of generation and providing consumers with disclosure labels. There are
+several options for the design of these elements of a disclosure scheme. As the European electricity market is closely interconnected and will be developed further into a
+single market, common strategies for the implementation of Electricity Disclosure are
+necessary.
+Regional scope and harmonisation requirements
+It is quite obvious that the intended EU legislation on Electricity Disclosure is addressing all EU Member States including the new accession states.39 This leads to the following issues for further discussion:
+What about those countries whose electricity markets are closely interconnected
+with the EU internal market, but are not (yet) EU members?40
+How can a disclosure system gradually develop during the implementation phase,
+where not all countries involved might have the same pace in setting up the system?
+What is the scope for subsidiarity in the implementation of disclosure in Europe?
+Answers to these questions can be given separately from the perspective of the front
+side, those of the back side of Electricity Disclosure, and an overall point of view.
+The front side perspective
+As stated in chapter 3.1, disclosure labels presented to consumers in a certain geographical region should have uniform content and format to facilitate easy comparison
+of electricity offerings. The minimum regional scope of introducing uniform disclosure
+labels should be the level of individual Member States. Common timing of introduction
+and uniformity of labels across and beyond the EU are less relevant from the consumers perspective, because this would only affect consumers which are purchasing electricity in several Member States at a time41 or which are moving between European
+countries. On the other hand, different labelling requirements in Europe would incur
+additional transaction costs for suppliers who are serving final consumers in more than
+one country. Therefore, at least Member States with smaller electricity markets or with
+closely interconnected retail markets,42 might want to join forces to develop a common
+label design.
+From the accession candidate countries, Bulgaria, Estonia, Latvia, Lithuania and the islands Cyprus
+and Malta are not (yet) part of the UCTE system.
+This mainly applies to Norway and Switzerland.
+This would for example apply to multi-national companies.
+This could apply to the Benelux region and to Scandinavian countries.
+Electricity Disclosure in Europe
+Therefore, from the perspective of the front side, differences between European countries with regard to participation in the disclosure system or label design seem not to be
+a serious problem.
+The back side perspective
+The backbone of a disclosure scheme is the tracking system for electricity (see chapter
+4.1). Any tracking mechanism will work most efficiently in a region with a harmonised
+system design. Therefore, it is strongly recommended to set up a tracking system in
+Europe with a maximum possible degree of harmonisation.
+Otherwise, if for example some European countries choose a certificate-based tracking
+system and others are following the electricity contracts, then all physical transactions
+of electricity between those two systems would need adjustments by bundling or unbundling of electricity and attributes. These adjustments would require the definition of
+detailed interfaces between different tracking systems in order to avoid double-counting
+and other faults. Similar problems can occur if different regions of Europe agree on using a certificate-based system, but implement their systems in a non-harmonised way
+with regard to the size of certificates, the information content or handling rules. Generally speaking, a high degree of system harmonisation will lead to significantly lower
+transaction costs and vice versa.
+There is an important relationship between the front and the back side of Electricity
+Disclosure: The tracking system must be designed in a way to meet the requirements of
+the front side. This means for example, if one Member State decides to include information of the country of origin in the label, but others do not follow this, then still all
+European tracking mechanisms should be able to deliver the information requested by
+the respective Member State.
+As development and implementation of a tracking system is a significant cost item for
+Electricity Disclosure, this leads to a very important requirement for political agreement: Even if not all European countries set up the disclosure scheme at the same time,
+it is strongly recommended that a common agreement is reached on what maximum
+information has to be delivered by the tracking system. Any significant changes to this
+agreement at a later stage might lead to considerable additional cost.43
+If some European countries take the lead in implementing Electricity Disclosure, then
+exports and imports of electricity from this region would have to be treated as described
+in chapter 4.3. The impact of the procedures for handling exports and imports is significant, therefore it is recommended that any first step of implementing disclosure should
+Additional cost would not only be caused by changes to the IT systems used for tracking. Additional
+information requirements could also lead to additional efforts for collecting data on power plants,
+which have already been registered with the tracking system.
+Electricity Disclosure in Europe
+be jointly taken by a group of countries with close internal market relations and less
+significant exports and imports.44
+The overall perspective
+Generally, EU Member States and Non-Member States like Norway and Switzerland
+should be part of the effort to create a European Electricity Disclosure scheme.
+It would also be possible to set up a common tracking system for all European transmission systems at a time, even if some countries might want to introduce the front side at a
+later stage. This would allow market participants from all over Europe to specify their
+electricity attributes, even if the countries where they are located have not yet implemented the front side of disclosure.
+From an overall market perspective, this option raises similar concerns of possible
+cherry-picking as in the case of imports from countries with no disclosure system (see
+chapter 4.3). Generators and traders in countries without implementation of the front
+side would have an incentive to sell the favourable electricity attributes to countries
+which already use labels. Therefore, a principle of reciprocity should be used here in the
+sense that the rules set out for imports from countries with no disclosure system are applied as long as the exporting country does not implement full mandatory labelling of
+electricity, regardless whether a tracking system is already in place or not. The only
+exception from this rule would be electricity with a guarantee of origin which has been
+fully implemented in all countries involved.
+This leads to the general finding that the guarantee of origin set out in the Renewable
+Electricity Directive45 and also anticipated for cogeneration in the respective draft Directive is very closely related to Electricity Disclosure. It is strongly recommended that
+the systems for guarantees of origin are merged with the tracking system for Electricity
+Disclosure described in chapter 4.1.
+Roles of involved actors
+The fundamental legislative decision for implementation of Electricity Disclosure is
+likely to be taken in the course of the revision of the Electricity and Gas Directives,
+which is currently discussed by the European Council and the Parliament, based on a
+revised proposal from the Commission.46 Following the principle of subsidiarity, the
+implementation of the elements of the disclosure scheme will be left to the Member
+States.
+The report by SKM (2002) suggests a region of Germany, The Netherlands, Belgium and Luxembourg for a pilot phase for disclosure.
+Directive 2001/77/EG as of September 27, 2001.
+Amended proposal for a Directive of the European Parliament and of the Council amending Directives 96/92/EC and 98/30/EC concerning rules for the internal markets in electricity and natural gas,
+COM (2002) 304 final
+Electricity Disclosure in Europe
+Nevertheless, as stated above, it is very important that all involved actors agree on a
+European tracking system which is harmonised to the extent possible. Therefore, the
+Commission should support the Member States and the electricity industry in the development of a joint framework of such a system. This effort could eventually result in the
+creation of a single European tracking system, which could be operated on a regional
+basis.
+There are two options for practical implementation of the tracking system. This can
+either be done by a governmental body or regulatory authority (like OFGEM in the
+UK), or it can be left to the electricity industry. The latter approach would require a
+clear definition of terms of reference from the European governments and an independent verification body, which monitors correct system implementation. It should be noted
+as well that Electricity Disclosure also links to energy statistics.
+The standardised design of the disclosure label should be defined by the national governments after intensive consultation with all actors involved, including consumer and
+environmental NGOs. National governments should try to agree to common European
+rules for the labels to the extent possible. The 4C Electricity research project will provide findings from consumer research in several EU Member States and Hungary which
+will add to existing research from the Netherlands and Switzerland (Markard 2001).
+Cost evaluation and options for cost reduction
+Currently no detailed estimation of the cost of an Electricity Disclosure scheme is available. The additional cost will depend strongly on the extent to which existing procedures, systems and databases e.g. for settlement of electricity transactions and emissions
+reporting can be used for disclosure. A detailed cost assessment can be performed once
+major decisions on the design of the system have been taken. It can be expected that
+most of the cost of disclosure will be passed on to the consumers via the electricity
+prices.
+Experiences from the US imply that the cost for implementation and operation of the
+tracking system are not negligible in total size, but will not affect electricity prices to a
+significant extent.47 The report from SKM (2002) supports this finding. However, it
+should be noted that cost estimations from the US usually do not include collection of
+data and some other tasks, as these are often carried out by the Independent System Op-
+The US state of New York has spent a total of 1 million USD for the development and implementation of the tracking system (Bala 2002). The transmission system operator in the PJM region (Pennsylvania, New Jersey and Maryland) states system development cost of 300.000 USD for an initial,
+very rough contract based tracking system (Dadourian 2002). The New England Generation Information System is expecting total cost of 6 million USD over a five-year period for software development
+and administration of its certificate-based system (Stanton 2002). This is equivalent to approx.
+0,01 USD per Megawatt-hour.
+Electricity Disclosure in Europe
+erators as part of their services without charging additional cost. This might be different
+at least in those European countries which do not have independent system operators.
+The following table lists the main cost components of Electricity Disclosure for the
+electricity industry and European governments.
+Table 1:
+Major cost components of Electricity Disclosure schemes
+Implementation cost
+Operational cost
+Front side
+(label)
+(consumer research on label
+preferences)
+Development of label design
+Implementation of label in bills
+and promotional material
+Consumer information campaign
+Computing label data
+Additional printing cost for
+label
+Handling additional consumer
+information requests
+Back side
+(tracking and data handling)
+Development of tracking system
+details
+Legal and IT implementation of
+tracking system
+Adaptation of electricity trading and
+settlement procedures and software
+Collection and aggregation of power
+plant data
+Operation of tracking system
+Verification and monitoring
+Other costs, e.g. for the development of diversified electricity products by suppliers and
+the management of product and company portfolio attributes, are not included here as
+these costs will only be incurred if the suppliers expect that additional revenues will
+cover these costs.
+During the design of a disclosure scheme, the additional cost implied by the scheme can
+be reduced. Some examples for reducing system design costs are:
+The disclosure label should be kept as simple as possible and its content should be
+restricted to the information of most relevance for consumers.
+The frequency of updating the label should be set to one year. A reasonable level of
+accuracy should be defined for the disclosure scheme.
+The disclosure scheme should be based as far as possible on existing data and procedures, e.g. for electricity system operation.
+A single European tracking system (procedures and IT software) should be used. If
+this can not be achieved, a thorough description of IT interfaces is essential.48
+The Renewable Energy Certificate System (RECS, http://www.recs.org), which has established a
+European system of tradable certificates for electricity from renewable energy sources, has experienced this problem. The use of several IT systems for certificate registries and the lack of timely and
+thorough description of interfaces turned out to be one of the main obstacles for starting the operation
+of the RECS system.
+Electricity Disclosure in Europe
+6 Recommendations
+Electricity Disclosure is an important complement to electricity market liberalisation. It
+provides consumers with relevant information on the electricity they are buying. Disclosure is therefore creating transparency in a sector which is complex for experts and confusing for most consumers. Electricity Disclosure can support the implementation of
+policies like voluntary agreements on environmental performance of industry sectors or
+differentiated electricity taxation as well as policies for the promotion of electricity
+from renewable energy sources or cogeneration, like renewables obligations or feed-in
+systems. It also enhances possibilities for electricity suppliers to target different consumer groups with differentiated products and therefore promotes competition in the
+electricity market.
+The revision of the Electricity Directive is a perfect point in time to introduce Electricity Disclosure. This will allow most small consumers in the EU to use the new information instrument from the moment they are eligible for competition. In those Member
+States which are already fully open to competition, Electricity Disclosure can still be
+easily implemented and could enhance competition. Even in markets which are not (yet)
+fully liberalised, consumers still should have the right to know what they are buying.
+EU policy recommendations
+Europe is working towards a single European electricity market. Although there are still
+significant differences between national power markets, suppliers and (large) customers
+are acting more and more internationally. Therefore, the framework for general instruments like Electricity Disclosure should be set on the EU level.
+Experience in the US and Austria shows that not only a general framework, but also the
+fundamental system design decisions for Electricity Disclosure must be established on
+the highest level of political and market institutions, i.e. the EU level. These cornerstones of a disclosure scheme for Europe should comprise
+A decision for a mandatory, full disclosure system for Europe
+A decision for a product-based disclosure scheme with mandatory additional portfolio information
+A decision on the respective reference time of disclosure information
+Minimum requirements for label content and design, with an obligation for Member
+States to decide on details of a standardised label
+Maximum data requirements from the tracking system (maximum disaggregation of
+fuels, list of environmental indictors, inclusion of country of origin?)
+Electricity Disclosure in Europe
+Principles of the design of a European tracking system, including
+o the system decision between contract, certificate or hybrid tracking
+o treatment of exports and imports
+o treatment of power exchanges
+A clear timetable for implementation
+Not all these issues have to be finally decided within the revised Electricity Directive.
+But the Commission should be empowered to closely monitor the implementation of
+these cornerstones and to take immediate action, if harmonisation is necessary.
+Implementation and operation of the tracking system can either be delegated to national
+agencies or to the electricity industry. In both cases, thorough systems have to be set up
+in order to prevent fraud. Mechanisms for monitoring and verification by independent
+external bodies also have to be implemented.
+6.2 Recommendations for EU Member States and other European countries
+It is important for the success of the Electricity Disclosure scheme that all relevant actors are involved in the development of the scheme. Therefore it is recommended that
+European governments set up policy platforms with representatives from the electricity
+industry, consumer groups and others, including environmental NGOs. These platforms
+should be consulted on all relevant decisions during system implementation.
+Another relevant issue for national governments is the interaction of the Electricity Disclosure scheme with national energy policy instruments, e.g. for the promotion of renewable energy, cogeneration or energy efficiency. If, for example, the European tracking system is to be set up based on the certificate or the hybrid approach, then existing
+support schemes might have to be adjusted to this mechanism.
+Instruments like renewable obligations, which already operate on the basis of certificates, might have to merge their certificate system with the new tracking scheme.
+Others, like feed-in or bonus systems, might want to change their operation to the
+basis of certificates, which are used by the tracking system.
+It is important to note that the choice of the tracking system does not predetermine the
+support mechanisms for renewable energy, cogeneration or energy efficiency in different countries.
+On the other hand, the introduction of Electricity Disclosure creates opportunities of
+new energy policy instruments like a differentiated tax on electricity which is, for example, based on the emissions of power generation. As the example from The Netherlands shows, this kind of tax differentiation can create a large impact on the market pull
+for ecologically compatible electricity generation.
+Electricity Disclosure in Europe
+Implications for the electricity industry
+Electricity Disclosure creates an opportunity for the electricity industry to create differentiated products both in the wholesale and the retail market. This might create a significant additional value for part of the electricity supply.
+The electricity industry should actively support the development, implementation and
+operation of a European disclosure scheme. The industry should carefully and on an
+objective basis evaluate the practicability and possible cost implications of the proposed
+scheme. As stated above, the total effect of cost of such a scheme on the electricity
+prices is very likely to be negligible and there are numerous possibilities for further cost
+reductions.
+Demand for further research
+Although some of the general principles of an Electricity Disclosure system can be decided now, it is clear from the discussions in chapters 3, 4 and 5 that still some research
+has to be performed until a sound basis for decisions on implementation details is
+achieved. The 4C Electricity project has already provided considerable knowledge
+about the principles of a disclosure scheme and its implementation in the electricity
+market. It will further contribute to the system design with extensive research on consumer preferences and abilities to use disclosure labels. This will include information
+from focus groups and telephone surveys in EU Member States and accession countries.
+Results from this research will be available in May 2003. The project will also identify
+policy implications and accompanying energy policies in order to realise a maximum
+effect from Electricity Disclosure. The final report of the project will be published in
+October 2003.
+There is additional demand for research on details of the implementation of a disclosure
+scheme in Europe. This includes for example:
+Support for final decisions on the design of a European tracking system
+Details of the interaction of Electricity Disclosure with national energy policy instruments and the flexible mechanisms of the Kyoto Protocol
+Possibilities for cost reduction during implementation and operation of the Electricity Disclosure system
+Requirements and options for consumer education
+Electricity Disclosure in Europe
+7 Bibliography
+Bala, K. 2002: Personal communication, May 2002
+Biewald, B. 1999: Follow the Money: A Method for Tracking Electricity for Environmental Disclosure. The Electricity Journal, May 1999
+Dadourian, J. 2002: Personal communication, May 2002
+EFI (Environmental Futures, Inc.) 2000: A State-by-State Update on Electric Disclosure
+Requirements in the US, prepared for Bremer Energie Konsens, September 2000
+Herrmann, M. J. et. al. 1998: Consumer Research on Tracking Approaches and Product
+Versus Supplier Labeling, The National Council on Competition and the Electric Industry, October 1998
+Holt, E. 1998: Information Consumers Want In Electricity Choice Summary of Focus
+Group Research, January 1998
+Markard 2001: Fokusgruppen-Erhebung zur Kennzeichnung von Elektrizitt  Informationsbedrfnisse von Konsumentinnen und Konsumenten, April 2002
+Markard, J., Holt, E. 2002: Disclosure of Electricity Products  Lessons from Consumer Research as Guidance for Energy Policy, article submitted to Energy Policy, August 2002
+RAP (Regulatory Assistance Project) 1997: Full Environmental Disclosure for Electricity: Tracking and Reporting Key Information, May 1997
+RAP (Regulatory Assistance Project) 1998: Uniform Consumer Disclosure Standards
+for New England, January 1998
+SKM 2002: Electricity labelling  Requirements for establishing a reliable well functioning system within the EU, June 2002, Amsterdam, The Netherlands
+Stanton, P. 2002: Personal communication, May 2002
+Teisl, M., Halverson L. 1997: Information Disclosure for Electricity Sales Consumer
+Preferences from Focus Groups Rocky Mountain West, July 1997
+Timpe, C., Holt, E. et. al. 2002: Electricity Disclosure: Status and Perspectives, Paper
+prepared for the Transatlantic Conference Electricity Disclosure  The Way Ahead
+Washington DC, May 23, 2002
+USFTC (United States Federal Trade Commission) 2000: Staff Report: Competition
+and Consumer Protection Perspectives on Electric Power Regulatory Reform
+Winneg, K. et al. 1998: Label Testing: Results of Mall Intercept Study, The National
+Council on Competition and the Electric Industry, October 1998
+Electricity Disclosure in Europe
+Electricity Disclosure in Europe
+Appendix
+Table A-1: Implemented Electricity Disclosure Schemes in US States
+State
+Disclosure rule
+uniformity
+emissions
+P= product,
+C= company
+portfolio
+on request
+on request
+IL  Illinois
+1999 M
+ME  Maine
+MD - Maryland
+2000 M
+2000 M
+CO2, NOx, SO2,
+nuclear waste
+CO2, NOx, SO2
+CO2, NOx, SO2
+MA - Massachusetts
+1998 M
+CO2, NOx, SO2
+MI - Michigan
+2002 M
+MN - Minnesota
+2002 M
+NJ  New Jersey
+1999 M
+NM  New Mexico
+2006 M
+NY  New York
+2002 M
+OH  Ohio
+2001 M
+OR - Oregon
+2000 M
+1998
+available on
+request
+on request
+2002 M
+CO2, NOx,
+SO2,particulates,
+nuclear waste
+PA - Pennsylvania
+TX  Texas
+VA - Virginia
+WA - Washington
+2002
+required if it is
+feasible to submit data
+2001 M
+reference to
+generation mix
+since (Mandatory/Voluntary)
+1999
+required to the
+AZ  Arizona
+extent reasonably
+known
+AR  Arkansas
+2003 M
+CA  California
+1999 M
+CO  Colorado
+1999 M
+CT  Connecticut
+2001 M
+DE  Delaware
+1999 M
+DC - District of Columbia
+2001 V
+FL  Florida
+1999 M
+environmental effects treated
+Source: Markard/ Holt 2002
+CO2, NOx, SO2,
+nuclear waste
+emissions
+nuclear waste
+CO2, NOx, SO2
+CO2, NOx, SO2,
+Hg, nuclear waste
+CO2, NOx, SO2
+CO2, NOx, SO2,,
+nuclear waste
+CO2, NOx, SO2,,
+nuclear waste
+C or P;
+if P, also C
+yearly
+Electricity Disclosure is on the political agenda in Europe. It will
+provide customers with information about the electricity they are
+buying and therefore can facilitate informed purchasing decisions.
+It can be an important tool to intensify market competition and
+product diversification.
+This paper presents an introduction to the concept of Electricity
+Disclosure and discusses main issues for implementation. It has
+been prepared as part of the Altener project Consumer Choice and
+Carbon Consciousness for Electricity (4C Electricity).
+For more information about this project:
+www.electricitylabels.com

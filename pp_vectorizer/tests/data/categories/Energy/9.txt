@@ -1,0 +1,2766 @@
+WORKING DOCUMENT OF THE EUROPEAN PARLIAMENT'S DG FOR RESEARCH.
+NOT YET PUBLISHED BY THE EUROPEAN PARLIAMENT.
+ENERGY SUBSIDIES IN THE EUROPEAN UNION
+Final Report
+Frans Oosterhuis
+Institute for Environmental Studies (IVM)
+Vrije Universiteit
+Amsterdam
+July 2001
+ACKNOWLEDGEMENT
+This study on energy subsidies in the EU was commissioned by the European Parliament,
+Directorate General for Research. The author would like to thank all those who provided
+valuable suggestions and comments on earlier drafts of this report.
+CONTENTS
+SUMMARY...............................................................................................................................................................................5
+INTRODUCTION..................................................................................................................................................................7
+1. METHODOLOGICAL ISSUES AND GENERAL CONSIDERATIONS.........................................................8
+1.1 DEFINING AND QUANTIFYING ENERGY SUBSIDIES.................................................................................8
+1.2 EXTERNAL COSTS AND UNCOMPENSATED DAMAGE.............................................................................9
+1.3 THE INHERITANCE OF PAST SUBSIDIES.......................................................................................................11
+2. ENERGY SUBSIDIES IN THE EUROPEAN UNION......................................................................................... 13
+2.1 THE EUROPEAN UNION........................................................................................................................................14
+2.2 AUSTRIA......................................................................................................................................................................18
+2.4 DENMARK...................................................................................................................................................................23
+2.5 FINLAND.....................................................................................................................................................................26
+2.6 FRANCE........................................................................................................................................................................28
+2.7 GERMANY...................................................................................................................................................................33
+2.8 GREECE........................................................................................................................................................................37
+2.9 IRELAND.....................................................................................................................................................................40
+2.10 ITALY..........................................................................................................................................................................42
+3.11 LUXEMBOURG........................................................................................................................................................45
+2.12 THE NETHERLANDS.............................................................................................................................................47
+2.13 PORTUGAL...............................................................................................................................................................51
+2.14 SPAIN..........................................................................................................................................................................53
+2.15 SWEDEN ....................................................................................................................................................................55
+2.16 UNITED KINGDOM................................................................................................................................................58
+3. THE ACCESSION COUNTRIES .......................................................................................................................... 60
+3.1 BULGARIA ..................................................................................................................................................................60
+3.2 CYPRUS........................................................................................................................................................................61
+3.3 CZECH REPUBLIC....................................................................................................................................................62
+3.4 ESTONIA ......................................................................................................................................................................64
+3.5 HUNGARY...................................................................................................................................................................65
+3.6 LATVIA ........................................................................................................................................................................67
+3.7 LITHUANIA ................................................................................................................................................................68
+3.8 MALTA .........................................................................................................................................................................69
+3.9 POLAND.......................................................................................................................................................................70
+3.10 ROMANIA .................................................................................................................................................................71
+3.11 SLOVAKIA ................................................................................................................................................................72
+3.12 SLOVENIA ................................................................................................................................................................74
+3.13 TURKEY.....................................................................................................................................................................75
+4. CONCLUSIONS.............................................................................................................................................................. 77
+REFERENCES ..................................................................................................................................................................... 79
+APPENDIX: ABBREVIATIONS .................................................................................................................................... 85
+SUMMARY
+Many European governments as well as the EU itself provide financial support to various
+sources of energy. Such subsidies have been introduced for a variety of reasons, including
+economic, social, political, technological and environmental ones. However, energy subsidies
+also imply market distortions, leading to inefficiencies in the functioning of energy markets,
+and they may have unwanted side effects, such as reducing the attractiveness of energy
+conservation and renewable energy.
+The present study contains a survey of energy subsidies existing in the EU and the Accession
+Countries by the end of the 20th century. Lacking any objective definition of what
+constitutes a subsidy, and lacking any objective baseline against which the size of a subsidy
+can be measured, some pragmatic and sometimes arbitrary choices had to be made.
+Furthermore, the information needed to quantify the amounts of subsidy involved was not
+always available.
+When only looking at money transfers and tax reliefs (see Table S.1), it can be concluded that
+the total amount of subsidy that the EU and its Member States give to renewable energy is
+substantially lower than the amount of subsidy to fossil fuels, and probably in the same order
+of magnitude of the subsidies to nuclear alone.
+A major part of the identified subsidies relates to tax exemptions and reductions. There are
+two major groups: those which have been introduced for social reasons (usually reduced
+VAT rates for households) and those intended to protect industry against the loss of
+international competitiveness. The latter are often accompanying the introduction of specific
+energy and/or CO2 taxes. Renewable energy is subsidised directly as well as by means of
+various fiscal arrangements. R&D subsidies play a particularly important role in the case of
+nuclear energy.
+Direct subsidies to coal production are declining throughout Europe, although the German
+coal subsidies remain one of the largest single subsidy items. Tax reductions and exemptions
+are an important component of the subsidies to oil, gas and electricity and they tend to
+increase as more countries are introducing energy tax schemes. Support for renewables is also
+increasing, whereas subsidies to nuclear energy do not show a clear trend.
+In the accession countries, especially the former centrally planned economies, subsidies are
+generally decreasing. In particular, cross subsidies from industry to households are gradually
+being phased out.
+In addition to these direct and indirect subsidies, there are three important factors favouring
+certain types of energy over others. Firstly, energy producers and users often do not pay for
+the (full) external costs and damage (such as pollution, accidents and risks). In some cases
+(oil spills, nuclear accidents), international conventions provide for limited liability of the
+perpetrators. Secondly, traditional energy continues to benefit from support that it has
+received in the past, e.g. in the form of below-commercial rates of return on investments.
+Finally, legal arrangements provide for preferential treatment of specific types of energy
+(especially renewables). Although these kinds of support are much harder to translate into
+money terms, some attempts to do so have been made. A comparison with the amounts
+involved in money transfers and tax reliefs is given in Table S.2. This shows that the bias in
+favour of traditional sources of energy is even stronger if these factors are taken into
+account.
+A more precise and reliable estimate of the bias against renewable energy might be achieved
+by means of a study to answer the question: If energy producers and users were fully liable
+for the damage and risks caused by their activities, and if this liability had to be (and could
+be) covered by insurance, how much would the insurance premium be?.
+Table S.1. Amounts of energy subsidies in EU and Member States (millions of Euros per
+year) (money transfers and tax reliefs)
+Austria
+Belgium
+Denmark
+Finland
+France
+Germany
+Greece
+Ireland
+Italy
+Luxembourg
+The Netherlands
+Portugal
+Spain
+Sweden
+United Kingdom
+EU + Member States
+solid fuels
+> 15
+> 25
+9,500
+> 75
+> 250
+> 12,000
+oil and gas
+> 95
+1,000
+> 30
+1,000
+> 250
+> 50
+> 1,500
+> 4,500
+> 1,900
+> 10,000
+nuclear renewables
+> 150
+> 40
+> 180
+> 600
+> 300
+> 700
+> 300
+> 35
+> 10
+> 300
+> 10
+> 250
+> 50
+> 130
+> 2,600
+> 2,400
+Note: Subsidies for electricity have been attributed to primary energy sources using shares in
+electricity production as weights.
+Table S.2. Tentative estimates of subsidies and other kinds of support in the EU (mln
+EUR per year)
+fossil fuels
+nuclear
+renewables
+money transfers and tax reliefs
+> 22,000
+> 2,600
+> 2,400
+uninternalised external costs
+ 50,000
+> 700  > 20,000
+ 600
+inheritance of past subsidies
+P.M.
+ 8,500
+P.M.
+preferential treatment
+ 1,000
+total
+> 70,000
+> 10,000
+> 4,000
+INTRODUCTION
+Subsidies and other types of financial support to various sources of energy are quite common
+throughout the European Union, as well as in the countries that have applied for membership
+(the accession countries). These subsidies have been introduced for various reasons, such as:
+- traditional energy policy considerations (security of supply, diversification,
+development of domestic energy resources, competitiveness);
+- social and regional policy considerations (e.g. to maintain income and employment in
+mining regions or to make heating fuels affordable for low-income households);
+- technology policy considerations (e.g. to build up a strong international position in
+nuclear know-how);
+- environmental policy considerations (e.g. to stimulate renewable energy).
+In a liberalising European energy market, the need for a level playing field implies the need
+for a critical assessment of the distortions created by existing energy subsidies. Furthermore,
+financial support to conventional energy sources may be barriers to achieve the EUs policy
+objectives on CO2 reduction and a higher share of renewables.
+Against this background, the European Parliament has commissioned the present study,
+which presents a survey of existing energy subsidies in the EU, its member states and the
+accession countries.
+The report is structured as follows. In Chapter 1, some methodological aspects and general
+considerations are discussed. Chapter 2 presents a review of energy subsidies in the EU and
+its 15 member states. The situation in the 13 accession countries is described in Chapter 3,
+whereas Chapter 4 contains the conclusions.
+1. METHODOLOGICAL ISSUES AND GENERAL CONSIDERATIONS
+1.1 DEFINING AND QUANTIFYING ENERGY SUBSIDIES
+The fact that many governments provide substantial amounts of financial support to the
+production and consumption of energy has led to a considerable research activity in recent
+years. An important reason for the interest in energy subsidies is the possible negative impact
+on the environment that they could have, by providing perverse incentives  i.e., by
+increasing the demand for energy in general and for polluting types of energy in particular.
+Another major concern, mainly expressed by economists, are the market distortions that
+energy subsidies generate, thus impeding the market mechanism to function properly, leading
+to a sub-optimal allocation and restricting social welfare. Several studies have been published
+on environmentally adverse subsidies, including energy subsidies (e.g. Roodman, 1996; De
+Moor and Calamai, 1997; Greenpeace, 1997; Myers and Kent, 1998; OECD, 1996, 1999b).
+When trying to identify and quantify energy subsidies, one will unavoidably be confronted
+with a number of methodological and definition problems. Two of the main problems are:
+1. The fact that there is no fundamental difference between energy subsidies in a narrow
+sense (i.e., direct payments from the public budget benefiting the supply or use of energy)
+and other kinds of support. Thus, all policies favouring the production or consumption of
+(specific kinds of) energy can in principle be seen as subsidies. Looking only at actual
+cash flows would lead to a limited and distorted result. However, including all policies
+that affect the supply of and demand for energy would imply an unmanageable task.
+Somehow, a compromise between the two extremes has to be found. The emphasis in this
+report is on subsidies involving actual money transfers (including tax relief), but attention
+is also paid to other kinds of support (see Sections 1.2, 1.3 and 1.4).
+2. The fact that there is no such thing as an objective baseline, i.e. an ideal situation that
+provides a reference against which the size of a subsidy can be measured. For example,
+the fact that fuels are taxed more heavily when they are used for transport than when they
+are used for heating could be regarded as a subsidy for the heating fuels. However, the
+higher tax for the transport fuel can also be seen as a payment for the use of infrastructure
+and for external costs (such as congestion and accidents). Determining whether a
+subsidy exists (either on the transport or the heating fuel) and what its size is would
+require a full assessment of these external costs, which is obviously not feasible.
+The present study takes a pragmatic approach in dealing with these complexities. Rather than
+starting from a definition of energy subsidies, the demarcation line has been drawn by
+describing types of support that have remained beyond the scope of the study. Thus, the
+following arrangements are not included as energy subsidies 1 :
+- differences in mineral oil tax rates between road traffic and other types of use of the same
+fuel;
+- differentiations and exemptions in excise taxes on mineral oil products for road transport
+(e.g., reduced rates for unleaded petrol or low-sulphur diesel);
+- exemptions from taxes for fuels which are used for non-energy purposes (e.g. as a
+chemical feedstock);
+- exemptions from taxes for fuels which are used for electricity generation (if electricity is
+taxed);
+- public money for investments that only have an indirect relationship with energy use
+(e.g., in road infrastructure);
+In some cases, they may be mentioned in the text, but they are not counted as subsidies when
+estimating the order of magnitude of subsidies for particular types of energy.
+public money for programs related to the termination of energy production activities, in as
+far as these expenditures are not part of the normal costs that should have been borne by
+the operator of the activity (e.g. losses incurred due to a politically motivated early
+closure of nuclear plants; social programs to alleviate the consequences of coal mine
+closures);
+- differentiations in the conditions under which energy companies can operate (lacking any
+baseline for these conditions), except when these conditions relate to provisions which
+also apply to other industries (thus, a lower corporate tax rate for oil and gas producing
+companies than for other companies is included as a subsidy, but differences in the states
+share in mining profits or royalties are not);
+- subsidy schemes which are not exclusively related to energy and for which the part
+related to energy could not be identified separately;
+- cross-subsidies, i.e. subsidies entirely financed by other users of the same kind of
+energy;
+- financial compensation, given in reaction to energy price increases (such as those given
+by several governments to the transport, agriculture and fisheries sectors, following
+protests in autumn 2000);
+- subsidies for energy conservation (including subsidies for combined heat and power2 );
+- general energy subsidies which could not be allotted to a particular fuel or type of energy;
+- general public provisions that can be related to energy (e.g. military expenditures to
+safeguard oil supplies from the Middle East, or the cost of police forces protecting
+nuclear transports).
+Furthermore, the present report does not refer to subsidies to energy projects and investments
+outside the EU or the accession countries. Subsidies amounting to less than EUR 1 million
+per year are also excluded. The emphasis is on subsidies provided by central governments,
+although subsidies by regional governments are included where they play an important role in
+energy policies.
+Having drawn these pragmatic demarcation lines, an overview of the various energy subsidy
+schemes in the EU and the accession countries will be presented in the next chapters. Before
+doing so, three types of government support will be discussed that do not involve actual
+money transfers, but which can be important factors favouring particular types of energy: the
+non-internalisation of external costs, the lasting impact of subsidies that have been provided
+in the past; and the existence of legal arrangements giving preferential treatment to certain
+kinds of energy.
+1.2 EXTERNAL COSTS AND UNCOMPENSATED DAMAGE
+An important, but largely hidden type of support to energy is the fact that energy producers
+and consumers often do not pay the full social cost of energy. In economic terms: the external
+cost of energy remains to a large extent uninternalised. Examples of such costs are the
+environmental damage caused by oil spills or by air pollution from burning fossil fuels, the
+costs of accidents (e.g. in coal mining), and the risks associated with nuclear power.
+Obviously, some internalisation occurs if regulations are in place which oblige the energy
+producer or user to take preventive measures or to compensate the damage. However, the
+costs of the uncompensated damage and risks that remain are largely borne by society as a
+whole rather than by the firms or individuals bringing them about. Such shifts of (potential)
+costs from the private to the public domain can be seen as subsidies.
+Although subsidies to combined heat and power (CHP) are intended to be instruments of energy
+conservation, they can also be regarded as subsidies favouring the fuel that is being used. However, even if one
+takes that vision, the subsidy could not be attributed to one particular kind of energy, because CHP can involve
+several types of fuels (though in practice the majority is fossil).
+The external costs of electricity production have been estimated in the EU funded ExternE
+project. Although the estimates should be treated with caution, it can be concluded from one
+of the projects reports that the sum of these external costs for the EU amounted in the early
+1990s to more than EUR 60 billion per year (excluding the former GDR, Austria and
+Luxembourg). Fossil fuels accounted for the bulk of these costs (see Table 1.1).
+Table 1.1 Aggregated external costs of electricity production in the EU (MECU/year)
+Fossil fuels
+63,342  88,539
+Nuclear energy
+734  1,355
+Renewables
+562  564
+Total
+64,638  90,458
+Source: EC (1999g), Table 19.14.
+Note: Figures do not include the former GDR, Austria and Luxembourg. Figures for nuclear do not include
+Finland. Figures for renewables do not include Belgium, Germany, Italy and The Netherlands. In the ExternE
+project, on which these figures are based, reliable values for nuclear accidents, high level nuclear waste impacts,
+nuclear proliferation and impacts of terrorism have not been developed. These omissions might well be
+significant (EC, 1999f, p. 497).
+Energy taxes in the EU amounted in 1997 to some EUR 130 billion3 . However, in OECD
+countries more than 90 percent of energy tax revenues is from excise taxes on motor fuels
+(OECD, 1999c). It is therefore safe to say that only a small part of the external costs of
+electricity generation in the EU is internalised by means of energy taxes, and the
+uninternalised external cost of electricity production from fossil fuels can be roughly
+estimated at some EUR 50 billion per year.
+Oil spills are another case in point. The maximum total amounts of compensation that can be
+paid per event by the 1971 and 1992 International Oil Pollution Compensation Funds (IOPC
+Funds) are SDR 135 mln (EUR 175 mln) and SDR 60 mln (EUR 78 mln), respectively,
+including the shipowners share. The shipowners liability is limited to a maximum of SDR
+59.7 mln (EUR 78 mln) and SDR 14 mln (EUR 18 mln), respectively. Moreover, claims for
+damage to ecosystems are not accepted (IOPC Funds, 2001). As the IOPC Funds are mainly
+financed by the oil companies, the payments by the Funds can not be regarded as subsidies,
+but the uncompensated damage clearly is an implicit subsidy for oil.
+Likewise, the liability for damage due to nuclear accidents is limited by the Conventions of
+Paris (1960) and Vienna (1963) and the Joint Protocol linking these two (1988). Under these
+Conventions, the liability for the operator of a nuclear plant can be capped at SDR 5 mln
+(EUR 6.5 mln), whereas the total liability (including the compensation paid from public
+funds) can be limited to an amount of SDR 300 mln (EUR 390 mln) 4 . This is only a fraction
+of the damage that could occur in the case of a severe accident. In the ExternE project, the
+maximum amount of external costs in case of a nuclear accident (worst case scenario: a core
+melt accident, followed by a massive containment breach) was estimated at more than EUR
+83 billion (Dreicer et al., 1994). However, due to the extremely low probability of such an
+accident and as a result of using discount rates (leading to low present values for future
+damage), the external cost per year calculated on the basis of the ExternE methodology is still
+quite low: around EUR 1 bln for the EU as a whole (see Table 1.1). Other studies arrive at
+much higher values. For instance, Ewers and Rennings (1994) estimated the total damage of a
+reactor meltdown in Germany alone at DEM 10,697 billion (EUR 5,469 billion), or (given a
+probability of 1 meltdown per 33,000 reactor years) DEM 0.043 (EUR 0.022) per kWh. Total
+nuclear power generation in the EU amounted to 854 TWh in 1998 (Eurostat, 2000a),
+implying, when applying the Ewers and Rennings figures to the EU as a whole, a total
+Calculated on the basis of Eurostat (2000 a and b).
+Under the 1997 Convention on Supplementary Compensation for Nuclear Damage, this amount is
+increased according to a formula which takes into account the installed nuclear capacity in a country.
+external cost from nuclear accident risks for the EU of almost EUR 20 billion per year.
+Including the external cost of other parts of the nuclear cycle would imply still (much) higher
+figures. Allowing nuclear plant operators to leave this damage largely uninsured implies an
+implicit subsidy (by way of unpaid insurance premiums) in the same orders of magnitude.
+It can be concluded that the size of uninternalised external costs of energy is considerable,
+even though the estimates are largely uncertain (especially in the case of nuclear). In order to
+arrive at more precise figures of the implicit subsidy involved, it might be interesting to
+launch a study to answer the question: If energy producers and users were fully liable for the
+damage and risks caused by their activities, and if this liability had to be (and could be)
+covered by insurance, how much would the insurance premium be?.
+1.3 THE INHERITANCE OF PAST SUBSIDIES
+Before the process of liberalisation and privatisation started in the EU, energy supply was
+widely regarded as a public service. Energy companies were in many cases state owned and
+heavily regulated so as to contribute to the political objectives of governments. Although the
+invisible subsidies implied in these arrangements have been substantially reduced, they have
+not disappeared. Moreover, the impact of past subsidies can remain a beneficial factor for
+particular types of energy for a long time, especially in case of long term investments.
+For example, countries like The Netherlands and Denmark have devoted large amounts of
+money to the creation of natural gas networks. Although the role of direct government
+subsidies was limited, tariff regulations and fiscal facilities have played an important role.
+Present users of natural gas are still benefiting from these investments by paying lower prices
+than would have been the case if the infrastructure had been financed on commercial terms.
+Similarly, investments in nuclear power plants have been facilitated by requiring financial
+rates of return well below commercial rates. Michaelis (1997) argues that, if a 10%-11%
+required rate of return (RRR) is taken as the benchmark for the market rate, the 5% RRR
+required by the British government in the early 1980s reduced the apparent cost of nucleargenerated electricity by approximately 1.6 pence per kWh (nearly 40%). Investment in
+nuclear power plants has also benefited from direct subsidies. For instance, the European
+Community has contributed EUR 2.9 billion to investments in nuclear power plants since the
+start of the Euratom Treaty in 1957 (EC, 2000r). Current nuclear power production still
+benefits from these capital subsidies. Assuming that for all existing nuclear capacity in the
+EU government investment support has led to an average cost reduction of EUR 0.01 per
+kWh, the effective annual subsidy (given the above mentioned nuclear power generation of
+854 TWh) amounts to some EUR 8.5 billion.
+Renewable energy also benefits from past public investments (e.g. in large scale
+hydropower), but to a much lesser extent.
+Another example of subsidy legacies from the past are the stranded costs involved in
+projects that would have been too risky for a commercial firm, but could be done thanks to
+the soft budget constraints of state owned or monopolistic enterprises. Examples are the fast
+breeder reactors that have been closed down in Germany and France and an expensive coal
+gasification project in The Netherlands. With the liberalisation of the energy markets, these
+costs and the huge subsidies they imply are becoming visible.
+1.4 PREFERENTIAL TREATMENT OF PARTICULAR TYPES OF ENERGY
+Several EU governments have introduced arrangements requiring energy companies to
+purchase specific kinds of electricity (in particular renewables based) from independent
+power producers at a fixed price. The best known example of such an arrangement is the
+German Stromeinspeisungsgesetz. Comparable arrangements exist in Austria, Greece, Italy
+and Spain. In March 2001, the European Court of Justice has ruled that this type of support
+does not constitute state aid under the EU Treaty (ENDS, 2001). Nevertheless, an implicit
+subsidy element is involved. In 1997, electricity production from renewables in the five
+countries mentioned (excluding large scale hydro, which usually does not qualify for such
+feed in arrangements) amounted to 33 TWh (calculated on the basis of EC (2000v) and
+Eurostat, (2000a)). Assuming an average price premium of EUR 0.03 per kWh, the implicit
+annual subsidy can be estimated to be in the order of magnitude of EUR 1 billion.
+2. ENERGY SUBSIDIES IN THE EUROPEAN UNION
+This Chapter provides information on the energy subsidies provided by the EU and its fifteen
+member states. They are classified by category of energy: solid fuels (coal, lignite and peat);
+oil and gas; nuclear energy; renewables; and electricity. The most recent available
+information has been used, generally relating to the late 1990s or the year 2000.
+To the extent possible, attempts have been made to quantify the amounts of subsidies
+involved 5 . As a reasonably precise quantification of subsidies is not always possible, the
+amounts mentioned should be treated with caution and mainly be regarded as indicators of
+the orders of magnitude. The (rounded) total amounts of quantifiable subsidies by type of
+energy are mentioned in the tables at the end of each section. Subsidies to electricity have
+been translated into subsidies for primary energy sources by distributing them according to
+the share of each energy type in total gross electricity generation in 1998.
+Quantifiable subsidy amounts have been expressed in Euros per year (printed bold and in italics).
+Exchange rates used are those of December 31st , 1999. Incidentally, the value of the Euro and the US Dollar
+were almost exactly the same by that date. In case of subsidy amounts showing large differences between
+different years, averages of several years have been calculated to the extent possible.
+2.1 THE EUROPEAN UNION
+General
+Many EU energy subsidy schemes and funding programmes cover energy in general and can
+therefore not always be attributed (completely) to a particular type of energy. The main
+general support schemes that are relevant for energy include:
+- The Thematic Programme Energy within the 5th framework programme for research,
+technological development and demonstration (1999-2002). The budget is EUR 1,042
+mln, of which 1,026 mln for key actions. Part of this amount could be attributed to
+specific types of energy (see Table 2.1.1) 6 ;
+- Parts of the Structural Funds (which include the Regional Development Fund (ERDF),
+the Social Fund and the Guidance section of the European Agricultural Guidance and
+Guarantee Fund). Under Objective I, an amount of EUR 2,496 mln was budgeted for
+energy projects in the period 1994-1999. Energy projects have been financed under
+national programmes as well as under various Community Initiatives, such as Interreg II,
+FEDER, Urban, EMS, Leader and Regis II;
+- Parts of Phare (mainly within the sectors environment and nuclear safety and
+infrastructure, for which in the period 1990-1998 EUR 447 mln and EUR 958 mln has
+been disbursed, respectively - EC, 2000s);
+- ALURE: a programme for economic co-operation in the energy sector between the EU
+and Latin America (budget: EUR 25 mln for the period 1998-2002);
+- Synergy: a programme for co-operation with non-member countries in the area of energy.
+It has a budget of EUR 15 mln for the period 1998-2002;
+- ETAP: a programme for analysis and forecast at the EU level, and other related work in
+the energy sector (budget: EUR 5 mln for the period 1998-2002)
+Table 2.1.1. Subdivision of RTD subsidies for energy in the 5th Framework Programme
+coal
+oil and gas
+renewables
+electricity
+other/not
+attributable
+TOTAL
+Key action: Cleaner energy
+systems, including renewables
+percentage amount (mln  )
+12.7
+50.3
+240.7
+22.9
+109.7
+22.6
+108.3
+Key action: Economic and efficient
+energy for a competitive Europe
+percentage
+amount (mln  )
+25.7
+140.7
+27.6
+151.2
+32.0
+40.4
+221.1
+Total (mln )
+153.4
+391.9
+141.7
+329.4
+1,026
+Solid fuels
+The CARNOT programme was devised in order to promote European technology relating to
+the clean and efficient use of solid fuels. It covers the years 1998-2002 and has a budget of
+EUR 3 mln (somewhat less than EUR 1 mln per year).
+Within the framework of the ECSC, a coal research programme has been running for more
+than 40 years. The current annual budget is about EUR 25 mln.
+This has been done by attaching to each RTD project that has been funded up to now a weight
+consisting of the product of its duration and number of participating institutions.
+The share of coal in the 5th RTD programmes budget was estimated at EUR 9.7 mln (cf.
+Table 2.1.1) or EUR 2 mln per year.
+Under a 1994-1999 Structural Funds programme, financial support for the use of peat in
+Ireland has been provided (EC, 2001). The amount involved was about IEP 20 mln (IEA,
+1999c) or EUR 4 mln per year.
+Under the Phare programme, support for coal related projects amounted to a total of EUR
+26.75 mln (EUR 3.3 mln per year) over the period 1990-1997 (calculated after ERM, 1999).
+Oil and gas
+Table 2.1.2 lists the main contributions from the Structural Funds for oil and natural gas
+projects under the 1994-1999 operational programmes. The total amount is EUR 1,187 mln,
+implying an annual average of EUR 198 mln.
+Table 2.1.2. Contributions from Structural Funds for oil and gas, 1994-1999
+country
+operational programme
+EC contribution
+(mln EUR)
+Greece
+Introduction of natural gas
+354.6
+Greece
+Athens : gas-fuelled bus and natural gas station
+37.4
+Italy
+Energia: Metanizzazione
+60.0
+Portugal
+Infrastructure to support development: sub-programme for energy (*)
+322.0
+Portugal/Spain
+Interreg II: gas infrastructure
+220.0
+Spain
+LNG plant, Huelva
+Spain
+Gibraltar-Cordoba gas pipeline
+99.0
+Spain
+Valencia-Cartagena gas pipeline (1st phase)
+23.8
+Spain
+Cartagena-Puertollano oil pipeline
+62.9
+Total
+1,187.0
+(*) Includes some funding for renewables and conservation; amount may thus be slightly overestimated.
+Source: EC (2001).
+The share of oil and gas in the 5th RTD programmes budget was estimated at EUR 153.4 mln
+(cf. Table 2.1.1), or EUR 38 mln per year.
+Under the Phare programme, support for oil and natural gas related projects amounted to a
+total of EUR 17.4 mln (EUR 2 mln per year) over the period 1990-1997 (calculated after
+ERM, 1999).
+Nuclear energy
+The Euratom R&D budget for the period 1999-2002 amounts to EUR 1,260 mln, or EUR 315
+mln per year.
+The Euratom nuclear safeguards budget for 2000 amounted to EUR 16.7 mln.
+Euratom loans are presently only provided for modernisation of nuclear installations in
+Accession Countries.
+Under the Phare programme, support is provided for nuclear safety improvements in Bulgaria
+and Lithuania. In the period 1991-1999, the European Commission has committed EUR 192
+mln (on average EUR 21 mln per year) for nuclear safety under the Phare programme (EC,
+2000u).
+Renewables
+Financial support for renewable energy is mainly coming from the Structural Funds. The
+amount spent on renewable energy in the period 1994-1999 is estimated at EUR 300 mln
+(EUR 50 mln per year). Projects have been supported in Greece, Spain, France, Ireland, Italy,
+Portugal, Austria and the United Kingdom, featuring notably wind, solar and biomass (EC,
+1999c).
+The share of renewables in the 5th RTD programmes budget was estimated at EUR 391.9
+mln (cf. Table 2.1.1) or EUR 98 mln per year.
+A source of funding dedicated specifically to renewable energy is the Altener programme.
+The budget for Altener II (1998-2002) is EUR 77 mln or EUR 15 mln per year.
+Under the Phare programme, support for renewables related projects amounted to a total of
+EUR 14.3 mln (EUR 1.8 mln per year) over the period 1990-1997 (calculated after ERM,
+1999).
+Electricity
+The share of electricity in the 5th RTD programmes budget was estimated at EUR 141.7 mln
+(cf. Table 2.1.1) or EUR 35 mln per year.
+Table 2.1.3 lists the main contributions from the Structural Funds for electricity projects
+under the 1994-1999 operational programmes. The total amount was EUR 325.7 mln, or
+EUR 56 mln per year.
+Table 2.1.3. Contributions from Structural Funds for electricity, 1994-1999
+country
+operational programme
+Greece
+energy (electricity production)
+Greece/Italy
+Interreg II: interconnection of electricity networks
+Italy
+Energia
+Total
+Source: EC (2001).
+EC contribution
+(mln EUR)
+140.0
+75.8
+109.9
+325.7
+Under the Phare programme, support for electricity related projects amounted to a total of
+EUR 32.6 mln (EUR 4.1 mln per year) over the period 1990-1997 (calculated after ERM,
+1999).
+Table 2.1.4. European Union: Summary Table
+Final energy consumption (1998): 945.5 Mtoe
+Gross electricity generation (1998): 2,490 TWh
+coal
+oil & gas
+nuclear
+share in gross electricity generation (1998) 27%
+quantifiable subsidies (mln EUR per year) 35
+quantifiable subsidies, incl. attributed
+electricity subsidies (mln EUR per year)
+Source: Energy statistics: Eurostat (2000a); other figures: this section.
+renewables
+electricity
+2.2 AUSTRIA
+Solid fuels
+The importance of coal in Austrias energy market has greatly diminished over the past two
+decades. Out of about 20 coal mines operating in the 1960s, only one still operates. The
+governments financial support to the coal industry in 1996 was estimated to have been
+around ATS 75 million (EUR 5.5 mln). This support was mainly used for social programmes
+in connection with mine closures (which is not an energy subsidy in terms of this report), and
+for exploration (IEA, 1998b).
+Coal and coal products are not subject to the energy tax. If coal were taxed at the same rate
+per GJ as natural gas (ATS 0.6 per m3 or ATS 1.8 per GJ), the 66.6 PJ final use of coal and
+coal products in 1998 (Statistik sterreich, 2000) would have been subject to a total tax
+amount of ATS 119.9 mln or EUR 8.7 mln.
+In the years 1995-1998, the Austrian government spent less than EUR 1 mln per year on coal
+related R&D (IEA, 1999f).
+Oil and gas
+Natural gas and electricity are subject to an energy tax of ATS 0.60 per m3 and ATS 0.2 per
+kWh, respectively. Until June 2000, the rate for electricity was ATS 0.1 per kWh. For energy
+intensive enterprises there is a ceiling on the total tax burden of the energy tax. Total final gas
+consumption amounted to 161.7 PJ or 4.49 bln m3 in 1998 and total final electricity
+consumption to 179.8 PJ or 49.9 TWh (Statistik sterreich, 2000). If all final consumption
+were taxed, the revenues would have been ATS 2.7 billion and ATS 5.0 billion, respectively,
+or ATS 7.7 billion in sum. Total revenues from the energy tax were ATS 5.5 billion in 1997
+(EC, 2000b). Assuming (somewhat arbitrarily) an equal distribution of this implicit subsidy
+between gas and electricity, both received ATS 1.1 billion or EUR 80 mln.
+In 1998, the Austrian government spent less than EUR 1 mln per year on oil and gas related
+R&D (IEA, 1999f).
+Land-locked Austria is not a member of an International Oil Pollution Compensation Fund.
+Nuclear energy
+Austria has no nuclear power plants.
+In 1995-1998, the Austrian government spent on average EUR 2.0 mln per year on nuclear
+related R&D (IEA, 1999f). This budget was mainly for nuclear fusion.
+Renewables
+IEA (1998a) reports the following subsidies for renewable energy in Austria:
+- federal subsidies for biomass-based district heating: ATS 192 million (EUR 14 million)
+in 1996;
+- capital subsidies of 8 to 25% for investments in small hydropower plants (no amounts
+specified);
+- subsidies administered by the Ministry of Agriculture and Forests for biomass and small
+hydropower projects: ATS 190 million (EUR 14 million) in 1996;
+- provincial support for solar, biomass and heatpumps: ATS 500 million (EUR 36 million)
+in 1996;
+- guaranteed minimum prices for electricity from renewables that is traded between
+provinces, ranging from ATS 0.421 to ATS 0.9 (EUR 0.03 to EUR 0.07) per kWh (no
+amounts specified).
+In 1997, an investment fund was created providing subsidies of ATS 80 million (EUR 5.8
+million) per year for investments in power plants based on renewable sources (Novem,
+2001).
+There are also a number of renewable energy subsidy schemes running at the level of the
+Lnder.
+For electricity from renewables, there is no exemption from the energy tax. However, the
+final use of renewable energy is not taxed. If renewables were taxed at the same rate per GJ
+as natural gas (ATS 0.6 per m3 or ATS 1.8 per GJ), the 104.7 PJ final use of renewable
+energy in 1998 (Statistik sterreich, 2000) would have been subject to a total tax amount of
+ATS 188.5 mln or EUR 13.7 mln.
+Furthermore, firewood, straw and wood by-products are subject to a reduced VAT rate of
+10% (the standard rate is 20%) (EC, 2000b). Total final use of firewood amounted to 80.9 PJ
+in 1998 (Statistik sterreich, 2000). Tentatively assuming a price of EUR 5 per GJ, and
+assuming that 50% of the firewood use can profit from the VAT reduction (the other half
+remaining outside formal markets or being used by firms), the implicit subsidy can be
+roughly estimated at EUR 20 mln.
+In 1995-1998, the Austrian government spent on average EUR 8.9 mln per year on
+renewables related R&D (IEA, 1999f).
+Electricity
+Energy intensive industries do not have to pay the full amount of energy tax on electricity.
+The implicit annual subsidy was estimated above at EUR 80 mln.
+There are some cross-subsidies for electricity at the provincial and municipal level. For
+example, special low prices are often charged to the public transport sector (IEA, 1998b).
+In 1995-1998, the Austrian government spent on average EUR 3.4 mln per year on electricity
+related R&D (IEA, 1999f).
+Table 2.2.1. Austria: Summary Table
+Final energy consumption (1998): 22.8 Mtoe
+Gross electricity generation (1998): 57.5 TWh
+coal
+oil & gas
+nuclear
+share in gross electricity generation (1998) 7%
+quantifiable subsidies (mln EUR per year) 10
+quantifiable subsidies, incl. attributed
+electricity subsidies (mln EUR per year)
+> 15
+> 95
+Source: Energy statistics: Eurostat (2000a); other figures: this section.
+renewables
+> 100
+> 150
+electricity
+> 80
+2.3 BELGIUM
+Solid fuels
+Solid fuels (coal, coke and lignite) are subject to a reduced VAT rate of 12%, whereas other
+fuels are subject to the general rate of 21%. Assuming a price of EUR 300 per tonne, and
+assuming that half of the 307 kilotonnes of coal consumption in the services & households
+sector in 1998 (Eurostat, 2000a) could benefit from the VAT reduction, the implicit subsidy
+can be estimated at some EUR 4 mln per year. In its recent plan on sustainable development
+(Federal Government of Belgium, 2000) the federal government has mentioned the abolition
+of this tax reduction as a possible policy measure.
+Coal is also exempted from the energy tax. While this does not constitute a subsidy for
+industrial users (other industrial fuels remain untaxed as well), it creates a tax advantage for
+the household use of coal. If we take the energy tax rate for natural gas (BEF 0.433 per m3 ) as
+a reference, the corresponding tax rate for coal should be about BEF 0.400 per kg (based on
+energy content only). Again assuming that households account for some 150 ktonnes of coal
+use, the implicit subsidy is BEF 60 mln or EUR 1.5 mln.
+In 1995-1997, the Belgian government spent on average EUR 1.8 mln per year on coal
+related R&D (IEA, 1999f).
+Oil and gas
+In 1995-1997, the Belgian government spent on average less than EUR 1 mln per year on oil
+and gas related R&D (IEA, 1999f).
+Belgium is a member of the 1992 International Oil Pollution Compensation Fund. This
+implies a maximum compensation for oil spills of EUR 175 mln.
+Nuclear energy
+More than 50% of the Belgian electricity supply is provided by nuclear power plants. Nuclear
+power is to be phased out by 2030. Funds for decommissioning the nuclear power plants are
+collected through a levy on all electricity. The amount of implicit subsidy involved is
+unknown.
+A fund has been set up by the government and the utilities to deal with radioactive waste
+from the defunct EUROCHEMIC installation (a reprocessing plant), the Waste Department
+of CEN/SCK (a nuclear research institution) and the dismantling of a reactor in Mol, because
+no financial provisions for managing these materials had been made (EC, 1999d). The
+governments contribution to this fund is unknown.
+In 1995-1998, the Belgian government spent on average EUR 38.9 mln per year on nuclear
+related R&D (IEA, 1999f).
+Renewables
+Since 1995, electricity generated from renewables is supported with a subsidy of BEF 1
+(EUR 0.025) per kWh. The measure was estimated to cost BEF 30 million (EUR 0.7 million)
+per year (IEA, 1998a). In July 1998 the amount of support was increased to BEF 2 (EUR
+0.05) per kWh for hydro and wind power installations with a maximum capacity of 10 MW
+(Federaal Planbureau, 1999). Therefore, the order of magnitude of the subsidy is now likely
+to be some EUR 1 mln.
+In all three administrative regions (Flanders, Wallonia and Brussels Capital) investments in
+renewable energy are eligible to a subsidy of 15%. In the case of photovoltaic energy in
+Flanders there is an investment subsidy of 50%. Furthermore, 14% of investments in
+renewable energy can be deducted from company profits (IEA, 1998a). Subsidies for
+renewable energy are also available in the Walloon region, but information on budgets is
+generally lacking (Novem, 2001).
+In 1995-1997, the Belgian government spent on average EUR 3.5 mln per year on
+renewables related R&D (IEA, 1999f).
+Electricity
+Over the past decade, the social electricity tariff, intended to protect low-income
+households, has involved an average amount of cross-subsidy of BEF 500 mln or EUR 12
+mln per year (IEA, 1997b). As this is a transfer between electricity users and does not
+discriminate between fuels, it is excluded from our quantification.
+In 1995-1997, the Belgian government spent on average EUR 4.2 mln per year on electricity
+related R&D (IEA, 1999f).
+Table 2.3.1. Belgium: Summary Table
+Final energy consumption (1998): 37.4 Mtoe
+Gross electricity generation (1998): 83.2 TWh
+coal
+oil & gas
+nuclear
+share in gross electricity generation (1998) 17%
+quantifiable subsidies (mln EUR per year) 7
+> 40
+quantifiable subsidies, incl. attributed
+electricity subsidies (mln EUR per year)
+> 40
+Source: Energy statistics: Eurostat (2000a); other figures: this section.
+renewables
+electricity
+2.4 DENMARK
+Solid fuels
+The Danish energy and CO2 taxes have a standard rate of about DKK 600 per tonne of
+CO2 . For enterprises, especially the energy intensive ones and those that are exposed to
+international competition, substantially lower rates apply. The lowest rate, which is only
+DKK 3 per tonne of CO2 , applies to energy intensive industries who have entered into a
+voluntary agreement on energy efficiency with the Danish Energy Agency. The amount of
+implicit subsidy can be calculated roughly as follows. The theoretical revenue if all fossil
+fuel use were taxed at DKK 600 per tonne CO2 would have been about DKK 27 billion in
+1998 (see Table 2.4.1). The actual revenue was almost DKK 18 bln (EC, 2000b) 7 . We will
+assume (somewhat arbitrarily) that half of the implicit subsidy (the difference of DKK 9 mln)
+went to coal (i.e. DKK 4.5 bln or EUR 600 mln) and the other half to oil and gas together
+(see below).
+Table 2.4.1. Theoretical energy and CO2 tax revenues in Denmark in 1998 (with
+uniform tax rate of DKK 600 per tonne CO2 )
+energy product
+coal
+oil (products) (excluding
+transport)
+natural gas
+total
+* Source: IEA (2000g)
+CO2 emissions *
+(mln tonnes)
+21.8
+13.4
+theoretical revenue
+(bln DKK)
+13.1
+45.1
+27.0
+In 1995-1998, the Danish government spent on average less than EUR 1 mln per year on coal
+related R&D (IEA, 1999f).
+Oil and gas
+The implicit subsidy for oil and gas, resulting from energy and CO2 tax reductions, was
+estimated above at EUR 600 mln per year.
+The CO2 tax on electricity is partially refunded to the producers of electricity from natural
+gas. This is done because the CO2 tax rate for electricity is based upon the emissions from
+coal based electricity. Therefore, it should not be seen as a subsidy.
+After the oil crises, large investments in a gas transmission and distribution infrastructure
+have been done, for which capital was raised by loans. The gas distribution companies are
+now heavily in debt. The government has financed the debts through price regulations and tax
+exemptions, which provided an effective annual subsidy of almost DKK 3 billion (EUR 400
+mln) in 1996 (IEA, 1998c).
+The revenues for the CO2 tax are the expected amounts for 1999.
+Royalty payments on oil and gas production have been abolished in the most recent licensing
+rounds (IEA, 1998c).
+In 1995-1998, the Danish government spent on average EUR 2.8 mln per year on oil and gas
+related R&D (IEA, 1999f).
+Denmark is a member of the 1992 International Oil Pollution Compensation Fund. This
+implies a maximum compensation for oil spills of EUR 175 mln.
+Nuclear energy
+Denmark has no nuclear power plants.
+In 1995-1998, the Danish government spent on average EUR 1.7 mln per year on nuclear
+related R&D (IEA, 1999f).
+Renewables
+Electricity from renewables is exempted from the energy and CO2 taxes on electricity. In the
+case of the CO2 tax this exemption is achieved by granting a refund of DKK 0.1 per kWh to
+the producers of electricity from renewables. This is equal to the CO2 tax rate for electricity,
+which is based upon coal based electricity. Therefore, it should not be seen as a subsidy. The
+exemption from the energy tax, however, can be seen as a subsidy. The amount involved can
+be estimated as follows. In 1998, the total revenues of the energy tax on electricity amounted
+to DKK 7.0 billion (EC, 2000b). Final consumption of electricity was 32.0 TWh (Eurostat,
+2000a), implying an effective tax rate of DKK 0.22 per kWh. Given a gross electricity
+production from renewables of 4.3 TWh (Eurostat, 2000a), the total amount of subsidy
+involved can be estimated at DKK 937 mln or EUR 126 mln.
+By 2002, the direct financial support of electricity from renewables will be replaced by a
+system of green certificates. This system has recently been approved by the European
+Commission.
+In the period 1995-1999 the Danish Energy Agency paid an amount of DKK 329.7 mln (on
+average EUR 8.9 mln per year) in subsidies for investments in renewable energy installations
+(Energistyrelsen, 2000b).
+A subsidy scheme for investments in solar cells was started in 1998. An amount of DKK 1
+billion was reserved for a period of five years (EUR 27 mln per year) (ENDS, 1998a).
+Shareholders in private wind turbine cooperatives can opt for a model of income taxation in
+which the first DKK 3000 (EUR 400) of income from the sale of wind power is tax free
+(Energistyrelsen, 1999). As the extent to which this scheme is used is unknown, the amount
+of subsidy involved cannot be calculated.
+In 1995-1998, the Danish government spent on average EUR 17.2 mln per year on
+renewables related R&D (IEA, 1999f).
+Electricity
+In 1995-1998, the Danish government spent on average EUR 4 mln per year on renewables
+related R&D (IEA, 1999f).
+Table 2.4.2. Denmark: Summary Table
+Final energy consumption (1998): 15.1 Mtoe
+Gross electricity generation (1998): 41.1 TWh
+coal
+oil & gas
+nuclear
+share in gross electricity generation (1998) 58%
+quantifiable subsidies (mln EUR per year) 600
+1,000
+quantifiable subsidies, incl. attributed
+electricity subsidies (mln EUR per year)
+1,000
+Source: Energy statistics: Eurostat (2000a); other figures: this section.
+renewables
+> 180
+> 180
+electricity
+2.5 FINLAND
+Solid fuels
+Since 1996, investment aid for electricity and heat generation from peat has ceased, but it still
+exists for cogeneration and district heating plants using mixtures of peat and wood as a fuel
+(IEA, 1999b) (see below under renewables). Furthermore, small scale peat power is included
+in the refund scheme for the tax on electricity (see below under renewables). The implicit
+subsidies cannot be calculated due to lack of data.
+In 1995-1997, the Finnish government spent on average EUR 3.6 mln per year on coal
+related R&D (IEA, 1999f).
+Oil and gas
+In the past, the use of natural gas has been stimulated by subsidies and a reduced VAT rate.
+Following Finlands accession to the EU, these arrangements have been terminated.
+Presently, natural gas benefits from a reduced CO2 tax rate: FIM 51 instead of FIM 102 per
+tonne of CO2 . This tax reduction is not relevant for gas used for electricity generation,
+because since 1997 fuel inputs for electricity are exempt from the CO2 tax (instead, the
+electricity itself is taxed). Gas use for other purposes than electricity production in Finland
+amounted to 1.2 Mtoe in 1997 (calculated after EC, 1999a), or 900 mln m3 . Given an
+emission of 1.96 kg CO2 per m3 , the total CO2 emissions from this gas use are some 1.76 mln
+tonnes, which means that the tax reduction implies a subsidy of FIM 90 mln (EUR 15 mln)
+per year for natural gas.
+In 1995-1997, the Finnish government spent on average less than EUR 1 mln per year on oil
+and gas related R&D (IEA, 1999f).
+Finland is a member of the 1992 International Oil Pollution Compensation Fund. This implies
+a maximum compensation for oil spills of EUR 175 mln.
+Nuclear energy
+Radioactive waste producers have full responsibility for managing their radioactive waste and
+for covering all related expenses. In order to cover expected expenses for radioactive waste
+management and decommissioning of the nuclear plants, the operators of the plants pay
+annual fees to a government-controlled fund, which are tax-exempted (EC, 1999d).
+In 1995-1997, the Finnish government spent on average EUR 8.4 mln per year on nuclear
+related R&D (IEA, 1999f).
+Renewables
+Since 1997, when the Finnish CO2 tax was transformed into a general tax on electricity, a tax
+refund equal to the electricity tax is available for electricity from renewables (IEA, 1998a).
+The revenues from the electricity tax were estimated at FIM 2 billion in 1999 (EC, 2000b).
+As renewables account for about 30% of Finnish electricity production, the subsidy implied
+can be estimated at FIM 857 million or EUR 144 million per year.
+Investment subsidies for new and renewable energy technologies are available to a maximum
+of 30% of the investment cost. In 1998, the amount of available subsidies was FIM 130
+million (EUR 22 million) (IEA, 1999b). It should be noted that these subsidies are partly
+accruing to non-renewable energy (e.g. subsidies to combined heat and power / district
+heating plants using a mixture of wood and peat as a fuel).
+Subsidies are also granted for the management of young forests and the harvesting of wood
+for energy. These subsidies amount to between FIM 12 and 15 per MWh (IEA, 1999b).
+Given a biomass input for power generation of 1.32 Mtoe (15.35 TWh) in 1997 (EC, 1999a),
+and assuming that all of this biomass input benefited from the support scheme, the total
+amount of subsidy can be estimated at FIM 184 mln (EUR 31 mln) per year.
+In 1995-1998, the Finnish government spent on average EUR 4.5 mln per year on renewables
+related R&D (IEA, 1999f).
+Electricity
+The tax on electricity is levied at a reduced rate for industry and greenhouse horticulture:
+FIM 0.025 instead of FIM 0.041 per kWh. Industrial electricity use amounted to 39.6 TWh in
+1997 (calculated after EC, 1999a), so the tax reduction implies a subsidy of FIM 633 mln
+(EUR 106 mln) to industry. The subsidy to greenhouse horticulture cannot be calculated due
+to lack of data.
+In 1995-1997, the Finnish government spent on average EUR 15.7 mln per year on electricity
+related R&D (IEA, 1999f).
+Table 2.5.1. Finland: Summary Table
+Final energy consumption (1998): 23.6 Mtoe
+Gross electricity generation (1998): 70.2 TWh
+coal
+oil & gas
+nuclear
+share in gross electricity generation (1998) 19%
+quantifiable subsidies (mln EUR per year) > 4
+quantifiable subsidies, incl. attributed
+electricity subsidies (mln EUR per year)
+> 25
+Source: Energy statistics: Eurostat (2000a); other figures: this section.
+renewables
+electricity
+2.6 FRANCE
+Solid fuels
+According to the European Commission (2000a), state aid to coal mining in France amounted
+to an average EUR 72 million per year in the period 1995-1996. IEA (2000d) estimated the
+PSE (Producer Subsidy Equivalent) at FRF 2,578 mln or EUR 393 million in 1998. This
+amount includes aid to current production only. Total subsidies for the French coal mining
+industry (including social programmes related to mine closure) are much higher: Bonduelle et
+al. (1998) mention an annual amount of FRF 4.5 billion (EUR 686 million) and according to
+IEA (2000d) the total support (PSE + assistance not benefiting current production) amounted
+to FRF 6.6 billion (EUR 1 billion) in 1998.
+Indirect types of support to coal include (Bonduelle et al., 1998):
+- compulsory purchases of coal-generated electricity (implicit subsidy estimated at FRF
+600 mln or EUR 91 mln per year);
+- the rehabilitation of old mine areas;
+- uninternalised external costs (uncompensated environmental damage) from coal-fired
+power plants.
+In 1995-1998, the French government spent on average EUR 5.4 mln per year on coal related
+R&D (IEA, 1999f).
+The use of coal is not taxed in France (apart from VAT). However, as there is not (yet) a
+general energy tax scheme, this cannot be regarded as a subsidy.
+Indigenous coal production in France is to be progressively reduced and will cease
+completely by 2005 (IEA, 2000d).
+Oil and gas
+The Institut Franais du Ptrole (IFP) receives a certain percentage of the revenues of the tax
+on oil products and invests it in R&D. In 1996, the R&D funds financed in this way
+amounted to FRF 871 mln for oil and FRF 235 mln for gas (Bonduelle et al., 1998); together
+FRF 1,106 mln (EUR 169 mln). As this is financed solely by a tax on oil products, it is not to
+be considered a subsidy. The oil support fund FSH receives an annual budget in the order of
+FRF 240 mln (EUR 37 mln) per year from the government (IEA, 2000d). The R&D budget of
+Gaz de France (GDF) amounted to FRF 634 mln (EUR 97 mln) in 1999 (IEA, 2000d). As in
+the case of EDF (see below), this should not be regarded as a subsidy. According to IEA
+(1999f), the average government budget for oil and gas related R&D amounted to EUR 32.5
+mln per year on average in the period 1995-1998.
+In response to protests against high prices of oil products, the French government decided in
+September 2000 to reduce diesel excise tax rates in case of sharp price increases of crude oil.
+While this measure is not a subsidy, it has the effect of stabilising the price of diesel, thus
+making its use more attractive. Taxes on diesel have been traditionally low in France,
+compared to taxes on other motor fuels.
+France has informed the European Commission that it intends to apply a reduced diesel
+excise tax rate for short distance public passenger transport, starting in 2001.
+Since the early 1990s, the government has maintained a support policy for small retailers of
+automotive fuels. The aim of this policy is to maintain petrol supply in remote areas. The
+policy is financed by a tax that yielded a total revenue of FRF 53 mln in 1997. The tax was
+raised in December 1999 to yield a total revenue of FRF 73 mln. The government intends to
+maintain this higher level of support in 2001 (IEA, 2000d). As the tax is (presumably) levied
+on oil products, the support can be considered to be a cross-subsidy.
+Indirect subsidies to the oil industry include (Bonduelle et al., 1998):
+- uninternalised external costs of the use of oil products, in particular by motor vehicles;
+- military expenditures to protect the interests in oil producing areas, such as the Persian
+Gulf.
+France is a member of the 1992 International Oil Pollution Compensation Fund. This implies
+a maximum compensation for oil spills of EUR 175 mln. The Erika oil spill (December
+1999) has caused considerable damage on the French coast. Although Fina Elf, which had
+hired the Erika, promised to pay at least USD 85 million compensation, it is likely that a
+substantial amount of implicit subsidy by way of uncompensated damage will be involved.
+By December 2000, some 2,950 claims had been received by the 1992 IOPC Fund for cleanup operations, property damage and loss of earnings in the fishery and tourism sectors. Some
+1,770 claims had been assessed. Of these, 1,460 claims totalling FRF 113 million had been
+approved for FRF 84 million. Payments had been made totalling FRF 42 million, i.e. 50% of
+the amounts approved (IOPC Funds, 2001).
+Nuclear energy
+The main part of public spending on nuclear R&D in France takes place through the
+Commissariat  lnergie atomique (CEA). Nuclear R&D expenses by CEA amounted to
+FRF 4,638 mln in 1996. Another large publicly financed nuclear research institute is the
+department IN2P3 of the Centre national de recherche scientifique (CNRS), whose nuclear
+budget amounted to FRF 1,234 mln in 1995 (Bonduelle et al., 1998). In our view, the R&D
+budget of electricity company EDF (FRF 594 mln in 1995, according to Bonduelle et al.,
+1998; FRF 3.1 billion in 1999, according to IEA, 2000d) should not be considered as a
+subsidy, but as normal R&D expenses of an enterprise (although it is state-owned). The
+same is true for the FRF 1,251 mln spent on nuclear R&D by Cogma (IEA, 2000d). The
+total annual amount of nuclear R&D subsidy could thus be estimated at about FRF 7 bln or
+slightly above EUR 1 bln. According to IEA (1999f), the average annual government budget
+for nuclear R&D in the period 1995-1998 was EUR 515.8 mln, which can be used as a
+conservative estimate.
+The annual budget of the Direction de la Sret des Installations Nuclaires (DSIN), which is
+charged with safeguarding the security of nuclear installations, can be regarded as a subsidy
+to nuclear energy. This budget amounts to FRF 650 mln (EUR 99 mln) (Bonduelle et al.,
+1998). Government proposals seeking greater independence for the safety authorities have
+recently been rejected by the National Assembly (IEA, 2000d).
+According to EDF, the owner of all nuclear power plants in France, the cost of
+decommissioning the existing plants will amount to FRF 102 billion. This amount is based
+upon an average decommissioning cost that is fixed by the Ministry of Industry, amounting to
+FRF 1,698 per kW installed by the end of 1998. The cumulated provisions amounted to FRF
+44.5 billion in 1998. Given an average age of 13 years and a lifetime of 30 years, EDF
+concludes that these provisions are sufficient to cover all decommissioning costs (EDF,
+1999). However, doubts have been expressed whether the budget for decommissioning (15%
+of the investment costs) will be sufficient (Bonduelle et al., 1998). Moreover, if the economic
+life of the reactors is reduced (e.g. due to increasing maintenance costs) the necessary
+provisions for decommissioning will not be realised.
+Other forms of indirect support to the nuclear industry include (Bonduelle et al., 1998):
+- nuclear overcapacity, leading to exports of electricity at prices below the level of full cost
+coverage;
+- investments in new nuclear plants at times of overcapacity, the main purpose of the
+investment being support to nuclear plant builder Framatome;
+- the mandatory reprocessing of spent nuclear fuel (intended to support reprocessing firm
+Cogema);
+- limited liability for damage due to a nuclear accident (to FRF 600 mln or EUR 91 mln);
+- impacts of the nuclear cycle on health (estimated using the ExternE methodology at
+FRF 120 mln to 5940 mln, or EUR 18 mln to 905 mln per year).
+Renewables
+In 1996, the government initiated EOLE, a plan to promote grid-connected wind electricity.
+It is run in a similar fashion to the UK's NFFO, whereby the government (in co-operation
+with EDF and ADEME) launches a competitive bid process for a certain amount of capacity.
+Successful bids are chosen on cost grounds: the average in 1997 was FRF 0.337 per kWh.
+EOLE aims to drive costs down to (a competitive) FRF 0.25 per kWh by 2005. A market for
+power from the successful bids is guaranteed, and will be bought for the rate determined at
+the time of bidding for 15 years (IEA, 1998a). So far, the amount of capacity that was
+accepted following the bidding rounds has exceeded expectations: a total of 124 MW was
+accepted (IEA, 2000d). Assuming a load factor of 0.2, the energy generated by the 124 MW
+wind turbine capacity could be 217 GWh per year. With a premium of FRF 0.087 per kWh,
+the implied subsidy amounts to FRF 18.9 mln or EUR 2.9 mln per year.
+In 1998, a biogas programme was started, designed to equip waste dumps with combustion
+facilities for the use of methane from waste fermentation. Like the EOLE programme, it is
+based on calls for tender. The first tendering round for 10 MW of electricity generating
+capacity was successfully concluded in May 1999 (IEA, 2000d). Given this relatively small
+capacity, the amount of subsidy involved probably does not (yet) exceed EUR 1 mln.
+The HELIOS 2006 programme, established in May 1999 and carried out by ADEME,
+provides investment subsidies for households equipping themselves with solar water heaters
+(IEA, 2000d). Total funding is FRF 30 mln or (assuming the programmes duration is 7
+years) less than EUR 1 mln per year.
+Promotion of wood energy for heating is being strengthened via a Wood Energy Plan. The
+total budget for the plan, which ran between 1995 and 1998, was FRF 215 mln, of which FRF
+74.5 mln came from the national government, and the remainder from regional, local or EU
+funds (IEA, 1998a). On 1 January 1999, FRF 120 mln of subsidies had been spent (of which
+FRF 47 mln were from ADEME). This programme was extended to comprise the Wood
+Wastes Plan, announced in February 1998. Under this plan, viability studies relating to the
+use of wood wastes as well as investment costs of installations using wood wastes are
+subsidised. At present, ADEME spends FRF 65 mln (EUR 10 mln) per annum on these
+programmes (IEA, 2000d).
+Firewood is subject to a reduced VAT rate of 5.5%, whereas other energy products are
+charged with 19.6% VAT (EC, 2000c). The use of wood for heating houses in France was
+estimated at 7.1 Mtoe in 1996 (IEA, 1998a). It is not known to what extent this wood was
+purchased in transactions involving VAT (a significant part of the firewood used in France
+remains outside formal markets). Tentatively, one could assume that 50% of the firewood
+was formally traded, at an average price of FRF 500 per toe (including 5.5% VAT), implying
+a subsidy of FRF 237 mln or EUR 36 mln per year.
+The Amortisation of Electrification Costs Fund (FACE) includes a source of finance for
+investments in renewables and demand-side management in rural areas. The annual budget
+for this part of FACE is FRF 100 mln (EUR 15 mln). The majority of funds are spent on
+photovoltaic systems in rural areas, and aim to reduce either grid extensions or grid
+strengthening, via reducing peak demand or increasing stand-alone generation capacity (IEA,
+1998a).
+EDF is obliged to purchase renewables-based electricity from independent power producers
+on the basis of avoided cost. In March 2001, the European Court of Justice has ruled that
+this type of support does not constitute state aid under the EU Treaty (ENDS, 2001).
+Biofuels benefit from excise tax exemption of up to FRF 2.3 per litre for RME and FRF 3.29
+per litre for ethanol (FRF 1.46 for ethanol-derived ETBE). The Government estimates that
+this subsidy will cost FRF 1.5 billion (EUR 230 mln) per year in lost tax receipts. This
+programme is followed for agricultural reasons, as it is not cost-effective in terms of CO2
+reduction alone (IEA, 1998a). In a recent judgement (case T-184/97), the European Court of
+Justice ruled that the French tax exemptions for biofuels are incompatible with EC legislation
+on mineral oil excise taxation (ECJ, 2000).
+Tax credits are available for investments in renewable energy technologies in overseas
+departments for small hydro, wind, biomass photovoltaic and solar thermal power schemes,
+whereby renewable energy investments by a company can be deducted against taxable profits
+(IEA, 1998a). Bonduelle et al. (1998) mention a general tax deduction for investments in
+renewable energy equipment amounting to 25% of the total investment. The amount of
+subsidy (tax foregone) is unknown.
+According to IEA (1998a), national government expenditure on renewables R&D accounted
+for 1% of total energy R&D budget in 1996 (EUR 5.8 mln). This was the lowest reported
+proportion of any OECD country's energy R&D budget that is spent on renewable energy.
+The majority is spent on biomass, photovoltaics and geothermal. On average, the government
+budget for renewables related R&D amounted to EUR 4.5 mln per year in the period 19951998 (IEA, 1999f). ADEME is the main organisation involved, its R&D budget amounting to
+some FRF 20 mln (EUR 3 mln) per year (Bonduelle et al., 1998). In 1999, ADEMEs
+spending on renewable R&D had increased to FRF 82 mln (EUR 12.5 mln) (IEA, 2000d).
+Electricity
+Reinforcement and extension of the electricity grid in rural areas is financed with
+contributions from the FACE (see above). In recent years, these amounted to FRF 2.2 bln
+(EUR 335 mln) per year (Bonduelle et al., 1998). As FACE is financed by a levy on
+electricity use, its expenses can only be regarded as cross-subsidies.
+EDF runs a programme Vivrlec, aiming at promoting the use of electricity for domestic
+space heating. It is estimated that in 1997 an amount of FRF 234 to 546 mln (EUR 36 to 83
+mln) was spent under this programme. However, as this money comes from EDFs own
+funds, it should not be regarded as a subsidy in our definition.
+Similarly, the money transfers resulting from the principle of prquation tarifaire should
+not be regarded as subsidies. This principle implies that all consumers in France (including
+the overseas territories), regardless where they live, should face the same tariff structure and
+rates. It is obvious, however, that large amounts of cross subsidy are involved. IEA (2000d)
+estimates that it constitutes a transfer of wealth from metropolitan France to other areas
+(including the overseas departments) in the order of FRF 2 billion (EUR 300 million) per
+year.
+Apart from nuclear R&D, no specific government subsidies for electricity related R&D is
+reported.
+Table 2.6.1. France: Summary Table
+Final energy consumption (1998): 150.3 Mtoe
+Gross electricity generation (1998): 510.8 TWh
+coal
+oil & gas
+nuclear
+share in gross electricity generation (1998) 7%
+quantifiable subsidies (mln EUR per year) 500
+> 30
+> 600
+quantifiable subsidies, incl. attributed
+electricity subsidies (mln EUR per year)
+> 30
+> 600
+Source: Energy statistics: Eurostat (2000a); other figures: this section.
+renewables
+> 300
+> 300
+electricity
+2.7 GERMANY
+Solid fuels
+According to the European Commission (2000a), state aid to coal production in Germany
+amounted to an average EUR 4.8 billion per year in the period 1995-1998. This amount
+includes aid to current production only. Since 1996, these subsidies are financed directly
+from the federal budget. Before that time, they were financed by the Kohlepfennig, a
+surcharge on the electricity bills. The German Ministry of Finance foresees a decrease of
+German coal subsidies from DEM 9.25 billion (EUR 4.8 billion) in 1998 to DEM 5.3 billion
+(EUR 2.7 billion) in 2005 (Bundesfinanzministerium, 2000a).
+In the new Bundeslnder, subsidies have been provided in the past by some Lnder
+governments for lignite fired power plants. Until 2005, access to the grid in this part of
+Germany can be denied if it endangers lignite based power generation (IEA, 1998d).
+In contrast with other fossil fuels and electricity, coal remains untaxed under the ecological
+tax reform which was introduced in 1999. If we take natural gas as a reference, which is
+taxed (in 2000) at 6.8 DEM per MWh, then, given a coal consumption of 86.7 Mtoe (= 1028
+TWh) in 1997 (EC, 1999a), tax revenues would have been almost DEM 7 billion (EUR 3.6
+billion).
+In 1995-1998, the German government spent on average EUR 5.1 mln per year on coal
+related R&D (IEA, 1999f). These spendings have been decreasing substantially over the past
+15 years (in 1987, they amounted to more than EUR 150 mln).
+Oil and gas
+Gas and oil used in combined heat and power (CHP) installations with an operating time of
+70% or more, and power plants achieving an electrical efficiency of at least 57.5% are
+exempted from the mineral oil tax. Furthermore, the increases in the mineral oil tax that are
+introduced under the ecological tax reform are reduced by 80 to 100% for industry and
+agriculture. The loss of tax income for the federal government in the year 2000 was estimated
+at DEM 1 billion (EUR 511 million) (Subventionsbericht, 1999).
+Individual enterprises can get a tax refund if the additional tax burden brought about by the
+ecological tax reform (i.e. the introduction of the electricity tax and the increase in the tax
+rates for oil products and gas) exceeds the reduction in social security and pension
+contributions (which was included in the tax reform as a compensatory measure) by a factor
+of 1.2 or more. The amount of implicit subsidy involved is unknown, but it is probably
+already included in the above mentioned amount.
+Natural gas or liquid petrol gas used as a propellant in public transport vehicles is taxed at a
+reduced rate. The subsidy involved amounted to DEM 4 million in 1998 and was expected to
+increase to DEM 30 million (EUR 15 mln) in 1999 (Subventionsbericht, 1999).
+As in other countries, the own use of oil products by manufacturers of these products is
+exempted from the mineral oil tax. The implicit subsidy is estimated at DEM 310 mln (EUR
+159 mln) in 1999 (Subventionsbericht, 1999).
+Since 1974, the federal government has built a crude oil reserve in salt caverns near
+Wilhelmshaven. This reserve (amounting to 7.3 Megatonnes) is financed and controlled by
+the federal government (IEA, 1998d). The amount of public money involved is unknown.
+Tentatively, it could be estimated by assuming that the value of the reserve is at least EUR 1
+billion and that the annual costs in terms of storage and interest amount to 10% of this value,
+i.e. EUR 100 mln. In 1997, it was decided to sell the total amount of the reserve (IEA,
+1998d).
+In 1995-1998, the German government spent less than EUR 1 mln per year on oil and gas
+related R&D (IEA, 1999f).
+Germany is a member of the 1992 International Oil Pollution Compensation Fund. This
+implies a maximum compensation for oil spills of EUR 175 mln.
+Nuclear energy
+Reserves set aside by the Association of German Utilities (VDEW) for future reactor closures
+and nuclear waste disposal costs amounted to DEM 54 billion at the end of 1996. These
+reserves are tax exempt (IEA, 1998d). The amount of implicit subsidy is unknown. The
+federal government is considering setting up a tax on a portion of the reserves to finance
+future end-storage facility operating costs (IEA, 1998d).
+The federal governments budget for R&D in the area of nuclear energy (fission and fusion)
+in the period 1996-2000 amounted to an average of DEM 390 mln (EUR 200 mln) per year
+(IEA, 1998d).
+Renewables
+Since 1991, electricity from renewables can be fed into the grid at a guaranteed price under
+the Stromeinspeisungsgesetz. These prices are set at a percentage of final user prices,
+depending on the type of renewable: wind and solar electricity are paid 90% of the average
+consumer end price, small hydro facilities and biomass/waste are paid 80%, and large hydro
+schemes are paid 65% (IEA, 1998a). The cost of this scheme was estimated at DEM 780 mln
+(EUR 400 mln) in 1996 (EC, 2000b). The system is currently under revision. Future support
+will depend on the type of renewable and location. The total costs of the new system are
+estimated to be in the range of DEM 1.5 billion (EUR 770 million) in the first year,
+increasing to DEM 4 billion (EUR 2.05 billion) in 2005 (ENDS, 1999c). In March 2001, the
+European Court of Justice has ruled that this type of support does not constitute state aid
+under the EU Treaty (ENDS, 2001).
+Electricity from renewables that is fed into the public grid is not exempted from the new tax
+on electricity that was introduced in 1999. However, as a compensatory measure the
+government has increased the direct subsidies for renewables (ENDS, 1999a,b;
+Bundesfinanzministerium, 2000b). In 1999, they amounted to DEM 230.8 mln (EUR 118
+mln) per year (Subventionsbericht, 1999).
+The Deutsche Ausgleichsbank, a public bank, grants low-interest loans to specified
+renewable energy projects. About DEM 4 billion of loans was granted between 1990 and
+1997 (IEA, 1998a). A quantification of the subsidy involved in the interest rebate is lacking.
+The German Government promotes use of liquid biofuels for use in motor vehicles through
+tax exemptions amounting to DEM 1.5 per litre for rapeseed methyl ester (RME) (IEA,
+1998a). The total amount of subsidy involved is unknown.
+Expenditure on renewable energy R&D amounted to EUR 103 mln in 1996, almost 30% of
+the government's total energy R&D budget. The majority of funds are devoted to solar
+applications, particularly PV, although significant expenditure is also allocated to wind
+energy. Biomass and geothermal energy receive a much lower level of funding (IEA, 1998a).
+The average government budget for renewables related R&D in the period 1995-1998
+amounted to EUR 85.8 mln per year (IEA, 1999f).
+Subsidies for renewable energy also exist at the Lnder level. Some examples which have
+recently been approved by the European Commission include 8 :
+- Niedersachsen: investment support for renewables of some EUR 7.5 mln per year;
+- Niedersachsen: aid for innovative pilot projects for the use of solar energy (EUR 1 mln
+per year);
+- Thringen: subsidies for renewable energy and energy conservation amounting to EUR 7
+mln per year;
+- Rheinland-Pfalz: a program for investment support covering various types of renewables,
+with a budget of EUR 1.7 mln per year.
+Electricity
+The electricity tax (normal rate in 1999: DEM 20 per MWh) is levied at reduced rates of:
+- 50% for nighttime heat storage systems (installed before 1 April 1999) and railway
+operations;
+- 20% for industry and agriculture, to the extent that the payable tax exceeds DEM 1000
+per year.
+The latter tax reduction is estimated to lead to a loss of tax income for the German federal
+government of DEM 3.5 billion (EUR 1.8 billion) in the year 2000 (Subventionsbericht,
+1999).
+Furthermore (as stated above under oil and gas), individual enterprises can get a tax refund
+if the additional tax burden brought about by the ecological tax reform (i.e. the introduction
+of the electricity tax and the increase in the tax rates for oil products and gas) exceeds the
+reduction in social security and pension contributions (which was included in the tax reform
+as a compensatory measure) by a factor of 1.2 or more. The amount of implicit subsidy
+involved is unknown.
+In 1995-1998, the German government spent on average EUR 16.3 mln per year on
+electricity related R&D (IEA, 1999f).
+State aid cases N531/99, N533/99, N709/99 and N759/99, respectively.
+Table 2.7.1. Germany: Summary Table
+Final energy consumption (1998): 223.6 Mtoe
+Gross electricity generation (1998): 556.7 TWh
+coal
+oil & gas
+nuclear
+share in gross electricity generation (1998) 53%
+quantifiable subsidies (mln EUR per year) 8,500
+quantifiable subsidies, incl. attributed
+electricity subsidies (mln EUR per year)
+9,500
+1,000
+> 700
+Source: Energy statistics: Eurostat (2000a); other figures: this section.
+renewables
+> 200
+> 300
+electricity
+1,800
+2.8 GREECE
+Solid fuels
+Lignite is an important domestic fuel in Greece. It is mainly produced by the state power
+company PPC and therefore it is impossible to identify any implicit subsidies.
+In 1995-1997, the Greek government spent on average EUR 1.2 mln per year on coal related
+R&D (IEA, 1999f).
+Oil and gas
+In order to encourage the development of small oil and gas fields and to improve the
+economics of fields located in deep waters, Greece introduced a new hydrocarbons
+exploration law in 1995. The law contains, among others, a number of tax incentives (IEA,
+1998c):
+- 40% income tax;
+- no other taxes;
+- exemption from customs duties;
+- 50% of exploration expenses from a different concession area are creditible against
+production.
+The amounts of implicit subsidy involved are unknown.
+Greece is currently expanding its natural gas grid. The total cost involved is estimated at EUR
+2 billion, largely to be financed by the European Investment Bank (Government of Greece,
+1997).
+The Greek CO2 abatement Action Plan, which covers the period 1995 through 1999, reports
+an amount of EUR 184 mln (EUR 37 mln per year) of public expenditure for the conversion
+to natural gas in electricity generation. However, this money is invested by the Public Power
+Corporation (PPC) and should probably not be regarded as a subsidy.
+Since 1995, 75% of the cost of household appliances using natural gas can be deducted from
+a person's taxable income. The amount of subsidy (tax foregone) involved is unknown. To
+assess the order of magnitude it could be assumed that 100,000 households per year spend an
+average EUR 200 on such appliances. At a marginal tax rate of 45% this would imply a
+subsidy of EUR 6.75 million per year.
+Natural gas is subject to the standard VAT rate (currently 18%), but is exempted from other
+taxes up to 31 December 2010 (IEA, 1998e). As Greece does not (yet) apply a general energy
+tax, this can not be considered as a subsidy.
+During the heating season, the excise tax on fuel oil for space heating is reduced from GRD
+83 to GRD 42 per litre (EC, 1999b). The use of gas oil in the services and households sector
+amounted to 3.1 mln tonnes in 1998 (Eurostat, 2000a). Assuming that the main part of this
+(say, 2 mln tonnes) related to fuel oil for space heating, purchased during the heating season,
+the implicit subsidy can be estimated at some GRD 80 bln (EUR 242 mln).
+In 1995-1997, the Greek government spent on average EUR 1.4 mln per year on oil and gas
+related R&D (IEA, 1999f).
+Greece is a member of the 1992 International Oil Pollution Compensation Fund. This implies
+a maximum compensation for oil spills of EUR 175 mln.
+Nuclear energy
+Greece does not have any nuclear power plants.
+Public funding for R&D in the area of nuclear energy amounts to less than EUR 1 mln per
+year (cf. IEA, 1998e, 1999f).
+Renewables
+The Public Power Corporation (PPC) is required by law to purchase electricity from small
+renewable electricity plants at 70 to 90 percent of the retail electricity price. As of March
+1998, 37 projects totalling some 100 MWe had received construction or operating licenses
+under this law (IEA, 1998e). In March 2001, the European Court of Justice has ruled that this
+type of support does not constitute state aid under the EU Treaty (ENDS, 2001).
+Subsidies of up to 40 per cent, reduced interest rates, accelerated depreciation and tax credits
+are available for the promotion of investments in renewable energy production. It was
+estimated that a total amount of GRD 44 billion in public funds would be involved in the
+period 1995-1999, i.e. about EUR 27 mln per year (Government of Greece, 1997; IEA,
+1998a,e).
+75% of the cost of renewable appliances for households, such as solar water heating systems,
+can be deducted from a person's taxable income (IEA, 1998a). The amount of subsidy (tax
+foregone) involved is unknown.
+The Operational Energy Programme of the Ministry of Industry, Energy and Technology,
+which ran from 1994 through 1999, allocated EUR 20 mln of public funds (almost EUR 4
+mln per year) for the development of renewable energy sources (in addition to EU and
+private funds) (Government of Greece, 1997; IEA, 1998a).
+In 1995-1997, the Greek government spent on average EUR 4.3 mln per year on renewables
+related R&D (IEA, 1999f).
+In the Greek CO2 abatement Action Plan, which covers the period 1995 through 1999, the
+various elements in the available public budget for renewable energy add up to EUR 203.5
+mln, or EUR 41 mln per year, including public R&D funding and spending by local
+governments (Government of Greece, 1997).
+Electricity
+Electricity pricing is affected by national policies, for social and development reasons. In
+recent years, the government has tended to restrain price rises as an instrument to control
+inflation. Furthermore, there are uniform tariffs throughout Greece, implying substantial
+cross-subsidies from users of the interconnected systems to users of isolated systems (IEA,
+1998e).
+In 1995-1997, the Greek government spent less than EUR 1 mln per year on electricity
+related R&D (IEA, 1999f).
+Table 2.8.1. Greece: Summary Table
+Final energy consumption (1998): 18.2 Mtoe
+Gross electricity generation (1998): 46.3 TWh
+coal
+oil & gas
+nuclear
+share in gross electricity generation (1998) 70%
+quantifiable subsidies (mln EUR per year) > 1
+> 250
+quantifiable subsidies, incl. attributed
+electricity subsidies (mln EUR per year)
+> 250
+Source: Energy statistics: Eurostat (2000a); other figures: this section.
+renewables
+> 35
+> 35
+electricity
+2.9 IRELAND
+Solid fuels
+Peat production is supported through the use of peat (which is some 50% more expensive
+than imported coal) in five power plants. IEA (1999c) estimates the Producer Subsidy
+Equivalent (PSE) for peat production at IEP 15.3 mln (EUR 19.4 mln) per year in 1997/98.
+Furthermore, the EU (q.v.) has provided a subsidy of IEP 20 mln for a new peat fired power
+plant and the Irish government has given a capital injection of IEP 108 mln to the Irish Peat
+Board to restructure its debt.
+Households pay a reduced VAT rate on coal (12.5% instead of the standard rate of 21%).
+Given a coal consumption of 847,000 tonnes by services and households in 1998 (Eurostat,
+2000a), an average price (excluding VAT) for households of IEP 170.91 per tonne in 1994
+(the latest available year  IEA, 1999d), and assuming that half of the given consumption was
+by households, the implicit subsidy can be estimated at IEP 6.2 mln or EUR 7.9 mln.
+Oil and gas
+Since 1992, Ireland has had a comprehensive regime of fiscal and non-fiscal measures
+applicable to hydrocarbon exploration, development and production. The Irish upstream
+fiscal regime is considered to be one of the most attractive in the world. Corporation tax at
+25% applies where production of oil and gas takes place under leases issued before certain
+specified dates (2003, 2007 or 2013, depending on location) (IEA, 1999c). The standard
+corporation tax rate is 32% (for company income exceeding IEP 50,000).
+Furthermore, taxation allowances of 100% are available for exploration, development and
+operating expenses with a provision for allowance of unsuccessful exploration expenditure
+for 25 years. There is also a provision for an allowance with respect to expenditure on the
+abandonment of fields and dismantling of pipelines. There is no provision for royalty
+payments or State participation in the current licensing terms. In the case of two gas fields,
+production is carried out under an earlier agreement and a royalty of 12.5% applies. (IEA,
+1999c).
+Oil importers are obliged to purchase 20% of their supplies from an Irish refinery at prices
+determined by the Minister. The cost to consumers of this arrangement is estimated at IEP 5
+mln (EUR 6 mln) per year (IEA, 1999c).
+Households pay a reduced VAT rate on fuel oil and gas (12.5% instead of the standard rate of
+21%). Given an oil products consumption of 1.7 mln tonnes by the services and households
+sector in 1998 (Eurostat, 2000a), an average price (excluding VAT) for households of IEP
+207 per tonne in 1998 (IEA, 1999d), and assuming that half of the given consumption was by
+households, the implicit subsidy for oil can be estimated at IEP 15.0 mln or EUR 19.0 mln.
+Similarly, given a natural gas consumption of 15.7 PJ by households in 1998 (Eurostat,
+2000a) and an average price (excluding VAT) for households of IEP 6.97 per GJ in 1998
+(IEA, 1999d), the implicit subsidy for gas can be estimated at IEP 9.3 mln or EUR 11.8 mln.
+Ireland is a member of the 1992 International Oil Pollution Compensation Fund. This implies
+a maximum compensation for oil spills of EUR 175 mln.
+Nuclear energy
+Ireland does not have any nuclear power plants and no subsidies for nuclear R&D are
+reported.
+Renewables
+Government support has concentrated on renewable electricity generation, via the
+Alternative Energy Requirement (AER): a competitive tendering process whereby
+electricity from selected renewable energy projects is guaranteed a market. Until 1998,
+approximately 300 MW of renewable electricity-generating capacity (wind, hydro, waste-toenergy and landfill) had bid successfully for projects under AER. In the first round of AER,
+an amount of IEP 70 mln was budgeted for 15 years of price support for successful projects
+(IEA, 1998a); this is equivalent to EUR 5.9 mln per year. Assuming that subsequent rounds
+have yielded comparable results, it is likely that AER support now exceeds EUR 10 mln per
+year.
+In 1998, a new tax relief was introduced for private investment in approved wind energy and
+biomass projects. This relief was to apply to up to 50% of a project's cost (capped at IEP 7.5
+mln per project and IEP 10 mln per year per company) (IEA, 1999c).
+Public R&D funds for renewables amounted to IEP 87,000 (EUR 0.1 mln) in 1992 (IEA,
+1998a). More recent figures on these (and other) energy R&D subsidies are lacking.
+Electricity: EUR 45 mln
+Households pay a reduced VAT rate on electricity (12.5% instead of the standard rate of
+21%). Given an electricity consumption of 5.5 TWh by households in 1998 (Eurostat, 2000a),
+an average price (excluding VAT) for households of IEP 77 per MWh in 1998 (IEA, 1999d),
+the implicit subsidy for electricity can be estimated at IEP 36.0 mln or EUR 45.7 mln.
+Table 2.9.1. Ireland: Summary Table
+Final energy consumption (1998): 9.2 Mtoe
+Gross electricity generation (1998): 21.2 TWh
+coal
+oil & gas
+nuclear
+share in gross electricity generation (1998) 40%
+quantifiable subsidies (mln EUR per year) 25
+> 30
+quantifiable subsidies, incl. attributed
+electricity subsidies (mln EUR per year)
+> 50
+Source: Energy statistics: Eurostat (2000a); other figures: this section.
+renewables
+> 10
+> 10
+electricity
+2.10 ITALY
+Solid fuels
+Coal is subject to a reduced VAT rate of 10%, whereas the standard rate is 20%. Coal use by
+households in Italy is, however, negligible, so the effective implicit subsidy is close to zero.
+Until 1999, when a CO2 tax was introduced, coal was the only fossil fuel that was exempt
+from energy taxes.
+There are plans to re-open a coal mine on Sardinia, which will supply coal to a gasification
+plant, which in turn will feed an electricity power plant. Electricity company ENEL will
+purchase the electricity generated at a preferential price. Total investment is expected to
+amount to ITL 2,000 billion (EUR 1 billion), part of which will be funded by the European
+Union (IEA, 1999a). The (national) subsidy for coal implied in this arrangement is unknown.
+Oil and gas
+Natural gas is subject to a reduced VAT rate of 10%, whereas the standard rate is 20%. In
+1998, households used 952.4 PJ of natural gas (Eurostat, 2000a). Given a natural gas price for
+households (excluding VAT) of ITL 17,863 per GJ, the implicit subsidy can be estimated at
+ITL 1.7 trillion or EUR 879 million.
+Excise tax rates for natural gas differ by category of user, by type of use and by region. It is
+impossible to calculate the implicit subsidy, but it is obvious that a substantial amount is
+involved if one takes the highest rate (in 1998: ITL 332 per m3 for gas used outside industry,
+in the centre or north of the country, for other purposes than cooking or water heating  IEA,
+1999a) as the baseline.
+The normal royalty rate on onshore hydrocarbons production and offshore gas is 7%,
+although there are exemptions for small quantities. Royalties on offshore net oil production
+are 4% (IEA, 1999a).
+Italy is a member of the 1992 International Oil Pollution Compensation Fund. This implies a
+maximum compensation for oil spills of EUR 175 mln.
+Nuclear energy
+Italy has abandoned the use of nuclear power for energy production since 1987. Four nuclear
+power plants were closed and the construction of two others was stopped. Substantial
+amounts of public money are involved in compensatory payments for the early closure, for
+decommissioning and for nuclear waste storage. As it is unknown to what extent public
+money for decommissioning and waste storage would also have been needed if nuclear power
+production would have continued, it is impossible to say whether any subsidies are involved
+in terms of this report.
+In 1995-1998, the Italian government spent on average EUR 114.0 mln per year on nuclear
+(fission and fusion) related R&D (IEA, 1999f).
+Renewables
+Since 1991, renewable energy has been stimulated by allowing certain authorised plants to
+sell electricity to ENEL at a regulated price. These prices differ by type of renewable and in
+some cases also by time of delivery (peak hours or off-peak hours). In 1997, the price paid in
+Italy for renewable energy was estimated by the European Commission at EUR 0.083 per
+kWh, the second highest (after Germany) among the countries considered (IEA, 1998a,
+1999a). In March 2001, the European Court of Justice has ruled that this type of support does
+not constitute state aid under the EU Treaty (ENDS, 2001).
+Another 1991 law provided for investment subsidies for renewables based capacity, but this
+law has never come into effect (IEA, 1998a).
+Limited support for liquid biofuels has been available since 1993. A fixed annual quota of
+125 ktons of diester is exempt from excise tax (IEA, 1998a). In 1998, the regulation has been
+renewed (Barra et al., 1999). Assuming that the quotum is completely used to substitute for
+gas oil (used as propellant), and that 1 kg of diester is equivalent to 1 litre of gas oil, then
+(given an excise tax rate of ITL 780.731 per litre for gas oil in 1999) the amount of implicit
+subsidy can be estimated at ITL 97.6 billion or EUR 50.4 million. In addition to this,
+subsidies of ITL 15 billion (EUR 7.7 million) were allocated by the government for the
+production of diester from set-aside land (IEA, 1998a).
+Solar (PV and heating) systems are encouraged by reducing their VAT rate from 20% to 10%
+(IEA, 1998a; Barra et al., 1999). The amount of subsidy involved is unknown.
+Of the revenues from the CO2 tax, which was introduced in 1999, EUR 52 million is
+earmarked for renewable energy subsidies. Recently, it was decided to spend another EUR
+150 million of these revenues on various projects, including not only renewables but also
+emission reduction, transport projects and energy saving (ENDS 2000a).
+District heating based upon biomass qualifies for a tax rebate of ITL 20 per kWh in specified
+climatic zones (Barra et al., 1999). The amount of subsidy implied is unknown.
+In 1995-1998, the Italian government spent on average EUR 39.3 mln per year on renewables
+related R&D (IEA, 1999f).
+Electricity
+Capital subsidies to the electricity sector (taking the form of equity participation, loans at
+preferential rates, loan guarantees and debt forgiveness) were estimated at EUR 700 mln in
+1994, with a downward trend (Tosato, 1997).
+Electricity is subject to a reduced VAT rate of 10%, whereas the standard rate is 20%.
+Electricity use by Italian households amounted to 59.3 TWh in 1998 (Eurostat, 2000a). Given
+an average price of ITL 246.7 per kWh (excluding VAT) (IEA, 1999d), the implicit subsidy
+is about ITL 1,463 billion or EUR 756 mln.
+Household consumption of electricity is subject to an excise tax of ITL 9.1 per kWh, but the
+first 150 kWh per month remains untaxed. Assuming there are some 20 mln households in
+Italy, and that they use on average 100 kWh of untaxed electricity per month, the annual
+implicit subsidy can be estimated at ITL 218 billion or EUR 113 mln.
+For industry, the electricity tax rate is ITL 4.1 per kWh for the first 200 MWh per month, and
+ITL 2.45 per kWh for additional consumption. The amount of implicit subsidy cannot be
+calculated due to lack of adequate data.
+In 1995-1998, the Italian government spent on average EUR 16.2 mln per year on electricity
+related R&D (IEA, 1999f).
+Table 2.10.1. Italy: Summary Table
+Final energy consumption (1998): 123.5 Mtoe
+Gross electricity generation (1998): 259.1 TWh
+coal
+oil & gas
+nuclear
+share in gross electricity generation (1998) 9%
+quantifiable subsidies (mln EUR per year) > 0
+quantifiable subsidies, incl. attributed
+electricity subsidies (mln EUR per year)
+> 75
+> 1,500
+Source: Energy statistics: Eurostat (2000a); other figures: this section.
+renewables
+> 150
+> 300
+electricity
+> 850
+3.11 LUXEMBOURG
+Solid fuels
+Coal is subject to a VAT rate of 12%, whereas the standard VAT rate is 15%. However, coal
+use by households in Luxembourg is negligible, and therefore the effective implicit subsidy is
+close to zero.
+Oil and gas
+Gas and oil products for domestic use are subject to VAT rates of 6% and 12% respectively,
+whereas the standard VAT rate is 15%. Natural gas use by households amounted to 10 PJ in
+1998 (Eurostat, 2000a). Given a gas price for households of LUF 265 per GJ (excluding
+VAT) in 1997 (the latest available year  IEA, 1999d), the implicit subsidy for gas is LUF
+238.5 mln or EUR 5.9 mln. The use of oil products by the services & households sector was
+356 TJ in 1998, which implies that the implicit subsidy for oil products is negligible (less
+than EUR 1 mln).
+Land-locked Luxembourg is not a member of an International Oil Pollution Compensation
+Fund.
+Nuclear energy
+Luxembourg has no nuclear power plants and no subsidies for nuclear R&D are reported.
+Renewables
+On 1 January 2001, government support for renewable energy was to be expanded
+considerably. The available subsidies include (Umweltministerium, 2000):
+- 50% of investment costs in PV systems in residential and other buildings;
+- a premium of up to LUF 25 (EUR 0.62) per kWh for electricity from PV;
+- 40% of investment costs in passive solar systems (for water and space heating);
+- up to LUF 3,025 (EUR 75) per kW for investments in wind turbines;
+- a premium of LUF 4.1 (EUR 0.10) per kWh for electricity from (small scale) wind;
+- 25 to 50% of investment costs in biomass and biogas installations;
+- a premium of LUF 1 (EUR 0.02) per kWh for electricity from (small scale) hydropower,
+biomass and biogas.
+The amounts involved in the investment subsidies will of course depend upon the actual
+volume of investment. The amounts involved in the premiums for renewables based
+electricity can be estimated as follows. If we assume that of the hydro based electricity (1049
+GWh in 1998  Eurostat, 2000a) 20% qualifies for the premiums, and 100% of other
+renewable electricity (11 GWh wind and 45 GWh biomass - ibidem), the total subsidy is
+about LUF 300 mln or EUR 7.4 mln.
+Electricity
+Electricity is subject to a reduced VAT rate of 6%, whereas the standard VAT rate is 15%.
+Electricity consumption by households amounted to 752 GWh in 1998 (Eurostat, 2000a).
+Given an electricity price for households of LUF 4,179 per MWh (excluding VAT), the
+implicit subsidy can be estimated at LUF 283 mln or EUR 7.0 mln.
+Since 1 January 2001, connections to the public electricity grid are eligible to a subsidy of
+50% of the investment costs, up to a maximum of EUR 100,000 (Umweltministerium, 2000).
+The amount of subsidy involved is unknown.
+Table 2.11.1. Luxembourg: Summary Table
+Final energy consumption (1998): 3.2 Mtoe
+Gross electricity generation (1998): 1.3 TWh
+coal
+oil & gas
+nuclear
+share in gross electricity generation (1998) 0%
+quantifiable subsidies (mln EUR per year) 0
+quantifiable subsidies, incl. attributed
+electricity subsidies (mln EUR per year)
+Source: Energy statistics: Eurostat (2000a); other figures: this section.
+renewables
+> 10
+electricity
+2.12 THE NETHERLANDS
+Solid fuels
+Coal is taxed under the Dutch fuel tax, but not under the regulatory energy tax (a tax on the
+final use of energy, introduced in 1996 and intended as an incentive for energy conservation).
+The final use of coal and coal products amounted to 95 PJ in 1997 (CBS, 2000a). Taking the
+tax rate for natural gas (in 2000: NLG 0.16 per m3 or NLG 5.1 per GJ) as a reference, the
+implicit annual subsidy can be estimated at NLG 485 mln or EUR 220 mln.
+In 1995-1997, the Dutch government spent on average EUR 3.3 mln per year on coal related
+R&D (IEA, 1999f).
+Oil and gas
+Since 1997, excise taxes on diesel oil can be partly refunded for heavy trucks (with a
+maximum allowable weight of 12 tonnes or more). In 1999, the refund amounted to NLG
+51.10 (EUR 23.19) per 1000 litres. The total amount refunded is about NLG 120 million
+(EUR 54 million) per year.
+The environmental tax on energy has degressive rates, i.e. reduced rates for large energy
+users. Furthermore, the tax rules allow for a tax-free basic consumption of 800 m3 of natural
+gas per household per year. The horticulture sector gets special tariff reductions. A number of
+other, less substantive exemptions and reductions apply as well. The implicit subsidy can be
+roughly estimated as follows. The revenues from the energy tax in 1999 were about NLG 2.9
+billion (Ministerie van Financin, 2000b). The final use of energy products that come under
+the energy tax, the standard tax rates (i.e., the rate for small users, above the tax free base)
+and the theoretical revenues (i.e. the revenues if the standard rate would apply to all final
+use) are given in Table 2.12.1.
+Table 2.12.1. Theoretical energy tax revenue in The Netherlands without reductions
+and exemptions
+final use (PJ)
+(1998)
+tax per GJ (NLG)
+(1999)
+theoretical
+revenue (bln
+NLG)
+oil (products) (excluding 354
+3.00
+transport)
+natural gas
+electricity
+13.8
+total
+1620
+10.3
+Source: CBS (2000a); Ministerie van Financin (2000b). Tax rates for oil and gas are
+approximations, based on the rates per litre and m3 .
+The difference between the theoretical and the actual revenue is thus NLG 7.4 bln.
+Assuming, somewhat arbitrarily, that this implicit subsidy is distributed among the energy
+products in proportion to their share in final use, the share of oil (products) and natural gas is
+NLG 8.2 billion (EUR 3.7 billion) and that of electricity NLG 2.1 billion (see below).
+The implicit subsidy in the tax on fuels can be estimated in a similar way. The most important
+element here is the reduced rate for the amount of natural gas used that exceeds 10 mln m3 .
+Furthermore, for residual fuels (such as blast furnace gas and refinery gas) that are used in
+the same plant where they originate, a zero tax rate will apply until 2003. Table 2.12.2 shows
+the calculation of the theoretical tax revenue if all fuels were taxed at their standard rate.
+The actual revenue in 1999 amounted to NLG 1,345 mln (Ministerie van Financin, 2000b).
+The difference with the actual revenue is about NLG 660 mln or EUR 300 mln. As there are
+no exemptions or reductions for coal, this implicit subsidy can be completely attributed to oil
+and gas.
+Table 2.12.2. Theoretical revenue from the tax on fuels without reductions and
+exemptions, 1999
+use (PJ)
+tax per GJ (NLG)
+theoretical
+revenue (mln
+NLG)
+coal
+0.81
+oil (products)
+1055
+0.67
+natural gas
+1452
+0.70
+1016
+total
+2858
+2007
+Source: CBS (2000b); Ministerie van Financin (2000b). Tax rates are approximations,
+based on the rates per litre, kg and m3 . Tax rates for different oil products have been
+averaged.
+Investments in oil and gas production on the Dutch part of the Continental Shelf can be freely
+depreciated. The tax expenditures involved in this arrangement are estimated at NLG 45 mln
+(EUR 20 mln) in 2000 (Ministerie van Financin, 2000a).
+As in other countries, the own use of mineral oil products by refineries is exempted from
+excise tax. Since 1 January 2000, this exemption also applies to the fuel tax and the energy
+tax. The amount of implicit subsidy involved is unknown.
+The strategic oil reserves are financed by a specific levy on oil products and should therefore
+not be regarded as being subsidised.
+In 1995-1997, the Dutch government spent on average EUR 54.3 mln per year on oil and gas
+related R&D (IEA, 1999f).
+The Netherlands are a member of the 1992 International Oil Pollution Compensation Fund.
+This implies a maximum compensation for oil spills of EUR 175 mln.
+Nuclear energy
+Presently, there is only one nuclear power plant operating in The Netherlands, which is due to
+be closed in 2004.
+All costs of the Central Organisation for Radioactive Waste (COVRA) have to be covered by
+fees paid for the waste it receives. Funds for the decommissioning of the nuclear power plants
+are collected by the operators via an internal scheme (EC, 1999d).
+The maximum amount for which the operator of a nuclear plant is obliged to have a financial
+security to cover his legal liability for a nuclear accident is NLG 750 mln (EUR 340 mln).
+In 1995-1997, the Dutch government spent on average EUR 26.3 mln per year on nuclear
+related R&D (IEA, 1999f).
+Renewables
+The budget for renewable energy of the Ministry of Economic Affairs contained in 1999 and
+2000 an average amount of NLG 168.5 mln (EUR 76.5 mln) per year (Ministerie van
+Economische Zaken, 1999). This includes investment subsidies as well as R&D programmes.
+Within the framework of the CO2 reduction plan, which started in 1996, subsidies
+amounting to more than NLG 900 mln are available for projects contributing to CO2 emission
+reduction. In the first four years, about NLG 100 mln (EUR 11 mln per year) has been made
+available for projects involving renewable energy (Projectbureau CO2 -reductieplan, 2000).
+Electricity from renewables is exempted from the energy tax. In 1998, when the European
+Commission granted approval for this exemption, the amount of subsidy involved was
+estimated at NLG 30 mln (EUR 14 mln) (ENDS, 1998c). Meanwhile, the tax rates as well as
+the production and use of green electricity have increased considerably. Therefore, the
+annual subsidy might currently be several times higher.
+For specific investments in energy conservation and renewable energy, companies can deduct
+40 to 52% of the investment costs from their fiscal profit. The amount of tax expenditure
+involved is NLG 360 mln in 2000 (Ministerie van Financin, 2000b). It is unknown which
+part of this amount is related to renewables. In 1999, the largest investments under this
+scheme were in various energy conservation measures and in wind turbines (Senter, 2000).
+Assuming that 50% of the tax expenditure benefits renewables, the implicit subsidy is EUR
+82 mln. For non-commercial institutions a comparable scheme applies, with subsidies
+amounting to NLG 35 mln. per year. Assuming once again that 50% of this relates to
+renewable energy, this means a subsidy of EUR 8 mln per year.
+Another fiscal facility is the VAMIL scheme, allowing enterprises to determine themselves
+when they want to depreciate investments in certain environmentally benign investments,
+which are on a list that is updated annually. In 2000, tax expenditures under VAMIL are
+estimated to amount to NLG 250 mln (Ministerie van Financin, 2000b). In 1999, 47% of
+investments under the VAMIL scheme were related to energy (Ministerie van VROM, 2000).
+Assuming that half of this (23.5%) relates to renewables, the implied subsidy is EUR 27 mln.
+Interest and dividend on green investments are tax-exempt. The total tax expenditures
+under this scheme amounted to NLG 50 mln in 2000 (Ministerie van Financin, 2000b). The
+part accruing to renewable energy can be estimated as follows. In the period 1995-1999, 273
+projects have been declared eligible for the Green investment scheme. The total amount of
+investment involved was NLG 735 mln. Assuming an average interest/dividend on such
+investments of 4%, and a marginal income tax rate of 50%, the tax expenditure involved
+amounts to some NLG 15 mln or EUR 7 mln per year.
+Bio-ethanol for pilot projects is exempted from the excise tax on mineral oils. An annual
+amount of NLG 13.5 mln (EUR 6 mln) is available for this tax expenditure scheme.
+Electricity
+The energy tax has reduced rates for large electricity users. Furthermore, the energy tax
+allows for a tax-free basic consumption of 800 kWh of electricity per dwelling per year.
+Some other, less substantial reductions and exemptions apply as well (including the
+exemption for electricity from renewables, see above). The amount of implicit subsidy was
+roughly calculated above (under oil and gas at NLG 2.1 billion (EUR 1.0 billion). The share
+of the exemption for renewables (calculated at some EUR 50 mln above) disappears in the
+margin of error of this amount.
+In 1995-1997, the Dutch government spent on average EUR 17.1 mln per year on electricity
+related R&D (IEA, 1999f).
+Table 2.12.3. The Netherlands: Summary Table
+Final energy consumption (1998): 49.2 Mtoe
+Gross electricity generation (1998): 90.9 TWh
+coal
+oil & gas
+nuclear
+share in gross electricity generation (1998) 27%
+quantifiable subsidies (mln EUR per year) 225
+> 4,000
+quantifiable subsidies, incl. attributed
+electricity subsidies (mln EUR per year)
+> 4,500
+Source: Energy statistics: Eurostat (2000a); other figures: this section.
+renewables
+> 230
+> 250
+electricity
+1,000
+2.13 PORTUGAL
+Solid fuels
+Portugals coal production and the associated subsidies were terminated in 1994.
+Public R&D expenditure for coal amounts to less than EUR 1 mln per year (IEA, 1999f,
+2000c).
+Oil and gas
+Public R&D expenditure for oil and gas amounts to less than EUR 1 mln per year (IEA,
+1999f, 2000c).
+During the period 1994-1999, the Portuguese state has funded a total amount of EUR 6 mln
+for the promotion of natural gas (EUR 1 mln per year on average) (IEA, 2000c).
+Substantially higher amounts have been funded by the EU (a total of 194 mln; see Section
+2.1) and by public enterprises (EUR 286 mln). The latter, however, cannot be regarded as a
+subsidy as it may be expected that this investment will be recovered from gas consumers.
+Heating oil used to be subject to a reduced VAT rate of 5%, but in 1997 it was raised to the
+standard rate of 17% whereas at the same time the VAT rate for natural gas was reduced to
+5%. Natural gas consumption by households amounted to 358 TJ in 1998 (Eurostat, 2000a),
+which means that the implicit subsidy is less than EUR 1 mln.
+Portugal is a member of the 1971 International Oil Pollution Compensation Fund. This
+implies a maximum compensation for oil spills of EUR 78 mln.
+Nuclear energy
+There is no nuclear power production in Portugal.
+Public R&D expenditure for nuclear energy amounts to less than EUR 1 mln per year (IEA,
+1999f).
+Renewables
+The 1994 Energy Programme provides, among others, for support to renewable energy. The
+types of support include capital grants, soft loans and guaranteed prices for electricity from
+renewables (IEA, 1998a). Public funding for renewables amounted to a total of EUR 159 mln
+in the period 1995-1999, of which 69 mln came from the EU (see Section 2.1) and EUR 90
+mln (EUR 18 mln per year) from national sources (IEA, 2000c). As it is unclear to what
+extent this funding consists of subsidies, the said amount is an upper limit for the subsidy
+estimate.
+Purchases of renewable energy equipment (such as solar panels for residential use) benefit
+from the reduced VAT rate of 5% under the 1992 Budget Law. It is also possible to deduct
+the investment cost in renewable end-use technology from personal taxable income (subject
+to a ceiling) (IEA, 1998a). The amounts of implicit subsidy involved in these fiscal incentives
+are unknown.
+Public R&D spending on renewable energy amounted to PTE 253 mln or EUR 1.3 mln in
+1999 (IEA, 2000c). In 1995-1997, the annual average was below EUR 1 mln (IEA, 1999f).
+Electricity
+Electricity is subject to a reduced VAT rate of 5%, whereas the standard rate is 17%.
+Electricity consumption by households amounted to 8.8 TWh in 1998 (Eurostat, 2000a).
+Given an average price (excluding VAT) for households of PTE 26.4 per kWh, the implicit
+subsidy can be calculated at PTE 27.5 billion or EUR 137 million.
+Table 2.13.1. Portugal: Summary Table
+Final energy consumption (1998): 15.6 Mtoe
+Gross electricity generation (1998): 39.0 TWh
+coal
+oil & gas
+nuclear
+share in gross electricity generation (1998) 31%
+quantifiable subsidies (mln EUR per year) < 1
+quantifiable subsidies, incl. attributed
+electricity subsidies (mln EUR per year)
+Source: Energy statistics: Eurostat (2000a); other figures: this section.
+renewables
+electricity
+2.14 SPAIN
+Solid fuels
+According to the European Commission (2000a), state aid to coal mining in Spain amounted
+to an average EUR 761 million per year in the period 1995-1998. This amount includes aid to
+current production only. The subsidies are to be phased out by 2002.
+In 1995-1998, the Spanish government spent on average EUR 4.1 mln per year on coal
+related R&D (IEA, 1999f).
+Oil and gas
+The VAT rate for bottled gas is 7%, whereas it is 16% for other energy products (EC, 2000c).
+The amount of implicit subsidy cannot be calculated due to lack of data.
+The Spanish government promotes the use of natural gas as a way of diversifying energy
+supply. In the National Energy Plan 1991-2000, ESP 9.2 billion in government subsidies was
+budgeted for this substitution (MICyT, 1990), i.e. EUR 5.5 mln per year.
+Members of CORES, an agency empowered to build up strategic oil stocks, enjoy certain
+fiscal exemptions (IEA, 1996a). Detailed information is lacking.
+Spain is a member of the 1992 International Oil Pollution Compensation Fund. This implies a
+maximum compensation for oil spills of EUR 175 mln.
+Nuclear energy
+Construction work on a number of nuclear power plants has been terminated since 1984,
+when Spain announced a nuclear moratorium. The financial obligations relating to these
+unfinished plants are covered by a fund that is financed from a levy on electricity bills.
+However, as this fund does not contribute to nuclear power production, it should not be
+regarded as a subsidy under our definition.
+The costs of maintaining a basic stock of uranium and of nuclear waste management are
+covered by levies on electricity of 0.007% and 0.8%, respectively. Given a final use of
+electricity of 166 TWh in 1998 (Eurostat, 2000a) and an average price of ESP 13.6 per kWh
+(mean value for industry and households, excluding taxes; IEA, 1999d ) the subsidy for
+nuclear energy can be estimated at ESP 19.6 billion or EUR 118 mln per year.
+In 1995-1998, the Spanish government spent on average EUR 32.6 mln per year on nuclear
+related R&D (IEA, 1999f).
+Renewables
+The two main thrusts of renewables promotion in Spain are favourable electricity tariffs to
+autoproducers and capital subsidies under the Energy Conservation and Efficiency Plan
+1991-2000 (ECEP). Subsidies under ECEP for renewables amount to ESP 53.4 billion, or
+ESP 5.3 billion (EUR 32 million) per year (Ministry of Industry, Trade and Tourism, 1991).
+The obligation for utilities to buy excess electricity from autoproducers at a price set by the
+Administration only applies to plants with a capacity lower than 100 MW (lower than 10
+MW for hydro). Rates are specified for both capacity and output credits (buy-back rates).
+Capacity credits are highest for waste incineration plants, whereas output credits are highest
+for wind and solar plants: ESP 11.48 (EUR 0.07) per kWh over a five-year period. Output
+credits for waste-generated electricity vary, depending on the size of the plant and the relative
+importance of any co-fired fossil fuel, but are lower than those for wind and solar electricity,
+and decrease yearly. Buyback rates for such plants are about ESP 9.5 (EUR 0.06) per kWh in
+the first year - still significantly higher than the estimated average production cost from
+autoproducers of ESP 8 (EUR 0.05) per kWh. The buyback rate levels are also dependent on
+continuity of supply to avoid periodic surges in power sold to the grid (IEA, 1998a). In
+March 2001, the European Court of Justice has ruled that this type of support does not
+constitute state aid under the EU Treaty (ENDS, 2001).
+Renewable energy is also promoted at the regional and local levels, e.g. the Andalusian
+government launched a 3 year programme for solar heating systems with a budget of ESP 1.2
+billion (EUR 2.4 million per year) (IEA, 1998a).
+In 1995-1998, the Spanish government spent on average EUR 14.4 mln per year on
+renewables related R&D (IEA, 1999f).
+Electricity
+Under Law 54/97 the Spanish electricity sector can receive state aid to cover the costs of
+transition to competition. The amounts involved are unknown.
+In 1995-1998, the Spanish government spent on average less than EUR 1 mln per year on
+electricity related R&D (IEA, 1999f).
+Table 2.14.1. Spain: Summary Table
+Final energy consumption (1998): 71.2 Mtoe
+Gross electricity generation (1998): 195.9 TWh
+coal
+oil & gas
+nuclear
+share in gross electricity generation (1998) 31%
+quantifiable subsidies (mln EUR per year) 765
+quantifiable subsidies, incl. attributed
+electricity subsidies (mln EUR per year)
+Source: Energy statistics: Eurostat (2000a); other figures: this section.
+renewables
+> 50
+> 50
+electricity
+2.15 SWEDEN
+The Swedish CO2 and energy tax regulations contain a number of exemptions and reductions
+for several categories of users. For example, industry pays no electricity tax and only 50 per
+cent of the CO2 tax, with a maximum limit for energy-intensive plants A rough estimate of
+the implicit subsidy can be made by calculating the theoretical revenue if all final use of
+energy were taxed at the standard rate (cf. Table 2.15.1):
+Table 2.15.1. Theoretical revenue of energy taxes if all energy were taxed at full rate
+type of energy
+final use (1998)*
+tax rate (2000)**
+theoretical
+revenue
+coal
+2.4 mln tonnes
+SEK 1,236 per tonne SEK 2,966 mln
+oil products
+7.3 mln tonnes
+SEK 3,000 per tonne SEK 21,900 mln
+(transport)
+oil products (other) 4.8 mln tonnes
+SEK 1,801 per tonne SEK 8,645 mln
+natural gas
+0.5 bln m
+SEK 1,033 per 1000 SEK 517 mln
+electricity
+124 TWh
+SEK 162 per MWh
+SEK 20,088 mln
+total
+SEK 54,116 mln
+* Source: Eurostat (2000a)
+** Source: National Tax Board (2000). It has been assumed that 1 tonne of oil (product)
+equals 1 m3 .
+*** Estimated average of various types of oil products
+The actual revenue is slightly lower than the calculated theoretical revenue: SEK 50,478
+mln (National Tax Board, 2000). Lacking detailed data, we will assume that the implicit
+subsidy in the difference of SEK 3.6 bln is divided as follows: SEK 1.5 bln for oil/gas and
+electricity each, and SEK 0.6 bln for coal.
+Solid fuels
+The implicit subsidy for coal by way of energy/CO2 tax exemptions and reductions was
+calculated above at SEK 600 mln or EUR 70 mln.
+In 1995-1997, the Swedish government spent on average less than EUR 1 mln per year on
+coal related R&D (IEA, 1999f).
+Oil and gas
+The implicit subsidy for oil and gas by way of energy/CO2 tax exemptions and reductions
+was calculated above at SEK 1.5 bln or EUR 175 mln.
+Sweden is a member of the 1992 International Oil Pollution Compensation Fund. This
+implies a maximum compensation for oil spills of EUR 175 mln.
+Nuclear energy
+Nuclear power, now responsible for half of Swedens electricity production, is to be phased
+out by 2010.
+All costs for the back-end of the nuclear fuel cycle, including decommissioning, are borne by
+the reactor operators via fees paid into state funds (EC, 1999d).
+In 1995-1997, the Swedish government spent on average EUR 6.6 mln per year on nuclear
+related R&D (IEA, 1999f).
+Renewables
+A government programme set up to encourage increased use of renewables has been running
+since July 1997. This programme supports renewable energy investments in order to
+encourage increased production of renewable electricity, particularly from biomass and wind
+(IEA, 1998a). The programme includes grants of:
+ 25% for investments in CHP plants based on biomass (up to SEK 3000 per kWe), with
+a 5-year budget of SEK 450 mln;
+ 15% for wind turbines over 200 kW, with a 5-year budget of SEK 300 mln;
+ 15% for environmentally friendly, small-scale (<1.5 MW) hydro plants, with a 5-year
+budget of SEK 150 mln.
+The annual budget of this programme can be calculated at EUR 21 mln.
+In addition to the 1997 investment support programme, the government set up a 5-year
+technology procurement programme for renewable electricity production from January 1998.
+Total funds for the procurement programme are SEK 100 mln, or EUR 2.3 mln per year
+(IEA, 1998a).
+The obligatory purchase of renewable electricity was abolished in November 1999. In 2000, a
+procurement price for electricity from renewables was established in the range of SEK 0.130.14 per kWh (IEA, 2000e). The amount of subsidy involved is unknown. As from 2001, a
+market-oriented scheme will replace the former support schemes for renewable energy.
+Electricity produced by wind power is exempted from the energy tax (environmental
+bonus). The amount of implicit subsidy in the year 2000 was estimated at SEK 91 mln (EUR
+11 mln)9 .
+In 1995-1997, the Swedish government spent on average EUR 10.2 mln per year on
+renewables related R&D (IEA, 1999f). Since then, this amount is likely to have increased
+substantially, as the energy policy programme that has been adopted in 1997 includes, among
+others, a seven years research, development and demonstration programme of SEK 5.6
+billion (EUR 93 mln per year) for renewable energy sources and new energy technology. The
+main target of the programme is to reduce the costs of the use of renewables so as to make
+them economically more viable alternatives to nuclear power and fossil fuels (IEA, 2000e).
+cf. letter from the European Commission dated 02.12.1999, state aid case NN 143/96.
+Electricity
+The implicit subsidy for electricity by way of energy/CO2 tax exemptions and reductions was
+calculated above at SEK 1.5 bln or EUR 175 mln.
+In 1995-1997, the Swedish government spent on average EUR 5.5 mln per year on electricity
+related R&D (IEA, 1999f).
+Table 2.15.2. Sweden: Summary Table
+Final energy consumption (1998): 33.6 Mtoe
+Gross electricity generation (1998): 158.3 TWh
+coal
+oil & gas
+nuclear
+share in gross electricity generation (1998) 1%
+quantifiable subsidies (mln EUR per year) 70
+quantifiable subsidies, incl. attributed
+electricity subsidies (mln EUR per year)
+Source: Energy statistics: Eurostat (2000a); other figures: this section.
+renewables
+> 45
+> 130
+electricity
+2.16 UNITED KINGDOM
+Solid fuels
+Government support for coal production in the UK peaked in 1988/89 at more than GBP 4
+billion (EUR 6.4 billion) (Michaelis, 1997). According to the European Commission (2000a),
+state aid to coal production in the UK had ceased by 1995. The IEA (1998f) also concludes
+that UK coal production had become unsubsidised. However, a number of factors, including
+the sudden fall in prices on the international markets in 1999, have compelled the British
+authorities to consider granting aid, albeit on a very modest scale, of around GBP 110 million
+over the period 2000-2002 (European Commission, 2000r), i.e. EUR 60 mln per year.
+Domestic use of coal for heating purposes is subject to a reduced VAT rate of 5% instead of
+the normal rate of 17.5%. In 1998, final coal consumption by households was 2.64 mln
+tonnes (IEA, 2000a). The average price per tonne for households was GBP 126.30 (excluding
+VAT) (IEA, 1999d). The implicit subsidy can thus be calculated at GBP 41.7 mln or EUR 67
+mln.
+In 1995-1998, the British government spent on average EUR 6.2 mln per year on coal related
+R&D (IEA, 1999f).
+Oil and gas
+A special royalty and tax system is applied to petroleum exploitation, incorporating royalty
+(12.5%), Petroleum Revenue Tax (50%), and corporation tax (30%). Income from fields
+developed before end March 1982 is subject to all three components, the resulting marginal
+tax rate being 69.375%. For fields developed in the period April 1982  March 1993 royalty
+is not payable and the marginal rate is 65%. For new fields developed since March 1993 only
+corporation tax is payable (30%). Lacking any objective baseline for the royalties and taxes
+on oil and gas exploitation, the implicit subsidy involved cannot be calculated. It is
+noteworthy, however, that recent changes in the regulations (such as the abolition of the
+Petroleum Revenue Tax and the Gas Levy) have provided incentives for investments,
+especially in smaller and more difficult fields.
+Domestic use of oil and gas for heating purposes is subject to a reduced VAT rate of 5%
+instead of the normal rate of 17.5%. In 1998, households used 2.6 mln toe of oil and 30.6 mln
+toe of gas (calculated after Eurostat, 2000a). Prices (excluding VAT) were GBP 138.0 and
+GBP 221.9 per toe, respectively (IEA, 1999d). The implicit subsidy for oil and gas can thus
+be calculated at GBP 893.6 mln or EUR 1.4 billion.
+In 1995-1998, the British government spent on average EUR 7.2 mln per year on oil and gas
+related R&D (IEA, 1999f).
+The United Kingdom is a member of the 1992 International Oil Pollution Compensation
+Fund. This implies a maximum compensation for oil spills of EUR 175 mln.
+Nuclear energy
+Subsidies to nuclear power producers from the Fossil Fuel Levy (introduced in 1990 to
+enable them to compete on the liberalised electricity market) have been ended in 1996.
+BNFL, a state owned company, is responsible for the processing of nuclear waste from
+nuclear power plants in the UK. The producers and owners of the radioactive waste are
+responsible for bearing the cost of its management and disposal, including regulatory costs
+(EC, 1999d).
+In 1995-1998, the British government spent on average EUR 31.2 mln per year on nuclear
+(fission and fusion) related R&D (IEA, 1999f).
+Renewables
+The production of electricity from renewable energy is stimulated by means of the Non
+Fossil Fuel Obligation (NFFO), which requires electricity suppliers to secure specified
+amounts of renewable energy generation capacity and to provide certain specified amounts of
+electricity from renewables to their customers. Renewable capacity is contracted under a
+series of competitive bidding processes, known as NFFO Orders. NFFO orders are financed
+through the fossil fuel levy on electricity bills. NFFO support for 1997/98 was around GBP
+120 mln (EUR 193 mln) (IEA, 1998a).
+In 1995-1998, the British government spent on average EUR 10.1 mln per year on
+renewables related R&D (IEA, 1999f).
+Electricity
+Domestic use of electricity is subject to a reduced VAT rate of 5% instead of the normal rate
+of 17.5%. In 1998, households used 9.43 mln toe of electricity (calculated after Eurostat,
+2000a). The average price (excluding VAT) was GBP 807.0 per toe (IEA, 1999d). The
+implicit subsidy for electricity can thus be calculated at GBP 951 mln or EUR 1.5 billion.
+In 1995-1998, the British government spent on average EUR 2.9 mln per year on electricity
+related R&D (IEA, 1999f).
+Table 2.16.1. United Kingdom: Summary Table
+Final energy consumption (1998): 148.9 Mtoe
+Gross electricity generation (1998): 358.2 TWh
+coal
+oil & gas
+nuclear
+share in gross electricity generation (1998) 34%
+quantifiable subsidies (mln EUR per year) 130
+> 1,400
+quantifiable subsidies, incl. attributed
+electricity subsidies (mln EUR per year)
+> 1,900
+Source: Energy statistics: Eurostat (2000a); other figures: this section.
+renewables
+electricity
+1,500
+3. THE ACCESSION COUNTRIES
+The description of energy subsidies in the accession countries is more concise than for the
+EU member states in the previous chapter. Due to incomplete information, no attempt has
+been made to attain aggregate quantifications by country and by type of energy.
+3.1 BULGARIA
+Solid fuels
+Prices of domestic coal and briquettes for household consumption are still state controlled
+(Klarer et al., 1999). The amount of subsidy involved is unknown. Production subsidies will
+be phased out by the end of 2001 (EC, 2000e).
+Oil and gas
+Cross-subsidies in the gas sector in Bulgaria have been eliminated (EC, 2000e).
+Bulgaria is not a member of an International Oil Pollution Compensation Fund.
+Nuclear energy
+Early closure of the Kozloduy nuclear power plant units 1-4 will be supported from the EUs
+Phare funds (see Section 2.1).
+Since 1999, funds for the management of radioactive waste and for the decommissioning of
+nuclear power plants are in place. They are financed by the operators of the plant (EC,
+1999e).
+Electricity
+In 1991, electricity subsidies in Bulgaria were estimated to amount to USD 943 million
+(CNT, 2001). At present, prices of electricity are still state controlled (Klarer et al., 1999).
+The objective is to liberalise electricity prices by the end of 2001 (EC, 2000e).
+3.2 CYPRUS
+Solid fuels
+Cyprus does not have any coal mines and the sector of solid fuels is of no significance (EC,
+2000f).
+Oil and gas
+Cyprus does not yet have legislation in place regarding oil stocks (EC, 2000f), so it can be
+assumed that also no subsidisation of oil stocks occurs.
+Cyprus has no natural gas network.
+Cyprus is a member of the 1992 International Oil Pollution Compensation Fund. This implies
+a maximum compensation for oil spills of EUR 175 mln.
+Nuclear energy
+Cyprus has no nuclear power plants.
+Renewables
+A grant scheme for investments in energy efficiency promotion, encouraging the use of
+energy from renewable sources, became fully operational at the beginning of 2000 (EC,
+2000f).
+3.3 CZECH REPUBLIC
+Solid fuels
+Coal is subject to a reduced VAT rate of 5 percent (the standard rate is 22 percent).
+Oil and gas
+A gradual process of price liberalisation in the gas sector is underway, aiming at eliminating
+cross subsidies by 2002 (EC, 2000g). Transgas, the state-owned gas utility, stopped
+subsidising its gas prices in the Czech market in 1999 (EIA, 2001).
+Natural gas is subject to a reduced VAT rate of 5 percent (the standard rate is 22 percent).
+The Act on Emergency Oil Stocks, which came into force in 1999, aims at reaching the
+acquis level of 90 days of oil stocks in 2005 (EC, 2000g). It is unclear how the stocks will be
+financed and thus whether they are subsidised or not.
+Being land-locked, the Czech Republic is not is a member of an International Oil Pollution
+Compensation Fund.
+Nuclear energy
+The controversial Temelin power plant has started operating in October 2000.
+Producers of nuclear waste must bear the costs of radioactive waste management, including
+disposal. The operators of nuclear power plants pay a levy of CZK 50 (EUR 1.4) per MWe
+into a fund (EC, 1999e).
+Renewables
+Biogas, small water and wind turbines (with an output up to 100 and 75 kVA, respectively),
+and solar facilities are subject to a reduced VAT rate of 5 percent (the standard rate is 22
+percent). Furthermore, income generated from the operation of several renewable energy
+producing facilities are exempt from income tax in the first calendar year of their operation
+and in the following five years (Klarer et al., 1999). The amounts of implicit subsidy
+involved are unknown.
+Electricity
+Electricity is subject to a reduced VAT rate of 5 percent (the standard rate is 22 percent).
+A gradual process of price liberalisation in the electricity sector is underway, aiming at
+eliminating (cross) subsidies by 2002 (EC, 2000g; EIA, 2001).
+3.4 ESTONIA
+Oil and gas
+Estonia is a member of the 1971 International Oil Pollution Compensation Fund. This implies
+a maximum compensation for oil spills of EUR 78 mln.
+Nuclear energy
+Although there are no nuclear power plants in Estonia, there is a substantial nuclear legacy
+from former Soviet military installations. Obviously, no subsidies for nuclear energy are
+involved in dealing with this legacy.
+3.5 HUNGARY
+Direct government subsidies to energy consumption in Hungary were terminated in 1991, but
+natural gas, electricity and heat prices have remained regulated. After several years of price
+increases, prices are now nearing cost covering levels (IEA, 1999e).
+Solid fuels
+Some coal mines in regions with high unemployment receive government support, partly
+through direct subsidies and partly through purchase contracts from the power industry,
+concluded under government pressure. The direct support amounted to HUF 2.5 billion (EUR
+10 million) in 1998. Most of these mines were to be closed by 2000 (IEA, 1999e).
+Coal use by households is exempted from VAT since 1995 (the standard VAT rate is 25
+percent).
+In the corporation tax, an accelerated amortisation rate of 33 percent is in force for fluidised
+coal-fired equipment (Klarer et al., 1999).
+Oil and gas
+Gas prices are being increased stepwise (in July 2000 by 12%), contributing to the
+elimination of price distortions (EC, 2000i).
+Since 1995, natural gas is subject to a VAT rate of 12 percent, whereas the standard rate is 25
+percent. Propane and propane-butane gas are also taxed at 12 percent. The use of light fuel oil
+by households is exempted from VAT.
+Mineral oil used for the production of electricity is exempted from the excise tax.
+Oil stocks in Hungary exceed the level of 90 days internal consumption, as required by the
+acquis (EC, 2000i), but it is unclear whether and to what extent they are being subsidised.
+Land-locked Hungary is not a member of an International Oil Pollution Compensation Fund.
+Nuclear energy
+The work of the Hungarian Atomic Energy Authority is partly financed from the central
+budget (EC, 2000i). The amount of subsidy involved is unknown.
+With the 1996 Nuclear Energy Act, nuclear operators were made liable for all damages they
+caused, and indemnities were fixed in accordance with Hungarys obligations under the
+Vienna Convention in this respect. In order to comply with these requirements, the Paks
+Nuclear Power Plant Company and Hungarian insurers established an insurance pool with the
+intention of seeking re-insurance in international pools (IEA, 1999e).
+The costs of decommissioning and of nuclear waste disposal are covered by a Central
+Nuclear Financial Fund, which was set up in January 1998. It is financed through a levy on
+electricity use (EC, 1999e; 2000i).
+Renewables
+The reduced VAT rate of 12 percent applies to solar cells, wood for heating purposes and
+wood briquettes. In the corporation tax, an accelerated amortisation rate of 33 percent is in
+force for solar cells and for boilers burning agricultural by-products. No corporate tax has to
+be paid for services connected to renewable energy carried out by public utility companies
+(Klarer et al., 1999).
+Electricity
+Electricity prices are being increased stepwise (in January 2000 by 6%), contributing to the
+elimination of price distortions (EC, 2000i).
+Since 1995, electricity is subject to a VAT rate of 12 percent, whereas the standard rate is 25
+percent.
+3.6 LATVIA
+Oil and gas
+Fuel oil for heat production and oil products used in technological and refining processes are
+exempt from the excise tax on oil products, which was introduced in 1998 (Klarer et al.,
+1999).
+In February 2000, a strategy document on the establishment of oil stocks was adopted,
+confirming that energy supply companies would become responsible for the establishment
+and maintenance of oil stocks (EC, 2000j). The oil stocks are thus likely to remain
+unsubsidised.
+Latvia is a member of the 1992 International Oil Pollution Compensation Fund. This implies
+a maximum compensation for oil spills of EUR 175 mln.
+Nuclear energy
+There are no nuclear plants in Latvia, nor are there plans to build any.
+Renewables
+Surplus electricity from small hydro power stations (with a capacity up to 2 MW) and wind
+farms has to be purchased on the national grid at higher tariffs (Klarer et al., 1999). The
+amount of subsidy involved is unknown.
+3.7 LITHUANIA
+Solid fuels
+Lithuania does not produce coal, and the small amounts of coal that it imports are not
+subsidised.
+Under the natural resource tax, peat for domestic use is taxed at LTL 1.1 per tonne, whereas
+the tax for exported peat is LTL 5.1 per tonne (Klarer et al., 1999).
+Oil and gas
+In 1999, the Mazeikiu Oil Company (one of the largest enterprises in Lithuania) was sold to a
+private foreign investor. The deal involved a large public cost (the government promised to
+cover USD 350 mln of capital deficit), leading to the fall of the government. Furthermore, in
+October 2000 the Constitutional Court ruled that the promise by the government to cover the
+debt was illegal (EC, 2000k; EIA, 2001).
+On 27 June 2001, Lithuania will become a member of the 1992 International Oil Pollution
+Compensation Fund. This implies a maximum compensation for oil spills of EUR 175 mln.
+Nuclear energy
+The Ignalina nuclear power plant (the worlds largest) will be decommissioned, starting with
+Unit 1 in 2005. A Decommissioning Support Fund (of about EUR 195 million, mainly from
+international financing sources) was established in June 2000 and is managed by the EBRD.
+Unit 2 is subject to a EUR 10 mln modernisation project, guaranteed by the government (EC,
+2000k).
+A new fund for radioactive waste management will be partly financed by the state budget
+(EC, 1999e).
+3.8 MALTA
+Solid fuels
+There is no market for solid fuels in Malta.
+Oil and gas
+Malta does not yet have legislation on minimum oil stocks compatible with the acquis (EC,
+2000l). It can be assumed that subsidies for such stocks are also absent.
+There is no market for natural gas in Malta.
+Malta is a member of the 1992 International Oil Pollution Compensation Fund. This implies a
+maximum compensation for oil spills of EUR 175 mln.
+Nuclear energy
+Malta has no nuclear power plants.
+3.9 POLAND
+Solid fuels
+The Polish coal mining industry has huge debts (over EUR 5 billion) and is currently in a
+process of restructuring. In total, 30 of Polands 53 mines will be closed by the end of the
+restructuring programme. Government assistance to the industry led the United Kingdom to
+charge Poland with "dumping" its coal on world markets in violation of World Trade
+Organization rules, but the British coal producers withdrew their complaint in 2000. In
+February 2000, the average price of one tonne of coal was for the first time above production
+costs (EC, 2000m; EIA, 2001).
+Oil and gas
+Oil stocks in Poland fall considerably short of the acquis requirement of 90 days of national
+consumption. A schedule of increasing oil security stocks that meet EC requirements has
+been developed (EC, 2000m). Information on the financing of these stocks is lacking, so it is
+unclear whether subsidies are involved.
+Poland is a member of the 1992 International Oil Pollution Compensation Fund. This implies
+a maximum compensation for oil spills of EUR 175 mln.
+Nuclear energy
+Poland has no nuclear power plants and does not intend to build any.
+Renewables
+Income tax allowances are extended to farmers who invest in renewable energy sources
+(Klarer et al., 1999). The amount of subsidy involved is unknown.
+3.10 ROMANIA
+State subsidies on goods and services (including those for the mining industry) were expected
+to be totally eliminated by the year 2000 (Klarer et al., 1999).
+Solid fuels
+In recent years, after years of subsidising the coal mining industry, the government has been
+shutting down unprofitable state-owned companies (EIA, 2001).
+Household use of coal is exempted from VAT (Klarer et al., 1999). The current standard
+VAT rate is 19%.
+Oil and gas
+Household use of oil and gas is exempted from VAT (Klarer et al., 1999). The current VAT
+rate is 19%.
+Furthermore, fuels used for household consumption are exempted from the excise tax on
+mineral oil products.
+Cross subsidies between industrial and domestic use of gas have been completely removed
+(EC, 2000n).
+Romania is not a member of an International Oil Pollution Compensation Fund.
+Nuclear energy
+Romanias only nuclear power plant, at Cernavoda, has started operations in 1996 with the
+activation of the first reactor. The second reactor is 40% complete, but financing remains a
+problem. In an effort to complete work on the reactor, the Romanian government has granted
+the plant profit tax-exempt status until 2010 and has suspended its debts to the Finance
+Ministry until the plant is commissioned at the end of 2006. Investments and credits are
+expected from foreign investors and from Euratom (EIA, 2001).
+A law for the establishment of a fund for the management of radioactive waste and
+decommissioning has been drafted (EC, 1999e).
+Electricity
+Household use of electricity is exempted from VAT (Klarer et al., 1999). The current VAT
+rate is 19%.
+Cross subsidies between industrial and domestic use of electricity have been completely
+removed (EC, 2000n).
+3.11 SLOVAKIA
+Solid fuels
+From 1990 to 1996, state support for the lignite mining sector declined from EUR 54 million
+to EUR 4.3 million. Indirect subsidies, by way of obligatory lignite purchases by power
+plants, were estimated to amount to EUR 14 million in 1996 (IEA, 1997c).
+Klarer et al. (1999) state that the use of solid fuel is still subsidised in Slovakia, but do not
+give any details.
+Oil and gas
+In February 2000 the Slovak government approved an increase of gas prices. This measure
+was taken in the context of an overall policy to ensure cost recovery by energy producers
+(EC, 2000o). Cross-subsidies (especially from industry households) were considerable in the
+1990s. There was also evidence that gas prices for domestic customers (industry, households
+and other groups) were subsidised by the highly profitable transit business (IEA, 1997c).
+Land-locked Slovakia is not a member of an International Oil Pollution Compensation Fund.
+Nuclear energy
+Production costs of electricity from Slovak nuclear power plants are lower than in Western
+Europe, due to, among others, asset values that are based on low historic costs (IEA, 1997c).
+A fund for the decommissioning of nuclear power stations and the management of
+radioactive waste is funded by a 10 percent surcharge on the sales price of electricity
+generated by nuclear power plants. It is estimated that this fund will yield some SKK 30.8
+billion (EUR 723 million) by 2010. According to the government this sum will be sufficient
+(Klarer et al., 1999). If that is correct, nuclear energy is not being subsidised in Slovakia by
+way of insufficient decommissioning and waste management cost coverage.
+In April 2000, the government made clear that no state guarantees or any form of state aid
+will be provided for the completion and operation of units 3 and 4 at the Mochovce nuclear
+power plant (EC, 2000o).
+Renewables
+Biogas, fire wood and wood chips are subject to the reduced VAT rate of 6 percent (the
+normal rate is 23 percent). Operations of small hydropower plants, wind electricity
+generation, solar equipment, biogas generating equipment and geothermal production
+facilities are excluded from income tax for the first five years of operation (Klarer et al.,
+1999).
+Domestically produced ecological fuel is subject to a preferential excise duty rate (EC,
+2000o).
+Electricity
+In February 2000 the Slovak government approved an increase of electricity prices (an
+average of 40% for households and 5% for businesses). As with gas prices, this measure was
+taken in the context of an overall policy to ensure cost recovery by energy producers (EC,
+2000o). There used to be considerable cross-subsidisation, especially from industry to
+households (IEA, 1997c).
+3.12 SLOVENIA
+Solid fuels
+Direct budget subsidies for the coal industry were expected to end in 1996 (IEA, 1996b).
+Nevertheless, state aid to the coal mining sector has grown in recent years, although in 1999
+such aid was solely devoted to the closing down of mines and entailed no operating aid (EC,
+2000p).
+Until 2004, coal for electricity generation will be exempted from the CO2 tax, which was
+introduced in 1997. The rate of the tax is SIT 1.00 per kg CO2 (Klarer et al., 1999).
+Oil and gas
+A recent decree foresees the collection of a special fee on petroleum products aimed at
+financing the creation of obligatory oil stocks (EC, 2000p). This would mean that no
+subsidies will be involved.
+Slovenia produces small amounts of oil (2,000 toe per year), which remain untaxed (IEA,
+1996b).
+Slovenia is currently a member of the 1971 International Oil Pollution Compensation Fund,
+but will move to the 1992 Fund on 19 July 2001. This implies an increase of the maximum
+compensation for oil spills from EUR 78 mln to EUR 175 mln.
+Nuclear energy
+The Krko nuclear power plant (which is owned jointly by Slovenia and Croatia) has to pay a
+levy of SIT 0.61 for every kWh of electricity that it supplies to the Slovenian or Croatian
+power grid. The recipient of this charge is a fund which is to finance the decommissioning of
+the plant and the disposal of nuclear waste (Klarer et al., 1999). To what extent this funding
+will be sufficient is unclear. Therefore it is not possible to judge whether and to what extent
+nuclear energy is being subsidised in Slovenia by way of insufficient decommissioning and
+waste management cost coverage.
+Renewables
+From 1990 to 1995, the Slovenian government has provided interest subsidies and grants for
+renewable energy totalling EUR 8.1 million for 211 projects, mostly small hydro plants (IEA,
+1996b).
+3.13 TURKEY
+Solid fuels
+Subsidies to coal production in Turkey amounted to EUR 267 mln in 1995, according to the
+PSE estimate by the IEA (IEA, 1997a).
+In the period 1996-1998, the Turkish government increased its budget for coal related R&D
+from EUR 0.1 mln to EUR 7.1 mln (IEA, 1999f).
+Oil and gas
+Natural gas is subject to a VAT rate of 8%, while the standard rate is 15%.
+To ensure the penetration of natural gas into the market, natural gas prices are mostly set
+below the level of competing fuels. In some sectors such as residential, the price of natural
+gas is too low to reflect the full cost of supply (IEA, 1997a).
+Oil stocks amounted to 87-90 days of consumption in 1998. The Directorate General for
+Petroleum Affairs is responsible for monitoring and controlling these stocks (EC, 2000q). It
+is unknown whether and to what extent subsidies are involved.
+To enhance domestic oil exploration and production, the government was planning (in 1997)
+to adapt the royalty taxes, which amounted to 12.5% of production in 1996. The new royalty
+should decrease proportionally with the production and should be lower for smaller fields
+(IEA, 1997a).
+Turkey is not a member of an International Oil Pollution Compensation Fund.
+Nuclear energy
+There are currently no nuclear power plants in Turkey, and plans to build one have been
+abandoned in July 2000.
+In 1997, the budget of the Turkish Atomic Energy Authority (in charge of nuclear R&D,
+regulatory issues and control of all nuclear activities) was TRL 1,600 billion (EUR 2.9
+million) (IEA, 1997a).
+Renewables
+The Ministry of Environment promotes the development of geothermal heat and other
+environmentally-friendly investments via low-interest loans on up to 45% of the capital cost.
+Independent electricity producers, including those using renewable energy sources, are given
+a power purchase guarantee by the Turkish Electricity Generation and Transmission
+Corporation.
+Total expenditure of renewable energy R&D for 1996 was reported to the IEA as EUR 0.15
+mln (IEA, 1998a).
+Electricity
+The selling prices of electricity are too low for the power suppliers to be able to make the
+necessary investments (IEA, 1997a).
+4. CONCLUSIONS
+Lacking an internationally agreed definition of the term subsidy, identifying and
+quantifying energy subsidies is a delicate operation. A study like this one has to draw certain
+demarcation lines and unavoidably arbitrary choices have to be made when deciding to label
+certain arrangements as energy subsidies or not. The problem is that the outcome, especially
+in quantitative terms, is very dependent upon such choices.
+Having said this, it can be concluded that energy subsidies in the European Union and the
+accession countries are numerous and involve substantial amounts of money. For the EU and
+its Member States, Table 4.1 indicates the estimated amounts of money transfers and tax
+reliefs that are benefiting the different types of energy, to the extent that they could be
+quantified. It can be concluded that the total amount of quantifiable subsidy (in terms of
+money transfers and tax reliefs) going to renewable energy is substantially lower than the
+amount of subsidy to fossil fuels, and in the same order of magnitude as nuclear energy
+subsidies.
+A major part of the identified subsidies relates to tax exemptions and reductions. There are
+two major groups: those which have been introduced for social reasons (usually reduced
+VAT rates for households) and those intended to protect industry against the loss of
+international competitiveness. The latter are often accompanying the introduction of specific
+energy and/or CO2 taxes. Renewable energy is subsidised directly as well as by means of
+various fiscal arrangements. R&D subsidies play a particularly important role in the case of
+nuclear energy.
+Direct subsidies to coal production are declining throughout Europe, although the German
+coal subsidies remain one of the largest single subsidy items. The subsidies to oil, gas and
+electricity tend to increase as more countries are introducing energy tax schemes with
+provisions for exemptions and reductions. Support for renewables is also increasing, whereas
+subsidies to nuclear energy do not show a clear trend.
+In the accession countries, especially the former centrally planned economies, subsidies are
+generally decreasing. In particular, cross subsidies from industry to households are gradually
+being phased out.
+In addition to these direct and indirect subsidies, there are three important factors favouring
+certain types of energy over others. Firstly, energy producers and users often do not pay for
+the (full) external costs and damage (such as pollution, accidents and risks). In some cases
+(oil spills, nuclear accidents), international conventions provide for limited liability of the
+perpetrators. Secondly, traditional energy continues to benefit from support that it has
+received in the past, e.g. in the form of below-commercial rates of return on investments.
+Finally, legal arrangements provide for preferential treatment of specific types of energy
+(especially renewables). Although these kinds of support are much harder to translate into
+money terms, some attempts to do so have been made in Sections 1.2 through 1.4. A
+comparison with the amounts involved in money transfers and tax reliefs is given in Table
+4.2. This shows that the bias in favour of traditional sources of energy is even stronger if
+these factors are taken into account.
+A more precise and reliable estimate of the bias against renewable energy might be achieved
+by means of a study to answer the question: If energy producers and users were fully liable
+for the damage and risks caused by their activities, and if this liability had to be (and could
+be) covered by insurance, how much would the insurance premium be?.
+Table 4.1. Amounts of energy subsidies in EU and Member States (millions of Euros per
+year) (money transfers and tax reliefs)
+Austria
+Belgium
+Denmark
+Finland
+France
+Germany
+Greece
+Ireland
+Italy
+Luxembourg
+The Netherlands
+Portugal
+Spain
+Sweden
+United Kingdom
+EU + Member States
+solid fuels
+> 15
+> 25
+9,500
+> 75
+> 250
+> 12,000
+oil and gas
+> 95
+1,000
+> 30
+1,000
+> 250
+> 50
+> 1,500
+> 4,500
+> 1,900
+> 10,000
+nuclear renewables
+> 150
+> 40
+> 180
+> 600
+> 300
+> 700
+> 300
+> 35
+> 10
+> 300
+> 10
+> 250
+> 50
+> 130
+> 2,600
+> 2,400
+Note: Subsidies for electricity have been attributed to primary energy sources using shares in
+electricity production as weights.
+Table 4.2. Tentative estimates of subsidies and other kinds of support in the EU (mln
+EUR per year)
+fossil fuels
+nuclear
+renewables
+money transfers and tax reliefs
+> 22,000
+> 2,600
+> 2,400
+uninternalised external costs
+ 50,000
+> 700  > 20,000
+ 600
+inheritance of past subsidies
+ 8,500
+preferential treatment
+ 1,000
+total
+> 70,000
+> 10,000
+> 4,000
+REFERENCES
+Barra, L., et al. (1999), Italian White Paper for the Valorisation of Renewable Energy
+Sources. ENEA,Rome.
+Bonduelle, A., F. Tuille, and S. Fenet (1998), Soutiens et subventions de ltat aux nergies
+en France. Institut dEvaluation des Stratgies sur lEnergie et lEnvironnement en Europe
+(INESTENE), Paris, December 1998.
+BMLFUW (2000), information from website: http://www.bmu.gv.at. Bundesministerium fr
+Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, Wien.
+Bundesfinanzministerium (2000a), untitled document.
+http://www.bundesfinanzministerium.de/finwiber/berichte/umwelt.pdf
+Bundesfinanzministerium (2000b), Die Frderung des Umweltschutzes im deutschen
+Abgabenrecht  einschlielich der kologischen Steuerreform. Berlin.
+Bundesministerium fr Finanzen (2000), information from website: http://www.bmf.gv.at.
+Vienna.
+CBS (2000a), information from website: www.cbs.nl. Centraal Bureau voor de Statistiek,
+Voorburg/Heerlen.
+CBS (2000b), Energiemonitor. Centraal Bureau voor de Statistiek, Voorburg/Heerlen.
+CNT (2001), information from website: www.hhh.umn.edu/centers/cnt. Center for Nations in
+Transition, University of Minnesota.
+De Moor, A., and P. Calamai. Subsidizing Unsustainable Development. Undermining the
+Earth with public funds. The Earth Council, San Jos, Costa Rica.
+Dreicer, M., V. Tort, and P. Manen (1994), Nuclear Fuel Cycle. Estimation of Physical
+Impacts and Monetary Valuation for Priority Impact Pathways. ExternE Project Report nr.
+3. Brussels.
+ECJ (2000), Le Tribunal dlimite les possibilits dinstaurer des rgimes de dfiscalisation
+en faveur des biocarburants. European Court of Justice, Press release no 69/2000, 27
+September 2000. Luxembourg.
+EDF (1999), Rapport annuel 1998. Electricit de France, Paris.
+EIA (2001), information from website: http://www.eia.doe.gov. Energy Information
+Administration, Washington DC.
+ENDS (1998a), Danish firms get subsidies to go solar. ENDS Daily, 30 January 1998.
+ENDS (1998b), Jospin maintains French nuclear waste options. ENDS Daily, 5 February
+1998.
+ENDS (1998c), Dutch green power subsidy gets EU approval. ENDS Daily, 8 May 1998.
+ENDS (1999a), German renewables funding fixed for 1999. ENDS Daily, 27 April 1999.
+ENDS (1999b), Germany plans more alternative energy support. ENDS Daily, 19 August
+1999.
+ENDS (1999c), Germany aims to give renewables a tail wind. ENDS Daily, 17 December
+1999.
+ENDS (2000a), Italian carbon tax revenue spending approved. ENDS Daily, 9 November
+2000.
+Energistyrelsen (1999), Wind Power in Denmark. Technology, Policies and Results.
+Copenhagen, September 1999.
+Energistyrelsen (2000a), Green Taxes for Trade and Industry  description and evaluation.
+Copenhagen, June 2000.
+Energistyrelsen (2000b), VE-Tilskudsstatistik.
+http://www.energioplysningen.dk/statistik/ve.htm#oversigt
+Energistyrelsen (2000c), Produktion og forbrug af el.
+http://www.ens.dk/statistik/99_detal/tab2_konvert.htm
+ERM (1999), An Evaluation of Phare-financed Energy and Environment Programmes.
+Inventory Report. Environment Resources Management, September 1999.
+European Commission (EC) (1997), Tax provisions with a potential impact on the
+environment. Luxembourg.
+European Commission (EC) (1998a), 9th Annual Report of the Structural Funds (1997).
+Brussels.
+European Commission (EC) (1998b), COM(1998)391 final.
+European Commission (EC) (1999a), 1999 Annual Energy Review. Brussels.
+European Commission (EC) (1999b), Excise Duty Tables. Directorate General Taxation and
+Customs Union, Brussels, July 1999.
+European Commission (EC) (1999c), Energy for the Future: Renewable Sources of Energy
+(Community Strategy and Action Plan). Campaign for Take-Off. Directorate General XVII,
+Brussels.
+European Commission (EC) (1999d), Fourth Report from the Commission on the Present
+Situation and Prospects for Radioactive Waste Management in the European Union. COM
+(1998) 799 final, 11.01.1999. Brussels.
+European Commission (EC) (1999e), Radioactive Waste Management in the Central and
+Eastern European Countries. DG Environment, Nuclear Safety and Civil Protection,
+Brussels, July 1999.
+European Commission (EC) (1999f), ExternE, Externalities of Energy. Vol. 7: Methodology
+1998 Update. Luxembourg.
+European Commission (EC) (1999g), ExternE, Externalities of Energy. Vol. 10: National
+Implementation. Luxembourg.
+European Commission (EC) (2000a), Eighth Survey on State Aid in the European Union.
+COM(2000)205 final. Brussels, 11.4.2000.
+European Commission (EC) (2000b), Database on environmental taxes in the European
+Union Member States, plus Norway and Switzerland.
+http://europa.eu.int/comm/environment/enveco/env_database/database.htm
+European Commission (2000c), VAT rates applied in the Member States of the European
+Community. Situation at 1st May 2000. Directorate-General Taxation and Customs Union.
+DOC/2206/2000-EN. Brussels.
+European Commission (2000d), Commission authorises an aid scheme for renewable energy
+in France. Press release IP/00/1447, Brussels, 13 December 2000.
+European Commission (2000e), 2000 Regular Report from the Commission on Bulgarias
+Progress towards Accession. Brussels, 8 November 2000.
+European Commission (2000f), 2000 Regular Report from the Commission on Cypruss
+Progress towards Accession. Brussels, 8 November 2000.
+European Commission (2000g), 2000 Regular Report from the Commission on the Czech
+Republics Progress towards Accession. Brussels, 8 November 2000.
+European Commission (2000h), 2000 Regular Report from the Commission on Estonias
+Progress towards Accession. Brussels, 8 November 2000.
+European Commission (2000i), 2000 Regular Report from the Commission on Hungarys
+Progress towards Accession. Brussels, 8 November 2000.
+European Commission (2000j), 2000 Regular Report from the Commission on Latvias
+Progress towards Accession. Brussels, 8 November 2000.
+European Commission (2000k), 2000 Regular Report from the Commission on Lithuanias
+Progress towards Accession. Brussels, 8 November 2000.
+European Commission (2000l), 2000 Regular Report from the Commission on Maltas
+Progress towards Accession. Brussels, 8 November 2000.
+European Commission (2000m), 2000 Regular Report from the Commission on Polands
+Progress towards Accession. Brussels, 8 November 2000.
+European Commission (2000n), 2000 Regular Report from the Commission on Romanias
+Progress towards Accession. Brussels, 8 November 2000.
+European Commission (2000o), 2000 Regular Report from the Commission on Slovakias
+Progress towards Accession. Brussels, 8 November 2000.
+European Commission (2000p), 2000 Regular Report from the Commission on Slovenias
+Progress towards Accession. Brussels, 8 November 2000.
+European Commission (2000q), 2000 Regular Report from the Commission on Turkeys
+Progress towards Accession. Brussels, 8 November 2000.
+European Commission (2000r), Green Paper: Towards a European strategy for the security
+of energy supply. Brussels.
+European Commission (2000s), Phare Annual Report 1998. Brussels.
+European Commission (EC) (2000t), 11th Annual Report of the Structural Funds (1999).
+Brussels.
+European Commission (2000u), Commission support to nuclear safety in the Newly
+Independent States and Central and Eastern Europe. COM(2000) 493 final, Brussels.
+European Commission (2000v), Proposal for a Directive of the European Parliament and of
+the Council on the promotion of electricity from renewable energy sources in the internal
+energy market. COM(2000)279 final, Brussels, 10.5.2000.
+European Commission (2001), information from website: http://inforegio.cec.eu.int/erdf
+Eurostat (2000a), Energy: Yearly statistics 1998. Luxembourg.
+Eurostat (2000b), Structures of the taxation systems in the European Union 1990-1997.
+Luxembourg.
+Federaal Planbureau (1999), Federaal Rapport  Duurzame ontwikkeling  Op weg naar
+duurzame ontwikkeling? Brussels.
+Federal Government of Belgium (2000), Federaal Plan inzake Duurzame Ontwikkeling
+2000-2004. Brussels.
+Finansministeriet (2001), information from website: www.fm.dk.
+Government of Greece (1997), Second National Communication of Greece to the United
+Nations Framework Convention on Climate Change. Athens.
+Greenpeace (1997), Energy Subsidies in Europe. How governments use taxpayers money to
+promote climate change and nuclear risk. Greenpeace International Climate Campaign,
+Amsterdam.
+IEA (1996a), Energy Policies of IEA Countries. Spain 1996 Review. OECD, Paris.
+IEA (1996b), Energy Policies of Slovenia. OECD, Paris.
+IEA (1997a), Energy Policies of IEA Countries. Turkey 1997 Review. OECD, Paris.
+IEA (1997b), Energy Policies of IEA Countries. Belgium 1997 Review. OECD, Paris.
+IEA (1997c), Energy Policies of Slovakia. OECD, Paris.
+IEA (1998a), Renewable Energy Policy in IEA Countries. Volume II: Country Reports.
+OECD, Paris.
+IEA (1998b), Energy Policies of IEA Countries. Austria 1998 Review. OECD, Paris.
+IEA (1998c), Energy Policies of IEA Countries. Denmark 1998 Review. OECD, Paris.
+IEA (1998d), Energy Policies of IEA Countries. Germany 1998 Review. OECD, Paris.
+IEA (1998e), Energy Policies of IEA Countries. Greece 1998 Review. OECD, Paris.
+IEA (1998f), Energy Policies of IEA Countries. United Kingdom 1998 Review. OECD, Paris.
+IEA (1999a), Energy Policies of IEA Countries. Italy 1999 Review. OECD, Paris.
+IEA (1999b), Energy Policies of IEA Countries. Finland 1999 Review. OECD, Paris.
+IEA (1999c), Energy Policies of IEA Countries. Ireland 1999 Review. OECD, Paris.
+IEA (1999d), Energy Prices and Taxes, 1st Quarter 1999. OECD, Paris.
+IEA (1999e), Energy Policies of IEA Countries. Hungary 1999 Review. OECD, Paris.
+IEA (1999f), Energy Policies of IEA Countries 1999. OECD, Paris.
+IEA (2000a), Coal Information (2000 Edition). OECD, Paris.
+IEA (2000b), Natural Gas Information (2000 Edition). OECD, Paris.
+IEA (2000c), Energy Policies of IEA Countries. Portugal 2000 Review. OECD, Paris.
+IEA (2000d), Energy Policies of IEA Countries. France 2000 Review. OECD, Paris.
+IEA (2000e), Energy Policies of IEA Countries. Sweden 2000 Review. OECD, Paris.
+IEA (2000f), Energy Policies of IEA Countries. Netherlands 2000 Review. OECD, Paris.
+IEA (2000g), CO2 emissions from fuel combustion, 1971-1998. OECD, Paris.
+IOPC Funds (2001), information from website: www.iopcfund.org . The International Oil
+Pollution Compensation Funds, London.
+Klarer, J., J. McNicholas, and E.-M. Knaus (eds., 1999), Sourcebook on Economic
+Instruments for Environmental Policy. Central and Eastern Europe. Sofia Initiative on
+Economic Instruments, Regional Environmental Center for Central and Eastern Europe,
+Szentendre, Hungary, April 1999.
+Michaelis, L. (1997), Electricity-Related Supports in the United Kingdom. In: OECD (1997),
+pp. 129-136.
+MICyT (1990(?)), National Energy Plan 1991-2000. Ministry of Industry, Trade an Tourism,
+Secretary General of Energy and Mineral Resources, Madrid.
+Ministerie van Economische Zaken (1999), Duurzame energie in opmars voortgangsrapportage 1999. The Hague.
+Ministerie van Financin (2000a), Miljoenennota 2001. The Hague.
+Ministerie van Financin (2000b), information from website: www.minfin.nl
+Ministerie van VROM (2000), Milieuprogramma 2001-2004. The Hague.
+Ministry of Industry, Trade and Tourism (1991), National Energy Plan 1991-2000. Madrid.
+Myers, N., and J. Kent (1998), Perverse Subsidies. Tax $s Undercutting Our Economies and
+Environments Alike. International Institute for Sustainable Development, Winnipeg.
+National Tax Board (2000), Excise duties. Stockholm.
+Novem (2001), information from website: www.novem.org/biofinance
+OECD (1997), Reforming Energy and Transport Subsidies. Environmental and Economic
+Implications. Organisation for Economic Co-operation and Development, Paris.
+OECD (1999a), Environmental Performance Reviews: Denmark. Organisation for Economic
+Co-operation and Development, Paris.
+OECD (1999b), Improving the Environment through Reducing Subsidies. Organisation for
+Economic Co-operation and Development, Paris.
+OECD (1999c), Consumption Tax Trends. 1999 Edition. Organisation for Economic Cooperation and Development, Paris.
+Roodman, D.M. (1996), Paying the Piper: Subsidies, Politics, and the Environment.
+Worldwatch Paper 133. Worldwatch Institute, Washington DC.
+Senter (2000), information from website: www.senter.nl
+Statistik sterreich (2000), Statistisches Jahrbuch 1999-2000. Vienna.
+Subventionsbericht (1999), Bericht der Bundesregierung ber die Entwicklung der
+Finanzhilfen des Bundes und der Steuervergnstigungen gem  12 des Gesetzes zur
+Frderung der Stabilitt und des Wachstums der Wirtschaft (StWG) vom 8. Juni 1967 fr die
+Jahre 1997 bis 2000 (17. Subventionsbericht). Deutscher Bundestag, Drucksache 14/1500, 13
+August 1999.
+Tosato, G. (1997), Environmental Implications of Supports to the Electricity Sector in Italy.
+In: OECD (1997), pp. 115-123.
+Umweltministerium (2000), Frderung von Massnahmen zur rationellen Nutzung der
+Energie und zur Nutzung erneuerbarer Energien. Luxembourg. http://www.mev.etat.lu/
+APPENDIX: ABBREVIATIONS
+ADEME
+ERDF
+ETBE
+FACE
+IOPC Funds
+Mtoe
+NFFO
+Agence de lEnvironnement et de la Matrise de lEnergie
+Austrian Schilling
+Belgian Franc/Frank
+Commissariat  lnergie atomique
+combined heat and power
+carbon dioxide
+German Mark
+Danish Krone
+European Community
+Electricit de France
+European Regional Development Fund
+ethyl tertiary butyl ether
+Spanish Peseta
+European Union
+Euro
+Fonds dAmortissement des Charges dElectrification
+Finnish Markka
+French Franc
+British Pound
+GigaJoule (109 Joule)
+Greek Drachme
+Gigawatt (106 kilowatt)
+Gigawatt hour
+International Energy Agency
+Irish Pound
+International Oil Pollution Compensation Funds
+Italian Lira
+kilowatt
+kilowatt hour
+megatonne oil equivalent
+Megawatt (1000 kW)
+Megawatt hour
+Non Fossil Fuel Obligation
+Dutch Gulden
+Petajoule (1015 Joule)
+producer subsidy equivalent
+Portuguese Escudo
+photo-voltaic (electricity from sunlight)
+Research and Development
+rapeseed methyl ester
+Special Drawing Right
+Swedish Krone
+Terajoule (1012 Joule)
+tonne oil equivalent
+Terawatt (109 kW)
+Terawatt hour
+value added tax

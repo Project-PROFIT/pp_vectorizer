@@ -1,0 +1,2105 @@
+THE BUSINESS COUNCIL FOR SUSTAINABLE ENERGY
+U.S. AGENCY FOR INTERNATIONAL DEVELOPMENT
+Increasing Energy Access
+in Developing Countries:
+The Role of Distributed Generation
+May 2004
+Sponsored by:
+U.S. Agency for International Development
+Bureau for Economic Growth, Agriculture and Trade (EGAT)
+Office of Energy
+Increasing Energy Access in Developing Countries: The Role of Distributed Generation
+The Business Council for Sustainable Energy
+Formed in 1992 following the Rio Earth Summit, the Business Council for Sustainable Energy
+(BCSE) is dedicated to promoting market-based approaches to reduce pollution and providing a
+diverse, secure mix of energy resources. The BCSE is comprised of companies and industry trade
+associations in the energy efficiency, natural gas, renewable energy, independent power and
+electric utility industries. Our membership includes companies on the cutting edge of efficient and
+environmentally sound fuels and technologies, such as natural gas, wind, solar and geothermal
+power, combined heat and power, insulation and fuel cells. The BCSE advocates the
+implementation of cost-effective programs and policies that recognize the environmental attributes
+of various energy sources and reduce reliance on imported fuels. Sister organizations have been
+formed in the European Union, United Kingdom and Australia.
+10 G Street, N.E., Suite 700, Washington, D.C. 20002
+Phone: (202) 785-0507 Fax: (202) 785-0514
+Website: www.bcse.org Email: info@bcse.org
+Acknowledgements
+This publication was made possible through the financial support provided by the U.S. Agency for
+International Development (USAID), Bureau for Economic Growth, Agriculture and Trade, Office
+of Energy. This publication was prepared by John L. Garrison on behalf of the BCSE under the
+direction of Lisa Jacobson, Michael Marvin and Sharon Singh. The Council wishes to
+acknowledge the contributions of Kevin Warr, Erik Streed and Walter Hall of the USAID Energy
+Office, and the following individuals: Lucien Bronicki, Ormatt International, Inc.; Mike Bergey,
+Bergey Windpower; William Howley, Winrock International; and Nancy Bacon, Ovonics/Energy
+Conversion Devices. The Council also wishes to acknowledge the extensive edits and comments
+provided by Michael Philips, Energy Ventures International; Edward Hoyt, Econergy International;
+and Scott Sklar, The Stella Group, Ltd.
+Disclaimer
+The opinions expressed herein are those of the author and do not necessarily reflect the views of
+USAID. Reference to any specific commercial product, process, or service by trade name,
+trademark, or manufacturer, does not necessarily constitute or imply its endorsement by the United
+States government or any agency thereof. A copy of this publication is available online at:
+http://www.bcse.org.
+ Copyright 2004 by the Business Council for Sustainable Energy. All rights reserved.
+Permission is granted to photocopy for internal reference. Reproduction is forbidden without the
+written permission of the Business Council for Sustainable Energy.
+Business Council for Sustainable Energy
+Table of Contents
+Distributed Generation in a Changing World
+Overview of Distributed Generation Technologies
+Off-Grid Remote Applications
+Consumer Benefits
+Grid-Side Benefits and Costs
+Environmental Impacts, Access to Finance and Economic
+Considerations
+Distributed Generation Regulatory and Policy Considerations
+The Advantages and Disadvantages of Distributed Generation for
+Developing Countries
+What is Distributed Generation?
+DG Applications
+DG Fossil Fuel Technologies
+Combined Heat & Power
+DG Renewable Energy Technologies
+Hybrid Energy Systems
+Key Policy Issues Facing Distributed Generation
+Performance, Safety and Maintenance Interconnect Issues
+Interconnect Procedures and Agreements
+Market Access and Structure
+Net Metering
+Electricity Pricing
+Connection and Standby Charges
+Codes, Permitting & Environmental Standards
+Economic and Financial Incentives
+Tax Incentives and Credits
+Buy-Down Programs
+Low Interest Loans, Credit and Guarantees
+Public Benefit Funds for Rural Electrification
+Investing in Human Capital, Education and Outreach
+Conclusion
+Bibliography
+Appendix 1
+World Bank Rural Electrification: Lessons Learned
+Appendix 2
+California Energy Commission - Key Policy and
+Regulatory Questions for Distributed Generation
+Increasing Energy Access in Developing Countries: The Role of Distributed Generation
+Tables
+Table 1.
+Developing Country Electrical Rates (%) and New Electricity
+Generation Capacity and Investment by Region
+Table 2.
+Incremental Transmission & Distribution Expansion Cost in
+$/kW of New Peak Load for Several Electric Utility Systems
+Boxes
+Box 1.
+Case Study: Sugar Mill Cogeneration in India
+Box 2.
+Case Study: Village Power Using Biofuel in India as a
+Replacement for Diesel
+Box 3.
+NREL Ten-Point Plan to Reduce Barriers to Distributed Generation
+Box 4.
+Latin America Power Sector Reform: Lessons Learned
+Box 5.
+Critical Elements for a Successful Financial Incentive Program
+Box 6.
+Case Study: Chiles Rural Electrification Program
+Abbreviations
+BCSE
+IEEE
+NREL
+OECD
+PM-10
+U.S.
+USAID
+WADE
+Business Council for Sustainable Energy
+National Energy Commission in Chile
+combined production of heat and power; often called co-generation when
+referring to industrial CHP
+carbon monoxide
+carbon dioxide
+distributed generation
+gigawatt (1 watt x 109)
+International Energy Agency
+Institute of Electric and Electronic Engineers
+kilowatt (1 watt x 1,000)
+kilowatt-hour
+megawatt (1 watt x 106)
+megawatt-hour
+nitrogen oxides
+non-governmental organization
+National Renewable Energy Laboratory
+Organization for Economic Co-operation and Development
+particulate matter
+Photovoltaic
+rural electrification
+sulfur oxides
+sulfur dioxide
+United Kingdom
+United States
+U.S. Agency for International Development
+The World Alliance for Decentralized Energy
+U.S. dollar
+Increasing Energy Access in Developing Countries: The Role of Distributed Generation
+Distributed Generation in a Changing World
+The massive power outages that occurred in the United States and Italy in the summer of 2003 have
+drawn attention to the fragility of electric transmission and distribution systems, even in the
+worlds most advanced energy systems. Such outages are common occurrences in developing
+countries where the power system failures are endemic. Transmission and distribution line losses
+in developing countries often run as high as 20 to 30 percent due largely to inadequate maintenance
+and investments in distribution systems. The financial viability of electric utilities in developing
+countries also remains constrained by improper billing, lack of payment, unauthorized connections
+and continued subsidies that often benefit customers who have the ability to pay.1
+Over 1.64 billion people worldwide (99 percent of them in developing countries) live without
+access to electricity. Four out of five of those are in rural areas2 and 80 percent are from South
+Asia3 and sub-Sahara Africa.4 Even in Latin America, where total electrification is much higher at
+86 percent, nearly half of those in rural areas still lack access to electricity.5 As the International
+Energy Agency (IEA) World Energy Outlook 2002 notes, the lack of electricity exacerbates
+poverty and contributes to its perpetuation, as it precludes most industrial activities and the jobs
+they create.6
+In an attempt to reduce energy costs, attract private capital and improve service, countries
+throughout Asia, Latin America and the Caribbean began opening their electricity markets to
+private investors in the 1990s.7 With the introduction of competition, governments started to
+privatize state owned utilities, unbundle energy production and distribution and create independent
+regulatory bodies. However, electricity reforms in these countries have advanced slowly and
+unevenly and independent electricity regulators remain inherently weak.8 Despite the advances
+made in Latin America and the Caribbean, for example, only 40 percent of the countries in the
+region have begun to privatize existing generation or distribution assets.9 Further, many of those
+countries that have restructured their electricity sectors, have failed to achieve the results desired
+largely due to a lack of adequate competition, the poor financial state of the electricity sector, and
+the inability of customers to pay the contracted tariff.10 In Brazil, the Dominican Republic and
+Georgia, the government has even been forced to buy back failed privatized utilities.
+IEA, ENERGY OUTLOOK 2002 at 384. In India one third of all of the electrical power is consumed by
+unauthorized connections. The figures are even higher in Kenya and other African countries. IEA, DG IN
+LIBERALIZED MARKETS at 113.
+IEA, ENERGY OUTLOOK 2002 at 373.
+South Asia is made up of Afghanistan, Bangladesh, India, Nepal, Pakistan and Sri Lanka.
+Sub-Sahara Africa includes all of Africa except North Africa  Algeria, Egypt, Libya, Morocco and
+Tunisia.
+IEA, ENERGY OUTLOOK 2002 at 377, 380 and 132.
+Id. at 33.
+Countries where restructuring is underway include Argentina, Bolivia, El Salvador, Nicaragua, the state of
+Orissa in India, Pakistan, the Philippines and some countries in Africa. Id. at 33 and Kozloff, Electricity
+Sector Reform in Developing Countries.
+Bacon, Robert, A Scorecard for Energy Reform at 4. A study of 115 developing countries conducted by
+the World Bank in 1999 found that Latin America and the Caribbean had undertaken 71 percent of the key
+reforms identified by the Bank, while only 17 percent of the countries in the Middle East and North Africa
+and 15 percent in Sub-Sahara Africa had carried out such reforms. Id.
+Id. See also, von der Fehr, Power Sector Reform at 365-366.
+Govt. of India, Report of the Committee on DG at 1.
+Business Council for Sustainable Energy
+Meanwhile, the continued deregulation of electricity markets in the U.S. and Europe, the energy
+shortages that resulted from the wholesale competition in California in the late 1990s, the rise of
+the digital economy (and the associated need for reliable power) and increasing local opposition to
+the construction of new transmission lines have contributed to a rise in developed countries of the
+use of distributed generation  electricity generation close to the point of use. Unlike conventional
+central power plants that produce 100 to 1000 Megawatts (MW) or more of electricity, distributed
+generation facilities are smaller, ranging in size from 10 watts (W) to 50 MW. Distributed
+generation, often referred to as DG, includes everything from conventional diesel generators and
+industrial cogeneration units to small solar photovoltaic (PV) systems. Distributed generation can
+be used for continuous power generation (either stand-alone or with grid backup); to power local
+mini-grids; to provide standby power to run during power outages or peak periods when electricity
+prices are highest; provide supplemental power to households; or to export power back to the
+electricity grid, helping reduce congested and overburdened distribution systems. The increased
+emphasis on distributed generation has also resulted from widespread advances in DG technologies
+and concerns over the environmental and climate change impacts of traditional electrical generation
+and distribution systems.11
+In the coming 30 years, demand for electricity in developing countries is expected to increase at an
+annual rate of 4.1 percent, nearly twice that of developed nations. Although rural populations
+without electricity are expected to gradually decline, rapid urban population growth will place an
+ever increasing strain on existing electrical generation, transmission and distribution systems.12 To
+meet this growing demand, the IEA estimates that 2,382 GW of new electrical generation capacity
+will be needed at a cost of $2.13 trillion. The IEA concludes that developing countries will also
+have to invest in: (1) the extension of the electricity grid in urban areas; (2) mini-grids in mediumsized settlements; (3) decentralized installations providing thermal, mechanical and electric power
+in rural areas; and (4) maintenance and upgrading of existing infrastructure.
+Table 1.
+North Africa
+Sub-Sahara
+Africa
+South Asia
+Latin America
+Brazil
+East Asia/China
+China
+Indonesia
+Middle East
+Developing
+Countries
+World
+Developing Country Electrification Rates (%) and New
+Electricity Generation Capacity and Investment by Region
+Cumulative
+Investment
+(billions $)
+2000-2030
+76.6
+51.1
+385*
+2,382
+338*
+2,130
+56.9
+4,821
+4,168
+2000
+Electrification
+Rate (%)
+2000 Urban
+Electrification
+Rate (%)
+2000 Rural
+Electrification
+Rate (%)
+90.3
+22.6
+34.3
+40.8
+86.6
+99.3
+51.3
+63.1
+68.2
+98.0
+79.9
+16.9
+30.1
+51.5
+86.9
+98.5
+81.0
+91.1
+64.2
+98.5
+85.6
+72.8
+91.2
+Source: IEA, WORLD ENERGY OUTLOOK 2002 at 377, 380 and 132.
+* Without China.
+Additional
+Capacity
+(GW)
+2000-2030
+1990
+Electrification
+Rate (%)
+IEA, DG IN LIBERALIZED MARKETS at 20.
+IEA, ENERGY OUTLOOK 2002 at 373, 377 and 383.
+Increasing Energy Access in Developing Countries: The Role of Distributed Generation
+With many developing countries struggling to make utilities economically sustainable and meet
+increased energy demand, the time is right for governments to re-evaluate their energy strategies
+and begin to take advantage of the possible benefits that DG can provide. New energy strategies at
+the local level are needed that reflect actual market and social conditions. Greater use of DG can
+help reduce peak loads and overall consumption, improve transmission and distribution reliability,
+reduce energy sector emissions, boost income for businesses that sell electricity to the grid, create
+jobs and broaden access to electricity in isolated areas where grid extension is uneconomical.
+One of the challenges facing governments of developing countries, is how to increase access to DG
+technologies and promote greater energy efficiency and conservation while still ensuring that the
+existing electric utilities (many of which are financially unstable) remain viable and competitive.
+Under current electricity market reforms, even in developed countries, the benefits of DG are
+largely unrecognized. Among the barriers faced by DG include costly equipment requirements,
+high connection fees, lack of grid access and lengthy approval processes. 13 In developing countries
+the capital costs for new technologies is often very high, which often results in undeveloped natural
+gas and DG project infrastructure (an essential component for DG growth). Renewable energy DG
+technologies in developing countries either dont exist or are in their early stages of market entry
+and local knowledge of such technologies is usually rudimentary. Price distortions and fossil fuel
+subsidies also make renewable DG technologies less competitive.
+Despite these challenges, developing country governments can begin to take a number of
+regulatory and financial measures to help level the playing field for DG and increase access to
+electricity in rural and urban areas. Governments can begin by standardizing technical and safety
+requirements for DG. A second step is to devise uniform interconnection standards to lower
+transaction costs for DG technologies and allow them to more fairly compete. Third, governments
+can ensure that DG receives non-discriminatory access to the distribution system and the ability to
+compete in the wholesale market for the provision of energy, reserve or ancillary services.14
+Fourth, governments should explore allowing customers with excess power from DG power
+systems to sell electricity back into the grid. The more access DG is provided, however, the more
+complex its management becomes. Regulators will need to address ways to adopt fair pricing
+systems that takes into account the grid-benefits of DG while fairly compensating utilities and
+distribution companies for other costs resulting from DG. Other barriers, such as cumbersome
+permitting and other regulatory requirements, including environmental impact issues, will also
+need to be addressed.
+Overcoming regulatory barriers is only part of the equation for increasing the use and application
+of DG technologies. Governments must also take an active role to help create market opportunities
+for the widespread adoption of DG through tax incentives and credits, buy-down programs, low
+interest loans and guarantees, and public benefit funds for rural electrification. In doing so,
+governments must take care to ensure that subsidies are directed at lowing capital costs and not
+used to cover operating expenses. Finally, developing countries should support the development of
+human capital and entrepreneurs. DG is not a cure all for developing country energy needs and
+problems.
+Nevertheless, with the right regulatory policies, incentives and government
+commitment, DG can help expand access to energy and provide numerous other ancillary benefits
+to developing countries.
+NREL, Making Connections at 34.
+IEA, DG IN LIBERALIZED MARKETS at 105-107.
+Business Council for Sustainable Energy
+Distributed Generation Applications and
+Technologies
+What is Distributed Generation?
+Distributed generation is the generation of electricity near the place of use or close to the load
+being served.15 Beyond this broad definition, there is no consensus on what constitutes distributed
+generation. Some regulatory bodies limit the definition to electricity generation near the place of
+use that is connected to the transmission or distribution system.16 The IEA defines distributed
+generation as a generating plant serving a customer on-site or providing support to a distribution
+network, connected to the grid at distribution-level voltages.17 Others limit the definition by size
+or type of generation.18 For purposes of this publication, distributed generation includes electricity
+generation or storage close to the point of use, including on-site generation that is connected to the
+distribution grid or a mini or micro-grid.19
+DG Applications
+Distributed generation includes both fossil fuel and renewable energy technologies and can be used
+for a variety of different purposes. For example, distributed generation can be a simple
+independent power source used for back-up power or a complex system that is connected to the
+electricity grid and involves electricity generation, energy storage and power management
+systems.20 The following are some of the different DG applications:
+1. Self-Sufficiency and Grid Independence. DG technologies can be used for continuous
+on-site customer electrical power generation to meet all of ones energy needs with or
+without grid connection. Grid connection is often desirable for backup power should the
+DG technology fail or during maintenance outages. This also includes mini-grid
+applications. Improved power quality and reliability are two of the primary drivers for onsite distributed generation. Off-grid, stand-alone power generation is also used for village
+and rural power applications in areas that are difficult to access and not served by the
+CAL. ENERGY COMM., DG STRATEGIC PLAN at 2. See also, Resource Dynamics Corp., at 28.
+The California Energy Commission defines distributed generation as: electric generation connected to
+the distribution level of the transmission and distribution grid usually located at or near the intended place of
+use. CAL. ENERGY COMM., DG STRATEGIC PLAN at 2.
+IEA, DG IN LIBERALIZED MARKETS at 10.
+The Public Utility Commission of Texass Distributed Generation Interconnection Manuel defines
+distributed generation and on-site distributed generation as: An electrical generating facility located at a
+customers point of delivery (point of common coupling) of 10 MW or less and connected at a voltage less
+than 60 kV, which may be connected in parallel operation to the utility system. PUBLIC UTILITY COMM. OF
+TEXAS at A1-3.
+This definition is similar to what the IEA defines as dispersed generation, distributed generation plus
+wind power and other generation, either connected to a distribution network or completely independent of the
+grid. IEA defines Distributed Power as distributed generation plus energy storage technologies such as
+flywheels, large regenerative fuel cells, or compressed air storage; Distributed Energy Resources as
+distributed generation plus demand-side measures; and Decentralized power as a system of distributedenergy resources connected to a distribution network. IEA, DG IN LIBERALIZED MARKETS at 19 and 20.
+The California Energy Commission defines a micro-grid as: A micro-grid is a grouping of small-scale
+generators that are owned and operated by energy users who are members of the micro-grid. The micro-grid
+is operated entirely in the customers own interests and has only one point of interconnection with the utility
+grid. CAL. ENERGY COMM., DG STRATEGIC PLAN at 15.
+Govt. of India, Report of the Committee on DG at 3.
+Increasing Energy Access in Developing Countries: The Role of Distributed Generation
+electricity grid.
+2. Supplemental Power. On-site generation can be applied to augment power from the grid.
+This can be out of the desire to provide standby or emergency power during grid outages.
+DG can also be used to reduce the amount of electricity purchased during peak pricing
+periods (peak shaving).
+3. Net Energy Sales or Metering.
+Customers who install distributed generation
+(homeowners, businesses or entrepreneurs) that produce excess on-site power can sell their
+surplus electricity back to the electricity grid, particularly during peak pricing periods.
+This is often called net metering.
+4. Combined Heat and Power or Cogeneration. Industrial processes or power generation
+can use captured waste heat to enhance energy efficiency and help meet a customers hot
+water, space heating or other thermal or cooling needs.
+5. Overall Load Reduction. Supplemental DG power and other energy efficiency and
+saving measures can also be used to reduce electricity consumption from the grid (demandside-management).
+6. Grid Support. DG can also be used by power companies to reduce congestion during
+high peak loads as a way to avoid having to invest in expensive line and sub-station
+upgrades.21
+DG Fossil Fuel Technologies
+Fossil fuel technologies remain the primary source of distributed generation in both developed and
+developing countries. The three primarily fossil fuel uses are: reciprocating engines, combustion
+gas turbines, and micro turbines, with the later still in the development stage. Most fossil fuel
+technologies run on natural gas or diesel. However, natural gas infrastructure is not always
+prevalent in many developing countries and the gas often has to be imported. Many fossil fuel
+technologies can have high emissions. Given the need for many countries to import fossil fuels,
+some developing countries are beginning to experiment with indigenous fuels that use modified
+combustion engines.
+Reciprocating Engines
+Reciprocating or internal combustion engines are the most widely used for DG applications, mainly
+for standby or emergency power for small industrial or commercial customers. This is due to their
+fast start-up time and wide availability.22 However, with high efficiency levels and low fuel costs,
+reciprocating engines can also be utilized for continuous power applications. Reciprocating
+engines include compression-ignited diesel and four cycle spark-ignited Otto engines.23
+Typical efficiencies range from 25 to 36 percent, although large modern diesel engines that are
+capable of running on heavy fuel oil or crude oil can attain electric efficiencies close to 50
+percent.24 Newer reciprocating diesel engines are capable of substituting diesel with 89 to 90
+percent gasoline or natural gas that emits fewer emissions. By recovering the heat from the
+See, Govt. of India, Report of the Committee on DG at 3-4 and Distributed Generation Applications at
+http://www/distributed-generation.com.
+USDOE, Review of CHP Technologies at 11.
+Resource Dynamics Corp. at 9.
+Id. at 7 and Petrie, E. at 5.
+Business Council for Sustainable Energy
+engines exhaust, approximately 70 to 80 percent of the fuels energy can be utilized.25 Average
+cost is between $200 to $350/kW for normal reciprocating engines26 and $800 to $1,500/kW for
+combined heat and power projects.27 Maintenance costs are $0.01 to 0.015/kWhr. Although
+reciprocating engines are widely available, inexpensive, and efficient, they have high maintenance
+requirements, and diesel units have a higher level of emissions.28
+Combustion Gas Turbines
+In OECD countries,29 gas turbines make up two-thirds of the 2000 orders of 20 GW distributed
+generation systems. Half of the orders are for standby units, 40 percent for continuous use and 15
+percent for peak capacity.30 Gas turbines range from 1 to 10 MW for onsite power generation, and
+they can operate using natural gas, synthetic gas and fuel oils.31 Simple cycle efficiencies are
+between 25 to 40 percent with newer combined cycle turbines. These combine a gas turbine with a
+heat recovery steam generator  typically above 25 MW  achieving electric efficiencies around 60
+percent. Capital costs range between $300 to $900/kW with average maintenance between $0.003
+to $0.005/kWhr.32
+Micro Turbines
+Micro turbines are 25 kW to 250 kW turbine engines that run on natural gas, gasoline, diesel or
+alcohol.33 Derived from aircraft auxiliary power systems and automotive designs, micro turbines
+have one or two shafts that operate at speeds of up to 120,000 revolutions per minute for single
+shaft engines and 40,000 rpm for duel shaft engines. Micro turbines are a relatively new
+technology and are only now being sold commercially. They have capital costs of $500 to
+$1,000/kW and electrical efficiencies of 20 to 30 percent.34 Their main advantage is their small
+size and relatively low NOx and CO2 emissions. Main markets include light industrial and
+commercial facilities that often pay higher prices for electricity.35 Their modest heat output can
+also be used for low pressure steam or hot water requirements.36
+Combined Heat & Power
+Combined heat and power (CHP, or cogeneration) can produce substantial cost savings for
+industrial and commercial users, providing an important source of additional electrical power, hot
+Petrie, E. at 5.
+USDOE, Review of CHP Technologies at 8.
+Resource Dynamics Corp. at 9.
+The Organization for Economic Co-operation and Development (OECD) includes Austria, Belgium,
+Canada, Denmark, France, Germany, Greece, Iceland, Ireland, Italy, Luxembourg, the Netherlands, Norway,
+Portugal, Spain, Sweden, Switzerland, Turkey, the United Kingdom and the U.S. IEA, ENERGY OUTLOOK
+2002 at 2.
+Id. at 15 and 31.
+USDOE, Review of CHP Technologies at 17.
+Id. at 15-18.
+Id. at 20.
+Petrie, E. at 3.
+USDOE, Review of CHP Technologies at 22. An assessment of distributed generation technologies
+prepared for the Maine Public Utilities Commission rated micro turbines as having a moderate fit for such
+distributed generation applications as continuous generation, combined heat and power and peaking. See,
+Resource Dynamics Corp. at 13.
+USDOE, Review of CHP Technologies at 22.
+Increasing Energy Access in Developing Countries: The Role of Distributed Generation
+water, low and high pressure steam consumption and cooling loads, while reducing energy
+consumption and lowering emissions.37 Apart from electricity generation, steam turbines can also
+be used to operate rotating equipment such as air or refrigeration compressors. In the state of So
+Paulo, the natural gas utility is providing incentives for natural-gas powered CHP as a way to
+increase market share.38
+Industrial applications provide the greatest potential for CHP in agriculture, forest products, lumber
+and wood products, paper and allied products, mining, glass, petroleum, chemicals and metals and
+food processing.39 In a study of the U.S. market, the following sectors were identified as having
+potential: colleges, universities and schools, district energy utilities, government, hospitals, solid
+waste (using landfill gas and biogas from sewage treatment facilities), office buildings, apartments,
+airports, prisons, supermarkets, nursing homes and warehouses.40 One advantage of combined
+heat and power is that it can be used with a wide array of technologies, including fuel cells. Gas
+turbines or reciprocating engines are the two primary technologies used for industrial, commercial
+or institutional end users.41 Another source is biomass fuels, such as bagasse from sugar cane.
+Box 1. Case Study: Sugar Mill Cogeneration in India42
+With policy support and promotional assistance from the Indian Ministry of Non-conventional Energy
+Source, the Indian Government, and USAID, state power boards began offering sugar mills 13-year power
+purchase contracts at a competitive price of $0.06/kWh, and a 50 percent reduction in interconnection fees.
+As a result, Indias sugar mills now produce and sell over 300 MW of electricity to state grids using a high
+pressure and temperature cogeneration process with bagasse, a renewable fuel and byproduct from sugar
+cane. An additional 400 MW surplus of exportable bagasse energy is in advanced stages of development
+and over 3,000 MW is planned for year-round cogeneration. The total development potential for bagasse in
+India is believed to be 5,000 MW. The benefits provided by Indias bagasse cogeneration program extend
+far beyond the additional electricity generated. From 1999 to 2000, four sugar mills alone offset 359,000
+tons of carbon dioxide emissions. The growth of electricity generation as a byproduct of sugar mills also
+creates jobs, fortifies rural and local economies, and helps avoid further migration to overcrowded cities.
+Economy of scale is important in CHP applications due to the amount of capital investment
+required. The higher the utilization rate the more economical CHP becomes. In OECD countries,43
+the capital costs to combine both power and heat production increase on average by 10 percent.
+This may well be higher in developing countries due to the increased cost of capital. Nevertheless,
+studies show that the additional costs are almost always recovered by the value of excess heat
+energy produced, sometimes in as little as two to five years.44
+One downside to CHP is that is it is very site specific due to the need for customers to use the
+process heat.45 Because developing countries tend not to be highly industrialized, they also do not
+have a large demand for the process heat, and where there is demand, it normally is in select
+Id. at 28-29.
+Interview with Michael D. Philips, Energy Ventures International, December 2003.
+Oak Ridge Nat. Lab., at 40.
+USDOE, The Market and Technical Potential for CHP at 5 and 14.
+USDOE, Review of CHP Technologies at 28-29.
+Winrock International, brochure and presentation at the 3RD INTERNATIONAL CHP AND DECENTRALIZED ENERGY
+SYMPOSIUM AND USAID INTERNATIONAL CONFERENCE AND EXHIBITION ON BAGASSE COGENERATION, at the Hotel Grand
+Inter-Continental, New Delhi, India (October 24-26, 2002).
+See Note 29 for a list of OECD countries.
+IEA, DG IN LIBERALIZED MARKETS at 40.
+Id. at 40-41.
+Business Council for Sustainable Energy
+regions of the country. There is particularly little demand for process heat in rural areas.
+DG Renewable Energy Technologies
+Experiences with renewable energy technologies (solar, wind, biomass, geothermal, small hydro
+and fuel cells) in developing countries have been mixed. India and China have aggressively
+promoted its development, with relative success. Nevertheless, many barriers continue to impede
+its development. Foremost is the high up-front cost of renewables compared with fossil fuel
+technologies. DG renewable technologies continue to be inhibited by fossil fuel and electricity
+subsidies that do not reflect the true cost of generation and transmission. The intermittent nature of
+some renewables  their dependency on the availability of wind, water, sun, or biomass resources 
+may further limit their use. As a result, DG renewable technologies require the use of energy
+storage devices, (usually batteries, which are expensive and require maintenance) or back-up
+power, most often diesel generators. Renewable DG technologies normally require resource
+assessments before installation and the provision of support services and replacement parts is not
+always readily available.
+There are, however, a number of benefits to renewables. Renewable DG technologies are not
+subject to fossil fuel price fluctuations.46 Renewables in a DG context will often have an advantage
+when applied in mini-grid or off-grid rural settings where power line extensions are too costly or
+where line construction will take considerable time to complete. In China, for example, small
+hydro and solar power have been successfully applied to run DG mini-grids. High peak energy
+prices can also make DG renewable energy economically attractive. Renewables also emit less
+pollution.
+Solar Power
+Solar energy is the direct conversion of sunlight into electricity using semiconductor materials
+called photovoltaic (PV) modules, of which there are roughly 30 different types. Three are under
+commercial production: monocrystalline modules are the most efficient; polycrystalline modules
+are less efficient but less expensive to produce; and thin-film modules, normally used for running
+consumer devices, are half as efficient as the best cells but far less expensive.47 Thin film PV
+technologies offer the advantage of providing lightweight and unbreakable panels on flexible
+substrates that can be integrated with the roof. Solar PV technologies can operate for up to 30
+years, and are used worldwide. The global PV market is currently growing at a rate of
+approximately 20 to 25 percent per year.48
+PV solar systems range in size from 50 watts to one kW for stand-alone systems (usually with
+battery storage) and 500W to five kW for grid-connected systems or larger remote water pump
+systems. A five-kW PV solar system can serve a village of 50 to 80 households. PV modules can
+also be integrated with diesel, wind and hydro systems and are cost-effective with other energy
+sources today in remote areas without access to electrical grids. PV panels are used for charging
+batteries in lanterns, village lighting, communications, refrigeration and water pumping. PV
+modules typically cost between $2.50 to $3.00/watt.49 For example, solar home systems for
+lighting and basic household uses in developing countries can be as low as $350 to install.
+However, home systems have been slow to catch on, even for middle and upper income rural
+The price of natural gas in Mexico in 2003 increased by nearly 40 percent.
+UNEP, Solar Electricity Fact Sheet.
+P.V. NEWS, March 2003.
+U.S. Department of Energy, Solar Energy Technology Roadmap.
+Increasing Energy Access in Developing Countries: The Role of Distributed Generation
+families, largely due to the lack of credit and poor installation and support systems.50
+Wind Power
+Wind turbines use the winds kinetic energy to produce electricity, through a gear box and
+generator, or to operate mechanical devices, such as water pumps.51 Small wind turbines range in
+size from 900W to 50 kW. Wind power is a proven technology and is used in more than 30
+countries. It is estimated that small-wind power is available in 75 percent of the world. China
+alone has installed over 150,000 small wind turbines.52 The availability of wind speed data is vital
+for determining the feasibility of wind projects. Although wind energy is intermittent, it is
+nevertheless a predictable resource that can be integrated into the electrical grid or used in minigrid, often with other energy sources, such as solar or diesel generators.53 In remote locations,
+variable speed wind turbines can be used to help stabilize distribution networks.54 Small wind
+turbines with only two to thee moving parts are mechanically simple, rugged, reliable, and last up
+to 50 years. They require virtually no maintenance and can be used off-grid for pumping and
+treating drinking water, irrigation, telecommunications, homes, schools, clinics or for
+supplementing larger village power systems. A village wind power system that provides up to 500
+kWh per month ranges in cost from $15,000 to $25,000, with larger systems prices as high as
+$150,000.55 A 7.5 kW wind turbine and battery charging station that supplies electrical power to
+40 homes in Tomenas, in Timor costs each family approximately $2.40 per month.56
+Biomass and Biofuels
+Biomass energy comes from wood chips, aquatic plants, corn cobs and stalks, rice hulls, nut shells,
+orchard prunings, alcohol, sugarcane bagasse and vegetable oils, and municipal and animal waste
+(biogass). Biomass energy is produced either through direct combustion (usually solids in furnaces
+or boilers), through anaerobic digestion (accelerating the natural conversion of biomass into
+methane-rich biogas for use as a gaseous fuel), gasification (the physical or chemical conversion of
+biofuels into secondary gaseous compounds used as a fuel), or chemical or biochemical conversion
+(using yeast to decompose carbohydrates such as starches in grains, sugar cane juice or molasses to
+produce methanol, ethanol or other liquid fuels).57
+Biomass power plants range in size from four kW to as large as 50 MW and have tremendous
+potential in developing countries. In India alone, Winrock International estimates that 19,500 MW
+can be generated from fuel wood and crop residues and bagasse from the sugar industry.58
+According to the World Alliance for Decentralized Energy (WADE), with the right tariff structure
+bagasse has the potential to provide sugar mills around the world with heat and power and still be
+able to export anywhere from 60 to 80 percent of the power generated. 59 The conversion of sugar
+Id. See also, Cscar, J.C. Database of State Incentive for Renewable Energy (DSIRE)
+http://www.dsireusa.org; February 2004
+UNEP, Wind Power Fact Sheet.
+Bergey, Small Wind Systems for Rural Energy. See also, Bergey, Small Wind Systems for Village Power:
+An Update.
+UNEP, Wind Power Fact Sheet. Utilities can normally accommodate 20 to 40 percent of its generation
+capacity from intermittent wind sources. Id.
+See: http://www.bergey.com and http://www.wind-power.com.
+Bergey, Small Wind Systems for Rural Energy.
+See, ARMSTRONG, A. J., RE POLICY MANUAL at Appendix A and UNEP, Bioenergy Fact Sheet.
+See, http://www.renewingindia.org/biogs.html.
+WADE, Future of Environmentally Responsible Energy Systems.
+Business Council for Sustainable Energy
+cane to alcohol in Brazil is beginning to compete with gasoline, although the countrys alcohol fuel
+program has relied on substantial subsidies over the years. Biogass plants also require sufficient
+space and a constant fuel source.60
+Biomass is also an excellent source of power for remote village applications. A number of
+commercial companies, including Ormat International and Community Power Corporation,
+manufacture small stand-alone biomass units from 4 to 15 kW for village power applications.
+Ormats new Biomass Fuel Power Unit E4V, for example, is a self-contained, fully automatic
+power system that can be skid-mounted and operated by local farmers using various types of
+biomass and agricultural residue.61 The Community Power Corporation has also developed a biopower battery charger that uses a gasifier to operate a free-piston Stirling engine generator. The
+company is also working to develop systems that produce clean gas from biomass to power fuel
+cells and micro-turbines. 62 As the following case study below demonstrates, innovative uses of
+biomass crops, such as switch grass and plant extracts are increasingly being used as a replacement
+for diesel fuel.
+Box 2. Case Study: Village Power Using Biofuel in India as a Replacement for Diesel63
+In the remote village of Chalpadi in the Indian State of Andhra Pradesh, oil extracted from the seeds of the local
+pongamia pinnata tree is being used as biofuel to run an off-the-shelf diesel engine that provides power to a communityrun village electrification micro-grid. The town originally received the diesel engine from the Indian government as
+part of its rural electrification program, but when the cost of diesel became prohibitive, the town turned to the idea
+extracting oil from pongamia seeds as a source of fuel to power the generator instead of diesel.
+Villagers now pay for the operation of the generator and their electricity by collecting the seeds needed to make the
+biofuel. A womens self-help group responsible for the operation and maintenance of the engine levies a weekly tariff
+of 7 kilograms of pangamia seed per family. In April 2003, the town of Chalpadi sold 900 tons of carbon-dioxide
+equivalent verified emission reductions to Germany. The sale, which was facilitated by former World Bank economist
+Dr. Emmanuel DSilva, fetched the community $4,164.00, equal to a years worth of income for every family in the
+village.
+The state government has plans to replicate the project in some 100 villages. In addition, the federal government of
+India is actively encouraging biofuel production sources from pongamia and other oilseed-bearing tree species. The
+next phase of the Indian project is to form womens associations that will produce the seed, process the biofuel, and use
+the fuel to power irrigation pumps. The womans associations will then sell water to local farmers as a woman-owned
+business enterprise.
+Geothermal
+Geothermal power uses the natural heat from the earths interior to drive a turbine generator and
+produce electricity. Direct geothermal energy is used in 60 countries for commercial purposes,
+such as agricultural (mainly greenhouse heating), aquaculture (fish pond heating) and industrial
+processes.64 Although geothermal energy is generally not considered a distributed resource, as it
+normally provides large base loads of up to 100 MW connected to the electricity grid, small
+geothermal energy systems can be used for mini-grid applications. Smaller geothermal energy
+plants of less than 5 MW are in use in China, Mexico and Thailand and have potential in Central
+and Latin America, the Caribbean, East Africa and the Philippines.
+Govt. of India, Report of the Committee on DG, at 32.
+These include rice husks, maize cobs, coffee husks and pulp, sugarcane tops, wood chips and sawdust.
+For more information visit: http://ormat.com and http://www.gocpc.com.
+Erik Streed, USAID, EGAT. For further details on the program, contact ehdesilva@hotmail.com.
+UNEP, Geothermal Fact Sheet.
+Increasing Energy Access in Developing Countries: The Role of Distributed Generation
+Small-sized units are readily available in 250 and 500 kW steam units.65 A 300 kW geothermal
+power plant built by Ormat in Fang, Thailand not only generates electricity but also uses the spent
+hot water to operate a cold storage house and a crop dryer. Costs for geothermal energy plants in
+the 1 to 5 MW range are between $0.05 to $0.07/kWh, while smaller geothermal electrical systems
+are higher, between $0.105 to $0.30/kWh. The cost of geothermal energy competes with that of
+diesel in the 100 to 1000 kW size range.66 Unlike intermittent technologies, geothermal energy
+provides constant power at 80 percent capacity or higher.
+Small Hydro
+Hydropower converts falling water into electrical energy or mechanical energy. The amount of
+power provided by the falling water is a function of the vertical distance the water drops (the head)
+and the volume of the water passing through the turbine. For example, 50 cubic meters of water
+falling 10 meters (a low head application) represents the same energy potential as 10 cubic meters
+of water falling 50 meters (a high head application).67 Brazil defines small hydro as 1,000 to
+30,000 kW installed capacity, mini-hydro as 100 to 1,000 kW and micro-hydro as up to 100 kW.68
+Small hydro systems require a turbine, generator, water-flow controllers and a structure to house
+the equipment.69
+Depending on its size, the construction of a small hydroelectric project can take between two to
+three years at a cost of $1,000 to $5,000/kW, 45 percent of which is for equipment, 27 percent for
+labor, 15 percent for development and 13 percent for infrastructure. Sites with a fast water flow
+(high head) will usually require smaller and less expensive turbines and equipment. While most
+hydroelectric projects use a storage reservoir to supply water to the turbine, run-of-river systems
+capture the energy in the water by placing a special turbine in the river. Such systems are
+susceptible to low water flow, however. Well-planned small hydro systems have minimal
+environmental consequences and a project life of 20 to 30 years.70 The life-cycle cost of a small
+hydro project is between $0.05 to $0.15 kWh. There are extensive opportunities for small hydro in
+Southeast Asia and Latin America.
+Fuel Cells
+Power from fuel cells is created through an electrochemical process with (no moving parts) that
+uses hydrogen (usually derived from natural gas) and oxygen to produce a DC current, heat, water
+and carbon dioxide. There are presently four types of fuel cells being developed for electrical
+power generation: (1) phosphoric acid fuel cells; (2) molten carbonate fuel cells; (3) solid oxide
+fuel cells; and (4) proton exchange membrane fuel cells. Phosphoric acid fuel cells have a 40
+percent energy efficiency and are presently on the market mostly in the 200 kW range. Molten
+carbonate fuel cells and solid oxide fuel cells produce high temperatures and have 60 percent
+efficiency. Proton exchange membrane fuel cells operate at lower temperatures and are used for
+small-scale operations.71
+Fuel cell efficiency can reach as high as 85 percent with combined heat and power applications.
+Fuel cell and gas turbine hybrid systems are also being developed (see hybrid discussion below).
+Vimmerstedt, L. at 21.
+Id. at 114-115 and 117.
+UNEP, Small Hydro Fact Sheet.
+Winrock, Trade Guide on Renewable Energy in Brazil at 32.
+UNEP, Small Hydro Fact Sheet.
+USDOE, STRATEGIC PLAN FOR DISTRIBUTED ENERGY at 15. See also, Resource Dynamics Corp. at 18.
+Business Council for Sustainable Energy
+The main barrier to fuel cells is their cost which range from $1,000 to $1,150 per kW with
+operating costs estimated at $0.08 to $0.10/kWh. Fuel cells emit very low levels of nitrogen oxides
+(NOx), sulfur oxides (SOx), carbon monoxide (CO), and carbon dioxide (CO2) when hydrogen is
+extracted from natural gas or other hydrocarbon fuels.
+Hybrid Energy Systems
+Hybrid power systems are those that use more than one generation technology. CHP systems,
+discussed above, are but one example of hybrid systems. Hybrids can include any combination of
+renewable and fossil fuel generation technologies or different renewable sources, such as wind,
+solar and small-hydro, which are normally combined with battery storage. Hybrid systems are
+capable of providing reliable grid quality AC power sufficient to support standard appliances,
+such as refrigerators.
+One hybrid system under development is the use of fuel cells and gas turbines. These highly
+efficient systems eventually will be able to produce 30 MW or more of electrical power at a 70
+percent efficiency.72 Because wind and PV solar power systems are intermittent, hybrid systems
+can allow one technology to distribute power when the other is idle. For example, wind or minihydro and solar PV modules often have seasonal compatibility. During summer months there is
+generally less wind and water but lots of sun, while in the winter there tends to be more wind and
+water and less sun.73 For low load applications, a small 1.2 kW wind/solar hybrid system capable
+of producing between 3 to 5 kWh per day can be installed by two people in less than a day at a total
+cost of approximately $5,900.74 These systems are easy to ship and can operate in adverse terrain.
+Villages throughout the world run diesel generators for three to six hours a day, providing
+electricity only during evening hours. Wind/diesel or Wind/solar/diesel hybrid systems, however,
+can provide electricity 24 hours per day and are ideal for village mini-grid applications. Existing
+diesel mini-grid systems, for example, can be retrofitted with larger size AC type induction
+generator wind turbines. Typically, renewable energy in a hybrid system will supply between 60
+and 80 percent of the energy with diesel generators running as little as 10 percent of the time. One
+downside to such systems is the necessary watering of the battery banks, which represents an
+operational burden.75
+The Advantages and Disadvantages of Distributed
+Generation for Developing Countries
+Distributed generation offers a number of different benefits for power consumers, generators,
+distribution companies, independent power producers and society as a whole. For one, it offers
+consumers more efficient, reliable and flexible power at a reasonable cost. In addition, it can
+provide utilities and distribution companies with a number of ancillary services, such as reduced
+congestion and lower transmission and distribution losses.76 However, there are also technical and
+safety issues associated with DG technologies that negatively impact utilities.77
+USDOE, STRATEGIC PLAN FOR DISTRIBUTED ENERGY at 16.
+Bergey, Small Wind Systems for Rural Energy.
+Id. See also, Bergey, M. and Trudy Forsyth.
+IEA, DG IN LIBERALIZED MARKETS at 40 and Onsite Sycom Energy Corp. at 12. IEA defines ancillary
+services as reserve and reactive power and the control of the frequency and voltage of electricity. IEA, DG IN
+LIBERALIZED MARKETS at Note 17.
+Arthur D. Little, Inc. at 7.
+Increasing Energy Access in Developing Countries: The Role of Distributed Generation
+Off-Grid Remote Applications
+One area where renewable DG technologies can excel is in rural applications where consumption is
+low and the distance to the nearest distribution center is high. Most off-grid opportunities for
+distributed generation are in Africa, Asia and select areas in Latin America, with Asia accounting
+for largest off-grid population. Deciding between grid connection and the use of DG technologies
+depends on a variety of technical, managerial and economic considerations that must be evaluated
+on a case by case basis.78 Recent studies conducted by the World Bank suggest that a majority of
+off-grid populations can be served most economically through grid extension.79 Nevertheless,
+much depends on the load requirements of a given area and the cost of expanding transmission and
+distribution lines. As Table 2 below indicates, these costs can vary considerably, ranging anywhere
+from $40 to $2,000 per kW of new peak load with a wide gap between rural and urban systems.80
+For example, solar power in Kenya has been found to be more economical than grid-supplied
+electricity when located 9 kilometers or more from the electricity grid.81 Similar figures exist for
+Nepal. Other studies have shown solar and the adoption of energy efficiency measures to be costeffective when compared with extending residential lines as little as  mile.82
+Table 2.
+Incremental Transmission & Distribution Expansion Cost in
+$/kW of New Peak Load for Several Electric Utility Systems83
+Utility
+$ / kW
+Europe  North Central Urban System
+Unites States  Northeast
+Unites States  Southeast
+Unites States  Central Plains
+Unites States  West Coast
+Central America  Urban System
+Central America  Rural System
+Caribbean
+Southeast Asia  Urban System
+Southeast Asia  Rural System
+High
+$ / kW
+2000
+Because consumption levels in rural areas are often low with the primary use being for lighting,
+DG technologies are often initially the most appropriate option. DG home systems or mini-grids in
+rural areas can be very attractive, particularly when there is a low electricity load requirement. A
+recent comparison between the cost of providing low load electrical services through an 80
+kilometer extension of the grid to a rural population center versus using distributed solar home
+systems, found that the break-even point was slightly above 7,000 customers.84
+Even when grid extension is determined to be the most cost effective or appropriate given a
+populations electrical power needs, DG technologies may still be an interim solution that can be
+rapidly applied. This is particularly true for critical services such as water pumping and
+purification, healthcare, lighting, telephone, computer and internet services. Once the grid is
+Govt. of India, Report of the Committee on DG at 47-48. These include the distance from the grid, the
+amount of system losses, the load density and management issues.
+Interview with Michael D. Philips, Energy Ventures International, December 2003.
+Petrie, E., Table 2 citing WILLIS, H. L., DISTRIBUTED POWER GENERATION.
+Winrock, Electricity on Demand at 22.
+Moskovits, D. at 17.
+Petrie, E., Table 2 citing WILLIS, H. L., DISTRIBUTED POWER GENERATION.
+Ellegrd, A., Solar Service is Rural Infrastructure at 7-8.
+Business Council for Sustainable Energy
+extended, distributed generation technologies can be moved and re-used elsewhere.
+The use of distributed generation in remote areas also has the added advantage of enhancing the
+quality of rural life.85 According to the World Bank, the benefits of decentralized energy are often
+under-counted.86 The World Bank notes that the economic benefits of electricity may be difficult
+to measure on the basis of the cost of substitutes. For instance, because electric lighting provides
+an order of magnitude improvement over lighting from candles and kerosene, electric light is much
+more than a simple replacement for kerosene.87 Distributed generation can reduce the time
+women and children spend collecting water and improve health through water treatment devices
+and the electrification of clinics.88 Access to electricity helps improve security, allow participation
+in community and school activities and extend work hours. It also helps improve a communitys
+access to information and promotes a sense of being part of the modern world.89
+Studies show that rural electrification by itself does not necessarily trigger economic development
+unless other prerequisites of sustainable development exist, such as markets for farm produce,
+transport infrastructure, education, skilled labor and communication services.90 The one exception,
+however, is the use of electricity for pumping water for irrigation that often leads to agricultural
+growth and improved food security.91 Distributed generation is particularly suited for water
+pumping applications. Other examples of productive DG applications include the use solarpowered lighting in India for pest control and micro-hydro in Nepal for grinding grain.92
+Consumer Benefits
+Increased Power Quality, Greater Flexibility and Lower Costs
+Voltage fluctuations in the electricity grid and blackouts are responsible for large economic losses
+and increased production costs for goods and services.93 Even in advanced grids, such as in the
+United States, there are widespread surges, swells and transients that hurt sophisticated controls,
+sensing, communications and computing equipment. In developing countries, these power swings
+are even more extreme, negatively impacting industry, healthcare providers and businesses that
+rely on computers and require high quality power.
+Winrock, Electricity on Demand at 18. See also, World Bank Operations Department, Rural
+Electrification.
+Cecelski, E., Enabling Equitable Access to Rural Electrification.
+World Bank Operations Department, Rural Electrification.
+Cecelski, E., Enabling Equitable Access to Rural Electrification at 30.
+See, UTONIH, S. P., POWER SECTOR REFORMS at iii.
+See, World Bank Operations Department, Rural Electrification; Cecelski, E., Enabling Equitable Access
+to Rural Electrification at 22; and Ellegrd, A., Solar Service is Rural Infrastructure at 8. The World Bank
+notes that [r]ural electrification should ideally be introduced in areas where there is already a demand for
+electricity-using services  usually where there is agricultural growth, rural businesses and rural incomes.
+Sanghvi, A., Rural Electrification: Lessons Learned.
+Winrock, Trade Guide on Renewable Energy in Brazil at 6. See also, World Bank Operations
+Department, Rural Electrification.
+Id. Higher loads are required for machine and craft shop electrical uses which are usually obtained either
+from diesel or a wind/solar/diesel hybrid mini grid system. Wind and small hydro may also be capable of
+providing such loads under proper conditions.
+WADE, The Real Benefits of Decentralized Energy at 2. See also, Lamech, R.. Most power outages are
+the due to failures in the distribution system. The U.S. Department of Energy estimates that the cost to
+business of one hour without power can range from $41,000 for a cellular communications firm to $6.5
+million for a brokerage firm. IEA, DG IN LIBERALIZED MARKETS at 48-49 and Table 5.
+Increasing Energy Access in Developing Countries: The Role of Distributed Generation
+In response to the poor power quality and high costs, households, apartment complexes and
+companies in developing countries are increasingly resorting to distributed generation to provide
+uninterrupted or standby emergency power to protect them against the risk of power outages and
+avoid high electricity prices.94 In many instances, distributed generation can help bring down the
+cost of electricity when one takes into account true delivery costs and line losses.95 Self-generation
+in developing countries accounts for 13 percent of all power generated. The percentage of self
+generation in Africa is even higher, equaling 25 percent of all electrical power.96
+Flexibility is another important attribute of distributed generation.97 When DG is readily available
+it can respond rapidly to inadequate distribution of electrical power and fuel price fluctuations.
+Newer generators can also operate using multiple types of fuel, including fuels generated from biogasification98 (see section on Biomass energy below). DG can also be deployed by a wide range of
+market participants from end-use customers and businesses to utilities and energy service
+companies.99
+Reduced Demand and Peak Shaving Benefits
+Distributed generation can be operated to reduce energy consumption, shave peak power demand,
+or both.100 In liberalized electricity markets, large customers often pay time-of-use rates where the
+energy charge varies according to season (e.g., summer has higher electricity demands than
+winter), time of day (mid morning to late afternoon is more expensive) and to the day of the week
+(workdays are more expensive than weekends or holidays).101 Particularly during peak periods,
+distributed generation can be used to hedge against volatile prices. In many instances, DG
+technologies may be cheaper than peak time-of-use rates.102
+Grid-Side Benefits and Costs
+Siting, Planning and Construction Benefits
+Distribution systems in many developing countries are already capacity-constrained. With 95
+percent of population growth over the next 30 years destined to take place in urban areas, there is
+an urgent need to boost power and upgrade and expand distribution lines. System upgrades in
+urban areas, however, require much greater investment per kilowatt than more standard generation
+To ensure a smooth transition from grid power to on-site power generation, electric storage and switching
+equipment is used. CAL. ENERGY COMM., DG STRATEGIC PLAN at 2. For example, industries with
+continuing manufacturing processes (chemicals, paper and others) or that provide essential services (banks,
+telecommunications, data storage and retrieval, hospitals, grocery stores) increasingly depend on reliable
+uninterrupted power supply. IEA, DG IN LIBERALIZED MARKETS at 48-49.
+WADE, Future of Environmentally Responsible Energy Systems.
+Kozloff, Electricity Sector Reform in Developing Countries.
+IEA, DG IN LIBERALIZED MARKETS at 38.
+Petrie, E., at 2.
+Arthur D. Little, Inc. at 2. The flexibility of DG also means that it is compatible with market-driven
+industry restructuring policy objectives.
+CAL. ENERGY COMM., CAL. INTERCONNECTION GUIDEBOOK at 34. For example, in Texas, renewable
+energy that is installed for self generation purposes, and reduce[s] a customers net purchase of energy
+(kWh) and/or electrical demand (kW) is classified as a renewable demand side management technology. Id.
+The use of solar thermal water heaters is but one example.
+Onsite Sycom Energy Corp. at 6.
+Onsite Sycom Energy Corp. at 6.
+Business Council for Sustainable Energy
+and transmission improvements. 103 Engineering solutions based on the central power plant model
+can also take years to design and install. Small DG systems can take between six and 18 months to
+plan and install compared with an average of three to five years for a large independent gas power
+plant.104 Strategically placed, distributed generation can not only provide additional power but also
+prolong the life of overburdened distribution systems, thereby avoiding the need for costly
+upgrades. The modular nature of DG technologies and the relative speed with which they can be
+deployed means that they can be brought on line quickly and incrementally as the population
+grows.105
+Increased Reliability
+Greater use of distributed generation can also increase the reliability of the electricity grid. When
+numerous sources of distributed power generation are connected to the electricity grid the impacts
+of one or more of the DG systems failing has less of an overall impact on the entire system.
+Similarly, the ability for DG to sell power to other consumers in the same distribution network also
+increases its value and allows utility customers to contract for backup power.106
+Transmission and Distribution Benefits
+The IEA estimates that the loss of electricity from transmission and distribution lines world-wide in
+1999 equaled 9.5 percent of the total global electricity supply.107 Transmission losses in
+developing countries are much higher, ranging from 12 percent in the Philippines, to 20 percent in
+Cameroon and Zimbabwe, and to as high as 32 percent in Nigeria.108 Transmission and distribution
+of electricity account for 30 percent of the cost of electricity in OECD countries and 40 percent of
+the costs for small household consumers.109
+Because distributed generation is located close to the end-user (either connected to the electricity
+grid or as stand-alone power), it can avoid or reduce transmission and distribution costs and free-up
+space on congested distribution systems.110 For example, when strategically placed along the
+distribution system near large loads, DG can reduce distribution line losses by lowering power
+demand. The reduction in transmission system congestion can at least temporarily reduce the need
+to upgrade transmission and distribution systems.111 DG generation can also raise the voltage in
+the network, thus enhancing stability and improving the overall quality of the energy supply.112
+Arthur D. Little, Inc. at 1.
+Petrie, E. at 1 and Figure 1.
+Petrie, E. at 2.
+Id. See also, WADE, The Real Benefits of Decentralized Energy at 2 and IEA, DG IN LIBERALIZED
+MARKETS at 39.
+WADE, The Real Benefits of Decentralized Energy.
+IEA, ENERGY OUTLOOK 2002 at 383.
+IEA, DG IN LIBERALIZED MARKETS at 33. See also, Moskovits, D. at 3. In the U.S., the average
+distribution rate is $0.025 per kilowatt-hour (kWh) but marginal distribution system costs can reach as high
+as $0.20 per kWh. A study of 124 utilities in the U.S. found that the average marginal transmission costs
+(transformers, substations, lines and feeders) were in excess of $700 per kW. Id.
+Petrie, E. at 1. See also, WADE, Future of Environmentally Responsible Energy Systems.
+IEA, DG IN LIBERALIZED MARKETS at 40 and 48. See also, CAL. ENERGY COMM., DG STRATEGIC PLAN
+at 6. The UK regulator, Ofgem, calculated that the embedded benefits of distributed generation (transmission
+network use of system charges avoided (demand and generation); balancing system use of system charges
+avoided; transmission losses charges avoided; balancing system administrative costs avoided; and avoided
+trading charges) were between $2.80 to $4.10 (USD). IEA, DG IN LIBERALIZED MARKETS at 79.
+IEA, DG IN LIBERALIZED MARKETS at 40 See also, CAL. ENERGY COMM., DG STRATEGIC PLAN at 6.
+Increasing Energy Access in Developing Countries: The Role of Distributed Generation
+The export of electricity to the grid during peak periods is not only beneficial to the distributed
+generator but to energy service providers that are relieved from having to generate and distribute
+high cost power. In Mexico, high tariff rates have encouraged the supply of DG power to private
+consumers during peak hours. While the program has been successful in helping reduce
+congestion, one downside has been in the inability of the Mexican Federal Electricity Commission
+to control the amount of DG power provided into the system. Another issue is that almost all the
+power has come from diesel generators with no pollution controls.113
+Utility Considerations
+One drawback to the grid-side benefits of DG is that they are very location specific and difficult to
+measure and quantify. Utilities and distribution companies tend to view customer-side DG with
+skepticism, seeing it as a temporary solution. Utilities contend that for grid-side benefits to be
+meaningful they must be incorporated into long-term planning for transmission and distribution
+systems. Because utilities are responsible for system reliability they argue that they have control
+over DG equipment, either through contracting or direct dispatch control (the ability to switch
+systems on and off).114
+In addition, not all of DGs end results are positive. In some instances utilities must install
+equipment to handle reverse power flows from DG electricity exported to the grid.115 The export of
+power from remote distributed generation locations can also lead to losses in the distribution
+system.116 Similarly, while the rise in voltage from adding electricity to the network can be
+beneficial, it can also require connections at higher voltages or transformer upgrades to improve
+voltage control. In Denmark, for example, a substantial increase in distributed generation reduced
+loading on 132kV and 150 kV transmission systems but required the expansion of high-voltage
+systems (400 kV).117
+The connection of DG to the electricity grid also raises technical, safety, power quality and
+dispatch issues (see section 4 below). While the use of DG for self generation or to meet peak
+power demand will have little impact on the electricity grid, the more DG power that is dispatched
+into the distribution system the greater the operational complexity for utilities and distribution
+companies.118 Another issue is the ability of the utility to rely on DG power when it is needed.
+Bagasse cogeneration, for example, is only available at certain times of the year (e.g., during sugar
+processing after harvest). Even with the addition of DG power, utilities may decide that they have
+to add new capacity to ensure a reliable power supply.
+The interconnection of DG equipment to the grid also raises questions regarding the appropriate
+costs for providing electricity to augment DG loads or backup power during DG equipment
+failures, or for the export of DG power back into the electricity grid. An Arthur D. Little White
+Paper notes that Transaction costs per unit of energy could also increase from DG market activity
+and settlements, since they are generally dependent on the number, rather than size, of
+Adding electricity to the network normally causes the voltage to rise which is a benefit when there are low
+voltage levels. IEA, DG IN LIBERALIZED MARKETS at 73-74, 94.
+Interview with Alejandro Peraza Garcia, Director General of Electricity, Mexico Energy Regulatory
+Commission, September 19, 2003. Mr. Peraza may be reached at: aperaza@cre.gob.mx.
+Arthur D. Little, Inc. at 7-8.
+IEA, DG IN LIBERALIZED MARKETS at 40.
+Id. at 73-74, 94.
+Arthur D. Little, Inc. at 11.
+Business Council for Sustainable Energy
+transactions.119 Another factor is the loss of revenue by the utility. Most utilities view DG as
+competition and are opposed to seeing their customer base eroded. Governments may also have
+concerns over lost utility revenues that must be recovered either through a tariff increase or a
+subsidy from the government (i.e., from taxpayers). The issue of revenue loss for developing
+country utilities is particularly important as many utilities are already financially unstable. Lost
+revenue may not be an issue if the utility can sell its power to other customers or if DG is installed
+to meet excess demands that the utility would otherwise not be able to meet. But even when a
+utility is able replace a customer, the new customers may not be equally credit worthy.120
+Environmental Impacts, Access to Finance and Economic
+Considerations
+Environmental Impacts
+Distributed generation also raises important environmental issues. Fossil fuel DG technologies, for
+example, emit varying levels of emissions, including nitrogen oxides (NOx), sulfer dioxide (SO2),
+carbon monoxide, carbon dioxide, particulate matter (PM-10) and unburned hydrocarbons. DG can
+also have noise, visual and land use impacts, particularly when used in densely populated urban
+areas.121 In India, for example, the most common use of DG has been on diesel generators, which
+are highly polluting.122 Similarly, other fossil fuel DG technologies, including gas turbines, are
+unable to compete environmentally with the low emissions levels from large combined-cycle
+natural gas fired plants with state-of-the-art pollution control technology.
+Proponents of DG note that distributed generation rarely displaces only one technology, such as
+natural gas.123 They contend that since DG tends to displace a mix of new and existing power
+generation with higher average emissions, environmental benefits are usually obtained.124
+Gradually, developing country governments are becoming more sensitive to regional and global
+environmental concerns and are increasingly acknowledging the need to diversify their energy
+resources.125 An important question for policy makers is how to reduce the use of more polluting
+DG technologies and promote cleaner renewable DG technologies that are almost always more
+expensive.
+DG Finance and Access to Local Capital
+Securing financing for energy projects in developing countries is no easy task and is one of the
+major barriers to its development. Following the demise of Enron, many international energy
+companies sold their foreign energy assets in developing countries and have limited their overseas
+investments. When private investment is made, it normally occurs in power generation and not
+transmission and distribution, and often requires a 20 percent or higher return on investment due in
+part to the high level of risk. Moreover, foreign direct investment is not equal for all nations. For
+example, Africa and South Asia only receive one quarter of all foreign investment in energy.126
+Arthur D. Little, Inc. at 11-15.
+Industry and businesses that are best positioned to install DG technologies are often the most
+creditworthy.
+NARUC, Review of Utility Interconnection Tariff and Contract Provisions at 4-7.
+Govt. of India, Report of the Committee on DG at 6.
+Bluestein, J., Environmental Benefits of Distributed Generation at 10.
+Armstrong, A. J., Trends in Renewable Policies in Latin America at 2-3.
+IEA, ENERGY OUTLOOK 2002 at 381.
+Increasing Energy Access in Developing Countries: The Role of Distributed Generation
+One reason is that distributed generation projects generally have higher upfront capital costs
+($/kW) and production costs ($/kWh) than larger central power plants, due to their smaller size.
+For DG renewable technologies, a higher ratio of capital costs to operating costs also requires long
+term financing at reasonable rates.127 In most developing countries financiers are less familiar with
+DG renewable technologies, project developers often lack extensive project experience and
+renewable technologies and therefore lack a successful track record that Banks can point to. All of
+this results in higher completion and operating risks, which increase the cost of capital.128
+While the financial challenges size will continue to be an impediment, because of their size DG
+projects in developing countries may be better positioned to access domestic capital markets, while
+larger central power projects will almost always need some international finance.129 A case in
+point is Java and Bali in Indonesia, where disputes have flared between the government and
+independent power producers. As a result, international lenders and even multilateral agencies,
+such as the Asian Development Bank, have stopped investing in Indonesias power sector. It is
+estimated that Indonesia needs $28.5 billion in investments by the year 2010 just to keep up with
+electricity demand.130
+With, the state-owned power company, PLN, cash-strapped and unable to finance new projects, the
+government is turning to distributed generation from the private sector to help alleviate power
+shortages. There is 6,800 MW of captive power available from companies that were forced to
+build their own generation plants in the early 1990s to meet their need for consistent power. The
+government is also initiating an aggressive demand-side-management campaign to reduce
+consumption. Meanwhile, domestic banks are beginning to show increased interest in investing in
+the countrys power sector due to the high demand.131
+Economic Benefits
+Greater use of distributed generation can have a positive impact on developing country economies
+and employment.132 Central station power generation is one of the most capital intensive
+industries. Nevertheless, it is also one of the least labor intensive. The expansion and growth of
+DG technologies can help create manufacturing and energy service jobs.133 Aggressive government
+support for renewable technologies in India in the late 1990s led to a rise in domestic wind-turbine
+manufacturing, mainly through joint ventures with foreign partners.134 Expanded use of DG, such
+as cogeneration from bagasse in India and Brazil, has made their sugar industries more efficient
+and brought in extra revenue through the sale of excess electricity to the grid (see India bagasse
+case study above).
+Since most distributed generation technologies rely in some form on fossil fuels, their overall
+impact on diversification fuel supply will be very limited.135 Nevertheless, greater use of combined
+Younger, D. R., The World Bank Group and Finance of Sustainable Energy Activities. Combined heat
+and power, on the other hand, normally has a relatively short payback period of between two to five years,
+and the cost per kWh is often much less than central power. Onsite Sycom Energy Corp. at 12.
+Younger, D. R., The World Bank Group and Finance of Sustainable Energy Activities.
+Onsite Sycom Energy Corp. at 12.
+Winrock, Renewable Energy State of the Industry Report # 9 at 24-26.
+NARUC, Review of Utility Interconnection Tariff and Contract Provisions at 4-8.
+Martinot, E., Government Policies and Private Finance at 51.
+IEA, DG IN LIBERALIZED MARKETS at 93. IEA notes that even the hydrogen for fuel cells will likely
+come from natural gas. Id.
+Business Council for Sustainable Energy
+heat and power results in lower fossil fuel consumption, and renewable DG technologies, such as
+photovoltaic cells, wind, biomass, geothermal and small-hydro, can help reduce dependency on
+natural gas, even if in relatively small quantities.136 Because renewable energy DG is locally
+available, it is not subject to price and supply fluctuations as is the case with fossil fuels.137 Since
+most developing countries must import their fossil fuel, increased use of renewable technologies
+can help keep local currency in the country and lead to improved balance of payments.138
+Distributed Generation Regulatory and Policy
+Considerations
+Key Policy Issues Facing Distributed Generation
+The barriers facing distributed generation, particularly for smaller projects, have been well
+documented in the U.S. and elsewhere. Financial barriers resulting from higher capital and upfront costs are but one. A study undertaken by the U.S. Department of Energy and National
+Renewable Energy Laboratory (NREL) distributed generation projects also found three other
+barriers to be prevalent: technical, business-practice and regulatory.139 These barriers included
+costly equipment requirements, high connection fees and lengthy approval processes that often
+prevented smaller distributed generation projects from being developed. Box 3 below provides a
+ten-point plan prepared by NREL to reduce barriers to DG deployment.
+Box 3. NREL Ten-Point Plan to Reduce Barriers to Distributed Generation140
+Technical Barriers
+1. Adopt uniform technical standards for interconnecting distributed power to the grid.
+2. Adopt testing and certification procedures for interconnection equipment.
+3. Accelerate development of distributed power control technologies and systems.
+Business Practice Barriers
+4. Adopt standard commercial practices for any required utility review of [DG grid] interconnection.
+5. Establish standard business terms for interconnection agreements.
+6. Develop tools for utilities to assess the value and impact of distributed power at any point on the grid.
+Regulatory Barriers
+7. Develop new regulatory principles compatible with distributed power choices in both competitive and utility
+markets.
+8. Adopt regulatory tariffs and utility incentives to fit the new distributed power model.
+9. Establish expedited dispute resolution processes for distributed generation project proposals.
+10. Define the conditions necessary for a right to interconnect.
+The IEA notes that the overall impact of distributed generation on supply diversification is limited since
+most DG technologies fun on some form on fossil fuel. Even the hydrogen for fuel cells will likely come
+from natural gas. IEA, DG IN LIBERALIZED MARKETS at 93.
+Winrork, Electricity on Demand, at 18. Even countries with petroleum resources can expand their hard
+currency revenues by conserving fossil fuels through increased use of renewable technologies.
+Bronicki, L. Y. ORMATs Experience in Implementing Geothermal Projects.
+NREL, Making Connections at 34.
+NATIONAL RENEWABLE ENERGY LABORATORY, MAKING CONNECTIONS  CASE STUDIES OF INTERCONNECTION
+BARRIERS AND THEIR IMPACT ON DISTRIBUTED POWER PROJECTS at 37 (NREL/SR-200-28053, May 2000).
+Increasing Energy Access in Developing Countries: The Role of Distributed Generation
+The challenge for policy makers is how to formulate a workable regulatory and policy framework
+that values the benefits of distributed generation and reduces industry, market and economic
+barriers to development while still protecting the grids infrastructure and ensuring that new power
+sources do not threaten the financial viability of existing facilities.141 Even though developing
+countries are at different stages of electricity reform, there are a number of measures that can be
+taken to promote greater use of distributed generation. See Appendix 2 for a useful list of policy
+and regulatory questions pertaining to the promotion and use of distributed generation.
+Performance, Safety and Maintenance Interconnect Issues
+Distributed generation involves both physical and market interface issues.142 Physical interface
+issues include questions regarding safety, protocols, system impacts, reliability, standards and
+metering.143 There are three ways in which distributed generation physically interfaces with the
+electric utility: (1) parallel operation  when a DG facility provides some or all of its required
+power while connected to the utility distribution system or exports excess generation back to the
+utility; (2) momentary parallel operation or closed transition switching  when a distributed
+generator operates in parallel with, and synchronized to, the utility long enough to ensure a smooth
+transition from the utility (normally one second or less); and (3) isolated operation  when the
+distributed generator does not operate in parallel with the utility.144
+Any time an entity is connected to the electricity grid, system integrity, reliability and safety issues
+arise. To be connected to the grid, a control system on the distributed generator is required for the
+dispatch of electricity along with a communication system to initiate start-up in real-time. The
+control system can be operated by the customer, retail company, distribution company or an
+independent systems operator. Electricity markets and interconnect standards were not originally
+designed to accommodate the connection of small DG to the grid. Interconnect standards and
+procedures were originally developed within the context of a vertically integrated and regulated
+monopoly structure and applied only to large customized DG installations ranging from 5 to 50
+MW.145 To this day, utilities tend to deal with distributed generation on a case-by-case basis. The
+technical and regulatory requirements applied to DG are often complex, time consuming and
+costly. Nevertheless, utilities and distribution companies are often reluctant to simplify these
+processes due to safety and reliability concerns.
+Interconnect Procedures and Agreements
+In the U.S. a number of states have sought to overcome technical barriers to distributed generation
+by adopting pre-certification standards for certain DG equipment, thus ensuring adequate
+performance and safety.146 The U.S. Department of Energy, working under the auspices of the
+Arthur D. Little, Inc. at 2 and 26.
+Market interface refers to the competitive market relationship between distributed generation and other
+electricity suppliers. See, Arthur D. Little, Inc. at 11.
+Id. at 10.
+CAL. ENERGY COMM., CAL. INTERCONNECTION GUIDEBOOK at 29. In Texas a facility that parallels with
+the electric utility for 60 cycles or less is called close transition switching while California refers to it as
+momentary parallel operation. See, The Public Utility Comm. of Texas, Distributed Generation
+Interconnection Manual at A2-10 citing The Public Utility Commission of Texas Rules 25.212 (g),
+Technical Requirements for Interconnection and Parallel Operation of On-Site Distributed Generation.
+Arthur D. Little, Inc. at 13.
+The states of California, Texas and New York have developed standards and procedures to address
+technical and safety issues pertaining to distributed generation.
+Business Council for Sustainable Energy
+Institute of Electric and Electronic Engineers (IEEE), is developing a Draft Standard for
+Distributed Resources Interconnected with Electric Power Systems (IEEE P1547). Draft 11 of
+P1547 was passed by IEEE in June 2003. The final standard will address conditions necessary for
+the operation, testing, safety and maintenance of interconnected distributed resources. Standards
+make it easier for DG users and equipment manufactures to obtain swift review and compliance.
+California, Michigan, Minnesota, New York and Texas have also developed their own DG
+interconnection standards. The Public Utility Commission of Texas and the California Energy
+Commission have both published DG interconnection manuals with technical and safety
+requirements, application forms, pre-certification requirements, and, in the case of California, a
+database of certified equipment.147 Texas and California also use model interconnect agreements.
+Standard interconnect procedures and agreements have also been developed by the National
+Association of Regulatory Utility Commissioners148 and the Federal Energy Regulatory
+Commission.149
+The resolution of interconnect issues is critical because it establishes technical ground rules and
+credibility for distributed generation in the subsequent phases of policy development.150 The first
+step in designing such a policy is to develop technical and safety requirements that address quality
+issues, disconnect switches, minimum power factor requirements, and metering, monitoring and
+telemetry requirements.151 A second step is to devise uniform interconnection standards and
+procedures to lower transaction costs. As in the case of Texas, rules and procedures should specify
+the pricing for transmission and distribution services and tariffs for back-up power, and set time
+limits for processing applications. Rules should also provide for dispute resolution procedures.152
+Finally, on-site equipment testing procedures to verify compliance with the technical requirements
+should also be established by the appropriate regulatory commission.
+Market Access and Structure
+With streamlined interconnection procedures, regulators can decide under what terms and
+conditions DG will be allowed access to the electricity grid, and how to meter and pay for such
+access. In a vertically integrated electricity market, distributed generation either displaces
+electricity from the grid or exports electricity back to the grid. Normally, this involves a long-term
+contract with the utility that includes special charges for backup power, ancillary services and the
+exported electricity.153
+See, The Public Utility Comm. of Texas, Distributed Generation Interconnection Manual; California
+Energy Comm., California Interconnection Guidebook.
+See, NARUC, Model Distributed Generation Interconnect Procedures and Ohio State University, Model
+DG Interconnection Procedures.
+In July 2003, the Federal Energy Regulatory Commission (FERC) issued a final rulemaking on standard
+interconnection agreements and procedures for large generators (FERC Order RM02-1-000), and a proposed
+rulemakings for small generator interconnection agreements and procedures (FERC Order RM02-12-000).
+See, http://www.newrules.org/electricity/interconnect.html.
+Arthur D. Little, Inc. at 14.
+NARUC, Model Distributed Generation Interconnect Procedures at 1-11. See also, Ohio State
+University, Model DG Interconnection Procedures.
+Interconnection and parallel operation distributed generation agreements are short and range from six to
+ten pages in length.
+IEA, DG IN LIBERALIZED MARKETS at 75.
+Increasing Energy Access in Developing Countries: The Role of Distributed Generation
+Treatment of DG in a liberalized wholesale electricity market is not much different than under a
+regulated monopoly.154 In Texas, for example, owners of DG can sell electricity to the utility at
+wholesale, but not to other end-users. The price for power is determined through a negotiated
+contract.155 Electricity market liberalization exposes generators and consumers to variable
+electricity prices and generally encourages more economically efficient generation. In developed
+countries, this is normally due to short construction lead times, low capital costs, flexibility in
+operation and ability to expand output.156
+Nevertheless, wholesale liberalization by itself does not ensure that DG receives nondiscriminatory access.157 In his article, Electricity Sector Reform in Developing Countries:
+Implications for Renewable Energy, Dr. Keith Kozloff, formerly of Hagler-Bailly (now PA
+Consulting) notes that: Compared with long-term power purchase agreements based on full costs
+incurred over a projects life, spot generation markets weaken the incentive to invest in distributed
+renewables whose costs must be covered over a period of several years.158 In many developing
+countries increased privatization and liberalization of the electricity market has resulted in shorter
+power contracts, increased borrowing costs and the need to obtain higher rates of return.159 A
+recent report released by the New England Demand Response Initiative concludes that significant
+market barriers to cost-effective active load management [which includes the use of distributed
+generation] and energy efficiency investments will remain, even in conditions of active wholesale
+competition.160
+Government intervention is needed to ensure that rules and procedures provide DG fair and nondiscriminatory access to the distribution system and improve the ability to compete in the
+wholesale market for energy, reserve or ancillary services.161 Wholesale market trading rules also
+should be designed to facilitate greater participation by smaller generators in such markets.162 DG
+proponents also argue that in order for them to be economically efficient, retail markets should be
+liberalized to allow DG energy producers and customers direct access (also known as retail
+wheeling or customer choice) through the distribution system.163
+Id. at 78.
+NARUC, Review of Utility Interconnection Tariff and Contract Provisions at 4-2.
+IEA, DG IN LIBERALIZED MARKETS at 76 and 82.
+Id. at 77-78.
+Kozloff, Electricity Sector Reform in Developing Countries at 8.
+Nilsson, L. J., Public Benefits In Power Sector Reform at 6. See also, Nilsson, L. J., et. al., Public Benefit
+and Power Sector Reform at 12-13.
+New England Demand Response Initiative, Dimensions of Demand Response at 2. See also, Weston, F.,
+State Electricity Regulatory Policy and Moskovits, D. at 1. The report notes that: Although competition
+was supposed to open markets and opportunities for distributed resources, form the perspective of these
+resources, power sector restructuring has been more like sector destructuring. Breaking the industry into
+separate entities subject to different jurisdictions has made it harder for distributed resource vendors and
+users to see the full value of distributed resources. Id.
+IEA, DG IN LIBERALIZED MARKETS at 105-107. An important consideration for regulators in a debundled
+electricity market (where generation, transmission, distribution and retail services are separated), is whether
+to allow distribution companies to own and operate distributed generation facilities (thereby becoming a
+power generator). Distribution companies in the U.S., for example, are experimenting with using distributed
+generation to provide ancillary services. Proponents argue that distribution companies are the best suited to
+identify where distributed generation can be used to the benefit of the customer and the distribution network.
+Others fear that allowing distribution companies to be allowed to have ownership of distributed generation
+might give them additional market powers and access to customers. One option is to allow distribution
+companies the right to solicit bids for distributed generation within its system. Arthur D. Little, Inc. at 8-9.
+IEA, DG IN LIBERALIZED MARKETS at 105-107.
+Id. at 77 and 102. See also, http://www.brooksassoc.com/rates.html.
+Business Council for Sustainable Energy
+Under direct access or retail wheeling, electricity that is owned by a power supplier (DG or
+otherwise) is sold to a retail consumer over transmission and distribution lines owned by a third
+party. A wheeling fee is charged by the owners of the lines for the use of the transmission and
+distribution system. A special committee on distributive generation in India recommends that
+wheeling prices should be related to reasonable levels of transmission and distribution losses of
+the State Electricity Boards while ensuring that the Boards do not incur financial losses. Direct
+access provides consumers with additional power supply options and creates more competition for
+power producers.
+Given that market liberalization in most developing countries is still in its early stages, DG grid
+access will likely operate in a more regulated context, at first through contracts with the utility or
+distribution company (see Net Metering below). Governments should facilitate DG power
+generation by industrial users, particularly the use of combined heat and power, and where possible
+the sale of excess power back to the grid during peak periods. DG growth in remote areas, through
+the establishment of micro-grids and home systems, also has tremendous potential. Gradually, as
+developing country electricity markets become more competitive and sustainable, DG can be
+allowed to compete with electric utilities in wholesale and perhaps eventually in retail markets.
+With greater market access, however, also comes increased structural, operational and price
+complexities that will have to be managed by independent regulators.164
+Net Metering
+One policy mechanism for promoting small distributed generation is the use of net metering,
+sometimes called net billing. Originally developed for a vertically integrated utility, net metering
+allows customers to sell electricity from small distributed generation to the local distribution
+company at (or close to) the retail price.165 New, more sophisticated metering technologies are
+capable of tracking usage and sales by time of day. A total of 30 states in the U.S. have adopted
+net metering for electric utilities in various forms. Net metering prices can vary by customer class
+(commercial, residential, etc.), size (systems up to 10 or 100 kW), system or fuel type (renewables,
+cogeneration, including fuel cells) and be limited by a maximum size allowed, or number of
+customers per geographic area.166 For example, net metering is sometimes limited to only the
+electricity sold back to the distribution system that exceeds the amount of electricity consumed by
+the customer in a given billing period (often called net excess generation). The sale of electricity
+back to the grid is often at retail prices.
+But net metering has its limitations. In India, state electricity boards that are required to buy back
+electricity from biomass and wind power projects at a fixed rate complain that prices they are
+required to pay are eroding their profitability.167 The IEA has concluded that it is not economically
+efficient and has the potential to distort markets.168 Texas, which allows excess power from
+distributed generation to be sold into competitive markets, determined that net metering was not
+compatible with open retail competition.169 A report prepared by the Embedded Generation
+Working Group in the UK, found that a detailed cost-benefit analysis was needed before setting net
+metering tariffs.170
+IEA, DG IN LIBERALIZED MARKETS at 76.
+See, NARUC, Review of Utility Interconnection Tariff and Contract Provisions at 4-10 and 5-2.
+Id. at 4-11.
+Govt. of India, Report of the Committee on DG at 56.
+IEA, DG IN LIBERALIZED MARKETS at 86-87.
+NARUC, Review of Utility Interconnection Tariff and Contract Provisions at 4-11.
+IEA, DG IN LIBERALIZED MARKETS at 87.
+Increasing Energy Access in Developing Countries: The Role of Distributed Generation
+Electricity Pricing
+Another barrier to distributed generation is the utility tariff rate.171 With interconnection standards
+and expedited interconnect procedures for DG in place, developing country governments will need
+to adopt appropriate market signals to take into account the complete range of benefits provided by
+distributed generation. While DG should be allowed to fairly compete with central power, it must
+also bear its fair share of the costs imposed on the transmission and distribution system.172 A
+number of different factors need to be taken into account when developing an appropriate tariff and
+fees system for distributed generation.
+In many instances DG can bring down the cost of electricity when one takes into account true
+delivery costs and line losses. The World Alliance for Decentralized Energy (WADE) argues that
+the standard metrics used to determine the cost of electricity  capital per kW of new electricity
+generation and cost per kWh to generate electricity  do not capture all the costs, especially the
+transmission and distribution costs, of delivering a kWh of electricity. 173 A study commissioned
+by the National Association of Regulatory Utility Commissioners in the U.S. found that most
+utilities agreed that the expanded use of DG can help reduce energy costs.174 The potential for
+similar cost savings exist in developing countries as well.
+According to WADE, the following pricing principles should be followed:
+1. Electricity system pricing should be fully cost-reflective, with no cross
+subsidies from one part of the system to another.
+2. Use of transmission and distribution networks should be priced according to
+the services they provide.
+3. Any benefits that generators (including decentralized energy) provide to the
+system (for example, voltage support, grid stability, and reduction in
+transmission and distribution losses), should be fairly reflected in system
+pricing.
+4. Generators should be charged fees in a fair and transparent way for their
+system impacts and no more.175
+The low electricity tariffs and price subsidies in developing countries are among the biggest
+hurdles that DG will have to face. Presently, privatization in many developing countries has been
+put on hold and government owned electric utilities remain in dire financial difficulty, while those
+that have been privatized struggle to survive. A book recently published by the Inter-American
+Development Bank on power sector reform in Latin America found that while some improvements
+have resulted from market reforms, the electricity sector is still plagued by low efficiency, cross
+subsidies, insufficient tariffs to cover costs, and poor prospects for new investment.176 Until such
+time as regulators are capable of imposing and collecting tariffs to cover the costs of the electric
+utility system, the sale of DG through the electricity grid will likely be minimal.
+NREL, Making Connections at 36.
+Arthur D. Little, Inc. at 14.
+WADE, Future of Environmentally Responsible Energy Systems.
+NARUC, Review of Utility Interconnection Tariff and Contract Provisions at 4-8.
+Brown, M., A New Blueprint for Decentralized Energy at iii-v. While there is general consensus that
+distributed generation can provide grid-side benefits, there is disagreement over the economic value that
+such benefits provide. See, Arthur D. Little, Inc. at 7.
+Von der Fehr, Power Sector Reform at 335. See also, Powell, S.
+Business Council for Sustainable Energy
+Box 4. Latin America Power Sector Reform: Lessons Learned177
+Introducing more realistic price signals is a difficult but key challenge for the power sectors of Colombia,
+Guatemala and Honduras. Without such signals, new investment cannot be financed, supply capacity will
+be exhausted, and the power sector will continue to drain government finances. Political support must be
+mustered to allow for price adjustments. A starting point might be to eliminate certain cross subsidies,
+especially those that reach middle- or higher-income groups. Measures to increase price flexibility should
+be targeted primarily at larger customers that will probably be willing and able to negotiate prices on
+reasonable terms. Eventually, greater use of the pricing instrument should be allowed across all market
+segments.
+Location Based Pricing
+Rate structures do not normally take into account the varying costs of providing distribution
+services.178 The IEA recommends that location-based pricing mechanisms be adopted to provide
+incentives to establish DG units along the distribution system where they can reduce overall costs
+and line losses and relieve congestion.179 The less electricity delivered the fewer earnings for
+distributors.180 The key is ensuring that there is also an incentive for distributors.
+Allocating the economic benefits and costs of DG requires reliable data on the generation,
+transmission and distribution systems.181 One place to start is by requiring utilities to undertake a
+cost-benefit analysis of their distribution facilities to assess areas where the local benefits of DG
+might exceed the costs of upgrading or constructing new distribution lines.182 In New South Wales,
+Australia, for example, regulators require the distribution utility to maintain a list of all major
+distribution upgrades, areas with the worst reliability records and the load reductions needed to
+avoid upgrades. If poor performing areas are not due to be upgraded, they are candidates for
+distributed generation. Another location-based pricing mechanism is the use of financial credits for
+DG installed in a designated area of the distribution grid where upgrades are needed.183 The credit
+is a function of the cost savings and is limited in duration and amount. A three-step pilot program
+for implementing distribution credits has been prepared by NREL.184 Distribution companies could
+also be allowed to solicit bids for DG services within the system and award a capacity contract to
+the bid that proves to be more economical than line required upgrades.185
+Peak Pricing
+Exposing customers to higher costs during peak periods is another means of encouraging the
+development of DG or reducing demand when the network is most overloaded. This, coupled with
+special peak tariffs to promote the sale of DG power back into the grid, can also relieve
+Von der Fehr, Power Sector Reform at 351.
+Arthur D. Little, Inc. at 9.
+IEA, DG IN LIBERALIZED MARKETS at 105-107. When transmission pricing does not vary by location
+(so called postage-stamp), there is no incentive to locate new generating capacity to relieve congestion.
+Id. at 80. The IEA notes, however, that location based pricing systems are both complex and costly. Id. at
+IEA, DG IN LIBERALIZED MARKETS at 85.
+See, Shirley, W., Distribution System Cost Methodologies for Distributed Generation.
+Brown, M., A New Blueprint for Decentralized Energy at iv. See also, Moskovits, D. at 5-8.
+Moskovits, D. at 5.
+Arthur D. Little, Inc. at 9.
+Increasing Energy Access in Developing Countries: The Role of Distributed Generation
+congestion.186 Similarly, congestion pricing where load customers pay a tariff for distribution
+services, can also be used, although it is more difficult to implement.187
+Connection and Standby Charges
+An important question facing DG is how to fairly charge for the use of the distribution system.
+Connection charges often serve as a barrier to distributed generation. In the UK, DG generators
+pay an up-front fee for the cost of connecting to the grid  often called a deep connection charge.
+The fee takes into consideration location-based pricing and obviates the need for any additional
+distribution fees. The Netherlands, on the other hand, charges DG only for the direct costs of
+connecting to the grid. Larger distributed generation is also assessed an additional systems fee.
+The IEA recommends the use of a direct connection charge for new distributed generation
+connected to the grid and allowing distribution companies to issue fees to recover any grid
+reinforcement costs that result from DG providers.188
+In the U.S., many utilities apply what are known as standby charges to DG facilities. These are
+usually a monthly demand charge ($/kW) that is associated with the fixed cost of the transmission
+and distribution system.189 Standby charges also serve to compensate the utility for the supply of
+electricity to replace or supplement a customers usual source of DG power or to provide backup
+during unscheduled outages. Many utilities complain that the standby charges are too low. Critics
+counter, however, that the fees imposed by utilities are excessive and based on worst-case
+scenarios. The true cost of providing standby power is difficult to assess on a customer-bycustomer basis.190 Nevertheless, it is a matter that must be addressed in a balanced and equitable
+manner.
+Another issue is whether utilities should be compensated for stranded costs  costs for previous
+generation, transmission and distribution investments that are not needed because customers are
+self-generating with DG. Utilities seek to recoup these costs by imposing competitive transition
+charges (CTC). When customers leave the grid or reduce their loads through the use of distributed
+generation, utilities will often charge an exit fees to make up for the lost sales.191 Normally state
+restructuring laws or the state public utility commission set the CTC or exit fee. Such fees are
+often based on a customers historical load usage. They can either be issued in a one-time lump
+sum payment or paid over time.192 Utilities contend that customers who install DG unfairly shift
+the burden of paying for stranded costs on other utility customers, who must make up the loss by
+paying higher fees.
+IEA, DG IN LIBERALIZED MARKETS at 86.
+Another advanced tool is demand response, that is, active load management by customers to enhance
+market efficiency and system reliability coupled with energy efficiency investments to lower market
+clearing prices, improve reliability and lower overall costs. Like congestion pricing, however, demand
+response requires real-time market information, something developing countries almost never have. See,
+New England Demand Response Initiative, Dimensions of Demand Response at 2. For a discussion of
+technical factors influencing demand side management service pricing strategies, see California Energy
+Comm., Distributed Generation Case Studies at 177.
+See, IEA, DG IN LIBERALIZED MARKETS at 83-84.
+Arthur D. Little, Inc. at 18.
+Id. at 19-20.
+See, NARUC, Review of Utility Interconnection Tariff and Contract Provisions at 4-9.
+See, the Energy and Environmental Analysis, Inc. web site http://www.eea-inc.com for a state by state
+review of exit fee requirement and other DG issues in the U.S.
+Business Council for Sustainable Energy
+These fees, however, can have a significant effect on the economic viability of a DG project.
+Critics argue that such fees act to limit market competition from more efficient and cost-effective
+DG sources. Opponents also add that the amount of DG installed will not outpace demand
+growth.193 A number of states in the U.S. have exempted distributed generation from paying for
+stranded costs. New Jersey and Massachusetts, for example, impose a fee to recoup stranded costs
+from DG only after it reaches a certain level of market penetration.194 The market penetration level
+for New Jersey is 7.5 percent and 10 percent for Massachusetts.195
+Codes, Permits & Environmental Standards
+Another potential obstacle to DG is navigating the bureaucracies of city and local agencies
+associated with zoning, siting and environmental impact matters. The adoption of DG technologies
+often will require complying with a plethora of local building, fire, health and safety requirements,
+waste management and storm water discharge standards.196 The time and cost associated with
+obtaining such permits can be daunting. To the extent such permitting requirements exist, local
+agencies should develop handbooks for preparing the required paper.197 Energy regulators can also
+assist distribution companies by providing them with guidance on the level of review expected for
+different technologies; lists of the local agencies responsible for approving DG projects; and
+samples of DG projects that have previously received agency approval. Checklists with the
+possible environmental impacts from DG projects, and summaries of the compatibility of such
+projects with local land use plans and ordinances, should also be explored. In each instance,
+application review and approval processes should be expedited.
+Streamlining may be required with air permits, which in the US have been cited as one of the
+obstacles to distributed generation.198 Many developing countries, however, may not even have
+such regulations in place. Most air emissions standards are designed with large central power
+stations in mind and based on emission per unit of fuel consumed and not emissions per unit of
+power produced, or in the case of combined heat and power, kilowatt-hours and equivalent
+energy produced. 199 Setting emissions standards on unit of fuel consumed discourages energy
+efficiency and pollution prevention. Recommendations for improving environmental requirements
+for distributed generation include:
+Creating a streamlined and uniform standards approach to distributed generation projects,
+with pre-certification and minimum requirements that balance economic considerations
+with public policy objectives;
+Allowing the replacement of older technologies with new DG technologies;
+Issuing credits for cogeneration operations; and
+Providing emissions allowances for renewables or other environmentally beneficial DG
+technologies.200
+Arthur D. Little, Inc. at 16-17.
+This is determined by a percentage reduction in kilowatt hours distributed.
+See, Arthur D. Little, Inc. at 17 and NARUC, Review of Utility Interconnection Tariff and Contract
+Provisions at 4-9 and 4-10.
+California Energy Comm., Distributed Generation Case Studies at 81-92.
+Id. at 108-110.
+U.S. Department of Energy, Cleaning the Air: A Review of the Environmental Permitting Barriers to
+DER.
+See, Arthur D. Little, Inc. at 22
+Id. at 23. See also, IEA, DG IN LIBERALIZED MARKETS at 105-107. Recommendations on ways to
+streamline the air permitting process for distributed generation is also addressed in, The California Energy
+Increasing Energy Access in Developing Countries: The Role of Distributed Generation
+The development of new environmental permitting requirements should still allow localities to
+maintain permit jurisdiction to insure that all high-priority public policy interests are protected, if
+not advanced.201
+Economic and Financial Incentives
+While establishing a favorable regulatory environment is important, additional financial incentives
+are also required to address DGs high up-front costs. A number of financing mechanisms can be
+considered for DG, including tax incentives, buy-down programs, special tariffs, low interest loans
+and guarantees and development funds. Box 5 outlines the critical elements needed in developing
+a successful financial incentive program. The appropriate mix of financing options will depend
+largely on whether the market is at an advanced, emerging or initial pioneer state, the strength of
+the countrys finance sector and the anticipated demand for the technology.202 In devising an
+incentive scheme, governments need to evaluate and assess the actual status, benefits and
+limitations of current and future DG technologies.203 Studies have shown that multiple financial
+incentives are necessary to advance distributed generation markets, particularly for renewable
+technologies. Ultimately, financial incentives should form part of a larger infrastructure and
+energy development strategy that is market driven.
+Tax Incentives and Credits
+Tax incentives are an important tool in promoting DG. These include income tax, investment tax
+and production-tax credits, tax loss carry-forwards, capital depreciation, duty exemption on
+imported capital equipment and tax credits on domestic equipment.204 If successful in expanding
+markets, tax credits can end up providing a net gain in revenues to the taxing entity.205 Most
+modern DG technologies in developing countries will have to be imported at first. Some larger
+countries, such as Brazil, India or Mexico, manufacture their own DG technologies. In India, the
+use of investment tax credits and the relaxation of import tariffs were vital in helping to stimulate
+the countrys wind and solar PV market.206
+Exemptions for sales and property taxes and the reduction or elimination of customs duties on
+imported equipment offer important investment incentives. Income tax credits that reduce an
+individuals or business federal or state income tax, normally for 10 to 35 percent of the
+investment, may also be used to allow either accelerated principal and interest payments or a higher
+rate of return.207 A recent report for NREL on the effectiveness of state incentives in the U.S. for
+renewable energy found that investment tax credits are simpler to administer and enforce compared
+with other incentives.208 They may also be more politically palatable than cash payments because
+Comm., Workshop Report on Distributed Generation CEQA and Permit Streamlining. Model air regulations
+for distributed generation have also been developed by The Regulatory Assistance Project. See, Regulatory
+Assistance Project, Model Regulations.
+Arthur D. Little, Inc. at 23-24.
+Nordstrm, S., Establishing a Network of Solar Photovoltaic (PV) Programmes at 3.
+Arthur D. Little, Inc. at 25.
+ARMSTRONG, A. J., RE POLICY MANUAL at 89-91.
+Gouchoe, S., Financial Incentives for Renewable Energy at 7.
+Martinot, E., Government Policies and Private Finance at 47.
+See, ARMSTRONG, A. J., RE POLICY MANUAL at 89-91 and Gouchoe, S., Financial Incentives for
+Renewable Energy at 7-11.
+Gouchoe, S., Financial Incentives for Renewable Energy at 7.
+Business Council for Sustainable Energy
+Box 5. Critical Elements for a Successful Financial Incentive Program209
+Funding Stability and Duration. Incentives should be available over multiyear terms and have
+stable funding.
+Incentive Amount. First, the incentive level must be high enough  particularly in the first years of
+the program  but not so high that it distorts the market sector it is intended to help. Second, the
+incentive amount should decline over time as the market develops. This acts to motivate potential
+customers to buy sooner when the incentive is higher and to help wean the industry and the
+marketplace off the incentive, easing the transition to a subsidy-free sustainable market. Finally,
+incentives should be limited to a certain level-per-watt capacity to prevent manufacturers and dealers
+from inflating prices.
+Quality Assurance. Incentive programs must include provisions to ensure adequate system
+performance through minimum equipment standards, installer certification, and production-based
+incentives.
+Application Process. Incentives should be easy to apply for and include appropriate assistance from
+program administrators. Early adopters who experience a cumbersome application process
+accompanied by a long wait to receive an incentive payment (a buy-down) or approval for loan, are
+likely to spread the word to others, deterring potential customers from using the program.
+Consumer Education and Awareness. A sustained marketing campaign to educate the public
+about DG technologies in general, and about the availability of incentives in particular, is critical to
+program success.
+6. Institutional Barriers. Program success will be limited if institutional and structural issues are not
+addressed.
+These include working with utilities to develop a smooth and standardized
+interconnection process, and educating the inspectors, realtors, insurers, bankers, utilities, and other
+stakeholders who may participate in or have authority over deploying the technologies.
+7. Complementary Financial Incentives. Any given incentive should be considered as part of a
+package of policies designed to stimulate market development. Financial incentives that can
+complement or enhance tax credits and buy-downs include low-interest loans, net metering, property
+tax exemptions, and sales-tax exemptions.
+they do not require governments to appropriate funds. Maximum limits range from $1,000 to
+$10,500 for residential and up $50,000 or more for commercial systems. According to NREL,
+carrying-over tax credits should be limited to avoid reducing the taxs overall benefit.210
+Governments may also want to consider including performance requirements as part of a tax credit
+plan to ensure that DG systems are not only built but actually produce power.
+Another tool is the production tax credit where credit is issued based on total kilowatt-hours of
+electricity produced. Credits may be applied to the purchaser or distributor of electricity from a
+DG facility. Production tax credits are more difficult to apply for smaller scale systems, especially
+those located off-grid. Nevertheless, according to the review by the World Bank of Global
+Environment Facility projects designed to remove barriers to renewable energy in developing
+countries, [p]olicies that promote production-based incentives rather than investment-based
+incentives are more likely to spur the best industry performance and sustainability.211
+Gouchoe, S., Financial Incentives for Renewable Energy at 3-4.
+World Bank, Mexico-Large-scale Renewable Energy Development Project at 11-12. The project
+proposal cites the case of India in the early 1990s, where a 100 percent investment tax depreciation helped
+stimulate nearly 1,200 MW of wind capacity by the private sector. However, the depreciation was abused by
+companies that were more interested in the deduction that actually implementing projects. As a result a
+Increasing Energy Access in Developing Countries: The Role of Distributed Generation
+One potential drawback to tax credits or exemptions is that they normally only apply to entities that
+pay taxes. The impact can also be muted if collection rates are low due to tax evasion, which is a
+serious problem in many developing countries. Tax credits also leave out important market
+players, such as charities, NGOs and government entities. To address this issue the state of Oregon
+established a pass-through option where a tax-exempt entity is allowed to transfer the tax credit
+to a third party in exchange for the net value of the credit.212 Another important element to
+consider when adopting tax incentives is which agency will be responsible for its implementation.
+Will it be the revenue department or the energy ministry? The latter will allow for better control of
+program details, such as the number of participants and types of technologies installed.
+Buy-Down Programs
+Another tool available to governments is the use of buy-down programs that offer rebates or cash
+incentives to encourage the installation of DG technologies. The theory behind buy-down
+programs is that they stimulate early technology deployment and encourage manufacturers and
+distributors to increase their investment.213 Incentives often range from $3/W to $6/W (20 to 60
+percent of the system cost) and include a performance standard to ensure that the operation is
+completed.214 Studies suggest that high and sustainable incentive levels are required in the early
+stages of a program until barriers are eliminated and the market matures.215
+While consumers generally prefer cash incentives to tax credits, they require explicit funding and
+can cause problems if the industry grows too rapidly. Care must be taken to ensure that demand
+does not exceed the capacity of equipment suppliers and qualified installers. The discontinuation
+of programs can also have a sudden adverse impact on the industry. Governments may also need
+to help ensure that infrastructure needs are met. In some instances, utilities may be provided grants
+to assist in developing distributed generation technologies in their service areas.
+Low Interest Loans, Credit and Guarantees
+Another barrier to DG technologies, particularly renewables, is attracting access to long-term credit
+on reasonable terms. Rural customers and clean energy entrepreneurs that service them find
+obtaining credit particular difficult.216 Long-term loans at low interest rates are an important
+vehicle for addressing the high up-front capital costs of DG technologies. Financing can either be
+provided to the consumer through end-user credit mechanisms, to the utility, to the DG company or
+energy service provider, or to other financiers, including micro-credit institutions and NGOs.
+Banks in Indonesia provide low-interest loans to consumers to purchase home PV systems, and
+NGOs in Peru and Nepal are making credit available to local communities to install micro-grid
+systems that use small hydroelectric systems.217 Energy service companies provide end users credit
+through fee-for-service PV or wind electrification, where the customer pays a monthly or quarterly
+number of the turbines built are now inoperative. Id. See also, Govt. of India, Report of the Committee on
+DG at 53.
+Gouchoe, S., Financial Incentives for Renewable Energy at 7.
+Id. at 11.
+For more information on U.S. state incentives for distributed generation technologies, consult
+http://www.dsireusa.org. The web page has a complete database of state financial and economic incentives
+with summaries and links to individual state web sites.
+Gouchoe, S., Financial Incentives for Renewable Energy at 25-27.
+See, Cscar, J.C..
+Barnes, D., Tackling the Rural Energy Problem in Developing Countries at 6.
+Business Council for Sustainable Energy
+fee for the electricity produced.218
+If implemented properly, loan programs can be self-sustaining through a revolving fund and be
+tailored to achieve different goals. By themselves, however, low interest loans often do not
+provide enough cost savings to spur significant market development. Issuing below market rates
+and keeping fees to a minimum will help ensure greater program success.219 Like buy-down
+programs, funding could be derived from a specific source, either through a system-benefit charge,
+special taxes (such as on petroleum), the sale of bonds, or annual appropriations from government
+revenues. Another important vehicle when selling power to a government controlled entity is the
+receipt of a performance undertaking, or guarantee by the government, that ensures the entity
+will discharge its obligations.220 Such a guarantee is often required by international or multilateral
+finance agencies, particularly for larger projects. Counter guarantees may also be required to back
+up local government guarantees on debt that is locally raised.221
+Public Benefit Funds for Rural Electrification
+A major benefit of distributed generation is its ability to be located in remote areas where grid
+extension is not economically or physically viable. There are three types of rural populations that
+are traditionally served by distributed generation: dispersed families (people that are located too
+far from other population centers to be served by the grid); population centers (people living close
+enough to share energy resources, usually ten to 500 households living in villages); and isolated
+production centers (commercial facilities that usually have their own generation facility).222
+Traditionally, state-owned utilities were encouraged to expand their grids to rural areas regardless
+of cost. Such projects were often overbuilt and exceeded customer demand. Because transmission
+and distribution costs are often high for remote areas, developing country electricity rates in rural
+areas are frequently subsidized. With the unbundling and privatization of electric utilities,
+distribution companies are more focused on raising revenue to cover costs and have little appetite
+for extending grid services unless forced to do so or sufficient incentives are provided. A report by
+the Special Committee on Distributive Generation in India found that State Governments have
+been reluctant to avail themselves even of the assistance of the 100% grant under the Kutir Jyoti
+programs on account of apprehension due to recurring revenue loss through such concessions.223
+In most instances government subsidies are required to accelerate rural electrification. Appendix 1
+outlines the World Banks views on good and bad subsidies. The first rule of thumb is that
+subsidies should always fall within the governments own financial and human resource constraints.
+Second, subsidies should only be directed at lowering the cost of capital and reducing the cost of
+energy, and not be used to cover operating expenses.224 Subsidies and grants may also be needed
+for market-conditioning activities such as preparing resource and feasibility studies, project
+design, promotion and training, and setting and enforcing standards.225 There are a number of
+different models for providing government subsidies for rural electrification. Argentina has adopted
+a top-down approach, giving a monopoly to the company that offers the greatest amount of service
+UNEP, Open For Business at 7.
+Gouchoe, S., Financial Incentives for Renewable Energy at 14.
+ARMSTRONG, A. J., RE POLICY MANUAL at 90.
+Id. at 106.
+ARMSTRONG, A. J., RE POLICY MANUAL at 98-99.
+Govt. of India, Report of the Committee on DG at 42.
+Subsidizing operating costs usually undermine the governments financial position.
+Cscar, J.C.; see also, A. Cabraal, Best Practices for Photovoltaic Household Electrification Programs.
+Increasing Energy Access in Developing Countries: The Role of Distributed Generation
+Box 6. Case Study: Chiles Rural Electrification Program226
+Although Chile liberalized its electricity sector in the 1980s with considerable success, market reforms failed to
+meet rural demand. By the early 1990s, half of the countrys rural population  a million people  still lacked
+electricity. In 1994, Chile launched an ambitious rural electrification program that used a competitive, least-cost
+bottom-up approach that included state subsidies, regional and project competition for funds, private sector
+energy services, social and economic indicators and a decentralized and fully transparent decision making
+process.
+At the state level, the National Energy Commission (CNE) manages the program and provides a one-time direct
+subsidy to private distribution or energy service companies to cover their investment costs. CNE allocates the
+subsidy funds to regional governments based on the amount of progress made in the previous year and the
+number of remaining households without electrification. The CNE also provides regional governments with
+planning and management models, methodologies for ensuring efficient allocation of state subsidies and preinvestment studies to establish sound project portfolios.
+Normally, communities seeking rural electrification projects do so with the support of local distribution or energy
+service companies. Most projects involve line extensions but also include renewable and hybrid off-grid
+applications. Proposals are presented to the municipal government that in turn asks the private company to
+prepare a technical project. Once complete, all technical proposals are listed in a public registry. Users must
+cover the costs of wiring and the metering and coupling to the grid, which usually amount to 10 percent of the
+projects costs. These costs are advanced by the distribution company and paid by the users over time, on top of
+the regulated tariffs. Private companies invest their own resources, own and manage the installations and assume
+the commercial risk.
+Projects are evaluated by the regional planning agency and include their social impact, cost-benefit ratio and the
+amount of private investment being offered providing for the highest impact per unit of investment. In order to
+receive a subsidy, a project must have a positive social but negative private rate of return. The program allows
+companies to obtain a 10 percent return on investment over a 30 year period. Those that meet the minimum
+requirements are then reviewed by the regional council that manages the subsidy and approves the final projects.
+Off-grid projects normally involve one-house photovoltaic systems, of which 1,000 have thus far been installed.
+Occasionally, grants are also dispersed for off-grid projects.
+In seven years, the program increased Chiles electrification rate 53 percent in 1995 to 75 percent in 1999. The
+average state subsidy increased by $430 from $1,080 in 1995 to $1,510 in 1999 per household. Responding to a
+request from the government of Chile, the Inter-American Development Bank in September, 2003, approved a
+US$40 million loan to reach 90 percent in every Chilean region by 2006. This new phase of the Chilean Rural
+Electrification Program will provide grid access to 28,000 new families, as well as sustainable off-grid solutions
+to 8,000 families, based on single home solar photovoltaic systems and isolated mini grids supplied by winddiesel hybrid or small hydropower generation systems.
+at the lowest price.227 Giving exclusive access to one provider or distribution company has a
+number of benefits. As Keith Kozloff, formerly with PA Consulting, notes, a distribution company
+with exclusive access to an off-grid area can balance returns of grid-connected and off-grid
+customers, . . . absorb market entry costs, achieve economy of scale in equipment and operations
+and maintenance costs, exploit its existing network of local agents, and use its large cash flow to
+finance systems and absorb seasonal variations in customers ability to pay.228
+In Chile, the government adopted a slightly different approach than Argentina. (See Box 6 above).
+Chiles rural electrification program is a more bottom-up approach that requires private developers
+and regional governments to compete for federal funds and provides a market incentive that
+encourages the adoption of least-cost options that also provide the greatest benefit to the public.
+Jadresic, Alejandro, Promoting Private Investment in Rural Electrification and interview with Arnaldo
+Vieira De Carvalho with the IADB.
+ARMSTRONG, A. J., RE POLICY MANUAL at 105.
+Kozloff, Electricity Sector Reform in Developing Countries.
+Business Council for Sustainable Energy
+Appendix 1 outlines some of the lessons learned by the World Bank in undertaking rural
+electrification.
+While most rural electrification projects involve grid extensions, the more remote projects are
+increasingly turning to renewable DG sources. According to Anil Cabraal with the World Bank
+Energy and Water Department, countries are beginning to recognize off-grid options as a
+legitimate electrification method.229 Understanding local needs is vital for the successful
+application of DG technologies in remote areas. Local community organizations, rural
+cooperatives and NGOs can assist with needs assessment and project implementation. Combining
+decentralized energy projects with other infrastructure projects, such as those extending water,
+health, educational, and telecommunications services, can also engender community support and
+help leverage funds from different sources.230 Still, even with subsidies, credit and other finance
+assistance, more is often needed to deepen market penetration.
+Investing in Human Capital, Education and Outreach
+For distributed generation to gain market entry in developing country electricity markets,
+government commitment will be needed on many fronts. Particularly important is the need for
+adequate delivery mechanisms. Over the past ten years, a large number of DG pilot projects in
+developing countries have failed, largely due to lack of maintenance and incorrect use.231 In
+Senegal, nearly 90 percent of the countrys wind-powered water pumps are inoperative due to
+lapses in maintenance.232
+For DG technologies to succeed requires sufficient human capital to install and repair them.
+Developing countries have a large labor supply that can easily be trained to assemble, deploy and
+service small DG energy systems. Government can help by providing training for contractors and
+institutional support and technical assistance to businesses and small entrepreneurs working in DG
+services. Development funds can also be used to provide small grants and seed capital for start-up
+companies that provide DG services, particularly those working in rural areas.233 In addition,
+greater understanding of DG technologies by end users is vital. As R.K. Pachauri, former President
+of the Tata Energy and Resources Institute-North America, notes, capacity must be built within
+the user base to perpetuate usage.234
+Greater understanding of DG technologies is also very important. As part of their overall
+development strategy, governments will need to engage and educate a variety of players about
+different DG technologies, their benefits and the availability of financial incentives and other
+sources of support. Government outreach should also include the general public, industry,
+regulators, inspectors, realtors, insurers, bankers, utilities, distribution companies and other
+Cabraal, A., Decentralized Electrification Experiences and Lessons Learned.
+ARMSTRONG, A. J., RE POLICY MANUAL at 107.
+Cscar, J.C. at 4.
+UNEP, Open for Business at 6.
+See, UNEP, Open for Business. The United Nations Environmental Program and the United Nations
+Foundation are working with E+Co to establish a new rural energy enterprise development (REED) model
+for the delivery of renewable energy and energy efficiency services to rural and peri-urban areas in
+developing countries. REED helps entrepreneurs develop clean energy business proposals and plans, assess
+market conditions and provide seed capital and management support and raise second stage financing. Id. at
+13. A REED toolkit on writing a business plan, fact-finding, feasibility analysis and composing the business
+plan is available in English, Portuguese and French on AREEDs web site at:
+http://www.AREED.org/training.
+Pachauri, at 18.
+Increasing Energy Access in Developing Countries: The Role of Distributed Generation
+stakeholders.235
+Conclusion
+Although distributed generation is not a panacea for solving developing country energy problems,
+when combined with energy efficiency measures it has considerable potential to help meet
+increased electricity needs. Distributed generation can lesson demand and reduce peak loads,
+postpone the need for expensive line upgrades, add much needed power to the grid through greater
+use of combined heat and power and other DG technologies, extend power to remote areas and
+create income through the sale of excess power back to the grid. It also offers important
+environmental benefits. DG technologies have the potential to reduce air emissions and improve
+public health. They also emit less greenhouse gasses than the traditional energy mix.
+Still, challenges to DG technologies abound. Most developing country electricity markets suffer
+from a lack of competition and weak regulatory bodies. Continued use of subsidies undermines the
+financial stability of many utilities and discourages the use of distributed generation by hiding the
+true cost of providing electric power to the consumer. Promoting DG technologies requires new
+investment, sufficient equipment and skilled technicians. It also involves a high degree of
+regulatory complexity and government involvement, which seems difficult at a time when several
+studies point to the need for developing countries to simplify their energy regulations to better
+reflect local market conditions.236
+With most power sector reforms in developing countries still a work-in-progress, governments
+have an opportunity to modify the traditional central power station model and adopt a more flexible
+regulatory framework that levels the playing field for DG technologies. Recognizing that there are
+both benefits and costs associated with DG, the first step for governments is to carefully examine
+the impact and viability of DG under local market conditions and the potential contribution that DG
+can make to a countrys energy mix. Working in close consultation with utilities, transmission
+companies, energy service companies, regulators, trade associations and NGOs, governments will
+need to assess:
+existing distributed generation power sources from local industry;
+the potential for greater use of combined heat and power applications;
+the availability of manufacturers, suppliers and distributors of DG technologies;
+the true costs and infrastructure needs of transmission and distribution networks;
+options for DG technologies to meet rural and urban electrification needs without
+compromising system integrity, reliability or safety;
+the impact of DG on the financial viability of the central electric utility system; and
+specific technical, regulatory, administrative and financial barriers to distributed
+generation.
+From this process should emerge a development plan that clearly identifies ways to accelerate the
+use of DG technologies in targeted areas to help meet power sector objectives. Key elements of
+such a plan should include or address the following issues:
+Gouchoe, S., Financial Incentives for Renewable Energy at 3-4.
+See, Von der Fehr, Power Sector Reform at 361-367; See also, Kozloff, Electricity Sector Reform in
+Developing Countries.
+Business Council for Sustainable Energy
+Essential Market Reforms and Conditions. Even if a vertically integrated electric utility
+remains intact, private entities should be allowed to generate power, interconnect with the grid
+and compete in wholesale markets on non-discriminatory terms. Transmission and distribution
+costs need to be evaluated to help determine the benefits and impacts of DG to the grid and
+promote least-cost system upgrades and expansion. An independent regulator should be
+established with the authority and resources necessary to police the market.
+Uniform Standards & Procedures. Uniform technical standards for grid interconnection and
+testing and certification procedures for DG equipment should be made easily accessible.
+Similarly, grid interconnection and parallel operation applications and power purchase
+agreements should be streamlined and standardized to lower transaction costs. Dispute
+resolution procedures should be adopted to ensure fair and speedy resolution by a qualified
+entity or government body. Equipment installers should be certified to ensure quality system
+performance and adequate maintenance. Local authorities should be directed to simplify
+application procedures to comply with fire, health and safety, zoning, environmental impact,
+water discharge and waste management requirements.
+Elimination of Cross-Subsidies. Cross subsidies should be gradually discontinued.
+Pricing. The ancillary and environmental benefits of distributed generation should be
+recognized in any pricing system. Long-term and stable tariffs and power purchase contracts
+should be provided for DG power producers connected to the grid.
+Transmission Charges & Fees. Connection and back-up charges should be limited to a
+generators impacts and benefits to the distribution system. Transmission rate structures
+should not be biased against low-capacity renewable DG technologies.
+Natural Gas Infrastructure. Natural gas distribution networks should be strengthened and
+expanded in industrial and commercial areas that can most benefit from distributed generation.
+Market-Based Mechanisms. There should be a thorough exploration of market-based
+mechanisms, such as emissions or renewable energy credits, and taxes that incorporate
+environmental costs and more adequately represent energy conversion efficiencies.
+Economic Incentives. An economic incentive package to stimulate DG market development
+should ensure that production actually occurs and incentives do not distort the market. An
+aggressive marketing and out-reach campaign should be undertaken simultaneously in
+collaboration with utilities, trade associations, NGOs and local government entities.
+Rural Electrification. DG technologies should be allowed to fairly compete with grid
+extension based on a least cost analysis and an assessment of local electricity needs. Whenever
+possible, rural electrification should be integrated with other infrastructure development
+projects.
+Technical and Institutional Support. Governments will need to provide a wide range of
+technical and institutional support to industry and business, utilities, local entrepreneurs and
+government agencies to facilitate the deployment of DG technologies and services. Wider
+awareness of both the pros and cons of distributed generation will be needed. Government
+leadership and commitment is essential.
+In the long run, power sector reforms in developing countries that continue to unduly favor
+conventional centralized power generation technologies will have an increasingly detrimental
+environmental impact and are likely to fail in meeting the performance, quality and power needs of
+end users, especially those located outside large cities. With the proper regulatory structures and
+incentives, DG can complement central power while increasing access to energy in an incremental,
+clean and reliable manner.
+Increasing Energy Access in Developing Countries: The Role of Distributed Generation
+Bibliography
+Armstrong, A. John, Trends in Renewable Policies in Latin America & the Caribbean, presented at the CBI
+Renewable Energy in Latin America Conference in Miami, Florida, (September 18, 2003).
+ARMSTRONG, ARTHUR JOHN, AND DR. JAN HAMRIN, THE RENEWABLE ENERGY POLICY MANUAL (Mark
+Labrides, ed., 1997) available on the internet at: http://www.oas.org/esde/publications.
+Arthur D. Little, Inc., Distributed Generation: Policy Framework for Regulators (1999). See:
+http://www.arthurdlittle.com.
+Bacon, Robert, A Scorecard for Energy Reform in Developing Countries, in PUBLIC PRIVACY FOR THE
+PRIVATE SECTOR, (Note No. 175, April 1999).
+Barnes, Douglas F., et. al., Tackling the Rural Energy Problem in Developing Countries (1997).
+Bergey, Mike, power point presentation Small Wind Systems for Rural Energy Supply given at the 2000
+Village Power Conference Workshop held in Washington, D.C.
+Bergey, Mike, power point presentation Small Wind Systems for Village Power: An Update given at the 1998
+Village Power Conference held in Washington, D.C.
+Berge, Mike and Trudy Forsyth, American Wind & Solar Hybrid Power Systems can Electrify an Afghan
+Village in 4 Hours available on the internet at http://www.bergey.com.
+Bluestein, Joel, Environmental Benefits of Distributed Generation (2000).
+Bronicki, Lucien Y., ORMATs Experience in Implementing Geothermal Projects  The Example of Olkaria
+III, presented at the United Nations Environmental Programme Millennium Governing Council Dialogue on
+Renewable Energy and Energy Efficiency in Africa, (February, 2001).
+Brown, Michael, A New Blueprint for Decentralized Energy in COGENERATION AND ON-SITE POWER
+PRODUCTION (Volume 4, Issue 4 July  August 2003) available on the internet at
+http://www.localpower.org.
+Brown, Michael, The End of Central Power, COGENERATION AND ON-SITE POWER PRODUCTION, March 
+April 2003, available on the internet at: http://www.localpower.org.
+Cabraal, A., et. al. Best Practices for Photovoltaic Household Electrification Programs, Lessons from
+Experiences in Selected Countries (World Bank Technical Paper No. 424 1996).
+Cabraal, Anil, Energy and Water Department, World Bank, Decentralized Electrification Experiences and
+Lessons Learned, presented at the Future of Environmentally Responsible Energy Systems in the Developing
+Nations, a retreat organized by Winrock International and sponsored by the U.S. Agency for International
+Development in Pacantico, New York (October 27-29, 2003).
+The California Energy Commission, California Interconnection Guidebook  A guide to Interconnecting
+Customer-owned Electric Generation Equipment to the Electric Utility Distribution System Using California
+Electric Rule (July 2003) available at http://www.cpuc.ca.gov.
+The California Energy Commission, Distributed Generation Case Studies for Permit Streamlining and the
+Impact upon Transmission and Distribution Services (700-02-001F January 2002).
+THE CALIFORNIA ENERGY COMMISSION, DISTRIBUTED GENERATION STRATEGIC PLAN, P700-02-002, (June
+2002).
+The California Energy Commission, Workshop Report on Distributed Generation CEQA and Permit
+Streamlining (Docket No. 99-DIST-GEN-(2) June 2000).
+Cecelski, Elizabeth, Enabling Equitable Access to Rural Electrification: Current Thinking on Energy,
+Poverty and Gender (World Bank Briefing Paper, Asia Alternative Energy Policy and Project Development
+Support, January 2000, Revised July 2002).
+Cscar, Juan Carlos, Photovoltaic Technology and Rural Electrification in Developing Countries: The Socioeconomic Dimension available on the internet at: http://www.jrc.es/iptsreport/vol19/english/ENE1E196.htm.
+Business Council for Sustainable Energy
+Ellegrd, Andres, Et. al., Solar Service is Rural Infrastructure in RENEWABLE ENERGY FOR DEVELOPMENT,
+STOCKHOLM ENVIRONMENT INSTITUTE NEWS LETTER (Vol. 16, No.1 April 2003).
+Federal Energy Regulatory Commission (FERC) final rulemaking on standard interconnection agreements
+and procedures for large generators (FERC Order RM02-1-000), and a proposed rulemakings for small
+generator interconnection agreements and procedures (FERC Order RM02-12-000) available at
+http://www.newrules.org/electricity/interconnect.html.
+Gouchoe, S., et. al., Case Studies on the Effectiveness of State Financial Incentives for Renewable Energy,
+National Renewable Energy Laboratory Subcontractor Report (NREL/SR-620-32819, September 2002).
+Government of India, Ministry of Power, Report of the Committee on Distributed Generation (July 2002).
+INTERNATIONAL ENERGY AGENCY (IEA), WORLD ENERGY OUTLOOK 2002, (2002).
+INTERNATIONAL ENERGY ASSOCIATION (IEA), DISTRIBUTED GENERATION IN LIBERALIZED ELECTRICITY
+MARKETS (2002).
+Interview with Alejandro Peraza Garcia, Director General of Electricity, Mexico Energy Regulatory
+Commission, September 19, 2003. Mr. Peraza may be reached at: aperaza@cre.gob.mx.
+Interview with Michael D. Philips, Energy Ventures International, December 2003.
+Jadresic, Alejandro, Promoting Private Investment in Rural Electrification  The Case of Chile in
+VIEWPOINT (World Bank Group Private Sector and Infrastructure Network No. 214 June 2000).
+Kozloff, Dr. Keith, Electricity Sector Reform in Developing Countries, Implications for Renewable Energy,
+policy paper available on the internet at: http://solstice.crest.org/repp_pubs/articles/kozloff/.
+Lamech, Ranjit and Kyran OSullivan, Chapter 21 Energy, MACROECONOMIC AND SECTORAL APPROACHES
+(2001).
+Lars J. Nilsson and Anders Arvidson, Public Benefits In Power Sector Reform in RENEWABLE ENERGY FOR
+DEVELOPMENT (Stockholm Environment Institute, Vol. 16, No. 3, October 2003).
+Lars J. Nilsson, et. al., Public Benefit and Power Sector Reform, (Report from an International Workshop
+held in Stockholm (May 2003, October 2003).
+Martinot, Eric, Government Policies and Private Finance Work Together: India Renewable Resources
+Development Project in TECHNOLOGY WITHOUT BORDERS  CASE STUDIES OF SUCCESSFUL TECHNOLOGY
+TRANSFER (International Energy Agency 2001).
+Moskovits, D. et. al., National Renewable Energy Laboratory, State Electricity Regulatory Policy and
+Distributed Resources: Distributed Resource Distribution Credit Pilot Programs  Revealing the Value to
+Consumers and Vendors (NREL/SR-560-32499, October 2002) available on line at:
+http://www.raponline.org or http://www.osti.gov/bridge.
+National Association of Regulatory Utility Commissioners (NARUC), Model Distributed Generation
+Interconnect Procedures and Agreement (July 2002).
+National Association of Regulatory Utility Commissioners (NARUC), Review of Utility Interconnection
+Tariff and Contract Provisions for Distributed Generation (January 2000). See, http://www.naruc.org.
+National Renewable Energy Laboratory (NREL), Making Connections  Case Studies of Interconnection
+Barriers and their Impact on Distributed Power Projects 34 (NREL/SR-200-28053, May 2000).
+New England Demand Response Initiative, Dimensions of Demand Response: Capturing Customer Based
+Resources in New Englands Power Sector Systems and Markets (July 1993).
+New York State Energy Research and Development Authority (NYSERDA), Combined Heat and Power
+Potential for New York State (October 2002). See, http://www.nyserda.org.
+Nilsson, Lars J. and Anders Arvidson, Public Benefits In Power Sector Reform in RENEWABLE ENERGY FOR
+DEVELOPMENT (Stockholm Environment Institute, Vol. 16, No. 3, October 2003).
+Nilsson, Lars J., et. al., Public Benefit and Power Sector Reform, a report presented at an International
+Workshop held in Stockholm (May 2003).
+Increasing Energy Access in Developing Countries: The Role of Distributed Generation
+Nordstrm, Sarah, Establishing a Network of Solar Photovoltaic (PV) Programmes, Africa Solar PV
+Workshop: Financing Mechanisms and Business Models in RENEWABLE ENERGY FOR DEVELOPMENT,
+STOCKHOLM ENVIRONMENT INSTITUTE NEWSLETTER (Vol. 16 No. 2, September 2003).
+Oak Ridge National Laboratory, Assessment of On-Site Power Opportunities in the Industrial Sector
+(September 2001).
+Ohio State University, Model DG Interconnection Procedures: Ranges for State Variables available on the
+internet at: http://www.ohiostate.edu/programs/electric/distributedgeneration.
+Onsite Sycom Energy Corp., Distributed Generation Forum  The Role of Distributed Generation in
+Competitive Energy Markets (March 1999).
+Pachauri, Dr. R. K., Opening Remarks, in RENEWABLE ENERGY TECHNOLOGY DEVELOPMENT AND
+IMPLICATIONS FOR POVERTY ALLEVIATION (Proceedings of the colloquium held on 7 December 2001 in
+Washington, D.C., R, K. Pachauri and Gurneeta Vasudeva eds., 2002).
+Petrie, Edward M., et. al., Distributed Generation in Developing Countries (2001) available on the internet
+at: http://www.worldbank.org/html/fpd/em/distribution_abb.pdf.
+Powell, Stephen and Mary Sparks, Does Reform of Energy Sector Networks Improve Access for the Poor?,
+PUBLIC POLICY FOR THE PRIVATE SECTOR (Note No. 209, May 2000).
+Public Utility Commission of Texas, Distributed Generation Interconnection Manual (May 2002) available
+on the internet at: http://www.puc.state.tx.us.
+P.V. NEWS, March 2003.
+Regulatory Assistance Project, Model Regulations for the Output of Specified Air Emissions from SmallerScale Electric Generation Resources: Model Rule and Supporting Documentation (October 2002) available
+on the internet at: http://www.raponline.org.
+Resource Dynamics Corp., Assessment of Distributed Generation Technology Applications (February 2001).
+Sanghvi, Arun and Douglas Barnes, Rural Electrification: Lessons Learned, in AFRICA REGION FINDINGS
+(No. 177 February 2001) available on the internet at:
+http://www.worldbank.org/afr/findings/english/find177.htm.
+Shirley, W., et. al., National Renewable Energy Laboratory, State Electricity Regulatory Policy and
+Distributed Resources: Distribution System Cost Methodologies for Distributed Generation (NREL/SR-56032500, October 2002) available on the internet at: http://www.raponline.org or http://www.osti.gov/bridge.
+U.S. Department of Energy, Solar Energy Technology Roadmap, (U.S. DOE/GO-102003-1775).
+U.S. DEPARTMENT OF ENERGY (USDOE), STRATEGIC PLAN FOR DISTRIBUTED ENERGY RESOURCES
+(September 2000).
+U.S. Department of Energy, Cleaning the Air: A Review of the Environmental Permitting Barriers to DER,
+power point presented delivered at the DOE Distributed Power and Industrial DG Quarterly Review in
+Golden Colorado (October 23  25, 2001).
+U.S. DEPARTMENT OF ENERGY, ENERGY INFORMATION AGENCY, THE MARKET AND TECHNICAL POTENTIAL
+FOR COMBINED HEAT AND POWER IN COMMERCIAL/INSTITUTIONAL SECTOR (January 2001).
+U.S. Department of Energy, Review of Combined Heat and Power Technologies (October, 1999).
+The United Nations Environmental Program (UNEP), Bioenergy Energy Technology Fact Sheet available on
+the internet at: http://www.uneptie.org/energy/act/re/fs/docs/biomass.PDF.
+The United Nations Environmental Program (UNEP), Geothermal Renewable Energy Technology Fact Sheet
+available on the internet at: http://www.uneptie.org/energy.
+The United Nations Environmental Program (UNEP), Photovoltaics (PV) Solar Electricity Energy
+Technology Fact Sheet available on the internet at: http://www.uneptie.org/energy.
+Business Council for Sustainable Energy
+The United Nations Environmental Program, Small Scale Hydro (SSH) Energy Technology Fact Sheet
+available on the internet at: http://www.uneptie.org/energy.
+The United Nations Environmental Program, Wind Power Energy Technology Fact Sheet available on the
+internet at: http://www.uneptie.org/energy.
+United Nations Environmental Programme (UNEP) and United Nations Foundation, Open For Business,
+REED Rural Energy Enterprise Development, Entrepreneurs, Clean Energy and Sustainable Development
+(1993) available on the internet at: http://www.AREED.org.
+UTONIH, SELMA-PENNA AND SIBUSISO DLAMINI, SOUTHERN AFRICAN GENDER AND ENERGY NETWORK
+(SAGEN), POWER SECTOR REFORMS, RURAL ELECTRIFICATION AND GENDER RELATED ISSUES (October,
+2001).
+Vimmerstedt, L., Small geothermal projects for rural electrification, in GEOTHERMAL ENERGY RESOURCES
+FOR DEVELOPING COUNTRIES (D. Chandrasekharam & J. Bundschuh eds. 2002).
+von der Fehr, Nils-Henrik M. and Jaime Millln, Power Sector Reform: Lessons Learned, in KEEPING THE
+LIGHTS ON: POWER SECTOR REFORM IN LATIN AMERICA (Jaime Millln and Nils-Henrik M. von der Fehr,
+eds., 2003).
+Weston, F., et. al., National Renewable Energy Laboratory, State Electricity Regulatory Policy and
+Distributed Resources: Accommodating Distributed Resources in Wholesale Markets (NREL/SR-56032497, October 2002) available on the internet at: http://www.raponline.org or http://www.osti.gov/bridge.
+WILLIS, H. L. AND W. G. SCOTT, DISTRIBUTED POWER GENERATION, (Marecl Dekker ed., 2000).
+Winrock International and International Development and Energy Associates, Inc., ADVANCING
+COGENERATION IN THE INDIAN SUGAR INDUSTRY, THREE MILLS IN TAMIL NADU AND MAHARASHTRA (A
+Report of USAID/New Delhi and the Office of Energy and Infrastructure, Bureau for Research and
+Development, United States Agency for International Development. (No. 93-00, May 1993).
+Winrock International Brazil, Trade Guide on Renewable Energy in Brazil (October 2002) available at
+http://www.winrock.org.
+Winrock International, Electricity on Demand: reaching Two Billion Cheaply with Renewable Energy (July,
+1998).
+Winrock International, Renewable Energy State of the Industry Report # 9 (April  June 2003).
+World Alliance for Decentralized Energy (WADE), Future of Environmentally Responsible Energy Systems
+in Developing Nations (October, 2003) available on the internet at http://www.localpower.org.
+World Alliance for Decentralized Energy (WADE), The Real Benefits of Decentralized Energy 1 (2003)
+available at http://www.localpower.org.
+The World Bank Operations Department, Rural Electrification: a hard look at costs and benefits in PRECIS
+(Number 90, May 1995) available on the internet at:
+http://lnweb18.worldbank.org/oed/oeddoclib.nsf/0/2F800655A86FE9B5852567F5005D895D?opendocument
+The World Bank, Mexico-Large-scale Renewable Energy Development Project P077717 (Initial Project
+Information Document, Report No. AD138 June 25, 2003).
+Younger, D. R., The World Bank Group and Finance of Sustainable Energy Activities, power point
+presentation given at the BCSE Industry Roundtable on Clean Energy Financing in Washington, D.C. on
+February 26, 2004.
+Annotated Bibliography
+Winrock International, The Future Of Environmentally Responsible Energy Systems in the Developing
+Nations, Annotated Bibliography, Clean Energy and Distributed Generation (October 2003) available at
+http://winrock.org.
+Increasing Energy Access in Developing Countries: The Role of Distributed Generation
+Appendix 1
+World Bank Rural Electrification: Lessons Learned
+Project Criteria. Criteria for selection and priority-setting for rural electrification should be open and objective.
+Political interference in the implementation of rural electrification programs can add considerably to the costs of
+system expansion.
+Local Involvement Key. Rural electrification programs can benefit greatly from the involvement of local
+communities - or suffer because of its absence. Projects are more likely to be viable and sustainable if local
+stakeholders are involved in their design and implementation. One way to approach this is to set up a Rural
+Electrification Committee to help assess level of demand, educate consumers, and promote the wider use of
+electricity. The concept of Area Coverage Rural Electrification  a distribution system based on member-owned
+rural electric cooperatives - has been successfully used (e.g. in Bangladesh).
+Grid Extension. Grid extension is sometimes not the most cost-effective solution; decentralized delivery options
+and alternative energy sources--such as solar PV, mini-hydro and other renewable energy sources--should be
+considered, following the principle of least-cost development.
+Private Sector Participation. The private sector can be attracted to participate in rural electrification schemes, even
+in a poor country, if an appropriate legal framework and risk management options are in place, including the
+assurance of a level playing field in terms of competition and the ability to charge full cost-recovery tariffs.
+Financial viability/cost recovery. Identify economic limits to extensions to the grid and the economic potential of
+lower-cost options and alternative energy sources. A rational system of cost recovery should take into account
+capital investment costs, level of local contribution, number and density of consumers, likely demand for electricity;
+also, the willingness to pay and payment capability of the population.
+Tariff Regime. The tariff regime should ensure that rural electrification programs are financially sustainable and
+will not drain operational resources. Tariffs should cover the full cost of medium-voltage generation/transmission,
+plus low-voltage operations/maintenance costs, and should provide for eventual capital replacement costs.
+Connection Charges. Initial connection charges are a greater barrier to rural families than the monthly electricity
+bill. Consider the provision of financing to spread the costs of connection fees over an extended period, or lower
+connection rates for the poor, so that the benefits of electrification may reach larger numbers of people; consider also
+arranging financial assistance for the credit/hire purchase of electrical appliances.
+Good Subsidies. The tariff structure needs to ensure that any subsidies are fair, equitable, and sustainable. A
+good subsidy scheme enhances access for the poor (improving the quality of life/reducing energy expense);
+encourage the rural electrification business; sustains incentives for efficient delivery/consumption; and must be
+practicable within the financial/human resource constraints of government/power utility. A portion of the capital
+may be subsidized, obtained at concessionary rates, or as a government/donor grant. A low lifeline tariff is
+acceptable on income redistribution grounds.
+Subsidy No-Nos. Subsidization of operating costs has widely proved to be counter-productive and to undermine the
+utilities' financial position, their ability to extend service, and ultimately the rural electrification programs
+themselves.
+Implementation agency. Implementing agencies must have a high degree of operating autonomy and be held
+accountable; dynamic leadership and employees with job security and career prospects are a key to success. Clear
+contractual arrangements between the government and implementing agencies are important.
+Minimize construction and operating costs. Assess technology and available standards during the planning stage;
+deploy low-cost equipment; use innovative technologies, approaches, and local suppliers; standardize materials.
+Consider the use of "ready-boards" to reduce connection costs. Design the system for expected loads (much lower in
+rural than urban areas) to reduce construction costs; provide for future upgrades.
+Source: Arun Sanghvi and Douglas Barnes, Rural Electrification: Lessons Learned, in AFRICA REGION FINDINGS (No. 177
+February 2001).
+Business Council for Sustainable Energy
+Appendix 2
+California Energy Commission - Key Policy and Regulatory
+Questions for Distributed Generation
+Interconnect Issues
+ Can interconnection rules be standardized?
+ Can interconnection be made more user-friendly to the end consumer?
+ Can a substantial amount of DG be interconnected in both radial and networked distribution systems?
+ Are there safe, reliable and cost-effective interconnection solutions for radial and networked distribution
+systems?
+ Can interconnection solutions be applied in a timely manner?
+ Can Engineering studies for interconnection be eliminated, standardized or streamlined?
+ Is a single DG unit compatible with end-use equipment or other DG equipment?
+ Can qualified interconnection systems be certified so that they may be installed with minimal field-testing?
+ Have potential DG installations been postponed or abandoned due to existing interconnection rules or costs?
+Grid Effects
+ What are the beneficial and detrimental impacts of high DG penetration on the transmission and distribution
+system, and how may they be quantified and assessed?
+ What are the limits to the level of DG that the grid can absorb without adverse consequences?
+ What are the limitations on bi-directional power?
+ Should the design of new distribution feeders consider DG?
+ Are the use of micro-grids practical?
+Market Integration and Regulatory Issues
+ It is in the States interest to promote DG?
+ How should the rules be modified to allow DG to better participate in current markets?
+ Can transaction costs associated with obtaining permits for DG be reduced?
+ How can tariffs and rates be designated to provide better price transparency to DG?
+ Are there too many public subsidies being provided for DG?
+ Should incentives for DG be further enhanced?
+ Should regulatory rules be changed to support the development of micro-grids?
+ How does the suspension of direct effect impact the marketability of DG?
+ Are there ways to balance the imposition of exit fees with the marketability of DG?
+ Should utilities be offered incentives in return for eliminating exit fees when DG is installed on their
+systems?
+ Should standards for system control and communication devices be developed to better enable DG to
+participate in markets?
+ Should utilities be provided incentives to facilitate DG?
+ Should utilities be allowed to install and use DG, and participate with other DG developers, and if so, how
+should this proceed?
+Environmental Issues
+ What is the environmental impact of DG technologies, and how can their impact be minimized?
+ What is the environmental life-cycle impact of DG compared to central station power plants?
+ What technologies and emission controls are needed to make air emissions from DG as clean as those from
+central station power plants?
+ What would be the best way to promote waste-to-energy DG projects that help improve air and water
+quality and reduce greenhouse gases?
+Source: CALIFORNIA ENERGY COMMISSION, DISTRIBUTED GENERATION STRATEGIC PLAN, P700-02-002, 14-16 (June 2002).
