@@ -53,6 +53,7 @@ class DocumentGroupVectorizer:
         self.insync = False
 
     def transform(self):
+        pass
 
     def fit_transform(self):
         """

@@ -9,44 +9,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <splitter split-orientation="horizontal" split-proportion="0.5275641">
-            <split-first>
-              <leaf>
-                <file leaf-file-name="text.py" pinned="false" current-in-tab="true">
-                  <entry file="file:///usr/local/lib/python3.5/dist-packages/sklearn/feature_extraction/text.py">
-                    <provider selected="true" editor-type-id="text-editor">
-                      <state relative-caret-position="309">
-                        <caret line="754" column="15" lean-forward="false" selection-start-line="754" selection-start-column="8" selection-end-line="754" selection-end-column="15" />
-                        <folding />
-                      </state>
-                    </provider>
-                  </entry>
-                </file>
-              </leaf>
-            </split-first>
-            <split-second>
-              <leaf>
-                <file leaf-file-name="text.py" pinned="false" current-in-tab="true">
-                  <entry file="file://$PROJECT_DIR$/../../envs/pp-vectorizer/lib/python3.5/site-packages/sklearn/feature_extraction/text.py">
-                    <provider selected="true" editor-type-id="text-editor">
-                      <state relative-caret-position="309">
-                        <caret line="1129" column="17" lean-forward="false" selection-start-line="1129" selection-start-column="17" selection-end-line="1129" selection-end-column="17" />
-                        <folding />
-                      </state>
-                    </provider>
-                  </entry>
-                </file>
-              </leaf>
-            </split-second>
-          </splitter>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.48419204">
@@ -147,8 +109,8 @@
           <file leaf-file-name="doc_organizer.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/pp_vectorizer/doc_organizer.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="120">
-                  <caret line="54" column="22" lean-forward="false" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+                <state relative-caret-position="440">
+                  <caret line="55" column="12" lean-forward="false" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
                   <folding>
                     <element signature="e#0#18#0" expanded="true" />
                   </folding>
@@ -217,7 +179,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-4" />
     <option name="width" value="1928" />
-    <option name="height" value="994" />
+    <option name="height" value="1114" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -257,30 +219,6 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="mireleschavezv">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="SWC">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="envs">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="pp-vectorizer">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="lib">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="python3.5">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="site-packages">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -502,7 +440,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="0" width="1928" height="994" extended-state="6" />
+    <frame x="-4" y="0" width="1928" height="1114" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.03311966" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -731,14 +669,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python3.5/dist-packages/sklearn/feature_extraction/text.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="754" column="15" lean-forward="false" selection-start-line="754" selection-start-column="8" selection-end-line="754" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pp_vectorizer/file_utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -795,10 +725,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/sklearn/feature_extraction/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="754" column="15" lean-forward="false" selection-start-line="754" selection-start-column="8" selection-end-line="754" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pp_vectorizer/doc_organizer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="54" column="22" lean-forward="false" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        <state relative-caret-position="440">
+          <caret line="55" column="12" lean-forward="false" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
