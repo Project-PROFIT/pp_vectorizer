@@ -34,8 +34,6 @@ class TextFileIterator:
                               for x in os.listdir(dir_or_list)]
         else:
             raise TypeError
-
-        self.filenames.sort()
         self.current_file = 0
 
     def __next__(self):

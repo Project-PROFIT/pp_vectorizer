@@ -1,42 +1,40 @@
 from pp_vectorizer import pp_vectorizer as ppv
-from pp_vectorizer.doc_organizer import DocumentGroupVectorizer
+from sklearn.neural_network import MLPClassifier
+from pp_vectorizer.doc_organizer import MultilableDocOrganizer
+from pp_vectorizer.doc_organizer import MultilabelDocClassificationPipeline \
+    as mldcp
+import pp_vectorizer.file_utils as fu
 
 import os
 import numpy as np
 import math
 
 # --- Parameters
-ngram_range = (1, 3)
-min_term_usage = 0.01
-max_term_usage = 0.4
-
 base_folder = os.getenv("DOCS_PATH")
+vectorizer_parameters = {'ngram_range': (1, 3),
+                         'max_df': 0.45,
+                         'max_features': 1000
+                         }
+classifier_parameters = {'max_iter': 500}
 
-pp_vect = ppv.PPVectorizer(ngram_range=ngram_range)
-dfv = DocumentGroupVectorizer(pp_vect, base_folder)
-dfv.fit_transform()
-pp_vect.cache_extractor.save_cache()
-
-X = dfv.get_whole_matrix()
-Y = dfv.get_whole_class_matrix()
-
-# Filter ngrams
-#    that are used in few documents
-nterms = X.shape[1]
-ndocs  = X.shape[0]
-good_terms = np.zeros(nterms, dtype=np.int8)
-doc_min_thr = math.ceil(ndocs * min_term_usage)
-doc_max_thr = math.floor(ndocs * max_term_usage)
-for i in range(nterms):
-    nz = np.nonzero(X[:, i])[0]
-    if (len(nz) > doc_min_thr) and (len(nz) < doc_max_thr):
-        good_terms[i] = 1
-
-X = X[:, good_terms==1]
+dfv = MultilableDocOrganizer(base_folder)
+all_locations = dfv.get_locations()
+all_classes = dfv.get_class_matrix()
+class_names = dfv.get_category_names()
 
 
 
+numtrain = int(0.8 * len(all_locations))
+locs_train = all_locations[:numtrain]
+y_train = all_classes[:numtrain, :]
+locs_test = all_locations[numtrain+1:]
+y_test = all_classes[numtrain+1:, :]
 
-
+pipeline = mldcp(ppv.PPVectorizer,
+                 MLPClassifier,
+                 vectorizer_parameters,
+                 classifier_parameters)
+pipeline.fit(locs_train, y_train)
+y_pred = pipeline.predict(locs_test)
 
 
