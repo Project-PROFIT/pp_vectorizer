@@ -5,6 +5,7 @@ import pickle
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 
 import pp_api.pp_calls as poolparty
+from .file_utils import string_hasher
 
 
 class CacheExtractor:
@@ -17,18 +18,21 @@ class CacheExtractor:
                 d = pickle.load(f)
             self.cache_dict.update(d)
 
+    def save_cache(self):
+        with open(self.cache_path, 'wb') as f:
+            pickle.dump(self.cache_dict, f)
+
     def extract(self, text, pp_pid=os.getenv('PP_PID'),
                 pp=poolparty.PoolParty(server=os.getenv('PP_SERVER'))):
+        cache_key = string_hasher(text)
         try:
-            return self.cache_dict[(text, pp_pid)]
+            return self.cache_dict[(cache_key, pp_pid)]
         except KeyError:
             r = pp.extract(text, pid=pp_pid)
-            self.cache_dict[(text, pp_pid)] = r
+            self.cache_dict[(cache_key, pp_pid)] = r
             self.new_cache += 1
-            if self.new_cache >= 25:
-                with open(self.cache_path, 'wb') as f:
-                    pickle.dump(self.cache_dict, f)
-                self.new_cache = 0
+            if self.new_cache % 25 == 1:
+                self.save_cache()
             return r
 
 
@@ -48,7 +52,9 @@ class PPVectorizer(TfidfVectorizer):
         self.related_prefix = related_prefix
         self.use_broaders = isinstance(broader_prefix, str)
         self.use_related = isinstance(related_prefix, str)
-        self.make_extraction = self.use_concepts or self.use_broaders or self.use_related
+        self.make_extraction = (self.use_concepts
+                                or self.use_broaders
+                                or self.use_related)
         self.terms = terms
         self.cache_extractor = CacheExtractor(cache_path)
         self.pp = pp
