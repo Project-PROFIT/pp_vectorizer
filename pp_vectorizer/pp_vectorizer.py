@@ -3,9 +3,11 @@ import re
 import pickle
 
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
+import numpy as np
 
 import pp_api.pp_calls as poolparty
 from .file_utils import string_hasher
+
 
 
 class CacheExtractor:
@@ -38,29 +40,48 @@ class CacheExtractor:
 
 class PPVectorizer(TfidfVectorizer):
     def __init__(self,
-                 use_concepts=True, terms=True,
+                 use_concepts=True,
+                 terms=True,
                  broader_prefix='broader ',
                  related_prefix='related ',
                  cache_path=os.getenv('CACHE_PATH'),
                  pp_pid=os.getenv('PP_PID'),
                  pp=poolparty.PoolParty(server=os.getenv('PP_SERVER')),
-                 *args, **kwargs):
+                 input='content', encoding='utf-8',
+                 decode_error='strict', strip_accents=None, lowercase=True,
+                 preprocessor=None, tokenizer=None, analyzer='word',
+                 stop_words=None, token_pattern=r"(?u)\b\w\w+\b",
+                 ngram_range=(1, 1), max_df=1.0, min_df=1,
+                 max_features=None, vocabulary=None, binary=False,
+                 dtype=np.int64, norm='l2', use_idf=True, smooth_idf=True,
+                 sublinear_tf=False
+                 ):
         # TODO: shadow concepts?
-        super().__init__(*args, **kwargs)
+        super().__init__(input=input, encoding=encoding,
+                         decode_error=decode_error, strip_accents=strip_accents,
+                         lowercase=lowercase, preprocessor=preprocessor,
+                         tokenizer=tokenizer, analyzer=analyzer,
+                         stop_words=stop_words, token_pattern=token_pattern,
+                         ngram_range=ngram_range, max_df=max_df, min_df=min_df,
+                         max_features=max_features, vocabulary=vocabulary,
+                         binary=binary, dtype=dtype, norm=norm, use_idf=use_idf,
+                         smooth_idf=smooth_idf, sublinear_tf=sublinear_tf)
+        # super().__init__(*args, **kwargs)
         self.use_concepts = use_concepts
         self.broader_prefix = broader_prefix
         self.related_prefix = related_prefix
-        self.use_broaders = isinstance(broader_prefix, str)
-        self.use_related = isinstance(related_prefix, str)
-        self.make_extraction = (self.use_concepts
-                                or self.use_broaders
-                                or self.use_related)
         self.terms = terms
-        self.cache_extractor = CacheExtractor(cache_path)
+        self.cache_path = cache_path
         self.pp = pp
         self.pp_pid = pp_pid
 
     def build_analyzer(self):
+        self.cache_extractor = CacheExtractor(self.cache_path)
+        self.use_broaders = isinstance(self.broader_prefix, str)
+        self.use_related = isinstance(self.related_prefix, str)
+        self.make_extraction = (self.use_concepts
+                                or self.use_broaders
+                                or self.use_related)
         """Return a callable that handles preprocessing and tokenization"""
         def analyzer(doc):
             decoded_doc = self.decode(doc).replace('<', '').replace('>', '')

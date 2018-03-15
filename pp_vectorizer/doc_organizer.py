@@ -2,59 +2,9 @@ import numpy as np
 import os
 import uuid
 
-from sklearn.base import BaseEstimator
-
 from .file_utils import string_hasher
-from .file_utils import TextFileIterator as dociter
-from sklearn.datasets.base import load_data
 
-
-class MultilabelDocClassificationPipeline:
-    def __init__(self, vectorizer_class,
-                 classifier_class,
-                 vectorizer_params,
-                 classifier_params):
-        self.vectorizer_class = vectorizer_class
-        self.vectorizer_params = vectorizer_params
-        self.classifier_class = classifier_class
-        self.classifier_params = classifier_params
-        self.x_train = None
-        self.x_test = None
-        self.numclasses = 0
-
-    def fit(self, doc_locations_train, y_train):
-        self.numclasses = y_train.shape[1]
-        self.vectorizer = self.vectorizer_class(**self.vectorizer_params)
-        self.classifier = self.classifier_class(**self.classifier_params)
-        x_train = self.vectorizer.fit_transform(dociter(doc_locations_train))
-        self.classifier.fit(x_train, y_train)
-        self.x_train = x_train
-        if hasattr(self.vectorizer, 'cache_extractor'):
-            print("writing to cache")
-            self.vectorizer.cache_extractor.save_cache()
-
-    def predict(self, doc_locations_test):
-        x_test = self.vectorizer.transform(doc_locations_test)
-        if hasattr(self.vectorizer, 'cache_extractor'):
-            self.vectorizer.cache_extractor.save_cache()
-        self.x_test = x_test
-        return self.classifier.predict(x_test)
-
-    def get_params(self):
-        p_dict = {'vectorizer_class': self.vectorizer_class,
-                  'classifier_class': self.classifier_class,
-                  'vectorizer_params': self.vectorizer_params,
-                  'classifier_params': self.classifier_params}
-        return p_dict
-
-    def set_params(self, p_dict):
-        self.vectorizer_class = p_dict['vectorizer_class']
-        self.classifier_class = p_dict['classifier_class']
-        self.vectorizer_params = p_dict['vectorizer_params']
-        self.classifier_params = p_dict['classifier_params']
-
-
-class MultilableDocOrganizer:
+class MultilabelDocOrganizer:
     def __init__(self, superfolder=None):
         self.docs = dict()
         self.hashes_locations = dict()
@@ -116,7 +66,7 @@ class MultilableDocOrganizer:
             self.fix_indices()
         return self.categories
 
-    def get_class_matrix(self):
+    def get_category_matrix(self):
         if not self.indices_fixed:
             self.fix_indices()
         Y = np.zeros((self.number_of_documents, len(self.categories)))

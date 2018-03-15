@@ -38,6 +38,7 @@ class TextFileIterator:
 
     def __next__(self):
         if self.current_file >= len(self.filenames):
+            self.current_file = 0
             raise StopIteration
         fn = self.filenames[self.current_file]
         self.current_file += 1
