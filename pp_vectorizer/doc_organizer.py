@@ -1,8 +1,10 @@
-import numpy as np
 import os
+
+import numpy as np
 import uuid
 
 from .file_utils import string_hasher
+
 
 class MultilabelDocOrganizer:
     def __init__(self, superfolder=None):
@@ -24,10 +26,10 @@ class MultilabelDocOrganizer:
                 self.add_category(cat, doc_locations=locations)
 
     def _hash_location(self, location):
+        # raises FileNotFoundError
         with open(location, "rt") as lf:
             text = lf.read()
             return string_hasher(text)
-        raise FileNotFoundError
 
     def add_category(self, name, doc_locations=[]):
         if name not in self.docs.keys():

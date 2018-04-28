@@ -10,6 +10,7 @@ def string_hasher(x):
     :return:  a string containing the hash and the length of the original,
               separated by underscore
     """
+    assert isinstance(x, str)
     if len(x) == 0:
         return "EMPTY_STRING_0"
     hasher = hashlib.md5()
@@ -30,22 +31,26 @@ class TextFileIterator:
         if type(dir_or_list) == list:
             self.filenames = dir_or_list
         elif type(dir_or_list) == str:
-            self.filenames = [dir_or_list + "/" + x
+            self.filenames = [os.path.join(dir_or_list, x)
                               for x in os.listdir(dir_or_list)]
         else:
-            raise TypeError
-        self.current_file = 0
+            raise TypeError(
+                'The argument {} should be either list of filenames'
+                ' or an absolute path as a string'.format(dir_or_list))
+        # self.current_file = 0
 
     def __next__(self):
-        if self.current_file >= len(self.filenames):
-            self.current_file = 0
-            raise StopIteration
-        fn = self.filenames[self.current_file]
-        self.current_file += 1
-        with open(fn, "rt") as tf:
-            text = tf.read()
-            return text
-        raise FileNotFoundError
+        # raises FileNotFoundError
 
-
+        # if self.current_file >= len(self.filenames):
+        #     self.current_file = 0
+        #     raise StopIteration
+        # fn = self.filenames[self.current_file]
+        # self.current_file += 1
+        # with open(fn, "rt") as tf:
+        #     text = tf.read()
+        #     return text
+        for fn in self.filenames:
+            with open(fn, "rt") as tf:
+                yield tf.read
 

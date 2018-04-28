@@ -1,0 +1,6 @@
+PP_USER=revenkoa
+PP_PASSWORD=revenkpp
+PP_SERVER='https://profit.poolparty.biz'
+PP_PID='1DE00088-2B4C-0001-9BB3-1C5234FF8640'
+CACHE_PATH='/home/artem/local_data/vectorizer/REEGLE_test_pp_vect_cache.pkl'
+DOCS_PATH=''

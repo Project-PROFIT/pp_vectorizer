@@ -1,7 +1,10 @@
 import os
 
+# from decouple import AutoConfig
+
 from pp_vectorizer.pp_vectorizer import PPVectorizer
 
+# CONFIG = AutoConfig()
 DATA_FOLDER = os.path.relpath('./data/')
 
 class TestPPVectorizer():

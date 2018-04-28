@@ -4,18 +4,20 @@ import pickle
 
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 import numpy as np
+from decouple import AutoConfig
 
 import pp_api.pp_calls as poolparty
 from .file_utils import string_hasher
 
+CONFIG = AutoConfig()
 
 
 class CacheExtractor:
-    def __init__(self, cache_path=os.getenv('CACHE_PATH')):
+    def __init__(self, cache_path=CONFIG('CACHE_PATH')):
         self.cache_dict = dict()
         self.new_cache = 0
         self.cache_path = cache_path
-        if os.path.exists(self.cache_path):
+        if self.cache_path and os.path.exists(self.cache_path):
             with open(cache_path, 'rb') as f:
                 d = pickle.load(f)
             self.cache_dict.update(d)
@@ -24,8 +26,8 @@ class CacheExtractor:
         with open(self.cache_path, 'wb') as f:
             pickle.dump(self.cache_dict, f)
 
-    def extract(self, text, pp_pid=os.getenv('PP_PID'),
-                pp=poolparty.PoolParty(server=os.getenv('PP_SERVER'))):
+    def extract(self, text, pp_pid=CONFIG('PP_PID'),
+                pp=poolparty.PoolParty(server=CONFIG('PP_SERVER'))):
         cache_key = string_hasher(text)
         try:
             return self.cache_dict[(cache_key, pp_pid)]
@@ -44,9 +46,9 @@ class PPVectorizer(TfidfVectorizer):
                  terms=True,
                  broader_prefix='broader ',
                  related_prefix='related ',
-                 cache_path=os.getenv('CACHE_PATH'),
-                 pp_pid=os.getenv('PP_PID'),
-                 pp=poolparty.PoolParty(server=os.getenv('PP_SERVER')),
+                 cache_path=CONFIG('CACHE_PATH'),
+                 pp_pid=CONFIG('PP_PID'),
+                 pp=poolparty.PoolParty(server=CONFIG('PP_SERVER')),
                  input='content', encoding='utf-8',
                  decode_error='strict', strip_accents=None, lowercase=True,
                  preprocessor=None, tokenizer=None, analyzer='word',
