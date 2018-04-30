@@ -84,7 +84,7 @@ celerybeat-schedule
 *.sage.py
 
 # Environments
-pp_vectorizer/.*_env
+.*_env
 .venv
 env/
 venv/
