@@ -25,7 +25,10 @@ class TextFileIterator:
     returned as string
     """
     def __iter__(self):
-        return self
+        for fn in self.filenames:
+            with open(fn, "rt") as tf:
+                yield tf.read()
+
 
     def __init__(self, dir_or_list):
         if type(dir_or_list) == list:
@@ -37,9 +40,8 @@ class TextFileIterator:
             raise TypeError(
                 'The argument {} should be either list of filenames'
                 ' or an absolute path as a string'.format(dir_or_list))
-        # self.current_file = 0
 
-    def __next__(self):
+    # def __next__(self):
         # raises FileNotFoundError
 
         # if self.current_file >= len(self.filenames):
@@ -50,7 +52,7 @@ class TextFileIterator:
         # with open(fn, "rt") as tf:
         #     text = tf.read()
         #     return text
-        for fn in self.filenames:
-            with open(fn, "rt") as tf:
-                yield tf.read
+        # for fn in self.filenames:
+        #     with open(fn, "rt") as tf:
+        #         yield tf.read()
 

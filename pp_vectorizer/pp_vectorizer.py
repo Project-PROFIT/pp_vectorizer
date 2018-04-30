@@ -1,3 +1,4 @@
+import logging
 import os
 import re
 import pickle
@@ -7,12 +8,17 @@ import numpy as np
 from decouple import AutoConfig
 
 import pp_api.pp_calls as poolparty
+
 from .file_utils import string_hasher
 
 CONFIG = AutoConfig()
+module_logger = logging.getLogger(__name__)
 
 
-class CacheExtractor:
+class PPCachedExtractor:
+    """
+    A class to provide caching capabilities for PoolParty extraction.
+    """
     def __init__(self, cache_path=CONFIG('CACHE_PATH')):
         self.cache_dict = dict()
         self.new_cache = 0
@@ -23,8 +29,9 @@ class CacheExtractor:
             self.cache_dict.update(d)
 
     def save_cache(self):
-        with open(self.cache_path, 'wb') as f:
-            pickle.dump(self.cache_dict, f)
+        if self.cache_path:
+            with open(self.cache_path, 'wb') as f:
+                pickle.dump(self.cache_dict, f)
 
     def extract(self, text, pp_pid=CONFIG('PP_PID'),
                 pp=poolparty.PoolParty(server=CONFIG('PP_SERVER'))):
@@ -41,9 +48,12 @@ class CacheExtractor:
 
 
 class PPVectorizer(TfidfVectorizer):
+    """
+    TODO: DocString
+    """
     def __init__(self,
                  use_concepts=True,
-                 terms=True,
+                 use_terms=True,
                  broader_prefix='broader ',
                  related_prefix='related ',
                  cache_path=CONFIG('CACHE_PATH'),
@@ -58,6 +68,32 @@ class PPVectorizer(TfidfVectorizer):
                  dtype=np.int64, norm='l2', use_idf=True, smooth_idf=True,
                  sublinear_tf=False
                  ):
+        """
+        Initialize the PoolParty Vectorizer.
+        Inherits from `scikit-learn.feature_extraction.text.TfidfVectorizer`.
+        Only specific parameters are described. The rest should be looked up
+        in the parent class.
+
+        :param use_concepts: Bool
+            Default: `True`
+        :param use_terms: Bool.
+            Default: `True`
+        :param broader_prefix: `str`
+            prefix to be used with broaders.
+            Provide `None` or `False` to not extract broaders.
+            Default: `broader `
+        :param related_prefix: `str`
+            prefix to be used with relateds.
+            Provide `None` or `False` to not extract relateds.
+            Default: `related `
+        :param cache_path: `str`
+            Absolute path to the location of cache. Default: read from
+            env variable *CACHE_PATH*
+        :param pp_pid: str
+            PoolParty Project ID. Default: read from env variable *PP_PID*
+        :param pp: `PoolParty instance`
+            Default: read from env variable *PP_SERVER* and create an instance.
+        """
         # TODO: shadow concepts?
         super().__init__(input=input, encoding=encoding,
                          decode_error=decode_error, strip_accents=strip_accents,
@@ -72,13 +108,13 @@ class PPVectorizer(TfidfVectorizer):
         self.use_concepts = use_concepts
         self.broader_prefix = broader_prefix
         self.related_prefix = related_prefix
-        self.terms = terms
+        self.use_terms = use_terms
         self.cache_path = cache_path
         self.pp = pp
         self.pp_pid = pp_pid
 
     def build_analyzer(self):
-        self.cache_extractor = CacheExtractor(self.cache_path)
+        self.cached_extractor = PPCachedExtractor(self.cache_path)
         self.use_broaders = isinstance(self.broader_prefix, str)
         self.use_related = isinstance(self.related_prefix, str)
         self.make_extraction = (self.use_concepts
@@ -90,9 +126,11 @@ class PPVectorizer(TfidfVectorizer):
             annotated_doc = decoded_doc
             result = []
             if self.make_extraction:
-                extracted = self.cache_extractor.extract(decoded_doc,
-                                                         pp_pid=self.pp_pid,
-                                                         pp=self.pp)
+                module_logger.debug('Starting extraction, doc length={}'.format(
+                    len(doc)))
+                extracted = self.cached_extractor.extract(decoded_doc,
+                                                          pp_pid=self.pp_pid,
+                                                          pp=self.pp)
                 cpts = poolparty.PoolParty.get_cpts_from_response(extracted)
                 if self.use_concepts:
                     positions2uri = dict()
@@ -103,7 +141,7 @@ class PPVectorizer(TfidfVectorizer):
                                 for x in cpt['matchings']
                                 for pos in x['positions']
                             })
-                    if not self.terms:
+                    if not self.use_terms:
                         result = ['<' + cpt['uri'] + '>' for cpt in cpts]
                     else:
                         sorted_pos = sorted(positions2uri.keys())
@@ -116,7 +154,7 @@ class PPVectorizer(TfidfVectorizer):
                             previous_pos = this_pos
                         text_fragments.append(decoded_doc[previous_pos[1]+1:])
                         annotated_doc = ' '.join(text_fragments)
-                if self.terms:
+                if self.use_terms:
                     prepared_doc = preprocess(annotated_doc)
                     result = self._word_ngrams(tokenize(prepared_doc),
                                                stop_words)
@@ -125,9 +163,15 @@ class PPVectorizer(TfidfVectorizer):
                                for cpt in cpts
                                for rel_cpt in cpt['relatedConcepts']]
                 if self.use_broaders:
-                    result += [self.broader_prefix + '<' + br_cpt + '>'
-                               for cpt in cpts
-                               for br_cpt in cpt['transitiveBroaderConcepts']]
+                    module_logger.debug('Extracting broaders')
+                    broader_results = [
+                        self.broader_prefix + '<' + br_cpt + '>'
+                        for cpt in cpts
+                        for br_cpt in cpt['transitiveBroaderConcepts'] or
+                                      cpt['transitiveBroaderTopConcepts']]
+                    module_logger.debug('{} broaders extracted'.format(
+                        len(broader_results)))
+                    result += broader_results
             else:
                 prepared_doc = preprocess(annotated_doc)
                 result = self._word_ngrams(tokenize(prepared_doc),
