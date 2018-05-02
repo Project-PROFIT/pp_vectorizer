@@ -42,8 +42,10 @@ class PPCachedExtractor:
             r = pp.extract(text, pid=pp_pid)
             self.cache_dict[(cache_key, pp_pid)] = r
             self.new_cache += 1
-            if self.new_cache % 25 == 1:
+            # if more than 10% new then save
+            if self.new_cache % round(len(self.cache_dict)*10/100) == 0:
                 self.save_cache()
+                self.new_cache = 0
             return r
 
 
