@@ -3,7 +3,7 @@ from setuptools import setup
 
 requirements = open('requirements.txt', 'r').read().split("\n")
 requirements = [x for x in requirements if (len(x)>0) and  (x[0] != '-') and ("+" not in x)]
-requirements = [x.replace("python-","") for x in requirements]
+requirements = [x.replace("python-","python_") for x in requirements]
 print(requirements)
 dependencies = ["https://github.com/artreven/pp_api/tarball/master#egg=pp_api"]
 
