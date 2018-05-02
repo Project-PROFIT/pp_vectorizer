@@ -3,8 +3,7 @@ scipy
 requests
 python-decouple
 rdflib
-scikit-learn
-python-decouple
+sklearn
 uuid
 graphviz
 -e git://github.com/artreven/pp_api.git#egg=pp_api
