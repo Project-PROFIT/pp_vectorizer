@@ -40,11 +40,12 @@ class PPCachedExtractor:
     def extract(self, text, pp_pid=CONFIG('PP_PID'),
                 pp=poolparty.PoolParty(server=CONFIG('PP_SERVER'))):
         cache_key = string_hasher(text)
+        full_key = cache_key + pp_pid
         try:
-            return self.shove[(cache_key, pp_pid)]
-        except KeyError:
+            return self.shove[full_key]
+        except (KeyError, TypeError):
             r = pp.extract(text, pid=pp_pid)
-            self.shove[(cache_key, pp_pid)] = r
+            self.shove[full_key] = r
             return r
         # try:
         #     return self.cache_dict[(cache_key, pp_pid)]

@@ -107,5 +107,5 @@ venv.bak/
 
 .idea/*
 pp_vectorizer/tests/data/mem/
-
+pp_vectorizer/__pycache__/
 *__pycache__/
