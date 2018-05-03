@@ -7,3 +7,4 @@ sklearn
 uuid
 graphviz
 -e git://github.com/artreven/pp_api.git#egg=pp_api
+shove

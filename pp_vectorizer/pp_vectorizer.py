@@ -1,11 +1,12 @@
 import logging
 import os
-import re
 import pickle
+import re
 
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 import numpy as np
 from decouple import AutoConfig
+from shove import Shove
 
 import pp_api.pp_calls as poolparty
 
@@ -19,34 +20,43 @@ class PPCachedExtractor:
     """
     A class to provide caching capabilities for PoolParty extraction.
     """
-    def __init__(self, cache_path=CONFIG('CACHE_PATH')):
-        self.cache_dict = dict()
-        self.new_cache = 0
-        self.cache_path = cache_path
-        if self.cache_path and os.path.exists(self.cache_path):
-            with open(cache_path, 'rb') as f:
-                d = pickle.load(f)
-            self.cache_dict.update(d)
+    def __init__(self, cache_path=CONFIG('CACHE_PATH'),
+                 store_path=CONFIG('STORE_PATH')):
+        self.shove = Shove(store_path, cache_path)
 
-    def save_cache(self):
-        if self.cache_path:
-            with open(self.cache_path, 'wb') as f:
-                pickle.dump(self.cache_dict, f)
+        # self.cache_dict = dict()
+        # self.new_cache = 0
+        # self.cache_path = cache_path
+        # if self.cache_path and os.path.exists(self.cache_path):
+        #     with open(cache_path, 'rb') as f:
+        #         d = pickle.load(f)
+        #     self.cache_dict.update(d)
+
+    # def save_cache(self):
+    #     if self.cache_path:
+    #         with open(self.cache_path, 'wb') as f:
+    #             pickle.dump(self.cache_dict, f)
 
     def extract(self, text, pp_pid=CONFIG('PP_PID'),
                 pp=poolparty.PoolParty(server=CONFIG('PP_SERVER'))):
         cache_key = string_hasher(text)
         try:
-            return self.cache_dict[(cache_key, pp_pid)]
+            return self.shove[(cache_key, pp_pid)]
         except KeyError:
             r = pp.extract(text, pid=pp_pid)
-            self.cache_dict[(cache_key, pp_pid)] = r
-            self.new_cache += 1
-            # if more than 10% new then save
-            if self.new_cache % (round(len(self.cache_dict)*10/100) + 1) == 0:
-                self.save_cache()
-                self.new_cache = 0
+            self.shove[(cache_key, pp_pid)] = r
             return r
+        # try:
+        #     return self.cache_dict[(cache_key, pp_pid)]
+        # except KeyError:
+        #     r = pp.extract(text, pid=pp_pid)
+        #     self.cache_dict[(cache_key, pp_pid)] = r
+        #     self.new_cache += 1
+        #     # if more than 10% new then save
+        #     if self.new_cache % (round(len(self.cache_dict)*10/100) + 1) == 0:
+        #         self.save_cache()
+        #         self.new_cache = 0
+        #     return r
 
 
 class PPVectorizer(TfidfVectorizer):
