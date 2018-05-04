@@ -7,15 +7,8 @@ the thesaurus specified by PP_PID in the instance given by PP_SERVER.
 """
 
 import logging
-import os
 
 from decouple import AutoConfig
-
-from sklearn.neural_network import MLPClassifier
-from sklearn.pipeline import Pipeline
-from sklearn.svm import SVC
-from sklearn.multioutput import MultiOutputClassifier
-from sklearn.model_selection import cross_val_score
 
 from pp_vectorizer import pp_vectorizer as ppv
 from pp_vectorizer.doc_organizer import MultilabelDocOrganizer, TextFileIterator
