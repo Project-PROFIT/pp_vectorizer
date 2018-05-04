@@ -33,8 +33,8 @@ class MultilabelDocOrganizer:
 
     def _hash_location(self, location):
         # raises FileNotFoundError
-        with open(location, "rt") as lf:
-            text = lf.read()
+        with open(location, "rb") as lf:
+            text = lf.read().decode("utf-8")
             return string_hasher(text)
 
     def add_category(self, name, doc_locations=[]):
@@ -107,37 +107,6 @@ class MultilabelDocOrganizer:
         """
         return TextFileIterator(self.get_locations())
 
-    # def get_matrix_for_category(self, category):
-    #     if not self.indices_fixed:
-    #         self.fix_indices()
-    #     X = np.zeros((len(self.docs[category]), self.tdm.shape[1] ))
-    #     for i, ha in enumerate(self.docs[category]):
-    #         doc_idx = self.hash2index[ha]
-    #         X[i, :] = self.tdm[doc_idx, :].toarray()
-    #     return X
-    #
-    # def get_whole_matrix(self):
-    #     if not self.indices_fixed:
-    #         self.fix_indices()
-    #     return self.tdm
-    # def transform(self):
-    #     pass
-    #
-    # def fit_transform(self):
-    #     """
-    #     Vectorize all currently loaded documents
-    #     :return:
-    #     """
-    #     self.hash_list = list(self.hash2location.keys())
-    #     self.hash_list.sort()
-    #     self.hash2index = {x:i for i,x in enumerate(self.hash_list)}
-    #     all_locations = [self.hash2location[h]
-    #                      for h in self.hash_list]
-    #     tf_iter = DocIter(all_locations)
-    #     self.tdm = self.vectorizer.fit_transform(tf_iter)
-    #     self.feature_names = self.vectorizer.get_feature_names()
-    #     self.insync = True
-
 
 def string_hasher(x):
     """
@@ -155,7 +124,7 @@ def string_hasher(x):
     return str(hasher.hexdigest()) + "_" + str(len(x))
 
 
-class TextFileIterator:
+class TextFileIterator():
     """
     Iterator constructed from a list of filenames.
     In each iteration, one of said files is open as text and the contents
@@ -166,18 +135,31 @@ class TextFileIterator:
         i = 0
         for fn in self.filenames:
             i += 1
-            if i % round(total_fns/20) == 0:
+            if i % round(1+total_fns/20) == 0:
                 module_logger.info('{} out of {} done'.format(i, total_fns))
-            with open(fn, "rt") as tf:
-                yield tf.read()
+            with open(fn, "rb") as tf:
+                yield tf.read().decode("utf-8")
+
+
 
     def __init__(self, dir_or_list):
         if type(dir_or_list) == list:
             self.filenames = dir_or_list
         elif type(dir_or_list) == str:
             self.filenames = [os.path.join(dir_or_list, x)
-                              for x in os.listdir(dir_or_list)]
+                              for x in os.listdir(dir_or_list)
+                              if os.path.isfile(os.path.join(dir_or_list, x))]
         else:
             raise TypeError(
                 'The argument {} should be either list of filenames'
                 ' or an absolute path as a string'.format(dir_or_list))
+
+    def __len__(self):
+        return len(self.filenames)
+
+    def __getitem__(self, item):
+        if item > self.__len__():
+            raise IndexError
+        fn = self.filenames[item]
+        with open(fn, "rb") as tf:
+            return tf.read().decode("utf-8")
