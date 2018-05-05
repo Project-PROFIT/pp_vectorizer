@@ -11,7 +11,7 @@ import logging
 from decouple import AutoConfig
 
 from pp_vectorizer import pp_vectorizer as ppv
-from pp_vectorizer.doc_organizer import MultilabelDocOrganizer, TextFileIterator
+from pp_vectorizer.doc_organizer import TextFileIterator
 
 CONFIG = AutoConfig()
 # --- Parameters
