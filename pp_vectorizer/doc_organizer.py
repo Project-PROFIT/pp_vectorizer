@@ -140,8 +140,6 @@ class TextFileIterator():
             with open(fn, "rb") as tf:
                 yield tf.read().decode("utf-8")
 
-
-
     def __init__(self, dir_or_list):
         if type(dir_or_list) == list:
             self.filenames = dir_or_list
@@ -156,6 +154,9 @@ class TextFileIterator():
 
     def __len__(self):
         return len(self.filenames)
+
+    def __array__(self):
+        return np.array([x for x in self])
 
     def __getitem__(self, item):
         if item > self.__len__():

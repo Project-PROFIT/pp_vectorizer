@@ -6,7 +6,7 @@ To use:
 
 1. Clone
 2. ```pip3 install -r requirements.txt```
-3. Use .env file to create a file called .localenv containing your credentials and configurations
+3. Use .env file to create a file called `.localenv` containing your credentials and configurations
 
    * *PP_USER*, *PP_PASSWORD* and *PP_SERVER* refer to your PoolParty credentials
    * *PP_PID*  Is the Project ID of the PoolParty project you wish to use for extraction

@@ -1,6 +1,4 @@
 import logging
-import os
-import pickle
 import re
 
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
@@ -10,7 +8,7 @@ from shove import Shove
 
 import pp_api.pp_calls as poolparty
 
-from .file_utils import string_hasher
+from .doc_organizer import string_hasher
 
 CONFIG = AutoConfig()
 module_logger = logging.getLogger(__name__)
@@ -20,49 +18,27 @@ class PPCachedExtractor:
     """
     A class to provide caching capabilities for PoolParty extraction.
     """
-    def __init__(self, cache_path=CONFIG('CACHE_PATH'),
-                 store_path=CONFIG('STORE_PATH')):
+    def __init__(self, cache_path=CONFIG('CACHE_PATH', default=None),
+                 store_path=CONFIG('STORE_PATH', default=None)):
         self.shove = Shove(store_path, cache_path)
 
-        # self.cache_dict = dict()
-        # self.new_cache = 0
-        # self.cache_path = cache_path
-        # if self.cache_path and os.path.exists(self.cache_path):
-        #     with open(cache_path, 'rb') as f:
-        #         d = pickle.load(f)
-        #     self.cache_dict.update(d)
-
-    # def save_cache(self):
-    #     if self.cache_path:
-    #         with open(self.cache_path, 'wb') as f:
-    #             pickle.dump(self.cache_dict, f)
-
-    def extract(self, text, pp_pid=CONFIG('PP_PID'),
-                pp=poolparty.PoolParty(server=CONFIG('PP_SERVER'))):
+    def extract_cpts(self, text, pp_pid=CONFIG('PP_PID'),
+                     pp=poolparty.PoolParty(server=CONFIG('PP_SERVER'))):
         cache_key = string_hasher(text)
-        full_key = cache_key + pp_pid
+        full_key = '_'.join([cache_key, pp_pid])
         try:
             return self.shove[full_key]
         except (KeyError, TypeError):
             r = pp.extract(text, pid=pp_pid)
-            self.shove[full_key] = r
-            return r
-        # try:
-        #     return self.cache_dict[(cache_key, pp_pid)]
-        # except KeyError:
-        #     r = pp.extract(text, pid=pp_pid)
-        #     self.cache_dict[(cache_key, pp_pid)] = r
-        #     self.new_cache += 1
-        #     # if more than 10% new then save
-        #     if self.new_cache % (round(len(self.cache_dict)*10/100) + 1) == 0:
-        #         self.save_cache()
-        #         self.new_cache = 0
-        #     return r
+            cpts = pp.get_cpts_from_response(r)
+            self.shove[full_key] = cpts
+            return cpts
 
 
 class PPVectorizer(TfidfVectorizer):
     """
-    TODO: DocString
+    The class vectorizes text input using PoolParty eXtractor. Additional
+    features are: extracted concepts, their broaders, their related.
     """
     def __init__(self,
                  use_concepts=True,
@@ -141,10 +117,9 @@ class PPVectorizer(TfidfVectorizer):
             if self.make_extraction:
                 module_logger.debug('Starting extraction, doc length={}'.format(
                     len(doc)))
-                extracted = self.cached_extractor.extract(decoded_doc,
+                cpts = self.cached_extractor.extract_cpts(decoded_doc,
                                                           pp_pid=self.pp_pid,
                                                           pp=self.pp)
-                cpts = poolparty.PoolParty.get_cpts_from_response(extracted)
                 if self.use_concepts:
                     positions2uri = dict()
                     for cpt in cpts:
@@ -157,16 +132,20 @@ class PPVectorizer(TfidfVectorizer):
                     if not self.use_terms:
                         result = ['<' + cpt['uri'] + '>' for cpt in cpts]
                     else:
-                        sorted_pos = sorted(positions2uri.keys())
-                        previous_pos = (0, -1)
-                        text_fragments = []
-                        for this_pos in sorted_pos:
-                            text_fragments.append(decoded_doc[
-                                                  previous_pos[1]+1:this_pos[0]])
-                            text_fragments.append(positions2uri[this_pos])
-                            previous_pos = this_pos
-                        text_fragments.append(decoded_doc[previous_pos[1]+1:])
-                        annotated_doc = ' '.join(text_fragments)
+                        if positions2uri:
+                            sorted_pos = sorted(positions2uri.keys())
+                            previous_pos = (0, -1)
+                            text_fragments = []
+                            for this_pos in sorted_pos:
+                                text_fragments.append(decoded_doc[
+                                                      previous_pos[1]+1:this_pos[0]])
+                                text_fragments.append(positions2uri[this_pos])
+                                previous_pos = this_pos
+                            text_fragments.append(decoded_doc[previous_pos[1]+1:])
+                            annotated_doc = ' '.join(text_fragments)
+                        else:
+                            decoded_doc += ' '.join(
+                                ['<' + cpt['uri'] + '>' for cpt in cpts])
                 if self.use_terms:
                     prepared_doc = preprocess(annotated_doc)
                     result = self._word_ngrams(tokenize(prepared_doc),

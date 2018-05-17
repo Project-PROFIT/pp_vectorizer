@@ -7,6 +7,7 @@ is assumed to contain documents from a different category
 """
 
 import os
+from time import time
 
 from decouple import AutoConfig
 from sklearn.pipeline import Pipeline
@@ -22,7 +23,7 @@ from sklearn.svm import SVC
 
 CONFIG = AutoConfig()
 # --- Parameters
-base_folder = os.path.join(CONFIG("DOCS_PATH"), "categories")
+base_folder = CONFIG("DOCS_PATH")
 vectorizer_parameters = {
     'ngram_range': (1, 3),
     'max_df': 0.51,
@@ -49,7 +50,9 @@ pipe = Pipeline(memory=None,
                 steps=[('vectorization', vectorizer),
                        ('classifier', multi_classifier)])
 # Train and test n-fold
+start = time()
 score = cross_val_score(
     pipe, doc_iterator, all_classes,
     **pipeline_parameters)
 print(score)
+print('time taken: {:0.3f}s'.format(time() - start))
