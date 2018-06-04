@@ -1,5 +1,6 @@
 import logging
 import re
+from functools import lru_cache
 
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 import numpy as np
@@ -18,20 +19,23 @@ class PPCachedExtractor:
     """
     A class to provide caching capabilities for PoolParty extraction.
     """
-    def __init__(self, cache_path=CONFIG('CACHE_PATH', default=None),
-                 store_path=CONFIG('STORE_PATH', default=None)):
+    def __init__(self, cache_path=CONFIG('CACHE_PATH', default='simple://'),
+                 store_path=CONFIG('STORE_PATH', default='simple://'),
+                 pp=poolparty.PoolParty(server=CONFIG('PP_SERVER'))):
         self.shove = Shove(store_path, cache_path)
+        self.pp = pp
 
-    def extract_cpts(self, text, pp_pid=CONFIG('PP_PID'),
-                     pp=poolparty.PoolParty(server=CONFIG('PP_SERVER'))):
+    def extract_cpts(self, text, pp_pid=CONFIG('PP_PID')):
         cache_key = string_hasher(text)
         full_key = '_'.join([cache_key, pp_pid])
         try:
-            return self.shove[full_key]
+            ans = self.shove[full_key]
+            return ans
         except (KeyError, TypeError):
-            r = pp.extract(text, pid=pp_pid)
-            cpts = pp.get_cpts_from_response(r)
+            r = self.pp.extract(text, pid=pp_pid)
+            cpts = self.pp.get_cpts_from_response(r)
             self.shove[full_key] = cpts
+            self.shove.sync()
             return cpts
 
 
@@ -45,7 +49,8 @@ class PPVectorizer(TfidfVectorizer):
                  use_terms=True,
                  broader_prefix='broader ',
                  related_prefix='related ',
-                 cache_path=CONFIG('CACHE_PATH'),
+                 cache_path=CONFIG('CACHE_PATH', default='simple://'),
+                 store_path=CONFIG('STORE_PATH', default='simple://'),
                  pp_pid=CONFIG('PP_PID'),
                  pp=poolparty.PoolParty(server=CONFIG('PP_SERVER')),
                  input='content', encoding='utf-8',
@@ -62,6 +67,9 @@ class PPVectorizer(TfidfVectorizer):
         Inherits from `scikit-learn.feature_extraction.text.TfidfVectorizer`.
         Only specific parameters are described. The rest should be looked up
         in the parent class.
+        Makes calls to a PoolParty instance to extract concepts and other
+        metadata from documents. The class `PPCachedExtractor` is used to
+        cache the results of the calls to PoolParty.
 
         :param use_concepts: Bool
             Default: `True`
@@ -78,6 +86,9 @@ class PPVectorizer(TfidfVectorizer):
         :param cache_path: `str`
             Absolute path to the location of cache. Default: read from
             env variable *CACHE_PATH*
+        :param store_path: 'str'
+            Absolute path to the location of store. Default: read from
+            env variable *STORE_PATH*
         :param pp_pid: str
             PoolParty Project ID. Default: read from env variable *PP_PID*
         :param pp: `PoolParty instance`
@@ -99,11 +110,14 @@ class PPVectorizer(TfidfVectorizer):
         self.related_prefix = related_prefix
         self.use_terms = use_terms
         self.cache_path = cache_path
+        self.store_path = store_path
         self.pp = pp
         self.pp_pid = pp_pid
 
     def build_analyzer(self):
-        self.cached_extractor = PPCachedExtractor(self.cache_path)
+        self.cached_extractor = PPCachedExtractor(store_path=self.store_path,
+                                                  cache_path=self.cache_path,
+                                                  pp=self.pp)
         self.use_broaders = isinstance(self.broader_prefix, str)
         self.use_related = isinstance(self.related_prefix, str)
         self.make_extraction = (self.use_concepts
@@ -118,9 +132,8 @@ class PPVectorizer(TfidfVectorizer):
                 module_logger.debug('Starting extraction, doc length={}'.format(
                     len(doc)))
                 cpts = self.cached_extractor.extract_cpts(decoded_doc,
-                                                          pp_pid=self.pp_pid,
-                                                          pp=self.pp)
-                if self.use_concepts:
+                                                          pp_pid=self.pp_pid)
+                if self.use_concepts and self.use_concepts != 'append':
                     positions2uri = dict()
                     for cpt in cpts:
                         if 'matchings' in cpt:
@@ -129,6 +142,8 @@ class PPVectorizer(TfidfVectorizer):
                                 for x in cpt['matchings']
                                 for pos in x['positions']
                             })
+                    module_logger.debug('Positions of matched concepts provided:'
+                                       ' {}'.format(bool(positions2uri)))
                     if not self.use_terms:
                         result = ['<' + cpt['uri'] + '>' for cpt in cpts]
                     else:
@@ -144,25 +159,24 @@ class PPVectorizer(TfidfVectorizer):
                             text_fragments.append(decoded_doc[previous_pos[1]+1:])
                             annotated_doc = ' '.join(text_fragments)
                         else:
-                            decoded_doc += ' '.join(
+                            annotated_doc += ' '.join(
                                 ['<' + cpt['uri'] + '>' for cpt in cpts])
                 if self.use_terms:
                     prepared_doc = preprocess(annotated_doc)
                     result = self._word_ngrams(tokenize(prepared_doc),
                                                stop_words)
+                if self.use_concepts and self.use_concepts == 'append':
+                    result += ['<' + cpt['uri'] + '>' for cpt in cpts]
                 if self.use_related:
                     result += [self.related_prefix + '<' + rel_cpt + '>'
                                for cpt in cpts
                                for rel_cpt in cpt['relatedConcepts']]
                 if self.use_broaders:
-                    module_logger.debug('Extracting broaders')
                     broader_results = [
                         self.broader_prefix + '<' + br_cpt + '>'
                         for cpt in cpts
                         for br_cpt in cpt['transitiveBroaderConcepts'] or
                                       cpt['transitiveBroaderTopConcepts']]
-                    module_logger.debug('{} broaders extracted'.format(
-                        len(broader_results)))
                     result += broader_results
             else:
                 prepared_doc = preprocess(annotated_doc)

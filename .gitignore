@@ -111,3 +111,4 @@ venv.bak/
 pp_vectorizer/tests/data/mem/
 pp_vectorizer/__pycache__/
 *__pycache__/
+/pp_vectorizer/tests/__init__.py
