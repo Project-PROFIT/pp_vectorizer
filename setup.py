@@ -9,7 +9,7 @@ dependencies = ["https://github.com/semantic-web-company/pp_api/tarball/master#e
 
 setup(
     name='pp_vectorizer',
-    version='0.1dev',
+    version='profit-v15',
     description='text vectorized based on PoolParty API',
     packages=['pp_vectorizer'],
     license='Apache2',
