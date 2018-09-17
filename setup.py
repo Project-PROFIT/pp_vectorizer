@@ -9,7 +9,7 @@ dependencies = ["https://github.com/Project-PROFIT/pp_api.git@origin/master#egg=
 
 setup(
     name='pp_vectorizer',
-    version='profit-v15',
+    version='profit-v18',
     description='text vectorized based on PoolParty API',
     packages=['pp_vectorizer'],
     license='Apache2',
