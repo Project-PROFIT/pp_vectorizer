@@ -21,9 +21,10 @@ class PPCachedExtractor:
     """
     def __init__(self, cache_path=CONFIG('CACHE_PATH', default='simple://'),
                  store_path=CONFIG('STORE_PATH', default='simple://'),
-                 pp=poolparty.PoolParty(server=CONFIG('PP_SERVER'))):
+                 pp=None):
         self.shove = Shove(store_path, cache_path)
-        self.pp = pp
+        self.pp = pp if pp is not None else \
+            poolparty.PoolParty(server=CONFIG('PP_SERVER'))
 
     def extract_cpts(self, text, pp_pid=CONFIG('PP_PID')):
         cache_key = string_hasher(text)
@@ -51,8 +52,7 @@ class PPVectorizer(TfidfVectorizer):
                  related_prefix='related ',
                  cache_path=CONFIG('CACHE_PATH', default='simple://'),
                  store_path=CONFIG('STORE_PATH', default='simple://'),
-                 pp_pid=CONFIG('PP_PID'),
-                 pp=poolparty.PoolParty(server=CONFIG('PP_SERVER')),
+                 pp_pid=None, pp=None,
                  input='content', encoding='utf-8',
                  decode_error='strict', strip_accents=None, lowercase=True,
                  preprocessor=None, tokenizer=None, analyzer='word',
@@ -111,8 +111,9 @@ class PPVectorizer(TfidfVectorizer):
         self.use_terms = use_terms
         self.cache_path = cache_path
         self.store_path = store_path
-        self.pp = pp
-        self.pp_pid = pp_pid
+        self.pp = pp if pp is not None else \
+            poolparty.PoolParty(server=CONFIG('PP_SERVER'))
+        self.pp_pid = pp_pid if pp_pid is not None else CONFIG('PP_PID')
 
     def build_analyzer(self):
         self.cached_extractor = PPCachedExtractor(store_path=self.store_path,
